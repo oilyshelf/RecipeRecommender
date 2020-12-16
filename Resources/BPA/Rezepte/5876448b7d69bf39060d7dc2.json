@@ -1,0 +1,906 @@
+{
+  "country": "DE",
+  "id": "5876448b7d69bf39060d7dc2",
+  "name": "Überbackenes Rumpsteak mit Bergkäse",
+  "seoName": null,
+  "category": null,
+  "slug": "uberbackenes-rumpsteak-mit-bergkase-n",
+  "headline": "dazu Wildkräuter-Kartoffel-Gemüse",
+  "description": "So verabschieden wir den Winter! Deftig überbackenes Rumpsteak und winterlichem Kartoffel-Karotten-Gemüse mit frischem Wildkräutersalat, der ein Hauch von Frühling auf Deinen Teller zaubert. Lass es Dir schmecken.",
+  "descriptionHTML": "<p>So verabschieden wir den Winter! Deftig überbackenes Rumpsteak und winterlichem Kartoffel-Karotten-Gemüse mit frischem Wildkräutersalat, der ein Hauch von Frühling auf Deinen Teller zaubert. Lass es Dir schmecken.</p>",
+  "descriptionMarkdown": "So verabschieden wir den Winter! Deftig überbackenes Rumpsteak und winterlichem Kartoffel-Karotten-Gemüse mit frischem Wildkräutersalat, der ein Hauch von Frühling auf Deinen Teller zaubert. Lass es Dir schmecken.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 650,
+  "createdAt": "2017-01-11T14:43:23+00:00",
+  "updatedAt": "2017-05-03T16:21:39+00:00",
+  "link": "https://hellofresh.com/recipes/5876448b7d69bf39060d7dc2",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/uberbackenes-rumpsteak-mit-bergkase-n-64578248.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/uberbackenes-rumpsteak-mit-bergkase-n-a3b2514b.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2567,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 630,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 26,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 17,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 44,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 3,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "556d5e8dfd2cb931078b456a",
+      "type": "rote kartoffeln",
+      "name": "rote Kartoffeln",
+      "slug": "rote-kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/556d5e8dfd2cb931078b456a-57427d75.png",
+      "usage": 11,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b23dff8b25ef53e8b456f",
+      "type": "karotten",
+      "name": "Karotte",
+      "slug": "karotten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b23dff8b25ef53e8b456f.png",
+      "usage": 566,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb62",
+        "type": "carrot",
+        "name": "Karotte",
+        "slug": "karotte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb62-c4a1f62d.png",
+        "usageByCountry": {
+          "AT": 679,
+          "AU": 553,
+          "BE": 225,
+          "CA": 127,
+          "CH": 130,
+          "DE": 627,
+          "ER": 27,
+          "FR": 49,
+          "GB": 343,
+          "LU": 220,
+          "NL": 263,
+          "NZ": 175,
+          "ML": 243,
+          "US": 318
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556837cd4dab711e1c8b456b",
+      "type": "wildkräuter",
+      "name": "Wildkräuter",
+      "slug": "wildkrauter",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556837cd4dab711e1c8b456b.png",
+      "usage": 19,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27e6fd2cb983608b4569",
+      "type": "fruhlingszwiebeln",
+      "name": "Frühlingszwiebel",
+      "slug": "fruhlingszwiebeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27e6fd2cb983608b4569.png",
+      "usage": 514,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc35",
+        "type": "spring-onion",
+        "name": "Frühlingszwiebel",
+        "slug": "fruhlingszwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc35-03c06826.png",
+        "usageByCountry": {
+          "AT": 575,
+          "AU": 0,
+          "BE": 15,
+          "CA": 0,
+          "CH": 113,
+          "DE": 514,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 421,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "558bfee9f8b25e9e078b4567",
+      "type": "bergkäse",
+      "name": "Bergkäse",
+      "slug": "bergkase",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/558bfee9f8b25e9e078b4567-4e90a291.png",
+      "usage": 38,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "575e719bfd2cb9ad2b8b4567",
+      "type": "rumpsteak",
+      "name": "Rumpsteak",
+      "slug": "rumpsteak",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/575e719bfd2cb9ad2b8b4567.png",
+      "usage": 23,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4e",
+        "type": "beef",
+        "name": "Rindfleisch",
+        "slug": "rindfleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4e-125de8b7.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 363,
+          "BE": 168,
+          "CA": 192,
+          "CH": 81,
+          "DE": 313,
+          "ER": 66,
+          "FR": 51,
+          "GB": 276,
+          "LU": 167,
+          "NL": 187,
+          "NZ": 103,
+          "ML": 494,
+          "US": 655
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "582b1015c72628511455d312",
+      "type": "gewurzmischung-gulaschgewurz",
+      "name": "Gewürzmischung „Gulaschgewürz“",
+      "slug": "gewurzmischung-gulaschgewurz",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/582b1015c72628511455d312-7caf0965.png",
+      "usage": 4,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc32",
+        "type": "spice-mix",
+        "name": "Gewürzmischung",
+        "slug": "gewurzmischung",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc32-7154509f.png",
+        "usageByCountry": {
+          "AT": 594,
+          "AU": 114,
+          "BE": 15,
+          "CA": 34,
+          "CH": 92,
+          "DE": 475,
+          "ER": 36,
+          "FR": 10,
+          "GB": 42,
+          "LU": 10,
+          "NL": 25,
+          "NZ": 48,
+          "ML": 10,
+          "US": 366
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30539b",
+      "type": "sieve",
+      "name": "Sieb"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b30531a",
+      "type": "low-calorie",
+      "name": "leichter Genuss",
+      "slug": "leichter-genuss",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 4438,
+      "numberOfRecipesByCountry": {
+        "AT": 1377,
+        "AU": 144,
+        "BE": 299,
+        "CA": 0,
+        "CH": 139,
+        "DE": 1205,
+        "ER": 0,
+        "FR": 128,
+        "GB": 111,
+        "LU": 576,
+        "NL": 380,
+        "NZ": 79,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305321",
+      "type": "high-protein",
+      "name": "proteinreich",
+      "slug": "proteinreich",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 659,
+      "numberOfRecipesByCountry": {
+        "AT": 159,
+        "AU": 250,
+        "BE": 22,
+        "CA": 0,
+        "CH": 26,
+        "DE": 178,
+        "ER": 0,
+        "FR": 0,
+        "GB": 0,
+        "LU": 2,
+        "NL": 22,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b30530e",
+      "type": "under-30-minutes",
+      "name": "Zeit sparen",
+      "slug": "zeit-sparen",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/HF_Icon_App_LessThan30min.png",
+      "numberOfRecipes": 4370,
+      "numberOfRecipesByCountry": {
+        "AT": 1140,
+        "AU": 141,
+        "BE": 540,
+        "CA": 0,
+        "CH": 201,
+        "DE": 989,
+        "ER": 0,
+        "FR": 128,
+        "GB": 0,
+        "LU": 581,
+        "NL": 644,
+        "NZ": 0,
+        "ML": 0,
+        "US": 6
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305315",
+      "type": "gluten-free",
+      "name": "glutenfrei",
+      "slug": "glutenfrei",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-gluten%403x.png",
+      "numberOfRecipes": 2,
+      "numberOfRecipesByCountry": {
+        "AT": 210,
+        "AU": 209,
+        "BE": 573,
+        "CA": 39,
+        "CH": 41,
+        "DE": 206,
+        "ER": 0,
+        "FR": 154,
+        "GB": 2,
+        "LU": 745,
+        "NL": 677,
+        "NZ": 0,
+        "ML": 141,
+        "US": 663
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "556d5e8dfd2cb931078b456a",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 3,
+          "unit": "Stück"
+        },
+        {
+          "id": "556837cd4dab711e1c8b456b",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "558bfee9f8b25e9e078b4567",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "575e719bfd2cb9ad2b8b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "582b1015c72628511455d312",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Gemüse waschen. Alle Zutaten und Utensilien bereitstellen. \n\nRote Kartoffeln ungeschält je nach Größe halbieren oder vierteln. In einen großen Topf ausreichend kaltes, leicht gesalzenes Wasser füllen, Kartoffelstücke hinzufügen und einmal aufkochen lassen. Dann Deckel aufsetzen und ca. 12 Min. bei mittlerer Hitze garen.",
+      "instructionsHTML": "<p>Vorbereitung: Gemüse waschen. Alle Zutaten und Utensilien bereitstellen. </p>\n<p>Rote Kartoffeln ungeschält je nach Größe halbieren oder vierteln. In einen großen Topf ausreichend kaltes, leicht gesalzenes Wasser füllen, Kartoffelstücke hinzufügen und einmal aufkochen lassen. Dann Deckel aufsetzen und ca. 12 Min. bei mittlerer Hitze garen.</p>",
+      "instructions": "Vorbereitung: Gemüse waschen. Alle Zutaten und Utensilien bereitstellen. \nRote Kartoffeln ungeschält je nach Größe halbieren oder vierteln. In einen großen Topf ausreichend kaltes, leicht gesalzenes Wasser füllen, Kartoffelstücke hinzufügen und einmal aufkochen lassen. Dann Deckel aufsetzen und ca. 12 Min. bei mittlerer Hitze garen.",
+      "timers": [
+        {
+          "name": "Kartoffeln kochen",
+          "duration": "PT12M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5876448b7d69bf39060d7dc2-0-0-4703232a.jpg",
+          "caption": "Rote Kartoffeln ungeschält halbieren oder vierteln"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556d5e8dfd2cb931078b456a"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Karotten schälen und schräg in ca. ½ cm dicke Scheiben schneiden. Weißen und grünen Teil der Frühlingszwiebel getrennt voneinander in dünne Ringe schneiden. Bergkäse fein reiben.",
+      "instructionsHTML": "<p>Karotten schälen und schräg in ca. ½ cm dicke Scheiben schneiden. Weißen und grünen Teil der Frühlingszwiebel getrennt voneinander in dünne Ringe schneiden. Bergkäse fein reiben.</p>",
+      "instructions": "Karotten schälen und schräg in ca. ½ cm dicke Scheiben schneiden. Weißen und grünen Teil der Frühlingszwiebel getrennt voneinander in dünne Ringe schneiden. Bergkäse fein reiben.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "558bfee9f8b25e9e078b4567",
+        "554b27e6fd2cb983608b4569",
+        "554b23dff8b25ef53e8b456f"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Nach ca. 7 Min. Kartoffel-Garzeit Karottenscheiben in den Topf geben und mitgaren. Anschließend Gemüse in ein Sieb abgießen und ausdampfen lassen.",
+      "instructionsHTML": "<p>Nach ca. 7 Min. Kartoffel-Garzeit Karottenscheiben in den Topf geben und mitgaren. Anschließend Gemüse in ein Sieb abgießen und ausdampfen lassen.</p>",
+      "instructions": "Nach ca. 7 Min. Kartoffel-Garzeit Karottenscheiben in den Topf geben und mitgaren. Anschließend Gemüse in ein Sieb abgießen und ausdampfen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5876448b7d69bf39060d7dc2-2-0-c9f84f0d.jpg",
+          "caption": "Karottenscheiben in den Topf geben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30539b"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Rinder-Rumpsteak mit Küchenpapier trockentupfen und mit etwas Salz und Pfeffer würzen. In einer großen Pfanne 1 EL Öl erhitzen, Steak darin bei hoher Hitze 2 – 3 Min. je Seite scharf anbraten. Anschließend mit geriebenem Bergkäse bestreuen und abgedeckt bei mittlerer Hitze 2 – 3 Min. braten, bis der Käse geschmolzen ist",
+      "instructionsHTML": "<p>Rinder-Rumpsteak mit Küchenpapier trockentupfen und mit etwas Salz und Pfeffer würzen. In einer großen Pfanne 1 EL Öl erhitzen, Steak darin bei hoher Hitze 2 – 3 Min. je Seite scharf anbraten. Anschließend mit geriebenem Bergkäse bestreuen und abgedeckt bei mittlerer Hitze 2 – 3 Min. braten, bis der Käse geschmolzen ist</p>",
+      "instructions": "Rinder-Rumpsteak mit Küchenpapier trockentupfen und mit etwas Salz und Pfeffer würzen. In einer großen Pfanne 1 EL Öl erhitzen, Steak darin bei hoher Hitze 2 – 3 Min. je Seite scharf anbraten. Anschließend mit geriebenem Bergkäse bestreuen und abgedeckt bei mittlerer Hitze 2 – 3 Min. braten, bis der Käse geschmolzen ist",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Währenddessen: In einer zweiten großen Pfanne 1 EL Butter erhitzen, weiße Frühlingszwiebelringe darin ca. 1 Min. bei mittlerer Hitze anschwitzen. Vorgegartes Gemüse und Gewürzmischung zugeben und 3 – 4 Min. anbraten. Wildkräutersalat unterheben und mit Salz und\nPfeffer abschmecken.",
+      "instructionsHTML": "<p>Währenddessen: In einer zweiten großen Pfanne 1 EL Butter erhitzen, weiße Frühlingszwiebelringe darin ca. 1 Min. bei mittlerer Hitze anschwitzen. Vorgegartes Gemüse und Gewürzmischung zugeben und 3 – 4 Min. anbraten. Wildkräutersalat unterheben und mit Salz und\nPfeffer abschmecken.</p>",
+      "instructions": "Währenddessen: In einer zweiten großen Pfanne 1 EL Butter erhitzen, weiße Frühlingszwiebelringe darin ca. 1 Min. bei mittlerer Hitze anschwitzen. Vorgegartes Gemüse und Gewürzmischung zugeben und 3 – 4 Min. anbraten. Wildkräutersalat unterheben und mit Salz und\nPfeffer abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5876448b7d69bf39060d7dc2-4-0-e869565e.jpg",
+          "caption": "Steak mit geriebenem Bergkäse bestreuen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55b0a135fd2cb9121e8b4567",
+        "575e719bfd2cb9ad2b8b4567",
+        "554b1c284dab71a9058b456b",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Wildkräuter-Kartoffel-Gemüse auf Teller verteilen. Rumpsteak quer halbieren und neben dem Gemüse anrichten, mit grünen Frühlingszwiebelringen bestreuen und genießen.",
+      "instructionsHTML": "<p>Wildkräuter-Kartoffel-Gemüse auf Teller verteilen. Rumpsteak quer halbieren und neben dem Gemüse anrichten, mit grünen Frühlingszwiebelringen bestreuen und genießen.</p>",
+      "instructions": "Wildkräuter-Kartoffel-Gemüse auf Teller verteilen. Rumpsteak quer halbieren und neben dem Gemüse anrichten, mit grünen Frühlingszwiebelringen bestreuen und genießen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5876448b7d69bf39060d7dc2-5-0-8f822b6f.jpg",
+          "caption": "Gemüse anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2288f8b25ef93e8b456c",
+        "582b1015c72628511455d312",
+        "556837cd4dab711e1c8b456b"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.3,
+  "ratingsCount": 1004,
+  "favoritesCount": 849,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/uberbackenes-rumpsteak-mit-bergkase-n-5876448b7d69bf39060d7dc2",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

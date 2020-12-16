@@ -1,0 +1,945 @@
+{
+  "country": "DE",
+  "id": "57b2ce5e31c0a29c5a8b4568",
+  "name": "Grilled-Cheese-Knusper-Sandwich",
+  "seoName": null,
+  "category": null,
+  "slug": "grilled-cheese-knusper-sandwich",
+  "headline": "mit Ofen-Karotten-Sticks und selbstgemachter Guacamole",
+  "description": "Sandwiches sind zurecht ein so beliebtes Essen: Sie sind vielseitig, kreativ und von süßlich-mild bis herzhaft\u001e-deftig echte Alleskönner! Und bei diesem „Grilled Cheese“-Exemplar hier, mit selbstgemachter Guacamole, kann nun wirklich niemand mehr widerstehen. Guten Appetit!",
+  "descriptionHTML": "<p>Sandwiches sind zurecht ein so beliebtes Essen: Sie sind vielseitig, kreativ und von süßlich-mild bis herzhaft\u001e-deftig echte Alleskönner! Und bei diesem „Grilled Cheese“-Exemplar hier, mit selbstgemachter Guacamole, kann nun wirklich niemand mehr widerstehen. Guten Appetit!</p>",
+  "descriptionMarkdown": "Sandwiches sind zurecht ein so beliebtes Essen: Sie sind vielseitig, kreativ und von süßlich-mild bis herzhaft\u001e-deftig echte Alleskönner! Und bei diesem „Grilled Cheese“-Exemplar hier, mit selbstgemachter Guacamole, kann nun wirklich niemand mehr widerstehen. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT40M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-08-16T08:27:10+00:00",
+  "updatedAt": "2017-04-20T09:41:57+00:00",
+  "link": "https://hellofresh.com/recipes/57b2ce5e31c0a29c5a8b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/grilled-cheese-knusper-sandwich-af44bafe.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/grilled-cheese-knusper-sandwich-cc48b625.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3301.176,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 789,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 86,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 19,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 27,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b23dff8b25ef53e8b456f",
+      "type": "karotten",
+      "name": "Karotte",
+      "slug": "karotten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b23dff8b25ef53e8b456f.png",
+      "usage": 566,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb62",
+        "type": "carrot",
+        "name": "Karotte",
+        "slug": "karotte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb62-c4a1f62d.png",
+        "usageByCountry": {
+          "AT": 679,
+          "AU": 553,
+          "BE": 225,
+          "CA": 127,
+          "CH": 130,
+          "DE": 627,
+          "ER": 27,
+          "FR": 49,
+          "GB": 343,
+          "LU": 220,
+          "NL": 263,
+          "NZ": 175,
+          "ML": 243,
+          "US": 318
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b73b14dab71160d8b456a",
+      "type": "avocado",
+      "name": "Avocado",
+      "slug": "avocado",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/554b73b14dab71160d8b456a-0d84328a.png",
+      "usage": 181,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb3c",
+        "type": "avocado",
+        "name": "Avocado",
+        "slug": "avocado",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb3c-5ad65fb5.png",
+        "usageByCountry": {
+          "AT": 193,
+          "AU": 80,
+          "BE": 73,
+          "CA": 51,
+          "CH": 45,
+          "DE": 181,
+          "ER": 0,
+          "FR": 6,
+          "GB": 58,
+          "LU": 92,
+          "NL": 81,
+          "NZ": 21,
+          "ML": 14,
+          "US": 152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555357a3f8b25e89038b456a",
+      "type": "limette",
+      "name": "Limette",
+      "slug": "limette",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555357a3f8b25e89038b456a.png",
+      "usage": 350,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc8",
+        "type": "lime",
+        "name": "Limette",
+        "slug": "limette",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc8-7cbce945.png",
+        "usageByCountry": {
+          "AT": 383,
+          "AU": 227,
+          "BE": 132,
+          "CA": 137,
+          "CH": 82,
+          "DE": 351,
+          "ER": 61,
+          "FR": 68,
+          "GB": 407,
+          "LU": 224,
+          "NL": 155,
+          "NZ": 63,
+          "ML": 87,
+          "US": 604
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1adef8b25ef93e8b456a",
+      "type": "rote-chili",
+      "name": "roter Chili",
+      "slug": "rote-chili",
+      "description": null,
+      "internalName": "roter Chili",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1adef8b25ef93e8b456a.png",
+      "usage": 325,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6d",
+        "type": "chili",
+        "name": "Chili",
+        "slug": "chili",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6d-270fd94b.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 223,
+          "BE": 0,
+          "CA": 48,
+          "CH": 61,
+          "DE": 326,
+          "ER": 0,
+          "FR": 0,
+          "GB": 75,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 55,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556ec1694dab7117538b4569",
+      "type": "tortilla chips",
+      "name": "Tortilla Chips",
+      "slug": "tortilla-chips",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556ec1694dab7117538b4569.png",
+      "usage": 18,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb73",
+        "type": "chips",
+        "name": "Chips",
+        "slug": "chips",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb73-0d089bd2.png",
+        "usageByCountry": {
+          "AT": 19,
+          "AU": 0,
+          "BE": 13,
+          "CA": 9,
+          "CH": 8,
+          "DE": 19,
+          "ER": 0,
+          "FR": 3,
+          "GB": 3,
+          "LU": 17,
+          "NL": 0,
+          "NZ": 0,
+          "ML": 0,
+          "US": 7
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555353ca4dab719f3e8b456c",
+      "type": "vollkorntoast",
+      "name": "Vollkorntoast",
+      "slug": "vollkorntoast",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555353ca4dab719f3e8b456c.png",
+      "usage": 11,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555353fa4dab71893e8b456d",
+      "type": "gouda",
+      "name": "Gouda",
+      "slug": "gouda",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555353fa4dab71893e8b456d.png",
+      "usage": 8,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5582cf574dab719b498b4567",
+      "type": "cayennepfeffer",
+      "name": "Cayennepfeffer",
+      "slug": "cayennepfeffer",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5582cf574dab719b498b4567.png",
+      "usage": 13,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b73b14dab71160d8b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "555357a3f8b25e89038b456a",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1adef8b25ef93e8b456a",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "556ec1694dab7117538b4569",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "555353ca4dab719f3e8b456c",
+          "amount": 8,
+          "unit": "Stück"
+        },
+        {
+          "id": "555353fa4dab71893e8b456d",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "5582cf574dab719b498b4567",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Obst und Gemüse waschen. Alle Zutaten und Utensilien bereitstellen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umlu\u001eft) vorheizen.\n\nKarotten schälen und in dünne Stäbchen schneiden, dann auf einem mit Backpapier belegten Backblech verteilen, mit 1 EL Olivenöl sowie Salz und Pfe\u001fffer würzen und für 20 – 25 Min. auf mittlerer Schiene im Backofen backen.",
+      "instructionsHTML": "<p>Vorbereitung: Obst und Gemüse waschen. Alle Zutaten und Utensilien bereitstellen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umlu\u001eft) vorheizen.</p>\n<p>Karotten schälen und in dünne Stäbchen schneiden, dann auf einem mit Backpapier belegten Backblech verteilen, mit 1 EL Olivenöl sowie Salz und Pfe\u001fffer würzen und für 20 – 25 Min. auf mittlerer Schiene im Backofen backen.</p>",
+      "instructions": "Vorbereitung: Obst und Gemüse waschen. Alle Zutaten und Utensilien bereitstellen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umlu\u001eft) vorheizen.\nKarotten schälen und in dünne Stäbchen schneiden, dann auf einem mit Backpapier belegten Backblech verteilen, mit 1 EL Olivenöl sowie Salz und Pfe\u001fffer würzen und für 20 – 25 Min. auf mittlerer Schiene im Backofen backen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57b2ce5e31c0a29c5a8b4568-0-0-7e86b320.jpg",
+          "caption": "Ofen-Karotten-Sticks vorbereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b23dff8b25ef53e8b456f",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305377",
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Währenddessen für die Guacamole: Zwiebel abziehen, Avocado von Kern und Schale, Tomate vom Strunk befreien, dann alles fein würfeln. Limette entsaften. Chili (nach Geschmack) halbieren, entkernen und diese fein hacken. Alle Zutaten in einer kleinen Schüssel vermengen, mit Salz und Pfe\u001fffer würzen und ziehen lassen.",
+      "instructionsHTML": "<p>Währenddessen für die Guacamole: Zwiebel abziehen, Avocado von Kern und Schale, Tomate vom Strunk befreien, dann alles fein würfeln. Limette entsaften. Chili (nach Geschmack) halbieren, entkernen und diese fein hacken. Alle Zutaten in einer kleinen Schüssel vermengen, mit Salz und Pfe\u001fffer würzen und ziehen lassen.</p>",
+      "instructions": "Währenddessen für die Guacamole: Zwiebel abziehen, Avocado von Kern und Schale, Tomate vom Strunk befreien, dann alles fein würfeln. Limette entsaften. Chili (nach Geschmack) halbieren, entkernen und diese fein hacken. Alle Zutaten in einer kleinen Schüssel vermengen, mit Salz und Pfe\u001fffer würzen und ziehen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57b2ce5e31c0a29c5a8b4568-1-0-adb43cf7.jpg",
+          "caption": "Guacamole vorbereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2abcf8b25eef3e8b4573",
+        "554b73b14dab71160d8b456a",
+        "554b2621fd2cb99c598b4576",
+        "555357a3f8b25e89038b456a",
+        "554b1adef8b25ef93e8b456a",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Tortilla-Chips grob zerbröseln.",
+      "instructionsHTML": "<p>Tortilla-Chips grob zerbröseln.</p>",
+      "instructions": "Tortilla-Chips grob zerbröseln.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556ec1694dab7117538b4569"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "½ der Toastscheiben mit ½ des Goudas bedecken, Guacamole darauf verteilen und mit Tortilla-Chips-Brösel bestreuen, zuletzt verbliebenen Gouda darüberstreuen, dann die restlichen Toastscheiben darauflegen und vorsichtig etwas zusammendrücken",
+      "instructionsHTML": "<p>½ der Toastscheiben mit ½ des Goudas bedecken, Guacamole darauf verteilen und mit Tortilla-Chips-Brösel bestreuen, zuletzt verbliebenen Gouda darüberstreuen, dann die restlichen Toastscheiben darauflegen und vorsichtig etwas zusammendrücken</p>",
+      "instructions": "½ der Toastscheiben mit ½ des Goudas bedecken, Guacamole darauf verteilen und mit Tortilla-Chips-Brösel bestreuen, zuletzt verbliebenen Gouda darüberstreuen, dann die restlichen Toastscheiben darauflegen und vorsichtig etwas zusammendrücken",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57b2ce5e31c0a29c5a8b4568-3-0-6a50c8e3.jpg",
+          "caption": "Mit Tortilla-Chips-Brösel bestreuen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555353ca4dab719f3e8b456c",
+        "555353fa4dab71893e8b456d"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einer großen Pfanne 1 EL Olivenöl erhitzen, Sandwiches darin ca. 2 Min. pro Seite anbraten, bis der Gouda zerlaufen und das Toastbrot braun gebraten ist.\n\nTipp: Am besten funktioniert dies, wenn Du das Brot mit einem Pfannenwender dabei leicht zusammendrückst.",
+      "instructionsHTML": "<p>In einer großen Pfanne 1 EL Olivenöl erhitzen, Sandwiches darin ca. 2 Min. pro Seite anbraten, bis der Gouda zerlaufen und das Toastbrot braun gebraten ist.</p>\n<p>Tipp: Am besten funktioniert dies, wenn Du das Brot mit einem Pfannenwender dabei leicht zusammendrückst.</p>",
+      "instructions": "In einer großen Pfanne 1 EL Olivenöl erhitzen, Sandwiches darin ca. 2 Min. pro Seite anbraten, bis der Gouda zerlaufen und das Toastbrot braun gebraten ist.\nTipp: Am besten funktioniert dies, wenn Du das Brot mit einem Pfannenwender dabei leicht zusammendrückst.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/57b2ce5e31c0a29c5a8b4568/step_57b3133d01a63.jpg",
+          "caption": "Sandwiches anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Grilled-Cheese-Sandwiches mit Karottenstäbchen auf Teller verteilen, nach Belieben Cayennepfeffer darübergeben und genießen.",
+      "instructionsHTML": "<p>Grilled-Cheese-Sandwiches mit Karottenstäbchen auf Teller verteilen, nach Belieben Cayennepfeffer darübergeben und genießen.</p>",
+      "instructions": "Grilled-Cheese-Sandwiches mit Karottenstäbchen auf Teller verteilen, nach Belieben Cayennepfeffer darübergeben und genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.5,
+  "ratingsCount": 322,
+  "favoritesCount": 647,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/grilled-cheese-knusper-sandwich-57b2ce5e31c0a29c5a8b4568",
+  "clonedFrom": null,
+  "canonical": "57b31991b5793f88728b4568",
+  "canonicalLink": "https://www.hellofresh.de/recipes/grilled-cheese-knusper-sandwich-57b31991b5793f88728b4568"
+}

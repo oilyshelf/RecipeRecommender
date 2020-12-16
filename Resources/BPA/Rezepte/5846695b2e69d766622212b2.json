@@ -1,0 +1,903 @@
+{
+  "country": "DE",
+  "id": "5846695b2e69d766622212b2",
+  "name": "Piri-Piri-Putenbrust mit Kartoffelwürfeln",
+  "seoName": null,
+  "category": null,
+  "slug": "piri-piri-putenbrust-mit-kartoff",
+  "headline": "Karottensalat und Petersilienjoghurt",
+  "description": "Mit den richtigen Gewürzen kannst Du Dir beim Kochen schon die halbe Miete sichern. Wenn Du jetzt nichts anbrennen lässt oder im Backofen vergisst, dann darfst Du eine lecker gewürzte Putenbrust mit knusprigen Kartoffeln und knackigem Karottensalat genießen. Lass es Dir schmecken!",
+  "descriptionHTML": "<p>Mit den richtigen Gewürzen kannst Du Dir beim Kochen schon die halbe Miete sichern. Wenn Du jetzt nichts anbrennen lässt oder im Backofen vergisst, dann darfst Du eine lecker gewürzte Putenbrust mit knusprigen Kartoffeln und knackigem Karottensalat genießen. Lass es Dir schmecken!</p>",
+  "descriptionMarkdown": "Mit den richtigen Gewürzen kannst Du Dir beim Kochen schon die halbe Miete sichern. Wenn Du jetzt nichts anbrennen lässt oder im Backofen vergisst, dann darfst Du eine lecker gewürzte Putenbrust mit knusprigen Kartoffeln und knackigem Karottensalat genießen. Lass es Dir schmecken!",
+  "seoDescription": "",
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT40M",
+  "totalTime": null,
+  "servingSize": 650,
+  "createdAt": "2016-12-06T07:31:36+00:00",
+  "updatedAt": "2017-05-07T11:38:38+00:00",
+  "link": "https://hellofresh.com/recipes/5846695b2e69d766622212b2",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/piri-piri-putenbrust-mit-kartoff-67244e8f.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/piri-piri-putenbrust-mit-kartoff-25226b76.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2519,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 622,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 21,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 57,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 41,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 2,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1adef8b25ef93e8b456a",
+      "type": "rote-chili",
+      "name": "roter Chili",
+      "slug": "rote-chili",
+      "description": null,
+      "internalName": "roter Chili",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1adef8b25ef93e8b456a.png",
+      "usage": 325,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6d",
+        "type": "chili",
+        "name": "Chili",
+        "slug": "chili",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6d-270fd94b.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 223,
+          "BE": 0,
+          "CA": 48,
+          "CH": 61,
+          "DE": 326,
+          "ER": 0,
+          "FR": 0,
+          "GB": 75,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 55,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "567270cdf8b25e663f8b4567",
+      "type": "knoblauchzehe",
+      "name": "Knoblauchzehe",
+      "slug": "knoblauchzehe",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/567270cdf8b25e663f8b4567.png",
+      "usage": 1222,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "56952799f8b25ebe288b4567",
+      "type": "piri piri-gewürzmischung",
+      "name": "Piri Piri-Gewürzmischung",
+      "slug": "piri-piri-gewurzmischung",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/56952799f8b25ebe288b4567.png",
+      "usage": 15,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb31",
+        "type": "african-spices",
+        "name": "Arabische Gewürze",
+        "slug": "arabische-gewurze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb31-b5830710.png",
+        "usageByCountry": {
+          "AT": 59,
+          "AU": 62,
+          "BE": 0,
+          "CA": 27,
+          "CH": 15,
+          "DE": 78,
+          "ER": 0,
+          "FR": 0,
+          "GB": 141,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 19,
+          "ML": 0,
+          "US": 8
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b23dff8b25ef53e8b456f",
+      "type": "karotten",
+      "name": "Karotte",
+      "slug": "karotten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b23dff8b25ef53e8b456f.png",
+      "usage": 566,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb62",
+        "type": "carrot",
+        "name": "Karotte",
+        "slug": "karotte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb62-c4a1f62d.png",
+        "usageByCountry": {
+          "AT": 679,
+          "AU": 553,
+          "BE": 225,
+          "CA": 127,
+          "CH": 130,
+          "DE": 627,
+          "ER": 27,
+          "FR": 49,
+          "GB": 343,
+          "LU": 220,
+          "NL": 263,
+          "NZ": 175,
+          "ML": 243,
+          "US": 318
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555357a3f8b25e89038b456a",
+      "type": "limette",
+      "name": "Limette",
+      "slug": "limette",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555357a3f8b25e89038b456a.png",
+      "usage": 350,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc8",
+        "type": "lime",
+        "name": "Limette",
+        "slug": "limette",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc8-7cbce945.png",
+        "usageByCountry": {
+          "AT": 383,
+          "AU": 227,
+          "BE": 132,
+          "CA": 137,
+          "CH": 82,
+          "DE": 351,
+          "ER": 61,
+          "FR": 68,
+          "GB": 407,
+          "LU": 224,
+          "NL": 155,
+          "NZ": 63,
+          "ML": 87,
+          "US": 604
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b6070f8b25e49448b4568",
+      "type": "putenbrust",
+      "name": "Putenbrust",
+      "slug": "putenbrust",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b6070f8b25e49448b4568.png",
+      "usage": 125,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc47",
+        "type": "turkey",
+        "name": "Truthahn",
+        "slug": "truthahn",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc47-151890c5.png",
+        "usageByCountry": {
+          "AT": 171,
+          "AU": 0,
+          "BE": 20,
+          "CA": 24,
+          "CH": 46,
+          "DE": 171,
+          "ER": 0,
+          "FR": 2,
+          "GB": 33,
+          "LU": 11,
+          "NL": 23,
+          "NZ": 0,
+          "ML": 26,
+          "US": 42
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34b64dab71aa058b4573",
+      "type": "petersilie",
+      "name": "Petersilie",
+      "slug": "petersilie",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34b64dab71aa058b4573.png",
+      "usage": 861,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55ad137efd2cb9c06d8b4567",
+      "type": "natur-joghurt",
+      "name": "Joghurt",
+      "slug": "natur-joghurt",
+      "description": null,
+      "internalName": "Naturjoghurt",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55ad137efd2cb9c06d8b4567.png",
+      "usage": 150,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc57",
+        "type": "yoghurt",
+        "name": "Jo­ghurt",
+        "slug": "joghurt",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc57-825533d1.png",
+        "usageByCountry": {
+          "AT": 464,
+          "AU": 272,
+          "BE": 368,
+          "CA": 43,
+          "CH": 101,
+          "DE": 434,
+          "ER": 0,
+          "FR": 31,
+          "GB": 207,
+          "LU": 341,
+          "NL": 408,
+          "NZ": 78,
+          "ML": 8,
+          "US": 48
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5672713ffd2cb952728b4567",
+      "type": "rotweinessig",
+      "name": "Rotweinessig",
+      "slug": "rotweinessig",
+      "description": null,
+      "internalName": "Rotweinessig [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5672713ffd2cb952728b4567.png",
+      "usage": 28,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc4e",
+        "type": "vinegar",
+        "name": "Essig",
+        "slug": "essig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc4e-487a2c2e.png",
+        "usageByCountry": {
+          "AT": 946,
+          "AU": 556,
+          "BE": 739,
+          "CA": 272,
+          "CH": 185,
+          "DE": 877,
+          "ER": 16,
+          "FR": 209,
+          "GB": 406,
+          "LU": 884,
+          "NL": 855,
+          "NZ": 199,
+          "ML": 77,
+          "US": 710
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    }
+  ],
+  "utensils": [],
+  "tags": [],
+  "cuisines": [],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "id": "554b1adef8b25ef93e8b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "567270cdf8b25e663f8b4567",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "56952799f8b25ebe288b4567",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "555357a3f8b25e89038b456a",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b6070f8b25e49448b4568",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "55ad137efd2cb9c06d8b4567",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "5672713ffd2cb952728b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Obst, Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.\n\nKartoffeln schälen und in ca. 2 cm große Würfel schneiden. Kartoffelwürfel auf ein mit Backpapier belegtes Backblech geben (etwas Platz für das Fleisch lassen). Mit 1 EL Olivenöl beträufeln und mit Salz und Pfeffer würzen. Dann auf der mittleren Schiene im Backofen  25 – 30 Min. backen.",
+      "instructionsHTML": "<p>Vorbereitung: Obst, Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.</p>\n<p>Kartoffeln schälen und in ca. 2 cm große Würfel schneiden. Kartoffelwürfel auf ein mit Backpapier belegtes Backblech geben (etwas Platz für das Fleisch lassen). Mit 1 EL Olivenöl beträufeln und mit Salz und Pfeffer würzen. Dann auf der mittleren Schiene im Backofen  25 – 30 Min. backen.</p>",
+      "instructions": "Vorbereitung: Obst, Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.\nKartoffeln schälen und in ca. 2 cm große Würfel schneiden. Kartoffelwürfel auf ein mit Backpapier belegtes Backblech geben (etwas Platz für das Fleisch lassen). Mit 1 EL Olivenöl beträufeln und mit Salz und Pfeffer würzen. Dann auf der mittleren Schiene im Backofen 25 – 30 Min. backen.",
+      "timers": [
+        {
+          "name": "Kartoffeln backen",
+          "duration": "PT25M",
+          "temperature": 180,
+          "temperatureUnit": "C",
+          "ovenMode": "HotAir"
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567",
+        "554b22cb4dab71c8058b4570",
+        "55b0a135fd2cb9121e8b4567",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Währenddessen: Chili in feine Ringe schneiden. Knoblauch abziehen. In einem kleinen Topf 1 EL Öl erhitzen, Chiliringe (Achtung: scharf!) zugeben, Knoblauch dazupressen, ½ EL Essig und Gewürmischung unterrühren. Mit Salz, Pfeffer und 1 Prise Zucker abschmecken und 2 – 3 Min. bei schwacher Hitze einköcheln lassen.",
+      "instructionsHTML": "<p>Währenddessen: Chili in feine Ringe schneiden. Knoblauch abziehen. In einem kleinen Topf 1 EL Öl erhitzen, Chiliringe (Achtung: scharf!) zugeben, Knoblauch dazupressen, ½ EL Essig und Gewürmischung unterrühren. Mit Salz, Pfeffer und 1 Prise Zucker abschmecken und 2 – 3 Min. bei schwacher Hitze einköcheln lassen.</p>",
+      "instructions": "Währenddessen: Chili in feine Ringe schneiden. Knoblauch abziehen. In einem kleinen Topf 1 EL Öl erhitzen, Chiliringe (Achtung: scharf!) zugeben, Knoblauch dazupressen, ½ EL Essig und Gewürmischung unterrühren. Mit Salz, Pfeffer und 1 Prise Zucker abschmecken und 2 – 3 Min. bei schwacher Hitze einköcheln lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5846695b2e69d766622212b2-1-0-e312a118.jpg",
+          "caption": "Würzöl herstellen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "567270cdf8b25e663f8b4567",
+        "554b22cb4dab71c8058b4570",
+        "55b0a135fd2cb9121e8b4567",
+        "56952799f8b25ebe288b4567",
+        "554b1adef8b25ef93e8b456a",
+        "5672713ffd2cb952728b4567",
+        "554b1c284dab71a9058b456b",
+        "554b2319fd2cb9ba598b456d"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Für den Karottensalat: Karotten schälen und grob raspeln. Limette halbieren. Geraspelte Karotten in eine große Schüssel geben. Mit 1 TL Limettensaft, ½ EL Olivenöl, etwas Salz, Pfeffer und 1 Prise Zucker vermischen.",
+      "instructionsHTML": "<p>Für den Karottensalat: Karotten schälen und grob raspeln. Limette halbieren. Geraspelte Karotten in eine große Schüssel geben. Mit 1 TL Limettensaft, ½ EL Olivenöl, etwas Salz, Pfeffer und 1 Prise Zucker vermischen.</p>",
+      "instructions": "Für den Karottensalat: Karotten schälen und grob raspeln. Limette halbieren. Geraspelte Karotten in eine große Schüssel geben. Mit 1 TL Limettensaft, ½ EL Olivenöl, etwas Salz, Pfeffer und 1 Prise Zucker vermischen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5846695b2e69d766622212b2-2-0-40246aa0.jpg",
+          "caption": "Karotten grob raspeln"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b23dff8b25ef53e8b456f",
+        "555357a3f8b25e89038b456a",
+        "554b22cb4dab71c8058b4570",
+        "55b0a135fd2cb9121e8b4567",
+        "554b1c284dab71a9058b456b",
+        "554b2319fd2cb9ba598b456d"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Putenbrust mit Küchenpapier trockentupfen und auf beiden Seiten salzen. In einer großen Pfanne 1 EL Öl erhitzen, Putenbrust darin von beiden Seiten 1 – 2 Min. anbraten. Anschließend Chili-Marinade auf dem Fleisch verteilen und dieses für die letzten 8 – 10 Min. der Backzeit der Kartoffelwürfel (diese bei dieser Gelegenheit einmal wenden) mit in den Backofen geben.",
+      "instructionsHTML": "<p>Putenbrust mit Küchenpapier trockentupfen und auf beiden Seiten salzen. In einer großen Pfanne 1 EL Öl erhitzen, Putenbrust darin von beiden Seiten 1 – 2 Min. anbraten. Anschließend Chili-Marinade auf dem Fleisch verteilen und dieses für die letzten 8 – 10 Min. der Backzeit der Kartoffelwürfel (diese bei dieser Gelegenheit einmal wenden) mit in den Backofen geben.</p>",
+      "instructions": "Putenbrust mit Küchenpapier trockentupfen und auf beiden Seiten salzen. In einer großen Pfanne 1 EL Öl erhitzen, Putenbrust darin von beiden Seiten 1 – 2 Min. anbraten. Anschließend Chili-Marinade auf dem Fleisch verteilen und dieses für die letzten 8 – 10 Min. der Backzeit der Kartoffelwürfel (diese bei dieser Gelegenheit einmal wenden) mit in den Backofen geben.",
+      "timers": [
+        {
+          "name": "Putenbrust mitbacken",
+          "duration": "PT8M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5846695b2e69d766622212b2-3-0-1a8859c8.jpg",
+          "caption": "Putenbrust anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b6070f8b25e49448b4568"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Für den Petersilienjoghurt: Blätter der Petersilie abzupfen und fein hacken. In einer kleinen Schüssel gehackte Petersilie mit Joghurt, Salz und Pfeffer vermischen. Piri-Piri-Putenbrust, Kartoffelwürfel und Karottensalat auf Teller verteilen, mit Petersilienjoghurt beträufeln und genießen.",
+      "instructionsHTML": "<p>Für den Petersilienjoghurt: Blätter der Petersilie abzupfen und fein hacken. In einer kleinen Schüssel gehackte Petersilie mit Joghurt, Salz und Pfeffer vermischen. Piri-Piri-Putenbrust, Kartoffelwürfel und Karottensalat auf Teller verteilen, mit Petersilienjoghurt beträufeln und genießen.</p>",
+      "instructions": "Für den Petersilienjoghurt: Blätter der Petersilie abzupfen und fein hacken. In einer kleinen Schüssel gehackte Petersilie mit Joghurt, Salz und Pfeffer vermischen. Piri-Piri-Putenbrust, Kartoffelwürfel und Karottensalat auf Teller verteilen, mit Petersilienjoghurt beträufeln und genießen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5846695b2e69d766622212b2-4-0-123599d1.jpg",
+          "caption": "Petersilienjoghurt herstellen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55ad137efd2cb9c06d8b4567",
+        "554b34b64dab71aa058b4573"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.5,
+  "ratingsCount": 582,
+  "favoritesCount": 770,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/piri-piri-putenbrust-mit-kartoff-5846695b2e69d766622212b2",
+  "clonedFrom": null,
+  "canonical": "5846695b2e69d766622212b2",
+  "canonicalLink": "https://www.hellofresh.de/recipes/piri-piri-putenbrust-mit-kartoff-5846695b2e69d766622212b2"
+}

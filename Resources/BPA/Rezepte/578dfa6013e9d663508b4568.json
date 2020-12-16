@@ -1,0 +1,925 @@
+{
+  "country": "DE",
+  "id": "578dfa6013e9d663508b4568",
+  "name": "Tomaten-Ricotta-Mezzelune",
+  "seoName": null,
+  "category": null,
+  "slug": "tomaten-ricotta-mezzelune",
+  "headline": "mit erfrischender Zucchinisoße",
+  "description": "Heute kannst Du Dich auf eine herrlich erfrischende Pastasoße freuen, die ganz ohne Sahne auskommt! Die mit getrockneten Tomaten und Ricotta gefüllten Mezzelune passen dazu ganz hervorragend, und zusammen mit einem spritzigen Weißwein ist Dein Kurzurlaub perfekt!",
+  "descriptionHTML": "<p>Heute kannst Du Dich auf eine herrlich erfrischende Pastasoße freuen, die ganz ohne Sahne auskommt! Die mit getrockneten Tomaten und Ricotta gefüllten Mezzelune passen dazu ganz hervorragend, und zusammen mit einem spritzigen Weißwein ist Dein Kurzurlaub perfekt!</p>",
+  "descriptionMarkdown": "Heute kannst Du Dich auf eine herrlich erfrischende Pastasoße freuen, die ganz ohne Sahne auskommt! Die mit getrockneten Tomaten und Ricotta gefüllten Mezzelune passen dazu ganz hervorragend, und zusammen mit einem spritzigen Weißwein ist Dein Kurzurlaub perfekt!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT25M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-07-19T10:01:04+00:00",
+  "updatedAt": "2017-02-26T14:53:14+00:00",
+  "link": "https://hellofresh.com/recipes/578dfa6013e9d663508b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/tomaten-ricotta-mezzelune-8170ec30.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/tomaten-ricotta-mezzelune-308e7092.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2945.536,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 704,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 29,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 71,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 32,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b26d2f8b25ef53e8b4572",
+      "type": "mandeln",
+      "name": "Mandeln",
+      "slug": "mandeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b26d2f8b25ef53e8b4572.png",
+      "usage": 63,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fb",
+          "type": "nuts",
+          "name": "Schalenfrüchte",
+          "slug": "schalenfruchte",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+          "usage": 300
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2aa14dab71aa058b4570",
+      "type": "zucchini",
+      "name": "Zucchini",
+      "slug": "zucchini",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2aa14dab71aa058b4570-0ba23f81.png",
+      "usage": 435,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc58",
+        "type": "zucchini",
+        "name": "Zucchini",
+        "slug": "zucchini",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc58-4066951c.png",
+        "usageByCountry": {
+          "AT": 449,
+          "AU": 407,
+          "BE": 0,
+          "CA": 103,
+          "CH": 74,
+          "DE": 439,
+          "ER": 23,
+          "FR": 0,
+          "GB": 0,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 110,
+          "ML": 163,
+          "US": 443
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566f93cfd2cb97e018b4568",
+      "type": "schalotte",
+      "name": "Schalotte",
+      "slug": "schalotte",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566f93cfd2cb97e018b4568.png",
+      "usage": 156,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1adef8b25ef93e8b456a",
+      "type": "rote-chili",
+      "name": "roter Chili",
+      "slug": "rote-chili",
+      "description": null,
+      "internalName": "roter Chili",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1adef8b25ef93e8b456a.png",
+      "usage": 325,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6d",
+        "type": "chili",
+        "name": "Chili",
+        "slug": "chili",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6d-270fd94b.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 223,
+          "BE": 0,
+          "CA": 48,
+          "CH": 61,
+          "DE": 326,
+          "ER": 0,
+          "FR": 0,
+          "GB": 75,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 55,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "565eb678fd2cb91f718b4567",
+      "type": "mezzelune",
+      "name": "Mezzelune",
+      "slug": "mezzelune",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/565eb678fd2cb91f718b4567.png",
+      "usage": 10,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbfd",
+        "type": "pasta",
+        "name": "Pasta",
+        "slug": "pasta",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbfd-6aeaecc6.png",
+        "usageByCountry": {
+          "AT": 442,
+          "AU": 193,
+          "BE": 394,
+          "CA": 103,
+          "CH": 92,
+          "DE": 427,
+          "ER": 30,
+          "FR": 113,
+          "GB": 276,
+          "LU": 485,
+          "NL": 454,
+          "NZ": 48,
+          "ML": 420,
+          "US": 506
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "57a489187417fe394b8b4568",
+      "type": "parmesan-flakes",
+      "name": "Parmesan-Flakes",
+      "slug": "parmesan-flakes",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/57a489187417fe394b8b4568.png",
+      "usage": 33,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "type": "nuts",
+      "name": "Schalenfrüchte",
+      "slug": "schalenfruchte",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "usage": 300
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536e",
+      "type": "grater",
+      "name": "Reibe"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Pürierstab"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "scharf",
+      "slug": "scharf",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-spicy%403x.png",
+      "numberOfRecipes": 2399,
+      "numberOfRecipesByCountry": {
+        "AT": 200,
+        "AU": 107,
+        "BE": 147,
+        "CA": 71,
+        "CH": 53,
+        "DE": 211,
+        "ER": 103,
+        "FR": 0,
+        "GB": 497,
+        "LU": 54,
+        "NL": 149,
+        "NZ": 0,
+        "ML": 0,
+        "US": 807
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italienisch",
+      "slug": "italienisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg",
+      "usage": 4262
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b26d2f8b25ef53e8b4572",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b2aa14dab71aa058b4570",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "5566f93cfd2cb97e018b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1adef8b25ef93e8b456a",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "565eb678fd2cb91f718b4567",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "57a489187417fe394b8b4568",
+          "amount": 10,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Den Wasserkocher füllen und anschalten. Gemüse waschen und putzen.\n\nIn einer kleinen Pfanne Mandeln ohne Fettzugabe bei mittlerer Hitze rösten, bis sie fein duften. Dann herausnehmen und beiseitestellen. Wenn sie etwas abgekühlt sind, grob hacken.",
+      "instructionsHTML": "<p>Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Den Wasserkocher füllen und anschalten. Gemüse waschen und putzen.</p>\n<p>In einer kleinen Pfanne Mandeln ohne Fettzugabe bei mittlerer Hitze rösten, bis sie fein duften. Dann herausnehmen und beiseitestellen. Wenn sie etwas abgekühlt sind, grob hacken.</p>",
+      "instructions": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Den Wasserkocher füllen und anschalten. Gemüse waschen und putzen.\nIn einer kleinen Pfanne Mandeln ohne Fettzugabe bei mittlerer Hitze rösten, bis sie fein duften. Dann herausnehmen und beiseitestellen. Wenn sie etwas abgekühlt sind, grob hacken.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b26d2f8b25ef53e8b4572"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Zucchini reiben. Knoblauch und Schalotte abziehen und fein hacken. Zitrone entsaften. Chili halbieren, Kerngehäuse entfernen und in feine Streifen schneiden. Wenn Du nicht so gern scharf isst, verwende weniger Chili.",
+      "instructionsHTML": "<p>Zucchini reiben. Knoblauch und Schalotte abziehen und fein hacken. Zitrone entsaften. Chili halbieren, Kerngehäuse entfernen und in feine Streifen schneiden. Wenn Du nicht so gern scharf isst, verwende weniger Chili.</p>",
+      "instructions": "Zucchini reiben. Knoblauch und Schalotte abziehen und fein hacken. Zitrone entsaften. Chili halbieren, Kerngehäuse entfernen und in feine Streifen schneiden. Wenn Du nicht so gern scharf isst, verwende weniger Chili.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/578dfa6013e9d663508b4568/step_579f1c3ef07b5.jpg",
+          "caption": "Zucchini reiben"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/578dfa6013e9d663508b4568/step_579f1c3f65f0c.jpg",
+          "caption": "Chili schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1de2f8b25ef93e8b456b",
+        "554b1adef8b25ef93e8b456a",
+        "554b2aa14dab71aa058b4570",
+        "554b268ffd2cb983608b4568",
+        "5566f93cfd2cb97e018b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536e"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einen großen Topf kochendes Wasser geben, salzen, aufkochen lassen und Mezzelune hineingeben. Wenn das Wasser erneut kocht, Hitze reduzieren und Mezzelune ca. 6 Min. gar ziehen lassen.",
+      "instructionsHTML": "<p>In einen großen Topf kochendes Wasser geben, salzen, aufkochen lassen und Mezzelune hineingeben. Wenn das Wasser erneut kocht, Hitze reduzieren und Mezzelune ca. 6 Min. gar ziehen lassen.</p>",
+      "instructions": "In einen großen Topf kochendes Wasser geben, salzen, aufkochen lassen und Mezzelune hineingeben. Wenn das Wasser erneut kocht, Hitze reduzieren und Mezzelune ca. 6 Min. gar ziehen lassen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In der Zwischenzeit: In einer großen Pfanne 1 EL Olivenöl bei mittlerer Hitze erwärmen, gehackte Schalotte und Knoblauch darin ca. 1 Min. anbraten. Zucchiniraspel zugeben, mit etwas Salz und Pfeffer würzen und ca. 5 Min. weiterbraten, bis die Zucchini weich ist. Dann ca. 1 TL Zitronensaft unterrühren.",
+      "instructionsHTML": "<p>In der Zwischenzeit: In einer großen Pfanne 1 EL Olivenöl bei mittlerer Hitze erwärmen, gehackte Schalotte und Knoblauch darin ca. 1 Min. anbraten. Zucchiniraspel zugeben, mit etwas Salz und Pfeffer würzen und ca. 5 Min. weiterbraten, bis die Zucchini weich ist. Dann ca. 1 TL Zitronensaft unterrühren.</p>",
+      "instructions": "In der Zwischenzeit: In einer großen Pfanne 1 EL Olivenöl bei mittlerer Hitze erwärmen, gehackte Schalotte und Knoblauch darin ca. 1 Min. anbraten. Zucchiniraspel zugeben, mit etwas Salz und Pfeffer würzen und ca. 5 Min. weiterbraten, bis die Zucchini weich ist. Dann ca. 1 TL Zitronensaft unterrühren.",
+      "timers": [
+        {
+          "name": "Garzeit Mezzelune",
+          "duration": "PT6M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/578dfa6013e9d663508b4568/step_579f1c3f7f56b.jpg",
+          "caption": "Zucchini anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55b0a135fd2cb9121e8b4567",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Mezzelune in einem Sieb abtropfen lassen, dabei 150 ml Kochwasser in einer kleinen Schüssel auffangen. Zucchini und Kochwasser in den großen Topf geben und mit einem Stabmixer pürieren, evtl. mit etwas\nSalz und Pfeffer abschmecken.",
+      "instructionsHTML": "<p>Mezzelune in einem Sieb abtropfen lassen, dabei 150 ml Kochwasser in einer kleinen Schüssel auffangen. Zucchini und Kochwasser in den großen Topf geben und mit einem Stabmixer pürieren, evtl. mit etwas\nSalz und Pfeffer abschmecken.</p>",
+      "instructions": "Mezzelune in einem Sieb abtropfen lassen, dabei 150 ml Kochwasser in einer kleinen Schüssel auffangen. Zucchini und Kochwasser in den großen Topf geben und mit einem Stabmixer pürieren, evtl. mit etwas\nSalz und Pfeffer abschmecken.",
+      "timers": [
+        {
+          "name": "Garzeit Gemüse",
+          "duration": "PT5M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/578dfa6013e9d663508b4568/step_579f1c3f9a32a.jpg",
+          "caption": "Zucchini  pürieren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "565eb678fd2cb91f718b4567",
+        "554b2aa14dab71aa058b4570",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Mezzelune auf Teller verteilen, Zucchinisoße darüber geben. Parmesan-Flakes, Chilistreifen und Mandeln darüber streuen und genießen.\n\nTipp: Für Unterwegs-Esser ist diese Pasta übrigens genau das Richtige: Du kannst sie super vorbereiten und am nächsten Tag genießen.",
+      "instructionsHTML": "<p>Mezzelune auf Teller verteilen, Zucchinisoße darüber geben. Parmesan-Flakes, Chilistreifen und Mandeln darüber streuen und genießen.</p>\n<p>Tipp: Für Unterwegs-Esser ist diese Pasta übrigens genau das Richtige: Du kannst sie super vorbereiten und am nächsten Tag genießen.</p>",
+      "instructions": "Mezzelune auf Teller verteilen, Zucchinisoße darüber geben. Parmesan-Flakes, Chilistreifen und Mandeln darüber streuen und genießen.\nTipp: Für Unterwegs-Esser ist diese Pasta übrigens genau das Richtige: Du kannst sie super vorbereiten und am nächsten Tag genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b2aa14dab71aa058b4570",
+        "565eb678fd2cb91f718b4567",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "57a489187417fe394b8b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c",
+        "57e2674fb7e8697d4b3053a0",
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305382"
+      ]
+    }
+  ],
+  "averageRating": 3.2,
+  "ratingsCount": 290,
+  "favoritesCount": 329,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/tomaten-ricotta-mezzelune-578dfa6013e9d663508b4568",
+  "clonedFrom": null,
+  "canonical": "578dfa6013e9d663508b4568",
+  "canonicalLink": "https://www.hellofresh.de/recipes/tomaten-ricotta-mezzelune-578dfa6013e9d663508b4568"
+}

@@ -1,0 +1,972 @@
+{
+  "country": "DE",
+  "id": "55f919befd2cb971628b4567",
+  "name": "Cremige Porree-Kartoffelsuppe mit Räucherlachs,",
+  "seoName": null,
+  "category": null,
+  "slug": "cremige-porree-kartoffelsuppe-mit-raucherlachs",
+  "headline": "dazu Dinkelbrot mit Frischkäse-Meerrettich-Aufstrich",
+  "description": "Suppen sind lecker, gesund, lassen sich immer wieder variieren, einfach aufwärmen und sehen richtig garniert auch noch gut aus. Und wenn es dazu ofenfrisches Baguette, Räucherlachs und Frischkäse-Meerrettich-Aufstrich gibt, dann gibt auch dein Magen schnell Ruhe. Guten Appetit!",
+  "descriptionHTML": "<p>Suppen sind lecker, gesund, lassen sich immer wieder variieren, einfach aufwärmen und sehen richtig garniert auch noch gut aus. Und wenn es dazu ofenfrisches Baguette, Räucherlachs und Frischkäse-Meerrettich-Aufstrich gibt, dann gibt auch dein Magen schnell Ruhe. Guten Appetit!</p>",
+  "descriptionMarkdown": "Suppen sind lecker, gesund, lassen sich immer wieder variieren, einfach aufwärmen und sehen richtig garniert auch noch gut aus. Und wenn es dazu ofenfrisches Baguette, Räucherlachs und Frischkäse-Meerrettich-Aufstrich gibt, dann gibt auch dein Magen schnell Ruhe. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT35M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-09-16T07:26:54+00:00",
+  "updatedAt": "2017-02-12T11:24:34+00:00",
+  "link": "https://hellofresh.com/recipes/55f919befd2cb971628b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/55f919befd2cb971628b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/55f919befd2cb971628b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3330.464,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 796,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 39,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 76,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "556c1f20fd2cb99f468b4568",
+      "type": "porree",
+      "name": "Porree",
+      "slug": "porree",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c1f20fd2cb99f468b4568.png",
+      "usage": 191,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc4",
+        "type": "leek",
+        "name": "Lauch",
+        "slug": "lauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc4-1460799d.png",
+        "usageByCountry": {
+          "AT": 212,
+          "AU": 43,
+          "BE": 129,
+          "CA": 14,
+          "CH": 41,
+          "DE": 199,
+          "ER": 0,
+          "FR": 25,
+          "GB": 148,
+          "LU": 118,
+          "NL": 150,
+          "NZ": 13,
+          "ML": 0,
+          "US": 7
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d60a3f8b25ea8718b4567",
+      "type": "räucherlachs",
+      "name": "Räucherlachs",
+      "slug": "raucherlachs",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d60a3f8b25ea8718b4567.png",
+      "usage": 11,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f7",
+          "type": "fish",
+          "name": "Fisch",
+          "slug": "fisch",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+          "usage": 299
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb9c",
+        "type": "fish",
+        "name": "Fisch",
+        "slug": "fisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb9c-8b041158.png",
+        "usageByCountry": {
+          "AT": 72,
+          "AU": 96,
+          "BE": 373,
+          "CA": 37,
+          "CH": 15,
+          "DE": 65,
+          "ER": 2,
+          "FR": 83,
+          "GB": 179,
+          "LU": 509,
+          "NL": 463,
+          "NZ": 17,
+          "ML": 246,
+          "US": 137
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55534596f8b25ea1038b4569",
+      "type": "schnittlauch",
+      "name": "Schnittlauch",
+      "slug": "schnittlauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55534596f8b25ea1038b4569.png",
+      "usage": 358,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb74",
+        "type": "chives",
+        "name": "Schnittlauch",
+        "slug": "schnittlauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb74-921bfcce.png",
+        "usageByCountry": {
+          "AT": 382,
+          "AU": 32,
+          "BE": 85,
+          "CA": 38,
+          "CH": 68,
+          "DE": 358,
+          "ER": 0,
+          "FR": 30,
+          "GB": 71,
+          "LU": 117,
+          "NL": 104,
+          "NZ": 20,
+          "ML": 0,
+          "US": 80
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d5febfd2cb937078b4569",
+      "type": "meerrettich",
+      "name": "Meerrettich",
+      "slug": "meerrettich",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d5febfd2cb937078b4569.png",
+      "usage": 4,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc19",
+        "type": "radish",
+        "name": "Rettich",
+        "slug": "rettich",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc19-7a28dd12.png",
+        "usageByCountry": {
+          "AT": 99,
+          "AU": 5,
+          "BE": 65,
+          "CA": 21,
+          "CH": 19,
+          "DE": 82,
+          "ER": 2,
+          "FR": 7,
+          "GB": 18,
+          "LU": 39,
+          "NL": 64,
+          "NZ": 1,
+          "ML": 0,
+          "US": 56
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566f0714dab7124088b4569",
+      "type": "lorbeerblatt",
+      "name": "Lorbeerblatt",
+      "slug": "lorbeerblatt",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566f0714dab7124088b4569.png",
+      "usage": 22,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb46",
+        "type": "bay-leaf",
+        "name": "Lorbeerblatt",
+        "slug": "lorbeerblatt",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb46-c982e2e4.png",
+        "usageByCountry": {
+          "AT": 36,
+          "AU": 0,
+          "BE": 20,
+          "CA": 0,
+          "CH": 7,
+          "DE": 37,
+          "ER": 0,
+          "FR": 7,
+          "GB": 42,
+          "LU": 21,
+          "NL": 25,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c0e3efd2cb9692b8b4568",
+      "type": "sahne",
+      "name": "Sahne",
+      "slug": "sahne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c0e3efd2cb9692b8b4568.png",
+      "usage": 176,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55534647f8b25e8a038b4567",
+      "type": "frischkäse",
+      "name": "Frischkäse",
+      "slug": "frischkase",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55534647f8b25e8a038b4567.png",
+      "usage": 75,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dc02ffd2cb944758b4568",
+      "type": "baguette",
+      "name": "Baguette",
+      "slug": "baguette",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dc02ffd2cb944758b4568.png",
+      "usage": 25,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        },
+        {
+          "id": "57962a07b7e8697d4b3052fe",
+          "type": "sesame",
+          "name": "Sesam",
+          "slug": "sesam",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+          "usage": 175
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3639f8b25eef3e8b4575",
+      "type": "gemusebruhe-home",
+      "name": "Gemüsebrühe*",
+      "slug": "gemusebruhe",
+      "description": null,
+      "internalName": "Gemüsebrühe home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3639f8b25eef3e8b4575.png",
+      "usage": 441,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f7",
+      "type": "fish",
+      "name": "Fisch",
+      "slug": "fisch",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "usage": 299
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "type": "sesame",
+      "name": "Sesam",
+      "slug": "sesam",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "usage": 175
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Pürierstab"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [],
+  "cuisines": [],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "556c1f20fd2cb99f468b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "556d60a3f8b25ea8718b4567",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "556d5febfd2cb937078b4569",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "5566f0714dab7124088b4569",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556c0e3efd2cb9692b8b4568",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "id": "55534647f8b25e8a038b4567",
+          "amount": 0.5,
+          "unit": "Packung"
+        },
+        {
+          "id": "555dc02ffd2cb944758b4568",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b3639f8b25eef3e8b4575",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Backofen für das Baguette vorheizen.",
+      "instructionsHTML": "<p>Backofen für das Baguette vorheizen.</p>",
+      "instructions": "Backofen für das Baguette vorheizen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Porree gründlich waschen und abtrocknen, welkes Grün entfernen, dann weißen und hellgrünen Teil in feine Ringe schneiden. Kartoffeln schälen und in ca. 1 cm große Würfel schneiden. Räucherlachs in feine\nStücke schneiden. Schnittlauch waschen, trocken schütteln und in feine Röllchen schneiden. Meerrettich schälen und fein reiben. In einem kleinen Topf 700 ml heiße Gemüsebrühe zubereiten.",
+      "instructionsHTML": "<p>Porree gründlich waschen und abtrocknen, welkes Grün entfernen, dann weißen und hellgrünen Teil in feine Ringe schneiden. Kartoffeln schälen und in ca. 1 cm große Würfel schneiden. Räucherlachs in feine\nStücke schneiden. Schnittlauch waschen, trocken schütteln und in feine Röllchen schneiden. Meerrettich schälen und fein reiben. In einem kleinen Topf 700 ml heiße Gemüsebrühe zubereiten.</p>",
+      "instructions": "Porree gründlich waschen und abtrocknen, welkes Grün entfernen, dann weißen und hellgrünen Teil in feine Ringe schneiden. Kartoffeln schälen und in ca. 1 cm große Würfel schneiden. Räucherlachs in feine\nStücke schneiden. Schnittlauch waschen, trocken schütteln und in feine Röllchen schneiden. Meerrettich schälen und fein reiben. In einem kleinen Topf 700 ml heiße Gemüsebrühe zubereiten.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55f919befd2cb971628b4567/step_55f966ac3c25d.jpg",
+          "caption": "Räucherlachs zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556c1f20fd2cb99f468b4568",
+        "554b25fcfd2cb973608b4567",
+        "556d60a3f8b25ea8718b4567",
+        "55534596f8b25ea1038b4569",
+        "556d5febfd2cb937078b4569",
+        "554b3639f8b25eef3e8b4575"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einem großen Topf 1½ EL Butter zerlassen. Porree und Lorbeerblatt dazugeben und bei schwacher Hitze 8–10 Min. andünsten. Kartoffeln zugeben und einmal kräftig umrühren, damit sie gut eingebuttert sind.\nMit Gemüsebrühe und Sahne ablöschen und 10–15 Min. weiterköcheln lassen, bis Kartoffeln schön weich sind (bei Bedarf noch etwas Wasser zugeben).",
+      "instructionsHTML": "<p>In einem großen Topf 1½ EL Butter zerlassen. Porree und Lorbeerblatt dazugeben und bei schwacher Hitze 8–10 Min. andünsten. Kartoffeln zugeben und einmal kräftig umrühren, damit sie gut eingebuttert sind.\nMit Gemüsebrühe und Sahne ablöschen und 10–15 Min. weiterköcheln lassen, bis Kartoffeln schön weich sind (bei Bedarf noch etwas Wasser zugeben).</p>",
+      "instructions": "In einem großen Topf 1½ EL Butter zerlassen. Porree und Lorbeerblatt dazugeben und bei schwacher Hitze 8–10 Min. andünsten. Kartoffeln zugeben und einmal kräftig umrühren, damit sie gut eingebuttert sind.\nMit Gemüsebrühe und Sahne ablöschen und 10–15 Min. weiterköcheln lassen, bis Kartoffeln schön weich sind (bei Bedarf noch etwas Wasser zugeben).",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55f919befd2cb971628b4567/step_55f966ac560f9.jpg",
+          "caption": "Kartoffeln zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556c1f20fd2cb99f468b4568",
+        "554b25fcfd2cb973608b4567",
+        "5566f0714dab7124088b4569",
+        "556c0e3efd2cb9692b8b4568",
+        "554b3639f8b25eef3e8b4575",
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer kleinen Schüssel Frischkäse mit Meerrettich vermengen, mit ein wenig Salz und Pfeffer abschmecken. Baguette nach Packungsangabe aufbacken.",
+      "instructionsHTML": "<p>In einer kleinen Schüssel Frischkäse mit Meerrettich vermengen, mit ein wenig Salz und Pfeffer abschmecken. Baguette nach Packungsangabe aufbacken.</p>",
+      "instructions": "In einer kleinen Schüssel Frischkäse mit Meerrettich vermengen, mit ein wenig Salz und Pfeffer abschmecken. Baguette nach Packungsangabe aufbacken.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "55534647f8b25e8a038b4567",
+        "555dc02ffd2cb944758b4568",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305374",
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Topf vom Herd nehmen und Suppe mit einem Pürierstab im Topf fein pürieren. Großteil des Räucherlachs zugeben und mit ein wenig Salz und Pfeffer abschmecken. Baguette in Streifen schneiden und mit Frischkäse-Meerrettich-Creme bestreichen.",
+      "instructionsHTML": "<p>Topf vom Herd nehmen und Suppe mit einem Pürierstab im Topf fein pürieren. Großteil des Räucherlachs zugeben und mit ein wenig Salz und Pfeffer abschmecken. Baguette in Streifen schneiden und mit Frischkäse-Meerrettich-Creme bestreichen.</p>",
+      "instructions": "Topf vom Herd nehmen und Suppe mit einem Pürierstab im Topf fein pürieren. Großteil des Räucherlachs zugeben und mit ein wenig Salz und Pfeffer abschmecken. Baguette in Streifen schneiden und mit Frischkäse-Meerrettich-Creme bestreichen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55f919befd2cb971628b4567/step_55f966ac62016.jpg",
+          "caption": "Räucherlachs hinzufügen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556d60a3f8b25ea8718b4567",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b3053a0"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Porree-Kartoffelsuppe auf tiefe Teller verteilen, restlichen Räucherlachs darauf geben, mit Schnittlauch bestreuen und zusammen mit Frischkäse-Brotstreifen genießen!",
+      "instructionsHTML": "<p>Porree-Kartoffelsuppe auf tiefe Teller verteilen, restlichen Räucherlachs darauf geben, mit Schnittlauch bestreuen und zusammen mit Frischkäse-Brotstreifen genießen!</p>",
+      "instructions": "Porree-Kartoffelsuppe auf tiefe Teller verteilen, restlichen Räucherlachs darauf geben, mit Schnittlauch bestreuen und zusammen mit Frischkäse-Brotstreifen genießen!",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55f919befd2cb971628b4567/step_55f966ac76d4c.jpg",
+          "caption": "Suppe anrichten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556d60a3f8b25ea8718b4567",
+        "55534596f8b25ea1038b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.4,
+  "ratingsCount": 216,
+  "favoritesCount": 480,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/cremige-porree-kartoffelsuppe-mit-raucherlachs-55f919befd2cb971628b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

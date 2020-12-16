@@ -1,0 +1,970 @@
+{
+  "country": "DE",
+  "id": "593e5b92c9fd08292175eaf1",
+  "name": "Marokkanische Rindfleisch-Burger",
+  "seoName": null,
+  "category": null,
+  "slug": "marokkanische-rindfleisch-burger",
+  "headline": "mit roter Zwiebelmarmelade und Kartoffelwedges",
+  "description": "Wir lieben Burger und interpretieren diese immer wieder neu. Heute wird es marokkanisch! Die leichte Schärfe des Harissa- Gewürzes sorgt dabei für die typische, aromatische Note, die man aus dem bunten Marokko kennt. Und bei einem guten Burger dürfen Wedges nicht fehlen! Guten Appetit bei diesem proteinreichen Gericht.",
+  "descriptionHTML": "<p>Wir lieben Burger und interpretieren diese immer wieder neu. Heute wird es marokkanisch! Die leichte Schärfe des Harissa- Gewürzes sorgt dabei für die typische, aromatische Note, die man aus dem bunten Marokko kennt. Und bei einem guten Burger dürfen Wedges nicht fehlen! Guten Appetit bei diesem <strong>proteinreichen</strong> Gericht.</p>",
+  "descriptionMarkdown": "Wir lieben Burger und interpretieren diese immer wieder neu. Heute wird es marokkanisch! Die leichte Schärfe des Harissa- Gewürzes sorgt dabei für die typische, aromatische Note, die man aus dem bunten Marokko kennt. Und bei einem guten Burger dürfen Wedges nicht fehlen! Guten Appetit bei diesem **proteinreichen** Gericht.",
+  "seoDescription": "",
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 650,
+  "createdAt": "2017-06-12T09:14:58+00:00",
+  "updatedAt": "2018-04-09T12:10:38+00:00",
+  "link": "https://hellofresh.com/recipes/593e5b92c9fd08292175eaf1",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/marokkanische-rindfleisch-burger-c30f17c0.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/marokkanische-rindfleisch-burger-93bdf15c.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3268,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 781,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 29,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 85,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 47,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 2,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "57cda98031c0a2fa298b4568",
+      "type": "rinderhackfleisch",
+      "name": "Rinderhackfleisch",
+      "slug": "rinderhackfleisch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/57cda98031c0a2fa298b4567-f76fd59a.png",
+      "usage": 111,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4e",
+        "type": "beef",
+        "name": "Rindfleisch",
+        "slug": "rindfleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4e-125de8b7.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 363,
+          "BE": 168,
+          "CA": 192,
+          "CH": 81,
+          "DE": 313,
+          "ER": 66,
+          "FR": 51,
+          "GB": 276,
+          "LU": 167,
+          "NL": 187,
+          "NZ": 103,
+          "ML": 494,
+          "US": 655
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "58c7cba4c6243b2f3111f242",
+      "type": "balsamico-essig-shipped",
+      "name": "Balsamico-Essig",
+      "slug": "balsamico-essig",
+      "description": null,
+      "internalName": "Balsamico-Essig (shipped)",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/58c7cba4c6243b2f3111f242-31d6c6d1.png",
+      "usage": 100,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052ff",
+          "type": "sulphites",
+          "name": "Schwefel",
+          "slug": "schwefel",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+          "usage": 178
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc4e",
+        "type": "vinegar",
+        "name": "Essig",
+        "slug": "essig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc4e-487a2c2e.png",
+        "usageByCountry": {
+          "AT": 946,
+          "AU": 556,
+          "BE": 739,
+          "CA": 272,
+          "CH": 185,
+          "DE": 877,
+          "ER": 16,
+          "FR": 209,
+          "GB": 406,
+          "LU": 884,
+          "NL": 855,
+          "NZ": 199,
+          "ML": 77,
+          "US": 710
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55fab6f04dab711d428b4567",
+      "type": "harissa",
+      "name": "Harissa",
+      "slug": "harissa",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55fab6f04dab711d428b4567.png",
+      "usage": 25,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6f",
+        "type": "chili-sauce",
+        "name": "Chilisoße",
+        "slug": "chilisosze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6f-c927cff8.png",
+        "usageByCountry": {
+          "AT": 108,
+          "AU": 71,
+          "BE": 70,
+          "CA": 48,
+          "CH": 20,
+          "DE": 106,
+          "ER": 12,
+          "FR": 23,
+          "GB": 81,
+          "LU": 123,
+          "NL": 96,
+          "NZ": 29,
+          "ML": 73,
+          "US": 127
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b6183fd2cb9d0608b456c",
+      "type": "pita-brote",
+      "name": "Pita-Brote",
+      "slug": "pita-brote",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b6183fd2cb9d0608b456c.png",
+      "usage": 41,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566ebf34dab71e6078b456b",
+      "type": "salatherz",
+      "name": "Salatherz",
+      "slug": "salatherz",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566ebf34dab71e6078b456b.png",
+      "usage": 256,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55ad137efd2cb9c06d8b4567",
+      "type": "natur-joghurt",
+      "name": "Joghurt",
+      "slug": "natur-joghurt",
+      "description": null,
+      "internalName": "Naturjoghurt",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55ad137efd2cb9c06d8b4567.png",
+      "usage": 150,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc57",
+        "type": "yoghurt",
+        "name": "Jo­ghurt",
+        "slug": "joghurt",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc57-825533d1.png",
+        "usageByCountry": {
+          "AT": 464,
+          "AU": 272,
+          "BE": 368,
+          "CA": 43,
+          "CH": 101,
+          "DE": 434,
+          "ER": 0,
+          "FR": 31,
+          "GB": 207,
+          "LU": 341,
+          "NL": 408,
+          "NZ": 78,
+          "ML": 8,
+          "US": 48
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "type": "sulphites",
+      "name": "Schwefel",
+      "slug": "schwefel",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "usage": 178
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    }
+  ],
+  "utensils": [],
+  "tags": [
+    {
+      "id": "58aeb949c9fd0851d339ede2",
+      "type": "discovery",
+      "name": "Neuentdeckung",
+      "slug": "neuentdeckung",
+      "iconLink": null,
+      "numberOfRecipes": 2647,
+      "numberOfRecipesByCountry": {
+        "AT": 1045,
+        "AU": 0,
+        "BE": 131,
+        "CA": 0,
+        "CH": 105,
+        "DE": 897,
+        "ER": 0,
+        "FR": 0,
+        "GB": 4,
+        "LU": 133,
+        "NL": 139,
+        "NZ": 0,
+        "ML": 193,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b30530e",
+      "type": "under-30-minutes",
+      "name": "Zeit sparen",
+      "slug": "zeit-sparen",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/HF_Icon_App_LessThan30min.png",
+      "numberOfRecipes": 4370,
+      "numberOfRecipesByCountry": {
+        "AT": 1140,
+        "AU": 141,
+        "BE": 540,
+        "CA": 0,
+        "CH": 201,
+        "DE": 989,
+        "ER": 0,
+        "FR": 128,
+        "GB": 0,
+        "LU": 581,
+        "NL": 644,
+        "NZ": 0,
+        "ML": 0,
+        "US": 6
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bb",
+      "type": "Moroccan",
+      "name": "Moroccan",
+      "slug": "moroccan",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bb-07eccc51.jpg",
+      "usage": 165
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "57cda98031c0a2fa298b4568",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "58c7cba4c6243b2f3111f242",
+          "amount": 12,
+          "unit": "ml"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "55fab6f04dab711d428b4567",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "id": "554b6183fd2cb9d0608b456c",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "5566ebf34dab71e6078b456b",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55ad137efd2cb9c06d8b4567",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "57cda98031c0a2fa298b4568",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "58c7cba4c6243b2f3111f242",
+          "amount": 24,
+          "unit": "ml"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "id": "55fab6f04dab711d428b4567",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "id": "554b6183fd2cb9d0608b456c",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "5566ebf34dab71e6078b456b",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "55ad137efd2cb9c06d8b4567",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": null
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Wasche **Gemüse** und **Kräuter** ab. Heize den **Backofen** auf **220 °C** Ober-/Unterhitze (200 °C Umluft) vor. Zum Kochen benötigst Du außerdem 1 kleinen Topf (mit Deckel), Backpapier, ein Backblech und eine kleine Pfanne.\n\nUngeschälte **Kartoffeln** in Spalten (**Wedges**) schneiden. Auf einem mit Backpapier belegten Backblech verteilen, mit ½ EL [1 EL] **Olivenöl** beträufeln, nach Geschmack etwas **salzen** und **pfeffern**. Auf der mittleren Schiene im Backofen 15 – 20 Min. backen, bis die **Wedges** innen weich und außen knusprig-braun sind.",
+      "instructionsHTML": "<p>Wasche <strong>Gemüse</strong> und <strong>Kräuter</strong> ab. Heize den <strong>Backofen</strong> auf <strong>220 °C</strong> Ober-/Unterhitze (200 °C Umluft) vor. Zum Kochen benötigst Du außerdem 1 kleinen Topf (mit Deckel), Backpapier, ein Backblech und eine kleine Pfanne.</p>\n<p>Ungeschälte <strong>Kartoffeln</strong> in Spalten (<strong>Wedges</strong>) schneiden. Auf einem mit Backpapier belegten Backblech verteilen, mit ½ EL [1 EL] <strong>Olivenöl</strong> beträufeln, nach Geschmack etwas <strong>salzen</strong> und <strong>pfeffern</strong>. Auf der mittleren Schiene im Backofen 15 – 20 Min. backen, bis die <strong>Wedges</strong> innen weich und außen knusprig-braun sind.</p>",
+      "instructions": "Wasche Gemüse und Kräuter ab. Heize den Backofen auf 220 °C Ober-/Unterhitze (200 °C Umluft) vor. Zum Kochen benötigst Du außerdem 1 kleinen Topf (mit Deckel), Backpapier, ein Backblech und eine kleine Pfanne.\nUngeschälte Kartoffeln in Spalten (Wedges) schneiden. Auf einem mit Backpapier belegten Backblech verteilen, mit ½ EL [1 EL] Olivenöl beträufeln, nach Geschmack etwas salzen und pfeffern. Auf der mittleren Schiene im Backofen 15 – 20 Min. backen, bis die Wedges innen weich und außen knusprig-braun sind.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/593e5b92c9fd08292175eaf1-0-0-c5770bc5.jpg",
+          "caption": "WEDGES BACKEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "In der Zwischenzeit **Rote Zwiebeln** abziehen, halbieren und in feine Streifen schneiden. **Salatlätter** abzupfen. **Zitrone** halbieren.",
+      "instructionsHTML": "<p>In der Zwischenzeit <strong>Rote Zwiebeln</strong> abziehen, halbieren und in feine Streifen schneiden. <strong>Salatlätter</strong> abzupfen. <strong>Zitrone</strong> halbieren.</p>",
+      "instructions": "In der Zwischenzeit Rote Zwiebeln abziehen, halbieren und in feine Streifen schneiden. Salatlätter abzupfen. Zitrone halbieren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/593e5b92c9fd08292175eaf1-1-0-b2199377.jpg",
+          "caption": "GEMÜSE VORBEREITEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einer großen Schüssel **Rinderhackfleisch** gut mit der **Gewürzmischung** (Achtung: scharf!) vermischen, etwas **salz**en und aus dieser Masse 2 [4] gleichgroße **Pattys** formen.",
+      "instructionsHTML": "<p>In einer großen Schüssel <strong>Rinderhackfleisch</strong> gut mit der <strong>Gewürzmischung</strong> (Achtung: scharf!) vermischen, etwas <strong>salz</strong>en und aus dieser Masse 2 [4] gleichgroße <strong>Pattys</strong> formen.</p>",
+      "instructions": "In einer großen Schüssel Rinderhackfleisch gut mit der Gewürzmischung (Achtung: scharf!) vermischen, etwas salzen und aus dieser Masse 2 [4] gleichgroße Pattys formen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/593e5b92c9fd08292175eaf1-2-0-f1212c0c.jpg",
+          "caption": "PATTYS FORMEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer kleinen Pfanne 1 EL [2 EL] **Öl** erhitzen, **Pattys** und **Zwiebelstreifen** reingeben. **Pattys** auf jeder Seite ca. 4 Min. braten. **Pattys** rausnehmen. **Zwiebeln** mit **Balsamico-Essig**,1 TL [½ EL] **Zitronensaft** nach Geschmack und 50 ml [100 ml] **Wasser** ablöschen und 7 – 8 Min. köcheln lassen. \n\n**TIPP:** Wenn Du Dein Fleisch lieber gut durchgebraten magst, kannst Du es ca. 5 Min. zu den Wedges in den Backofen geben.",
+      "instructionsHTML": "<p>In einer kleinen Pfanne 1 EL [2 EL] <strong>Öl</strong> erhitzen, <strong>Pattys</strong> und <strong>Zwiebelstreifen</strong> reingeben. <strong>Pattys</strong> auf jeder Seite ca. 4 Min. braten. <strong>Pattys</strong> rausnehmen. <strong>Zwiebeln</strong> mit <strong>Balsamico-Essig</strong>,1 TL [½ EL] <strong>Zitronensaft</strong> nach Geschmack und 50 ml [100 ml] <strong>Wasser</strong> ablöschen und 7 – 8 Min. köcheln lassen. </p>\n<p><strong>TIPP:</strong> Wenn Du Dein Fleisch lieber gut durchgebraten magst, kannst Du es ca. 5 Min. zu den Wedges in den Backofen geben.</p>",
+      "instructions": "In einer kleinen Pfanne 1 EL [2 EL] Öl erhitzen, Pattys und Zwiebelstreifen reingeben. Pattys auf jeder Seite ca. 4 Min. braten. Pattys rausnehmen. Zwiebeln mit Balsamico-Essig,1 TL [½ EL] Zitronensaft nach Geschmack und 50 ml [100 ml] Wasser ablöschen und 7 – 8 Min. köcheln lassen. \nTIPP: Wenn Du Dein Fleisch lieber gut durchgebraten magst, kannst Du es ca. 5 Min. zu den Wedges in den Backofen geben.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/593e5b92c9fd08292175eaf1-3-0-7b5dc652.jpg",
+          "caption": "PATTYS BRATEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "**Pita-Taschen** ca. 5 Min. vor Ende der Backzeit zum Aufbacken zu den **Kartoffelwedges** in den Backofen geben.",
+      "instructionsHTML": "<p><strong>Pita-Taschen</strong> ca. 5 Min. vor Ende der Backzeit zum Aufbacken zu den <strong>Kartoffelwedges</strong> in den Backofen geben.</p>",
+      "instructions": "Pita-Taschen ca. 5 Min. vor Ende der Backzeit zum Aufbacken zu den Kartoffelwedges in den Backofen geben.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/593e5b92c9fd08292175eaf1-4-0-58684c3d.jpg",
+          "caption": "PITA AUFBACKEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Nach dem Aufbacken **Pita-Taschen** aufschneiden, Unterseite mit einem Klecks **Zwiebelmarmelade** bestreichen, mit **Pattys** und **Salatblätter** belegen und mit ein wenig **Naturjoghurt** abschließen. Zusammen mit **Kartoffelwedges** genießen.",
+      "instructionsHTML": "<p>Nach dem Aufbacken <strong>Pita-Taschen</strong> aufschneiden, Unterseite mit einem Klecks <strong>Zwiebelmarmelade</strong> bestreichen, mit <strong>Pattys</strong> und <strong>Salatblätter</strong> belegen und mit ein wenig <strong>Naturjoghurt</strong> abschließen. Zusammen mit <strong>Kartoffelwedges</strong> genießen.</p>",
+      "instructions": "Nach dem Aufbacken Pita-Taschen aufschneiden, Unterseite mit einem Klecks Zwiebelmarmelade bestreichen, mit Pattys und Salatblätter belegen und mit ein wenig Naturjoghurt abschließen. Zusammen mit Kartoffelwedges genießen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/593e5b92c9fd08292175eaf1-5-0-17f42023.jpg",
+          "caption": "ANRICHTEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.4,
+  "ratingsCount": 859,
+  "favoritesCount": 362,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/marokkanische-rindfleisch-burger-593e5b92c9fd08292175eaf1",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

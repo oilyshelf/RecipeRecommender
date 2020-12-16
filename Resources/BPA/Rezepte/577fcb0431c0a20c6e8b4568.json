@@ -1,0 +1,1142 @@
+{
+  "country": "DE",
+  "id": "577fcb0431c0a20c6e8b4568",
+  "name": "Süßkartoffel-Spinat-Risotto",
+  "seoName": null,
+  "category": null,
+  "slug": "tm-suskartoffel-spinat-risotto",
+  "headline": "mit Sonnenblumenkernen und frischer Petersilie (Thermomix)",
+  "description": "Risotto ist das ultimative Soulfood-Gericht: warm, cremig, köstlich und kinderleicht in der Zubereitung. Mach es Dir auf Deiner Couch gemütlich und genieße eines unserer Lieblingsrezepte. Guten Appetit!",
+  "descriptionHTML": "<p>Risotto ist das ultimative Soulfood-Gericht: warm, cremig, köstlich und kinderleicht in der Zubereitung. Mach es Dir auf Deiner Couch gemütlich und genieße eines unserer Lieblingsrezepte. Guten Appetit!</p>",
+  "descriptionMarkdown": "Risotto ist das ultimative Soulfood-Gericht: warm, cremig, köstlich und kinderleicht in der Zubereitung. Mach es Dir auf Deiner Couch gemütlich und genieße eines unserer Lieblingsrezepte. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT25M",
+  "totalTime": "PT40M",
+  "servingSize": 0,
+  "createdAt": "2016-07-08T15:47:16+00:00",
+  "updatedAt": "2017-02-19T09:04:30+00:00",
+  "link": "https://hellofresh.com/recipes/577fcb0431c0a20c6e8b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/tm-suszkartoffel-spinat-risotto-4148b22c.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/suszkartoffel-spinat-risotto-85c2229c.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2288.648,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 547,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 79,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 13,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 14,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b1a294dab71a6058b4570",
+      "type": "suszkartoffeln",
+      "name": "Süßkartoffel",
+      "slug": "suszkartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1a294dab71a6058b4570.png",
+      "usage": 226,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34b64dab71aa058b4573",
+      "type": "petersilie",
+      "name": "Petersilie",
+      "slug": "petersilie",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34b64dab71aa058b4573.png",
+      "usage": 861,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b200f4dab71aa058b456f",
+      "type": "parmesan d.o.p.",
+      "name": "Parmesan D.O.P.",
+      "slug": "parmesan-d-o-p",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b200f4dab71aa058b456f.png",
+      "usage": 168,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1adef8b25ef93e8b456a",
+      "type": "rote-chili",
+      "name": "roter Chili",
+      "slug": "rote-chili",
+      "description": null,
+      "internalName": "roter Chili",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1adef8b25ef93e8b456a.png",
+      "usage": 325,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6d",
+        "type": "chili",
+        "name": "Chili",
+        "slug": "chili",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6d-270fd94b.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 223,
+          "BE": 0,
+          "CA": 48,
+          "CH": 61,
+          "DE": 326,
+          "ER": 0,
+          "FR": 0,
+          "GB": 75,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 55,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dbd0bfd2cb95a758b456a",
+      "type": "risotto-reis",
+      "name": "Risottoreis",
+      "slug": "risotto-reis",
+      "description": null,
+      "internalName": "Risotto-Reis",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dbd0bfd2cb95a758b456a.png",
+      "usage": 91,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1c",
+        "type": "rice",
+        "name": "Reis",
+        "slug": "reis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1c-0b4adebd.png",
+        "usageByCountry": {
+          "AT": 540,
+          "AU": 405,
+          "BE": 265,
+          "CA": 169,
+          "CH": 114,
+          "DE": 505,
+          "ER": 39,
+          "FR": 79,
+          "GB": 480,
+          "LU": 361,
+          "NL": 319,
+          "NZ": 107,
+          "ML": 328,
+          "US": 527
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3639f8b25eef3e8b4575",
+      "type": "gemusebruhe-home",
+      "name": "Gemüsebrühe*",
+      "slug": "gemusebruhe",
+      "description": null,
+      "internalName": "Gemüsebrühe home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3639f8b25eef3e8b4575.png",
+      "usage": 441,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "56c5ac2afd2cb997438b4567",
+      "type": "baby-spinat",
+      "name": "Babyspinat",
+      "slug": "baby-spinat",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/56c5ac2afd2cb997438b4567.png",
+      "usage": 210,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc34",
+        "type": "spinach",
+        "name": "Spinat",
+        "slug": "spinat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc34-2105763d.png",
+        "usageByCountry": {
+          "AT": 279,
+          "AU": 393,
+          "BE": 203,
+          "CA": 89,
+          "CH": 61,
+          "DE": 266,
+          "ER": 0,
+          "FR": 63,
+          "GB": 243,
+          "LU": 261,
+          "NL": 228,
+          "NZ": 108,
+          "ML": 157,
+          "US": 141
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d58a14dab7104468b4568",
+      "type": "sonnenblumenkerne",
+      "name": "Sonnenblumenkerne",
+      "slug": "sonnenblumenkerne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d58a14dab7104468b4568.png",
+      "usage": 19,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc2a",
+        "type": "seeds",
+        "name": "Saat",
+        "slug": "saat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc2a-b47cd032.png",
+        "usageByCountry": {
+          "AT": 170,
+          "AU": 54,
+          "BE": 143,
+          "CA": 19,
+          "CH": 30,
+          "DE": 147,
+          "ER": 0,
+          "FR": 39,
+          "GB": 81,
+          "LU": 175,
+          "NL": 177,
+          "NZ": 26,
+          "ML": 0,
+          "US": 67
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Kleine Schale"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a2",
+      "type": "thermomix",
+      "name": "Thermomix"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Große Schüssel"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305315",
+      "type": "gluten-free",
+      "name": "glutenfrei",
+      "slug": "glutenfrei",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-gluten%403x.png",
+      "numberOfRecipes": 2,
+      "numberOfRecipesByCountry": {
+        "AT": 210,
+        "AU": 209,
+        "BE": 573,
+        "CA": 39,
+        "CH": 41,
+        "DE": 206,
+        "ER": 0,
+        "FR": 154,
+        "GB": 2,
+        "LU": 745,
+        "NL": 677,
+        "NZ": 0,
+        "ML": 141,
+        "US": 663
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "scharf",
+      "slug": "scharf",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-spicy%403x.png",
+      "numberOfRecipes": 2399,
+      "numberOfRecipesByCountry": {
+        "AT": 200,
+        "AU": 107,
+        "BE": 147,
+        "CA": 71,
+        "CH": 53,
+        "DE": 211,
+        "ER": 103,
+        "FR": 0,
+        "GB": 497,
+        "LU": 54,
+        "NL": 149,
+        "NZ": 0,
+        "ML": 0,
+        "US": 807
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305328",
+      "type": "thermomix",
+      "name": "Thermomix",
+      "slug": "thermomix",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200https://s3-eu-west-1.amazonaws.com/hf-recipes/tags/icon-thermomix.png",
+      "numberOfRecipes": 1034,
+      "numberOfRecipesByCountry": {
+        "AT": 568,
+        "AU": 0,
+        "BE": 0,
+        "CA": 0,
+        "CH": 3,
+        "DE": 463,
+        "ER": 0,
+        "FR": 0,
+        "GB": 0,
+        "LU": 0,
+        "NL": 0,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": "thermomix",
+  "label": {
+    "text": "Thermomix",
+    "handle": "thermomix",
+    "backgroundColor": "#009747",
+    "foregroundColor": "#ffffff"
+  },
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b1a294dab71a6058b4570",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 2,
+          "unit": "Zweig"
+        },
+        {
+          "id": "554b200f4dab71aa058b456f",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1adef8b25ef93e8b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "555dbd0bfd2cb95a758b456a",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b3639f8b25eef3e8b4575",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "56c5ac2afd2cb997438b4567",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "556d58a14dab7104468b4568",
+          "amount": 10,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Obst, Gemüse und Kräuter waschen und putzen. Backofen auf 200 °C Ober-/ Unterhitze (180 °C Umluft) vorheizen.\n\nSüßkartoffel schälen und in ca. 1 cm große Würfel schneiden. Auf einem mit Backpapier belegten Backblech verteilen, mit ½ EL Olivenöl beträufeln und mit etwas Salz und Pfeffer würzen. Auf der mittleren Schiene im Backofen ca. 20 Min. backen. In dieser Zeit 1- bis 2-mal wenden und mit der Zubereitung fortfahren.",
+      "instructionsHTML": "<p>Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Obst, Gemüse und Kräuter waschen und putzen. Backofen auf 200 °C Ober-/ Unterhitze (180 °C Umluft) vorheizen.</p>\n<p>Süßkartoffel schälen und in ca. 1 cm große Würfel schneiden. Auf einem mit Backpapier belegten Backblech verteilen, mit ½ EL Olivenöl beträufeln und mit etwas Salz und Pfeffer würzen. Auf der mittleren Schiene im Backofen ca. 20 Min. backen. In dieser Zeit 1- bis 2-mal wenden und mit der Zubereitung fortfahren.</p>",
+      "instructions": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Obst, Gemüse und Kräuter waschen und putzen. Backofen auf 200 °C Ober-/ Unterhitze (180 °C Umluft) vorheizen.\nSüßkartoffel schälen und in ca. 1 cm große Würfel schneiden. Auf einem mit Backpapier belegten Backblech verteilen, mit ½ EL Olivenöl beträufeln und mit etwas Salz und Pfeffer würzen. Auf der mittleren Schiene im Backofen ca. 20 Min. backen. In dieser Zeit 1- bis 2-mal wenden und mit der Zubereitung fortfahren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/577fcb0431c0a20c6e8b4568/step_578d1633c2495.jpg",
+          "caption": "Süßkartoffel zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1a294dab71a6058b4570",
+        "554b22cb4dab71c8058b4570",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305377",
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Petersilie in den Mixtopf geben und 3 Sek./Stufe 6 zerkleinern. In eine kleine Schüssel umfüllen und beiseitestellen.",
+      "instructionsHTML": "<p>Petersilie in den Mixtopf geben und 3 Sek./Stufe 6 zerkleinern. In eine kleine Schüssel umfüllen und beiseitestellen.</p>",
+      "instructions": "Petersilie in den Mixtopf geben und 3 Sek./Stufe 6 zerkleinern. In eine kleine Schüssel umfüllen und beiseitestellen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b34b64dab71aa058b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305380",
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Parmesan in den Mixtopf geben und 10 Sek./Stufe 10 zerkleinern. Ebenfalls in eine kleine Schüssel umfüllen und beiseitestellen.",
+      "instructionsHTML": "<p>Parmesan in den Mixtopf geben und 10 Sek./Stufe 10 zerkleinern. Ebenfalls in eine kleine Schüssel umfüllen und beiseitestellen.</p>",
+      "instructions": "Parmesan in den Mixtopf geben und 10 Sek./Stufe 10 zerkleinern. Ebenfalls in eine kleine Schüssel umfüllen und beiseitestellen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b200f4dab71aa058b456f"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305380",
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Zwiebelhälfte, Knoblauch und Chiliringe (Achtung: scharf!) in den Mixtopf geben, 5 Sek./Stufe 5 zerkleinern und mit dem Spatel nach unten schieben.",
+      "instructionsHTML": "<p>Zwiebelhälfte, Knoblauch und Chiliringe (Achtung: scharf!) in den Mixtopf geben, 5 Sek./Stufe 5 zerkleinern und mit dem Spatel nach unten schieben.</p>",
+      "instructions": "Zwiebelhälfte, Knoblauch und Chiliringe (Achtung: scharf!) in den Mixtopf geben, 5 Sek./Stufe 5 zerkleinern und mit dem Spatel nach unten schieben.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/577fcb0431c0a20c6e8b4568/step_578d1634301de.jpg",
+          "caption": "Zwiebel und Knoblauch zerkleinern"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b34554dab71a6058b4576",
+        "554b268ffd2cb983608b4568",
+        "554b1adef8b25ef93e8b456a"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "1 EL Olivenöl hinzufügen und 4 Min./120 °C/Stufe 1 dünsten.",
+      "instructionsHTML": "<p>1 EL Olivenöl hinzufügen und 4 Min./120 °C/Stufe 1 dünsten.</p>",
+      "instructions": "1 EL Olivenöl hinzufügen und 4 Min./120 °C/Stufe 1 dünsten.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Risottoreis zugeben und ohne Messbecher 3 Min./120 °C/:thermomix-reverse-on-off:/Stufe 1 weiterdünsten.",
+      "instructionsHTML": "<p>Risottoreis zugeben und ohne Messbecher 3 Min./120 °C/<span class=\"thermomix-reverse-on-off\"></span>/Stufe 1 weiterdünsten.</p>",
+      "instructions": "Risottoreis zugeben und ohne Messbecher 3 Min./120 °C//Stufe 1 weiterdünsten.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "555dbd0bfd2cb95a758b456a"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "370 g Gemüsebrühe zugeben und anstelle des Messbechers Gareinsatz als Spritzschutz auf den Mixtopfdeckel stellen, 10 – 13 Min./100 °C/:thermomix-reverse-on-off:/Stufe :thermomix-stirring-speed: garen, bis der Reis die gesamte Flüssigkeit aufgesogen hat. Währenddessen Zitronenhälfte in Spalten schneiden.",
+      "instructionsHTML": "<p>370 g Gemüsebrühe zugeben und anstelle des Messbechers Gareinsatz als Spritzschutz auf den Mixtopfdeckel stellen, 10 – 13 Min./100 °C/<span class=\"thermomix-reverse-on-off\"></span>/Stufe <span class=\"thermomix-stirring-speed\"></span> garen, bis der Reis die gesamte Flüssigkeit aufgesogen hat. Währenddessen Zitronenhälfte in Spalten schneiden.</p>",
+      "instructions": "370 g Gemüsebrühe zugeben und anstelle des Messbechers Gareinsatz als Spritzschutz auf den Mixtopfdeckel stellen, 10 – 13 Min./100 °C//Stufe garen, bis der Reis die gesamte Flüssigkeit aufgesogen hat. Währenddessen Zitronenhälfte in Spalten schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/577fcb0431c0a20c6e8b4568/step_578d16345046d.jpg",
+          "caption": "Zitronenhälfte in Spalten schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1de2f8b25ef93e8b456b",
+        "554b3639f8b25eef3e8b4575",
+        "555dbd0bfd2cb95a758b456a"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 8,
+      "instructionsMarkdown": "Risottoreis in eine große Schüssel umfüllen. Parmesan, Baby-Spinat und Süßkartoffelwürfel mit dem Spatel unterheben. Mit Salz und Pfeffer abschmecken.",
+      "instructionsHTML": "<p>Risottoreis in eine große Schüssel umfüllen. Parmesan, Baby-Spinat und Süßkartoffelwürfel mit dem Spatel unterheben. Mit Salz und Pfeffer abschmecken.</p>",
+      "instructions": "Risottoreis in eine große Schüssel umfüllen. Parmesan, Baby-Spinat und Süßkartoffelwürfel mit dem Spatel unterheben. Mit Salz und Pfeffer abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/577fcb0431c0a20c6e8b4568/step_578d163470ad0.jpg",
+          "caption": "Risotto-Zutaten vermischen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1a294dab71a6058b4570",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b200f4dab71aa058b456f",
+        "555dbd0bfd2cb95a758b456a",
+        "56c5ac2afd2cb997438b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ]
+    },
+    {
+      "index": 9,
+      "instructionsMarkdown": "Süßkartoffel-Spinat-Risotto auf tiefe Teller verteilen, mit Petersilie und Sonnenblumenkernen bestreuen, mit Zitronenspalten garnieren und genießen.",
+      "instructionsHTML": "<p>Süßkartoffel-Spinat-Risotto auf tiefe Teller verteilen, mit Petersilie und Sonnenblumenkernen bestreuen, mit Zitronenspalten garnieren und genießen.</p>",
+      "instructions": "Süßkartoffel-Spinat-Risotto auf tiefe Teller verteilen, mit Petersilie und Sonnenblumenkernen bestreuen, mit Zitronenspalten garnieren und genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b1de2f8b25ef93e8b456b",
+        "554b34b64dab71aa058b4573",
+        "556d58a14dab7104468b4568"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.7,
+  "ratingsCount": 57,
+  "favoritesCount": 374,
+  "active": true,
+  "highlighted": true,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/tm-suskartoffel-spinat-risotto-577fcb0431c0a20c6e8b4568",
+  "clonedFrom": null,
+  "canonical": "577f68fe16a866645c8b4568",
+  "canonicalLink": "https://www.hellofresh.de/recipes/suskartoffel-spinat-risotto-577f68fe16a866645c8b4568"
+}

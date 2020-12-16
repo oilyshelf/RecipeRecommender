@@ -1,0 +1,894 @@
+{
+  "country": "DE",
+  "id": "5ba0cee230006c75fb05dbb2",
+  "name": "Rebekka test 3",
+  "seoName": null,
+  "category": null,
+  "slug": "rebekka-test-3",
+  "headline": "Couscous und Champignons",
+  "description": "GefÃ¼llte Paprika sind etwas aufwendiger",
+  "descriptionHTML": "<p>GefÃ¼llte Paprika sind etwas aufwendiger</p>",
+  "descriptionMarkdown": "GefÃ¼llte Paprika sind etwas aufwendiger",
+  "seoDescription": null,
+  "comment": "R0352-3",
+  "difficulty": 2,
+  "prepTime": "PT45M",
+  "totalTime": "PTnullM",
+  "servingSize": 789,
+  "createdAt": "2018-09-18T10:09:38+00:00",
+  "updatedAt": "2018-09-18T10:09:38+00:00",
+  "link": "https://hellofresh.com/recipes/5ba0cee230006c75fb05dbb2",
+  "imageLink": null,
+  "cardLink": null,
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3671,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 878,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 46.69,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 17.94,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 76.44,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 26.22,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 12.52,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 34.14,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0.01,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 2.138,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "568cda9efd2cb95e708b4567",
+      "type": "baby pak choi",
+      "name": "Baby-Pak-Choi",
+      "slug": "baby-pak-choi",
+      "description": null,
+      "internalName": "Baby Pak Choi",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/568cda9efd2cb95e708b4567.png",
+      "usage": 35,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb38",
+        "type": "asian-greens",
+        "name": "Asiatische Grüns",
+        "slug": "asiatische-gruns",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb38-12c78968.png",
+        "usageByCountry": {
+          "AT": 107,
+          "AU": 112,
+          "BE": 71,
+          "CA": 26,
+          "CH": 17,
+          "DE": 77,
+          "ER": 0,
+          "FR": 21,
+          "GB": 53,
+          "LU": 92,
+          "NL": 78,
+          "NZ": 26,
+          "ML": 0,
+          "US": 68
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555358b3f8b25e89038b456b",
+      "type": "couscous",
+      "name": "Couscous",
+      "slug": "couscous",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555358b3f8b25e89038b456b.png",
+      "usage": 80,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb84",
+        "type": "couscous",
+        "name": "Couscous",
+        "slug": "couscous",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb84-0e0812fe.png",
+        "usageByCountry": {
+          "AT": 75,
+          "AU": 72,
+          "BE": 148,
+          "CA": 55,
+          "CH": 22,
+          "DE": 80,
+          "ER": 8,
+          "FR": 44,
+          "GB": 90,
+          "LU": 177,
+          "NL": 185,
+          "NZ": 17,
+          "ML": 2,
+          "US": 188
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535721f8b25e8a038b4569",
+      "type": "braune champignons",
+      "name": "braune Champignons",
+      "slug": "braune-champignons",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55535721f8b25e8a038b4569-22f6a90e.png",
+      "usage": 399,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbde",
+        "type": "mushrooms",
+        "name": "Pilze",
+        "slug": "pilze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbde-4d22942c.png",
+        "usageByCountry": {
+          "AT": 558,
+          "AU": 96,
+          "BE": 230,
+          "CA": 75,
+          "CH": 86,
+          "DE": 484,
+          "ER": 1,
+          "FR": 60,
+          "GB": 207,
+          "LU": 251,
+          "NL": 280,
+          "NZ": 21,
+          "ML": 17,
+          "US": 209
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55534596f8b25ea1038b4569",
+      "type": "schnittlauch",
+      "name": "Schnittlauch",
+      "slug": "schnittlauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55534596f8b25ea1038b4569.png",
+      "usage": 358,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb74",
+        "type": "chives",
+        "name": "Schnittlauch",
+        "slug": "schnittlauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb74-921bfcce.png",
+        "usageByCountry": {
+          "AT": 382,
+          "AU": 32,
+          "BE": 85,
+          "CA": 38,
+          "CH": 68,
+          "DE": 358,
+          "ER": 0,
+          "FR": 30,
+          "GB": 71,
+          "LU": 117,
+          "NL": 104,
+          "NZ": 20,
+          "ML": 0,
+          "US": 80
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b21b64dab71a6058b4572",
+      "type": "cheddar",
+      "name": "geriebener Cheddar",
+      "slug": "geriebener-cheddar",
+      "description": null,
+      "internalName": "geriebener Cheddar",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b21b64dab71a6058b4572.png",
+      "usage": 110,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566ebf34dab71e6078b456b",
+      "type": "salatherz",
+      "name": "Salatherz",
+      "slug": "salatherz",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566ebf34dab71e6078b456b.png",
+      "usage": 256,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c13a14dab71a3398b4567",
+      "type": "pinienkerne",
+      "name": "Pinienkerne",
+      "slug": "pinienkerne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c13a14dab71a3398b4567.png",
+      "usage": 130,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55ad137efd2cb9c06d8b4567",
+      "type": "natur-joghurt",
+      "name": "Joghurt",
+      "slug": "natur-joghurt",
+      "description": null,
+      "internalName": "Naturjoghurt",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55ad137efd2cb9c06d8b4567.png",
+      "usage": 150,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc57",
+        "type": "yoghurt",
+        "name": "Jo­ghurt",
+        "slug": "joghurt",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc57-825533d1.png",
+        "usageByCountry": {
+          "AT": 464,
+          "AU": 272,
+          "BE": 368,
+          "CA": 43,
+          "CH": 101,
+          "DE": 434,
+          "ER": 0,
+          "FR": 31,
+          "GB": 207,
+          "LU": 341,
+          "NL": 408,
+          "NZ": 78,
+          "ML": 8,
+          "US": 48
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b5",
+      "type": "german",
+      "name": "Deutsch",
+      "slug": "deutsch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b5-91d543c1.jpg",
+      "usage": 497
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": "Marco Hartz",
+  "label": null,
+  "yieldType": "0",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "568cda9efd2cb95e708b4567",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "id": "555358b3f8b25e89038b456b",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "555358b3f8b25e89038b456b",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "55535721f8b25e8a038b4569",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "55535721f8b25e8a038b4569",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "554b21b64dab71a6058b4572",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "5566ebf34dab71e6078b456b",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "5566ebf34dab71e6078b456b",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "556c13a14dab71a3398b4567",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "55ad137efd2cb9c06d8b4567",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "55535721f8b25e8a038b4569",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "555358b3f8b25e89038b456b",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "554b21b64dab71a6058b4572",
+          "amount": null,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "yields": 3,
+      "ingredients": [
+        {
+          "id": "568cda9efd2cb95e708b4567",
+          "amount": 3,
+          "unit": "g"
+        },
+        {
+          "id": "555358b3f8b25e89038b456b",
+          "amount": 225,
+          "unit": "g"
+        },
+        {
+          "id": "555358b3f8b25e89038b456b",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "55535721f8b25e8a038b4569",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "55535721f8b25e8a038b4569",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1.5,
+          "unit": "g"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "554b21b64dab71a6058b4572",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "5566ebf34dab71e6078b456b",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "5566ebf34dab71e6078b456b",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "556c13a14dab71a3398b4567",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "55ad137efd2cb9c06d8b4567",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "55535721f8b25e8a038b4569",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "555358b3f8b25e89038b456b",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "554b21b64dab71a6058b4572",
+          "amount": null,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "568cda9efd2cb95e708b4567",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "id": "555358b3f8b25e89038b456b",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "555358b3f8b25e89038b456b",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "55535721f8b25e8a038b4569",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "55535721f8b25e8a038b4569",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "554b21b64dab71a6058b4572",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "5566ebf34dab71e6078b456b",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "id": "5566ebf34dab71e6078b456b",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "556c13a14dab71a3398b4567",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "55ad137efd2cb9c06d8b4567",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "55535721f8b25e8a038b4569",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "555358b3f8b25e89038b456b",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "554b21b64dab71a6058b4572",
+          "amount": null,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Champignons klein schneiden. Zwiebel abziehen und fein wÃ¼rfeln. ThymianblÃ¤tter abzupfen und grob hacken. In einer groÃŸen Pfanne Â½ [0.75 I 1] EL Ã–l erwÃ¤rmen",
+      "instructionsHTML": "<p>Champignons klein schneiden. Zwiebel abziehen und fein wÃ¼rfeln. ThymianblÃ¤tter abzupfen und grob hacken. In einer groÃŸen Pfanne Â½ [0.75 I 1] EL Ã–l erwÃ¤rmen</p>",
+      "instructions": "Champignons klein schneiden. Zwiebel abziehen und fein wÃ¼rfeln. ThymianblÃ¤tter abzupfen und grob hacken. In einer groÃŸen Pfanne Â½ [0.75 I 1] EL Ã–l erwÃ¤rmen",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Couscous mit einer Gabel ein wenig auflockern. Champignons-Thymian-Mischung und GroÃŸteil des Cheddar zugeben und vorsichtig miteinander vermischen. Auflaufform aus dem Backofen nehmen",
+      "instructionsHTML": "<p>Couscous mit einer Gabel ein wenig auflockern. Champignons-Thymian-Mischung und GroÃŸteil des Cheddar zugeben und vorsichtig miteinander vermischen. Auflaufform aus dem Backofen nehmen</p>",
+      "instructions": "Couscous mit einer Gabel ein wenig auflockern. Champignons-Thymian-Mischung und GroÃŸteil des Cheddar zugeben und vorsichtig miteinander vermischen. Auflaufform aus dem Backofen nehmen",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einem groÃŸen Topf 200 [300 I 400] ml heiÃŸe GemÃ¼sebrÃ¼he zubereiten",
+      "instructionsHTML": "<p>In einem groÃŸen Topf 200 [300 I 400] ml heiÃŸe GemÃ¼sebrÃ¼he zubereiten</p>",
+      "instructions": "In einem groÃŸen Topf 200 [300 I 400] ml heiÃŸe GemÃ¼sebrÃ¼he zubereiten",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Paprika halbieren und KerngehÃ¤use entfernen. PaprikahÃ¤lften auÃŸen und innen mit ein wenig OlivenÃ¶l einpinseln",
+      "instructionsHTML": "<p>Paprika halbieren und KerngehÃ¤use entfernen. PaprikahÃ¤lften auÃŸen und innen mit ein wenig OlivenÃ¶l einpinseln</p>",
+      "instructions": "Paprika halbieren und KerngehÃ¤use entfernen. PaprikahÃ¤lften auÃŸen und innen mit ein wenig OlivenÃ¶l einpinseln",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "PetersilienblÃ¤tter abzupfen und grob hacken. In einer kleinen Pfanne ohne Fettzugabe Pinienkerne rÃ¶sten",
+      "instructionsHTML": "<p>PetersilienblÃ¤tter abzupfen und grob hacken. In einer kleinen Pfanne ohne Fettzugabe Pinienkerne rÃ¶sten</p>",
+      "instructions": "PetersilienblÃ¤tter abzupfen und grob hacken. In einer kleinen Pfanne ohne Fettzugabe Pinienkerne rÃ¶sten",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Schnittlauch in feine Ringe schneiden. BlÃ¤tter vom Salatherz grob zerkleinern. In einer groÃŸen SchÃ¼ssel 2 Â½ [3.75 I 5] EL OlivenÃ¶l",
+      "instructionsHTML": "<p>Schnittlauch in feine Ringe schneiden. BlÃ¤tter vom Salatherz grob zerkleinern. In einer groÃŸen SchÃ¼ssel 2 Â½ [3.75 I 5] EL OlivenÃ¶l</p>",
+      "instructions": "Schnittlauch in feine Ringe schneiden. BlÃ¤tter vom Salatherz grob zerkleinern. In einer groÃŸen SchÃ¼ssel 2 Â½ [3.75 I 5] EL OlivenÃ¶l",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": null,
+  "ratingsCount": null,
+  "favoritesCount": null,
+  "active": false,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/rebekka-test-3-5ba0cee230006c75fb05dbb2",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

@@ -1,0 +1,878 @@
+{
+  "country": "DE",
+  "id": "57d82fcc16a866177e8b4568",
+  "name": "Indisches Gemüse-Curry mit Basmatireis",
+  "seoName": null,
+  "category": null,
+  "slug": "indisches-gemuse-curry-mit-basma",
+  "headline": "knackigen Cashewkernen und Koriander",
+  "description": "„Madras-Curry“ kommt aus der gleichnamigen Region in Südindien. Dahin entschwinden wir mit unseren Gedanken ganz automatisch beim Genuss dieses Gerichts. Wärmend, duftend und farblich passend zum Herbstanfang! Lass auch Du Dich ent- und verführen!",
+  "descriptionHTML": "<p>„Madras-Curry“ kommt aus der gleichnamigen Region in Südindien. Dahin entschwinden wir mit unseren Gedanken ganz automatisch beim Genuss dieses Gerichts. Wärmend, duftend und farblich passend zum Herbstanfang! Lass auch Du Dich ent- und verführen!</p>",
+  "descriptionMarkdown": "„Madras-Curry“ kommt aus der gleichnamigen Region in Südindien. Dahin entschwinden wir mit unseren Gedanken ganz automatisch beim Genuss dieses Gerichts. Wärmend, duftend und farblich passend zum Herbstanfang! Lass auch Du Dich ent- und verführen!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-09-13T16:56:44+00:00",
+  "updatedAt": "2017-05-07T19:21:47+00:00",
+  "link": "https://hellofresh.com/recipes/57d82fcc16a866177e8b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/indisches-gemuse-curry-mit-basma-2113e307.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/indisches-gemuse-curry-mit-basma-190e83fa.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2836.752,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 678,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 32,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 76,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 15,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b1a804dab71aa058b456d",
+      "type": "grüne bohnen",
+      "name": "grüne Bohnen",
+      "slug": "grune-bohnen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1a804dab71aa058b456d.png",
+      "usage": 44,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbad",
+        "type": "green-beans",
+        "name": "Green Beans",
+        "slug": "green-beans",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbad-a709ebee.png",
+        "usageByCountry": {
+          "AT": 259,
+          "AU": 199,
+          "BE": 150,
+          "CA": 106,
+          "CH": 55,
+          "DE": 217,
+          "ER": 19,
+          "FR": 42,
+          "GB": 200,
+          "LU": 193,
+          "NL": 186,
+          "NZ": 59,
+          "ML": 464,
+          "US": 345
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7e84fd2cb911618b456a",
+      "type": "rote paprika",
+      "name": "rote Paprika",
+      "slug": "rote-paprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7e84fd2cb911618b456a.png",
+      "usage": 229,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf7",
+        "type": "paprika",
+        "name": "Paprika",
+        "slug": "paprika",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf7-e6b2d1a6.png",
+        "usageByCountry": {
+          "AT": 581,
+          "AU": 50,
+          "BE": 613,
+          "CA": 64,
+          "CH": 21,
+          "DE": 536,
+          "ER": 7,
+          "FR": 166,
+          "GB": 539,
+          "LU": 769,
+          "NL": 388,
+          "NZ": 6,
+          "ML": 38,
+          "US": 79
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2aa14dab71aa058b4570",
+      "type": "zucchini",
+      "name": "Zucchini",
+      "slug": "zucchini",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2aa14dab71aa058b4570-0ba23f81.png",
+      "usage": 435,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc58",
+        "type": "zucchini",
+        "name": "Zucchini",
+        "slug": "zucchini",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc58-4066951c.png",
+        "usageByCountry": {
+          "AT": 449,
+          "AU": 407,
+          "BE": 0,
+          "CA": 103,
+          "CH": 74,
+          "DE": 439,
+          "ER": 23,
+          "FR": 0,
+          "GB": 0,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 110,
+          "ML": 163,
+          "US": 443
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535721f8b25e8a038b4569",
+      "type": "braune champignons",
+      "name": "braune Champignons",
+      "slug": "braune-champignons",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55535721f8b25e8a038b4569-22f6a90e.png",
+      "usage": 399,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbde",
+        "type": "mushrooms",
+        "name": "Pilze",
+        "slug": "pilze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbde-4d22942c.png",
+        "usageByCountry": {
+          "AT": 558,
+          "AU": 96,
+          "BE": 230,
+          "CA": 75,
+          "CH": 86,
+          "DE": 484,
+          "ER": 1,
+          "FR": 60,
+          "GB": 207,
+          "LU": 251,
+          "NL": 280,
+          "NZ": 21,
+          "ML": 17,
+          "US": 209
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1e654dab71a6058b4571",
+      "type": "koriander",
+      "name": "Koriander",
+      "slug": "koriander",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1e654dab71a6058b4571.png",
+      "usage": 240,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb79",
+        "type": "cilantro-coriander",
+        "name": "Cilantro / Koriander",
+        "slug": "cilantro-koriander",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb79-7a34459a.png",
+        "usageByCountry": {
+          "AT": 253,
+          "AU": 387,
+          "BE": 166,
+          "CA": 173,
+          "CH": 75,
+          "DE": 240,
+          "ER": 3,
+          "FR": 66,
+          "GB": 542,
+          "LU": 305,
+          "NL": 193,
+          "NZ": 102,
+          "ML": 8,
+          "US": 432
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "57d7d42d16a866aa1c8b4568",
+      "type": "vollkornreis",
+      "name": "Vollkornreis",
+      "slug": "vollkornreis",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/57d7d42d16a866aa1c8b4567-e1efc6c9.png",
+      "usage": 6,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1c",
+        "type": "rice",
+        "name": "Reis",
+        "slug": "reis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1c-0b4adebd.png",
+        "usageByCountry": {
+          "AT": 540,
+          "AU": 405,
+          "BE": 265,
+          "CA": 169,
+          "CH": 114,
+          "DE": 505,
+          "ER": 39,
+          "FR": 79,
+          "GB": 480,
+          "LU": 361,
+          "NL": 319,
+          "NZ": 107,
+          "ML": 328,
+          "US": 527
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3507f8b25ef93e8b4570",
+      "type": "cashewkerne",
+      "name": "Cashewkerne",
+      "slug": "cashewkerne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3507f8b25ef93e8b4570.png",
+      "usage": 98,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dbbe8fd2cb9c9768b4567",
+      "type": "kokosmilch",
+      "name": "Kokosmilch",
+      "slug": "kokosmilch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dbbe8fd2cb9c9768b4567.png",
+      "usage": 322,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb7e",
+        "type": "coconut-milk",
+        "name": "Kokosmilch",
+        "slug": "kokosmilch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb7e-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 374,
+          "AU": 60,
+          "BE": 137,
+          "CA": 27,
+          "CH": 66,
+          "DE": 322,
+          "ER": 0,
+          "FR": 30,
+          "GB": 115,
+          "LU": 157,
+          "NL": 160,
+          "NZ": 24,
+          "ML": 0,
+          "US": 22
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556dc079fd2cb9be098b4567",
+      "type": "curry-pulver",
+      "name": "Currypulver",
+      "slug": "curry-pulver",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556dc079fd2cb9be098b4567.png",
+      "usage": 20,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb8a",
+        "type": "curry",
+        "name": "Curry",
+        "slug": "curry",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb8a-43199cbe.png",
+        "usageByCountry": {
+          "AT": 166,
+          "AU": 61,
+          "BE": 155,
+          "CA": 16,
+          "CH": 36,
+          "DE": 148,
+          "ER": 0,
+          "FR": 35,
+          "GB": 159,
+          "LU": 163,
+          "NL": 177,
+          "NZ": 14,
+          "ML": 0,
+          "US": 21
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305311",
+      "type": "vegan",
+      "name": "Vegan",
+      "slug": "vegan",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200https://s3-eu-west-1.amazonaws.com/hf-recipes/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 229,
+      "numberOfRecipesByCountry": {
+        "AT": 61,
+        "AU": 16,
+        "BE": 1,
+        "CA": 1,
+        "CH": 6,
+        "DE": 59,
+        "ER": 0,
+        "FR": 0,
+        "GB": 40,
+        "LU": 0,
+        "NL": 0,
+        "NZ": 0,
+        "ML": 0,
+        "US": 45
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305315",
+      "type": "gluten-free",
+      "name": "glutenfrei",
+      "slug": "glutenfrei",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-gluten%403x.png",
+      "numberOfRecipes": 2,
+      "numberOfRecipesByCountry": {
+        "AT": 210,
+        "AU": 209,
+        "BE": 573,
+        "CA": 39,
+        "CH": 41,
+        "DE": 206,
+        "ER": 0,
+        "FR": 154,
+        "GB": 2,
+        "LU": 745,
+        "NL": 677,
+        "NZ": 0,
+        "ML": 141,
+        "US": 663
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305320",
+      "type": "high-fiber",
+      "name": "ballaststoffreich",
+      "slug": "ballaststoffreich",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 817,
+      "numberOfRecipesByCountry": {
+        "AT": 303,
+        "AU": 121,
+        "BE": 17,
+        "CA": 0,
+        "CH": 47,
+        "DE": 310,
+        "ER": 0,
+        "FR": 0,
+        "GB": 1,
+        "LU": 1,
+        "NL": 17,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053aa",
+      "type": "indian",
+      "name": "Indisch",
+      "slug": "indisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053aa-835d45ad.jpg",
+      "usage": 635
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b1a804dab71aa058b456d",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b7e84fd2cb911618b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2aa14dab71aa058b4570",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55535721f8b25e8a038b4569",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b1e654dab71a6058b4571",
+          "amount": 8,
+          "unit": "Zweig"
+        },
+        {
+          "id": "57d7d42d16a866aa1c8b4568",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b3507f8b25ef93e8b4570",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "555dbbe8fd2cb9c9768b4567",
+          "amount": 1,
+          "unit": "Dose"
+        },
+        {
+          "id": "556dc079fd2cb9be098b4567",
+          "amount": 3,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten.\n\nEnden der Buschbohnen abschneiden, dann Bohnen halbieren. Rote Paprika halbieren, Kerngehäuse entfernen und Paprika würfeln. Zucchini würfeln. Champignons in Scheiben schneiden. Blätter des Korianders abzupfen und diese grob hacken.",
+      "instructionsHTML": "<p>Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten.</p>\n<p>Enden der Buschbohnen abschneiden, dann Bohnen halbieren. Rote Paprika halbieren, Kerngehäuse entfernen und Paprika würfeln. Zucchini würfeln. Champignons in Scheiben schneiden. Blätter des Korianders abzupfen und diese grob hacken.</p>",
+      "instructions": "Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten.\nEnden der Buschbohnen abschneiden, dann Bohnen halbieren. Rote Paprika halbieren, Kerngehäuse entfernen und Paprika würfeln. Zucchini würfeln. Champignons in Scheiben schneiden. Blätter des Korianders abzupfen und diese grob hacken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57d82fcc16a866177e8b4568-0-0-9f9d469c.jpg",
+          "caption": "Bohnen schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1a804dab71aa058b456d",
+        "554b7e84fd2cb911618b456a",
+        "554b2aa14dab71aa058b4570",
+        "55535721f8b25e8a038b4569",
+        "554b1e654dab71a6058b4571"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Vollkorn-Basmati-Reis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. Dann kochendes Wasser in einen großen Topf geben, ½ TL Salz zufügen, einmal aufkochen lassen und Reis einrühren.\nHitze reduzieren, Deckel aufsetzen und ca. 15 Min. weiterköcheln lassen. Anschließend Topf vom Herd nehmen und mind. 10 Min. abgedeckt ziehen lassen.",
+      "instructionsHTML": "<p>Vollkorn-Basmati-Reis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. Dann kochendes Wasser in einen großen Topf geben, ½ TL Salz zufügen, einmal aufkochen lassen und Reis einrühren.\nHitze reduzieren, Deckel aufsetzen und ca. 15 Min. weiterköcheln lassen. Anschließend Topf vom Herd nehmen und mind. 10 Min. abgedeckt ziehen lassen.</p>",
+      "instructions": "Vollkorn-Basmati-Reis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. Dann kochendes Wasser in einen großen Topf geben, ½ TL Salz zufügen, einmal aufkochen lassen und Reis einrühren.\nHitze reduzieren, Deckel aufsetzen und ca. 15 Min. weiterköcheln lassen. Anschließend Topf vom Herd nehmen und mind. 10 Min. abgedeckt ziehen lassen.",
+      "timers": [
+        {
+          "name": "Reis köcheln lassen",
+          "duration": "PT15M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "57d7d42d16a866aa1c8b4568",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einer großen Pfanne Cashewkerne ohne Fettzugabe rösten, bis sie goldbraun sind und fein duften. Dann aus der Pfanne nehmen und beiseitestellen.",
+      "instructionsHTML": "<p>In einer großen Pfanne Cashewkerne ohne Fettzugabe rösten, bis sie goldbraun sind und fein duften. Dann aus der Pfanne nehmen und beiseitestellen.</p>",
+      "instructions": "In einer großen Pfanne Cashewkerne ohne Fettzugabe rösten, bis sie goldbraun sind und fein duften. Dann aus der Pfanne nehmen und beiseitestellen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57d82fcc16a866177e8b4568-2-0-d4675f31.jpg",
+          "caption": "Cashewkerne rösten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b3507f8b25ef93e8b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Kokosmilch in der Pfanne erwärmen, Currypulver je nach Geschmack einrühren und ca. 2 Min. kochen, bis die Kokosmilch etwas eingedickt ist. Champignonscheiben zufügen und bei mittlerer Hitze ca. 3 Min. weiterköcheln lassen. Mit ein wenig Salz und Pfe\u001fffer abschmecken.",
+      "instructionsHTML": "<p>Kokosmilch in der Pfanne erwärmen, Currypulver je nach Geschmack einrühren und ca. 2 Min. kochen, bis die Kokosmilch etwas eingedickt ist. Champignonscheiben zufügen und bei mittlerer Hitze ca. 3 Min. weiterköcheln lassen. Mit ein wenig Salz und Pfe\u001fffer abschmecken.</p>",
+      "instructions": "Kokosmilch in der Pfanne erwärmen, Currypulver je nach Geschmack einrühren und ca. 2 Min. kochen, bis die Kokosmilch etwas eingedickt ist. Champignonscheiben zufügen und bei mittlerer Hitze ca. 3 Min. weiterköcheln lassen. Mit ein wenig Salz und Pfe\u001fffer abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57d82fcc16a866177e8b4568-3-0-b554ad8a.jpg",
+          "caption": "Champignonscheiben zufügen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555dbbe8fd2cb9c9768b4567",
+        "556dc079fd2cb9be098b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Paprika-, Zucchiniwürfel und Bohnenstücke zufügen und ca. 8 Min. weiterköcheln, bis das Gemüse weich ist. Die ½ des Korianders unterrühren.",
+      "instructionsHTML": "<p>Paprika-, Zucchiniwürfel und Bohnenstücke zufügen und ca. 8 Min. weiterköcheln, bis das Gemüse weich ist. Die ½ des Korianders unterrühren.</p>",
+      "instructions": "Paprika-, Zucchiniwürfel und Bohnenstücke zufügen und ca. 8 Min. weiterköcheln, bis das Gemüse weich ist. Die ½ des Korianders unterrühren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57d82fcc16a866177e8b4568-4-0-a352903b.jpg",
+          "caption": "Bohnenstücke zufügen."
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Vollkorn-Basmati-Reis mit einer Gabel auflockern und auf Teller verteilen, Gemüse-Curry darauf anrichten. Mit Cashewkernen und restlichem Koriander bestreuen und genießen.",
+      "instructionsHTML": "<p>Vollkorn-Basmati-Reis mit einer Gabel auflockern und auf Teller verteilen, Gemüse-Curry darauf anrichten. Mit Cashewkernen und restlichem Koriander bestreuen und genießen.</p>",
+      "instructions": "Vollkorn-Basmati-Reis mit einer Gabel auflockern und auf Teller verteilen, Gemüse-Curry darauf anrichten. Mit Cashewkernen und restlichem Koriander bestreuen und genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.3,
+  "ratingsCount": 309,
+  "favoritesCount": 543,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/indisches-gemuse-curry-mit-basma-57d82fcc16a866177e8b4568",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

@@ -1,0 +1,997 @@
+{
+  "country": "DE",
+  "id": "56d568cbfd2cb9de4b8b4567",
+  "name": "Italienische Tomaten-Gnocchi-Pfanne",
+  "seoName": null,
+  "category": null,
+  "slug": "italienische-tomaten-gnocchipfanne-mit-balsamico-zwiebeln",
+  "headline": "mit Balsamico-Zwiebeln und mariniertem Mozzarella",
+  "description": "Nichts lässt den Sommer so schnell wieder aufleben wie ein original italienisches Gericht, oder? Und mit diesem Rezept liefern wir Dir die warm-pikante Form des berühmten Insalata Caprese, aufgepeppt mit frischem Pesto und angebratenen Gnocchi. Guten Appetit!",
+  "descriptionHTML": "<p>Nichts lässt den Sommer so schnell wieder aufleben wie ein original italienisches Gericht, oder? Und mit diesem Rezept liefern wir Dir die warm-pikante Form des berühmten Insalata Caprese, aufgepeppt mit frischem Pesto und angebratenen Gnocchi. Guten Appetit!</p>",
+  "descriptionMarkdown": "Nichts lässt den Sommer so schnell wieder aufleben wie ein original italienisches Gericht, oder? Und mit diesem Rezept liefern wir Dir die warm-pikante Form des berühmten Insalata Caprese, aufgepeppt mit frischem Pesto und angebratenen Gnocchi. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT25M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-03-01T10:02:51+00:00",
+  "updatedAt": "2017-05-03T15:29:09+00:00",
+  "link": "https://hellofresh.com/recipes/56d568cbfd2cb9de4b8b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/56d568cbfd2cb9de4b8b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/56d568cbfd2cb9de4b8b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3673.552,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 878,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 43,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 91,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 31,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "555da31afd2cb95a758b4568",
+      "type": "frische gnocchi",
+      "name": "Frische Gnocchi",
+      "slug": "frische-gnocchi",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da31afd2cb95a758b4568.png",
+      "usage": 92,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f6",
+          "type": "egg",
+          "name": "Ei",
+          "slug": "ei",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+          "usage": 365
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba8",
+        "type": "gnocchi",
+        "name": "Gnocchi",
+        "slug": "gnocchi",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba8-4a2e844b.png",
+        "usageByCountry": {
+          "AT": 112,
+          "AU": 20,
+          "BE": 26,
+          "CA": 9,
+          "CH": 16,
+          "DE": 111,
+          "ER": 0,
+          "FR": 4,
+          "GB": 51,
+          "LU": 24,
+          "NL": 27,
+          "NZ": 6,
+          "ML": 0,
+          "US": 13
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b32d1f8b25ef93e8b456e",
+      "type": "basilikum",
+      "name": "Basilikum",
+      "slug": "basilikum",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b32d1f8b25ef93e8b456e.png",
+      "usage": 428,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb45",
+        "type": "basil",
+        "name": "Basilikum",
+        "slug": "basilikum",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb45-a1061353.png",
+        "usageByCountry": {
+          "AT": 475,
+          "AU": 94,
+          "BE": 150,
+          "CA": 72,
+          "CH": 92,
+          "DE": 459,
+          "ER": 0,
+          "FR": 44,
+          "GB": 167,
+          "LU": 168,
+          "NL": 191,
+          "NZ": 14,
+          "ML": 0,
+          "US": 172
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b21914dab71c8058b456f",
+      "type": "salbei",
+      "name": "Salbei",
+      "slug": "salbei",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b21914dab71c8058b456f.png",
+      "usage": 87,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc21",
+        "type": "sage",
+        "name": "Salbei",
+        "slug": "salbei",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc21-1ebb9dee.png",
+        "usageByCountry": {
+          "AT": 85,
+          "AU": 27,
+          "BE": 29,
+          "CA": 17,
+          "CH": 11,
+          "DE": 87,
+          "ER": 2,
+          "FR": 4,
+          "GB": 42,
+          "LU": 29,
+          "NL": 30,
+          "NZ": 4,
+          "ML": 1,
+          "US": 61
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b31684dab71a6058b4573",
+      "type": "mozzarella",
+      "name": "Mozzarella",
+      "slug": "mozzarella",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b31684dab71a6058b4573.png",
+      "usage": 163,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "567921d6f8b25e43768b4567",
+      "type": "balsamico-essig-home",
+      "name": "Balsamicoessig*",
+      "slug": "balsamico-essig",
+      "description": null,
+      "internalName": "Balsamico-Essig (home)",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/567921d6f8b25e43768b4567.png",
+      "usage": 97,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052ff",
+          "type": "sulphites",
+          "name": "Schwefel",
+          "slug": "schwefel",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+          "usage": 178
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc4e",
+        "type": "vinegar",
+        "name": "Essig",
+        "slug": "essig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc4e-487a2c2e.png",
+        "usageByCountry": {
+          "AT": 946,
+          "AU": 556,
+          "BE": 739,
+          "CA": 272,
+          "CH": 185,
+          "DE": 877,
+          "ER": 16,
+          "FR": 209,
+          "GB": 406,
+          "LU": 884,
+          "NL": 855,
+          "NZ": 199,
+          "ML": 77,
+          "US": 710
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b200f4dab71aa058b456f",
+      "type": "parmesan d.o.p.",
+      "name": "Parmesan D.O.P.",
+      "slug": "parmesan-d-o-p",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b200f4dab71aa058b456f.png",
+      "usage": 168,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "type": "egg",
+      "name": "Ei",
+      "slug": "ei",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "usage": 365
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "type": "sulphites",
+      "name": "Schwefel",
+      "slug": "schwefel",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "usage": 178
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Kleine Schale"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Pürierstab"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538e",
+      "type": "mixingbowl",
+      "name": "Rührschüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a1",
+      "type": "smallpot",
+      "name": "Kleiner Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italienisch",
+      "slug": "italienisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg",
+      "usage": 4262
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "555da31afd2cb95a758b4568",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b32d1f8b25ef93e8b456e",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b21914dab71c8058b456f",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b31684dab71a6058b4573",
+          "amount": 125,
+          "unit": "g"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "567921d6f8b25e43768b4567",
+          "amount": 6,
+          "unit": "ml"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b200f4dab71aa058b456f",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "In einem großen Topf reichlich Salzwasser zum Kochen bringen. Gnocchi darin 1–2 Min. garen, bis sie an die Oberfläche steigen. Dann in ein Sieb abgießen, vorsichtig mit kaltem Wasser abspülen und abtropfen lassen. So kleben sie nicht zusammen.",
+      "instructionsHTML": "<p>In einem großen Topf reichlich Salzwasser zum Kochen bringen. Gnocchi darin 1–2 Min. garen, bis sie an die Oberfläche steigen. Dann in ein Sieb abgießen, vorsichtig mit kaltem Wasser abspülen und abtropfen lassen. So kleben sie nicht zusammen.</p>",
+      "instructions": "In einem großen Topf reichlich Salzwasser zum Kochen bringen. Gnocchi darin 1–2 Min. garen, bis sie an die Oberfläche steigen. Dann in ein Sieb abgießen, vorsichtig mit kaltem Wasser abspülen und abtropfen lassen. So kleben sie nicht zusammen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56d568cbfd2cb9de4b8b4567/step_56d85aac9e758.jpg",
+          "caption": "Gnocchi abgießen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555da31afd2cb95a758b4568",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Knoblauch abziehen und grob hacken. Basilikum und Salbei waschen, trocken schütteln, Blätter abzupfen und grob hacken. In einem hohen Rührgefäß Kräuter, Knoblauch, 2 EL Olivenöl, Salz und Pfeffer mit einem Stabmixer zu einem feinen Pesto verarbeiten. Mozzarella in vier Scheiben schneiden und in einer kleinen Schüssel mit dem Pesto marinieren.",
+      "instructionsHTML": "<p>Knoblauch abziehen und grob hacken. Basilikum und Salbei waschen, trocken schütteln, Blätter abzupfen und grob hacken. In einem hohen Rührgefäß Kräuter, Knoblauch, 2 EL Olivenöl, Salz und Pfeffer mit einem Stabmixer zu einem feinen Pesto verarbeiten. Mozzarella in vier Scheiben schneiden und in einer kleinen Schüssel mit dem Pesto marinieren.</p>",
+      "instructions": "Knoblauch abziehen und grob hacken. Basilikum und Salbei waschen, trocken schütteln, Blätter abzupfen und grob hacken. In einem hohen Rührgefäß Kräuter, Knoblauch, 2 EL Olivenöl, Salz und Pfeffer mit einem Stabmixer zu einem feinen Pesto verarbeiten. Mozzarella in vier Scheiben schneiden und in einer kleinen Schüssel mit dem Pesto marinieren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56d568cbfd2cb9de4b8b4567/step_56d85aacafb2a.jpg",
+          "caption": "Mozzarella marinieren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b268ffd2cb983608b4568",
+        "554b32d1f8b25ef93e8b456e",
+        "554b21914dab71c8058b456f",
+        "554b31684dab71a6058b4573",
+        "554b1c284dab71a9058b456b",
+        "554b22cb4dab71c8058b4570",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305380",
+        "57e2674fb7e8697d4b3053a0",
+        "57e2674fb7e8697d4b30538e"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Zwiebel abziehen, halbieren und jede Hälfte vierteln. In einem kleinen Topf einen Schuss Olivenöl bei mittlerer Hitze erwärmen, Zwiebelspalten darin ca. 1 Min. andünsten. 1 TL Zucker darüber streuen und ein wenig karamellisieren lassen. Dann mit 50 ml Wasser und Balsamico ablöschen und 4–5 Min. weiterköcheln lassen, bis die Flüssigkeit verdampft ist. Topf vom Herd nehmen und kurz beiseitestellen.",
+      "instructionsHTML": "<p>Zwiebel abziehen, halbieren und jede Hälfte vierteln. In einem kleinen Topf einen Schuss Olivenöl bei mittlerer Hitze erwärmen, Zwiebelspalten darin ca. 1 Min. andünsten. 1 TL Zucker darüber streuen und ein wenig karamellisieren lassen. Dann mit 50 ml Wasser und Balsamico ablöschen und 4–5 Min. weiterköcheln lassen, bis die Flüssigkeit verdampft ist. Topf vom Herd nehmen und kurz beiseitestellen.</p>",
+      "instructions": "Zwiebel abziehen, halbieren und jede Hälfte vierteln. In einem kleinen Topf einen Schuss Olivenöl bei mittlerer Hitze erwärmen, Zwiebelspalten darin ca. 1 Min. andünsten. 1 TL Zucker darüber streuen und ein wenig karamellisieren lassen. Dann mit 50 ml Wasser und Balsamico ablöschen und 4–5 Min. weiterköcheln lassen, bis die Flüssigkeit verdampft ist. Topf vom Herd nehmen und kurz beiseitestellen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56d568cbfd2cb9de4b8b4567/step_56d85aacc6442.jpg",
+          "caption": "Zwiebel anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2abcf8b25eef3e8b4573",
+        "567921d6f8b25e43768b4567",
+        "554b22cb4dab71c8058b4570",
+        "554b2319fd2cb9ba598b456d"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a1"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Tomaten waschen, halbieren, Strunk entfernen und würfeln. In einer großen Pfanne einen Schuss Olivenöl stark erhitzen, Gnocchi darin 3–4 Min. goldbraun anbraten. Tomatenwürfel dazugeben und 3–4 Min. weitergaren. Balsamico-Zwiebeln zugeben und 1 Min. mit erwärmen.",
+      "instructionsHTML": "<p>Tomaten waschen, halbieren, Strunk entfernen und würfeln. In einer großen Pfanne einen Schuss Olivenöl stark erhitzen, Gnocchi darin 3–4 Min. goldbraun anbraten. Tomatenwürfel dazugeben und 3–4 Min. weitergaren. Balsamico-Zwiebeln zugeben und 1 Min. mit erwärmen.</p>",
+      "instructions": "Tomaten waschen, halbieren, Strunk entfernen und würfeln. In einer großen Pfanne einen Schuss Olivenöl stark erhitzen, Gnocchi darin 3–4 Min. goldbraun anbraten. Tomatenwürfel dazugeben und 3–4 Min. weitergaren. Balsamico-Zwiebeln zugeben und 1 Min. mit erwärmen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56d568cbfd2cb9de4b8b4567/step_56d85aace9b7a.jpg",
+          "caption": "Gnocchi anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555da31afd2cb95a758b4568",
+        "554b2abcf8b25eef3e8b4573",
+        "567921d6f8b25e43768b4567",
+        "554b2621fd2cb99c598b4576",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Tomaten-Gnocchipfanne auf Tellern verteilen, marinierten Mozzarella darauf anrichten und mit Pesto beträufeln. Parmesan-Flakes darüber streuen und genießen!",
+      "instructionsHTML": "<p>Tomaten-Gnocchipfanne auf Tellern verteilen, marinierten Mozzarella darauf anrichten und mit Pesto beträufeln. Parmesan-Flakes darüber streuen und genießen!</p>",
+      "instructions": "Tomaten-Gnocchipfanne auf Tellern verteilen, marinierten Mozzarella darauf anrichten und mit Pesto beträufeln. Parmesan-Flakes darüber streuen und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "555da31afd2cb95a758b4568",
+        "554b31684dab71a6058b4573",
+        "554b2621fd2cb99c598b4576",
+        "554b200f4dab71aa058b456f"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.4,
+  "ratingsCount": 1565,
+  "favoritesCount": 2424,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/italienische-tomaten-gnocchipfanne-mit-balsamico-zwiebeln-56d568cbfd2cb9de4b8b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

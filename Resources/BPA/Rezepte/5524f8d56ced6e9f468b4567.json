@@ -1,0 +1,1037 @@
+{
+  "country": "DE",
+  "id": "5524f8d56ced6e9f468b4567",
+  "name": "Unser liebstes Steak–Sandwich",
+  "seoName": null,
+  "category": null,
+  "slug": "unser-liebstes-steaksandwich",
+  "headline": "mit Süßkartoffel-Wedges",
+  "description": "Unheimlich lecker und ganz leicht nachgekocht. Wem die Portion zu groß ist, kann auch das Ciabatta dritteln oder die Süßkartoffel-Wedges auf einen anderen Tag verschieben. Ich finde die Kombination einfach perfekt. Das herzhafte Steak-Sandwich und die leckeren Süßkartoffeln dazu. Traumhaft! Guten Appetit.",
+  "descriptionHTML": "<p>Unheimlich lecker und ganz leicht nachgekocht. Wem die Portion zu groß ist, kann auch das Ciabatta dritteln oder die Süßkartoffel-Wedges auf einen anderen Tag verschieben. Ich finde die Kombination einfach perfekt. Das herzhafte Steak-Sandwich und die leckeren Süßkartoffeln dazu. Traumhaft! Guten Appetit.</p>",
+  "descriptionMarkdown": "Unheimlich lecker und ganz leicht nachgekocht. Wem die Portion zu groß ist, kann auch das Ciabatta dritteln oder die Süßkartoffel-Wedges auf einen anderen Tag verschieben. Ich finde die Kombination einfach perfekt. Das herzhafte Steak-Sandwich und die leckeren Süßkartoffeln dazu. Traumhaft! Guten Appetit.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-04-08T09:45:57+00:00",
+  "updatedAt": "2017-03-03T23:39:12+00:00",
+  "link": "https://hellofresh.com/recipes/5524f8d56ced6e9f468b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/5524f8d56ced6e9f468b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/5524f8d56ced6e9f468b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 4125.424,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 986,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 43,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 98,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 49,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b19befd2cb959598b4576",
+      "type": "rinderhüftsteak",
+      "name": "Rinderhüftsteak",
+      "slug": "rinderhuftsteak",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b19befd2cb959598b4576.png",
+      "usage": 94,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4e",
+        "type": "beef",
+        "name": "Rindfleisch",
+        "slug": "rindfleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4e-125de8b7.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 363,
+          "BE": 168,
+          "CA": 192,
+          "CH": 81,
+          "DE": 313,
+          "ER": 66,
+          "FR": 51,
+          "GB": 276,
+          "LU": 167,
+          "NL": 187,
+          "NZ": 103,
+          "ML": 494,
+          "US": 655
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566ebc6fd2cb952018b4567",
+      "type": "ciabatta",
+      "name": "Ciabatta",
+      "slug": "ciabatta",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566ebc6fd2cb952018b4567.png",
+      "usage": 58,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d72274dab712c498b4568",
+      "type": "paprikapulver edelsüß",
+      "name": "Paprikapulver edelsüß",
+      "slug": "paprikapulver-edelsusz",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d72274dab712c498b4568.png",
+      "usage": 31,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf8",
+        "type": "paprika-powder",
+        "name": "Paprikapulver",
+        "slug": "paprikapulver",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf8-57ddbd04.png",
+        "usageByCountry": {
+          "AT": 105,
+          "AU": 15,
+          "BE": 162,
+          "CA": 6,
+          "CH": 26,
+          "DE": 105,
+          "ER": 1,
+          "FR": 42,
+          "GB": 35,
+          "LU": 213,
+          "NL": 182,
+          "NZ": 0,
+          "ML": 0,
+          "US": 31
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1a294dab71a6058b4570",
+      "type": "suszkartoffeln",
+      "name": "Süßkartoffel",
+      "slug": "suszkartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1a294dab71a6058b4570.png",
+      "usage": 226,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b31684dab71a6058b4573",
+      "type": "mozzarella",
+      "name": "Mozzarella",
+      "slug": "mozzarella",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b31684dab71a6058b4573.png",
+      "usage": 163,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da67afd2cb944758b4567",
+      "type": "salatkopf",
+      "name": "Salatkopf",
+      "slug": "salatkopf",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da67afd2cb944758b4567.png",
+      "usage": 3,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556da575fd2cb9d1088b456a",
+      "type": "große tomate",
+      "name": "Große Tomate",
+      "slug": "grosze-tomate",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556da575fd2cb9d1088b456a.png",
+      "usage": 8,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2b03f8b25ef93e8b456d",
+      "type": "mayonnaise",
+      "name": "Mayonnaise",
+      "slug": "mayonnaise",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2b03f8b25ef93e8b456d.png",
+      "usage": 140,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f6",
+          "type": "egg",
+          "name": "Ei",
+          "slug": "ei",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+          "usage": 365
+        },
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbd2",
+        "type": "mayonnaise",
+        "name": "Mayonnaise",
+        "slug": "mayonnaise",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbd2-9da5628e.png",
+        "usageByCountry": {
+          "AT": 166,
+          "AU": 135,
+          "BE": 0,
+          "CA": 114,
+          "CH": 20,
+          "DE": 140,
+          "ER": 17,
+          "FR": 0,
+          "GB": 58,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 55,
+          "ML": 11,
+          "US": 231
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da357fd2cb943758b4567",
+      "type": "thymian",
+      "name": "Thymian",
+      "slug": "thymian",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da357fd2cb943758b4567.png",
+      "usage": 245,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc43",
+        "type": "thyme",
+        "name": "Thymian",
+        "slug": "thymian",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc43-d0cc4199.png",
+        "usageByCountry": {
+          "AT": 252,
+          "AU": 94,
+          "BE": 243,
+          "CA": 96,
+          "CH": 34,
+          "DE": 252,
+          "ER": 0,
+          "FR": 73,
+          "GB": 187,
+          "LU": 346,
+          "NL": 288,
+          "NZ": 38,
+          "ML": 213,
+          "US": 322
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "type": "egg",
+      "name": "Ei",
+      "slug": "ei",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "usage": 365
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Küchenpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a4",
+      "type": "american",
+      "name": "Amerikanisch",
+      "slug": "amerikanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a4-aafc03e6.jpg",
+      "usage": 3895
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b19befd2cb959598b4576",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "5566ebc6fd2cb952018b4567",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556d72274dab712c498b4568",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "id": "554b1a294dab71a6058b4570",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b31684dab71a6058b4573",
+          "amount": 125,
+          "unit": "g"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555da67afd2cb944758b4567",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556da575fd2cb9d1088b456a",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2b03f8b25ef93e8b456d",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555da357fd2cb943758b4567",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b19befd2cb959598b4576",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "5566ebc6fd2cb952018b4567",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556d72274dab712c498b4568",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "id": "554b1a294dab71a6058b4570",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b31684dab71a6058b4573",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555da67afd2cb944758b4567",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556da575fd2cb9d1088b456a",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2b03f8b25ef93e8b456d",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.25,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555da357fd2cb943758b4567",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Ofen auf 220 °C Ober-/Unterhitze (200 °C Umluft) vorheizen. Süßkartoffel waschen, schälen und in ca. 1 cm breite Spalten schneiden. 2 EL Öl auf ein tiefes Backblech geben und ca. 2 Min. im Ofen erhitzen. Süßkartoffeln zugeben und im heißen Öl wenden, dann ca. 25–30 Min. im Ofen garen (Kartoffeln in dieser Zeit zweimal wenden). In den letzten 12 Min. der Garzeit Ciabatta zum Aufbacken auf ein Gitterrost dazugeben.",
+      "instructionsHTML": "<p>Ofen auf 220 °C Ober-/Unterhitze (200 °C Umluft) vorheizen. Süßkartoffel waschen, schälen und in ca. 1 cm breite Spalten schneiden. 2 EL Öl auf ein tiefes Backblech geben und ca. 2 Min. im Ofen erhitzen. Süßkartoffeln zugeben und im heißen Öl wenden, dann ca. 25–30 Min. im Ofen garen (Kartoffeln in dieser Zeit zweimal wenden). In den letzten 12 Min. der Garzeit Ciabatta zum Aufbacken auf ein Gitterrost dazugeben.</p>",
+      "instructions": "Ofen auf 220 °C Ober-/Unterhitze (200 °C Umluft) vorheizen. Süßkartoffel waschen, schälen und in ca. 1 cm breite Spalten schneiden. 2 EL Öl auf ein tiefes Backblech geben und ca. 2 Min. im Ofen erhitzen. Süßkartoffeln zugeben und im heißen Öl wenden, dann ca. 25–30 Min. im Ofen garen (Kartoffeln in dieser Zeit zweimal wenden). In den letzten 12 Min. der Garzeit Ciabatta zum Aufbacken auf ein Gitterrost dazugeben.",
+      "timers": [
+        {
+          "name": "Süßkartoffeln garen",
+          "duration": "PT30M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5524f8d56ced6e9f468b4567/step_556da7b89c156.jpg",
+          "caption": "Süßkartoffeln schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5566ebc6fd2cb952018b4567",
+        "554b1a294dab71a6058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Rinderhüftsteaks mit Küchenpapier trocken tupfen, zwischen Frischhaltefolie legen und behutsam flacher klopfen, danach mit Salz und Pfeffer würzen. Knoblauch abziehen und fein hacken. Thymian waschen, trocken schütteln und Blätter abzupfen. Die Hälfte vom Knoblauch, Thymianblätter und 1 TL Olivenöl mit der Rinderhüfte vermischen, dann mit Frischhaltefolie bedecken und kurz ziehen lassen.",
+      "instructionsHTML": "<p>Rinderhüftsteaks mit Küchenpapier trocken tupfen, zwischen Frischhaltefolie legen und behutsam flacher klopfen, danach mit Salz und Pfeffer würzen. Knoblauch abziehen und fein hacken. Thymian waschen, trocken schütteln und Blätter abzupfen. Die Hälfte vom Knoblauch, Thymianblätter und 1 TL Olivenöl mit der Rinderhüfte vermischen, dann mit Frischhaltefolie bedecken und kurz ziehen lassen.</p>",
+      "instructions": "Rinderhüftsteaks mit Küchenpapier trocken tupfen, zwischen Frischhaltefolie legen und behutsam flacher klopfen, danach mit Salz und Pfeffer würzen. Knoblauch abziehen und fein hacken. Thymian waschen, trocken schütteln und Blätter abzupfen. Die Hälfte vom Knoblauch, Thymianblätter und 1 TL Olivenöl mit der Rinderhüfte vermischen, dann mit Frischhaltefolie bedecken und kurz ziehen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5524f8d56ced6e9f468b4567/step_556da7b8b07cd.jpg",
+          "caption": "Rinderhüftsteaks flach klopfen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b19befd2cb959598b4576",
+        "554b268ffd2cb983608b4568",
+        "555da357fd2cb943758b4567",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305376"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Paprikapulver, Salz und Pfeffer vermischen, zur Seite stellen. Salatblätter vom Kopf lösen, waschen und abtropfen lassen. Mozzarella abgießen und in Scheiben schneiden, Tomate waschen und in Scheiben schneiden. Rote Zwiebel abziehen und in feine Streifen schneiden.",
+      "instructionsHTML": "<p>Paprikapulver, Salz und Pfeffer vermischen, zur Seite stellen. Salatblätter vom Kopf lösen, waschen und abtropfen lassen. Mozzarella abgießen und in Scheiben schneiden, Tomate waschen und in Scheiben schneiden. Rote Zwiebel abziehen und in feine Streifen schneiden.</p>",
+      "instructions": "Paprikapulver, Salz und Pfeffer vermischen, zur Seite stellen. Salatblätter vom Kopf lösen, waschen und abtropfen lassen. Mozzarella abgießen und in Scheiben schneiden, Tomate waschen und in Scheiben schneiden. Rote Zwiebel abziehen und in feine Streifen schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5524f8d56ced6e9f468b4567/step_556da7b8c6eeb.jpg",
+          "caption": "Mozzarella in Scheiben schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556d72274dab712c498b4568",
+        "554b31684dab71a6058b4573",
+        "554b2abcf8b25eef3e8b4573",
+        "555da67afd2cb944758b4567",
+        "556da575fd2cb9d1088b456a",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "1 TL Butter in einer Pfanne erwärmen. Zwiebeln mit 1⁄2 TL Zucker zugeben und ca. 5 Min. anbraten. 2 TL Essig hinzufügen und weiterschmoren. Restlichen Knoblauch mit Mayonnaise, etwas Salz und Pfeffer vermengen.",
+      "instructionsHTML": "<p>1 TL Butter in einer Pfanne erwärmen. Zwiebeln mit 1⁄2 TL Zucker zugeben und ca. 5 Min. anbraten. 2 TL Essig hinzufügen und weiterschmoren. Restlichen Knoblauch mit Mayonnaise, etwas Salz und Pfeffer vermengen.</p>",
+      "instructions": "1 TL Butter in einer Pfanne erwärmen. Zwiebeln mit 1⁄2 TL Zucker zugeben und ca. 5 Min. anbraten. 2 TL Essig hinzufügen und weiterschmoren. Restlichen Knoblauch mit Mayonnaise, etwas Salz und Pfeffer vermengen.",
+      "timers": [
+        {
+          "name": "Zwiebeln anbraten",
+          "duration": "PT05M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b2abcf8b25eef3e8b4573",
+        "554b2b03f8b25ef93e8b456d",
+        "554b268ffd2cb983608b4568",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Pfanne auswischen und ohne Zusatz von Fett stark erhitzen. Steaks darin ca. 1-2 Min. je Seite anbraten. Anschließend zugedeckt kurz ruhen lassen, dann mit einem scharfen Messer in dünne Scheiben schneiden.",
+      "instructionsHTML": "<p>Pfanne auswischen und ohne Zusatz von Fett stark erhitzen. Steaks darin ca. 1-2 Min. je Seite anbraten. Anschließend zugedeckt kurz ruhen lassen, dann mit einem scharfen Messer in dünne Scheiben schneiden.</p>",
+      "instructions": "Pfanne auswischen und ohne Zusatz von Fett stark erhitzen. Steaks darin ca. 1-2 Min. je Seite anbraten. Anschließend zugedeckt kurz ruhen lassen, dann mit einem scharfen Messer in dünne Scheiben schneiden.",
+      "timers": [
+        {
+          "name": "Steaks anbraten",
+          "duration": "PT04M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5524f8d56ced6e9f468b4567/step_556da7b8dc85f.jpg",
+          "caption": "Steaks in einer Pfanne anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b19befd2cb959598b4576"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Ciabatta quer halbieren und längs aufschneiden: Auf der Oberseite mit Knoblauch-Mayonnaise bestreichen, auf der Unterseite mit Zwiebellade, dann mit Tomaten, Steak, Mozzarella und Salatblättern belegen. Süßkartoffeln mit der Salz-Pfeffer-Paprika-Mischung bestreuen, auf Tellern verteilen, das Sandwich dazu anrichten und genießen!",
+      "instructionsHTML": "<p>Ciabatta quer halbieren und längs aufschneiden: Auf der Oberseite mit Knoblauch-Mayonnaise bestreichen, auf der Unterseite mit Zwiebellade, dann mit Tomaten, Steak, Mozzarella und Salatblättern belegen. Süßkartoffeln mit der Salz-Pfeffer-Paprika-Mischung bestreuen, auf Tellern verteilen, das Sandwich dazu anrichten und genießen!</p>",
+      "instructions": "Ciabatta quer halbieren und längs aufschneiden: Auf der Oberseite mit Knoblauch-Mayonnaise bestreichen, auf der Unterseite mit Zwiebellade, dann mit Tomaten, Steak, Mozzarella und Salatblättern belegen. Süßkartoffeln mit der Salz-Pfeffer-Paprika-Mischung bestreuen, auf Tellern verteilen, das Sandwich dazu anrichten und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b19befd2cb959598b4576",
+        "5566ebc6fd2cb952018b4567",
+        "554b2abcf8b25eef3e8b4573",
+        "555da67afd2cb944758b4567",
+        "556da575fd2cb9d1088b456a",
+        "554b2b03f8b25ef93e8b456d",
+        "554b268ffd2cb983608b4568"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.4,
+  "ratingsCount": 1142,
+  "favoritesCount": 419,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/unser-liebstes-steaksandwich-5524f8d56ced6e9f468b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

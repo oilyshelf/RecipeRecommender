@@ -1,0 +1,867 @@
+{
+  "country": "DE",
+  "id": "57a06a2ad5452512378b4568",
+  "name": "Indischer Gemüse-Linsen-Eintopf",
+  "seoName": null,
+  "category": null,
+  "slug": "indischer-gemuse-linsen-eintopf",
+  "headline": "mit Paprika und Tomaten",
+  "description": "Es ist wieder Zeit für einen sommerlich-bunten Gemüse-Eintopf. Frisches Gemüse liefert Dir die extra Portion Vitamine und zaubert Dir außerdem Farbe in Deinen Küchenalltag. Lass Dir unseren kulinarischen Ausflug schmecken!",
+  "descriptionHTML": "<p>Es ist wieder Zeit für einen sommerlich-bunten Gemüse-Eintopf. Frisches Gemüse liefert Dir die extra Portion Vitamine und zaubert Dir außerdem Farbe in Deinen Küchenalltag. Lass Dir unseren kulinarischen Ausflug schmecken!</p>",
+  "descriptionMarkdown": "Es ist wieder Zeit für einen sommerlich-bunten Gemüse-Eintopf. Frisches Gemüse liefert Dir die extra Portion Vitamine und zaubert Dir außerdem Farbe in Deinen Küchenalltag. Lass Dir unseren kulinarischen Ausflug schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT35M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-08-02T09:38:50+00:00",
+  "updatedAt": "2017-04-20T09:42:18+00:00",
+  "link": "https://hellofresh.com/recipes/57a06a2ad5452512378b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/indischer-gemuse-linsen-eintopf-1b937c25.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/indischer-gemuse-linsen-eintopf-81d64bc5.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2794.9120000000003,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 668,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 109,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 14,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 27,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b3534f8b25ef53e8b4575",
+      "type": "basmatireis",
+      "name": "Basmatireis",
+      "slug": "basmatireis",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3534f8b25ef53e8b4575.png",
+      "usage": 194,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1c",
+        "type": "rice",
+        "name": "Reis",
+        "slug": "reis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1c-0b4adebd.png",
+        "usageByCountry": {
+          "AT": 540,
+          "AU": 405,
+          "BE": 265,
+          "CA": 169,
+          "CH": 114,
+          "DE": 505,
+          "ER": 39,
+          "FR": 79,
+          "GB": 480,
+          "LU": 361,
+          "NL": 319,
+          "NZ": 107,
+          "ML": 328,
+          "US": 527
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5568858ff8b25e9f418b4569",
+      "type": "rote linsen",
+      "name": "Rote Linsen",
+      "slug": "rote-linsen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5568858ff8b25e9f418b4569.png",
+      "usage": 38,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc7",
+        "type": "lentils",
+        "name": "Linsen",
+        "slug": "linsen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc7-e62e92da.png",
+        "usageByCountry": {
+          "AT": 111,
+          "AU": 77,
+          "BE": 63,
+          "CA": 27,
+          "CH": 29,
+          "DE": 114,
+          "ER": 0,
+          "FR": 18,
+          "GB": 155,
+          "LU": 128,
+          "NL": 67,
+          "NZ": 7,
+          "ML": 0,
+          "US": 14
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7e84fd2cb911618b456a",
+      "type": "rote paprika",
+      "name": "rote Paprika",
+      "slug": "rote-paprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7e84fd2cb911618b456a.png",
+      "usage": 229,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf7",
+        "type": "paprika",
+        "name": "Paprika",
+        "slug": "paprika",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf7-e6b2d1a6.png",
+        "usageByCountry": {
+          "AT": 581,
+          "AU": 50,
+          "BE": 613,
+          "CA": 64,
+          "CH": 21,
+          "DE": 536,
+          "ER": 7,
+          "FR": 166,
+          "GB": 539,
+          "LU": 769,
+          "NL": 388,
+          "NZ": 6,
+          "ML": 38,
+          "US": 79
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27e6fd2cb983608b4569",
+      "type": "fruhlingszwiebeln",
+      "name": "Frühlingszwiebel",
+      "slug": "fruhlingszwiebeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27e6fd2cb983608b4569.png",
+      "usage": 514,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc35",
+        "type": "spring-onion",
+        "name": "Frühlingszwiebel",
+        "slug": "fruhlingszwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc35-03c06826.png",
+        "usageByCountry": {
+          "AT": 575,
+          "AU": 0,
+          "BE": 15,
+          "CA": 0,
+          "CH": 113,
+          "DE": 514,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 421,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dbcb74dab714b1b8b4568",
+      "type": "gelbe-curry-paste",
+      "name": "gelbe Currypaste",
+      "slug": "gelbe-curry-paste",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dbcb74dab714b1b8b4568.png",
+      "usage": 60,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb8a",
+        "type": "curry",
+        "name": "Curry",
+        "slug": "curry",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb8a-43199cbe.png",
+        "usageByCountry": {
+          "AT": 166,
+          "AU": 61,
+          "BE": 155,
+          "CA": 16,
+          "CH": 36,
+          "DE": 148,
+          "ER": 0,
+          "FR": 35,
+          "GB": 159,
+          "LU": 163,
+          "NL": 177,
+          "NZ": 14,
+          "ML": 0,
+          "US": 21
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dbbe8fd2cb9c9768b4567",
+      "type": "kokosmilch",
+      "name": "Kokosmilch",
+      "slug": "kokosmilch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dbbe8fd2cb9c9768b4567.png",
+      "usage": 322,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb7e",
+        "type": "coconut-milk",
+        "name": "Kokosmilch",
+        "slug": "kokosmilch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb7e-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 374,
+          "AU": 60,
+          "BE": 137,
+          "CA": 27,
+          "CH": 66,
+          "DE": 322,
+          "ER": 0,
+          "FR": 30,
+          "GB": 115,
+          "LU": 157,
+          "NL": 160,
+          "NZ": 24,
+          "ML": 0,
+          "US": 22
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555357a3f8b25e89038b456a",
+      "type": "limette",
+      "name": "Limette",
+      "slug": "limette",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555357a3f8b25e89038b456a.png",
+      "usage": 350,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc8",
+        "type": "lime",
+        "name": "Limette",
+        "slug": "limette",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc8-7cbce945.png",
+        "usageByCountry": {
+          "AT": 383,
+          "AU": 227,
+          "BE": 132,
+          "CA": 137,
+          "CH": 82,
+          "DE": 351,
+          "ER": 61,
+          "FR": 68,
+          "GB": 407,
+          "LU": 224,
+          "NL": 155,
+          "NZ": 63,
+          "ML": 87,
+          "US": 604
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30539b",
+      "type": "sieve",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536e",
+      "type": "grater",
+      "name": "Reibe"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536d",
+      "type": "fork",
+      "name": "Gabel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053aa",
+      "type": "indian",
+      "name": "Indisch",
+      "slug": "indisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053aa-835d45ad.jpg",
+      "usage": 635
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b3534f8b25ef53e8b4575",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "5568858ff8b25e9f418b4569",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7e84fd2cb911618b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "555dbcb74dab714b1b8b4568",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "id": "555dbbe8fd2cb9c9768b4567",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "id": "555357a3f8b25e89038b456a",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Basmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt (so wird der Reis flu\u001f iger). Einen kleinen Topf mit 300 ml kochenden Wasser füllen, salzen, aufkochen lassen, Reis einrühren und einmal aufkochen lassen. Deckel aufsetzen und bei niedriger Hitze ca. 10 Min. köcheln lassen. Dann vom Herd nehmen und mindestens 10 Min. zugedeckt ruhen lassen.",
+      "instructionsHTML": "<p>Basmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt (so wird der Reis flu\u001f iger). Einen kleinen Topf mit 300 ml kochenden Wasser füllen, salzen, aufkochen lassen, Reis einrühren und einmal aufkochen lassen. Deckel aufsetzen und bei niedriger Hitze ca. 10 Min. köcheln lassen. Dann vom Herd nehmen und mindestens 10 Min. zugedeckt ruhen lassen.</p>",
+      "instructions": "Basmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt (so wird der Reis flu\u001f iger). Einen kleinen Topf mit 300 ml kochenden Wasser füllen, salzen, aufkochen lassen, Reis einrühren und einmal aufkochen lassen. Deckel aufsetzen und bei niedriger Hitze ca. 10 Min. köcheln lassen. Dann vom Herd nehmen und mindestens 10 Min. zugedeckt ruhen lassen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b3534f8b25ef53e8b4575",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539b",
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Währenddessen: Linsen in einem Sieb mit kaltem Wasser abspülen. Tomaten grob hacken. Paprika fein würfeln. Frühlingszwiebel in Ringe schneiden. Zwiebel abziehen und grob hacken.",
+      "instructionsHTML": "<p>Währenddessen: Linsen in einem Sieb mit kaltem Wasser abspülen. Tomaten grob hacken. Paprika fein würfeln. Frühlingszwiebel in Ringe schneiden. Zwiebel abziehen und grob hacken.</p>",
+      "instructions": "Währenddessen: Linsen in einem Sieb mit kaltem Wasser abspülen. Tomaten grob hacken. Paprika fein würfeln. Frühlingszwiebel in Ringe schneiden. Zwiebel abziehen und grob hacken.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "5568858ff8b25e9f418b4569",
+        "554b2621fd2cb99c598b4576",
+        "554b7e84fd2cb911618b456a",
+        "554b27e6fd2cb983608b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539b"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "1 TL Öl in einem großen Topf erwärmen. Zwiebelwürfel darin bei schwacher Hitze ca. 8 – 10 Min. langsam glasig dünsten. Je nach gewünschter Schärfe ½ – 1 EL Curry-Paste zugeben und ca. 2 Min. anbraten, bis alles du\u001e et. Paprikawürfel zugeben. Linsen zugeben und 1 weitere Min. braten. Mit Kokosmilch und 200 ml Wasser ablöschen. Nach ca. 5 Min. der Garzeit Tomatenstücke zufügen. Nun noch 10 – 15 Min. weiterköcheln lassen, bis die Linsen die gewünschte Konsistenz erreicht haben, dann mit Salz und Pfe\u001fffer abschmecken.",
+      "instructionsHTML": "<p>1 TL Öl in einem großen Topf erwärmen. Zwiebelwürfel darin bei schwacher Hitze ca. 8 – 10 Min. langsam glasig dünsten. Je nach gewünschter Schärfe ½ – 1 EL Curry-Paste zugeben und ca. 2 Min. anbraten, bis alles du\u001e et. Paprikawürfel zugeben. Linsen zugeben und 1 weitere Min. braten. Mit Kokosmilch und 200 ml Wasser ablöschen. Nach ca. 5 Min. der Garzeit Tomatenstücke zufügen. Nun noch 10 – 15 Min. weiterköcheln lassen, bis die Linsen die gewünschte Konsistenz erreicht haben, dann mit Salz und Pfe\u001fffer abschmecken.</p>",
+      "instructions": "1 TL Öl in einem großen Topf erwärmen. Zwiebelwürfel darin bei schwacher Hitze ca. 8 – 10 Min. langsam glasig dünsten. Je nach gewünschter Schärfe ½ – 1 EL Curry-Paste zugeben und ca. 2 Min. anbraten, bis alles du\u001e et. Paprikawürfel zugeben. Linsen zugeben und 1 weitere Min. braten. Mit Kokosmilch und 200 ml Wasser ablöschen. Nach ca. 5 Min. der Garzeit Tomatenstücke zufügen. Nun noch 10 – 15 Min. weiterköcheln lassen, bis die Linsen die gewünschte Konsistenz erreicht haben, dann mit Salz und Pfe\u001fffer abschmecken.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b34554dab71a6058b4576",
+        "555dbcb74dab714b1b8b4568",
+        "555dbbe8fd2cb9c9768b4567",
+        "554b1c284dab71a9058b456b",
+        "554b1bf6f8b25eef3e8b4570",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In der Zwischenzeit: Limette fein abreiben. Dann ein ¼ der Limette entsa\u001eften und den Rest in feine Spalten schneiden. Linsen-Gemüse-Eintopf nach der Garzeit vom Herd nehmen. Limettensa\u001eft und Frühlingszwiebelringe unterrühren.",
+      "instructionsHTML": "<p>In der Zwischenzeit: Limette fein abreiben. Dann ein ¼ der Limette entsa\u001eften und den Rest in feine Spalten schneiden. Linsen-Gemüse-Eintopf nach der Garzeit vom Herd nehmen. Limettensa\u001eft und Frühlingszwiebelringe unterrühren.</p>",
+      "instructions": "In der Zwischenzeit: Limette fein abreiben. Dann ein ¼ der Limette entsa\u001eften und den Rest in feine Spalten schneiden. Linsen-Gemüse-Eintopf nach der Garzeit vom Herd nehmen. Limettensa\u001eft und Frühlingszwiebelringe unterrühren.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "555357a3f8b25e89038b456a"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536e"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Basmatireis mit einer Gabel auflockern und anschließend auf Teller verteilen. Eintopf darauf anrichten, nach Belieben mit etwas Limettenabrieb bestreuen und mit einer Limettenspalte genießen.",
+      "instructionsHTML": "<p>Basmatireis mit einer Gabel auflockern und anschließend auf Teller verteilen. Eintopf darauf anrichten, nach Belieben mit etwas Limettenabrieb bestreuen und mit einer Limettenspalte genießen.</p>",
+      "instructions": "Basmatireis mit einer Gabel auflockern und anschließend auf Teller verteilen. Eintopf darauf anrichten, nach Belieben mit etwas Limettenabrieb bestreuen und mit einer Limettenspalte genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30536d",
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.4,
+  "ratingsCount": 239,
+  "favoritesCount": 393,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/indischer-gemuse-linsen-eintopf-57a06a2ad5452512378b4568",
+  "clonedFrom": null,
+  "canonical": "57a4b33516a866701d8b456a",
+  "canonicalLink": "https://www.hellofresh.de/recipes/indischer-gemuse-linsen-eintopf-57a4b33516a866701d8b456a"
+}

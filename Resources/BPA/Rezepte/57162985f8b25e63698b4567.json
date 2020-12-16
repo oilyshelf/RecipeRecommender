@@ -1,0 +1,984 @@
+{
+  "country": "DE",
+  "id": "57162985f8b25e63698b4567",
+  "name": "Wie in Spanien: Lauwarme Orangen-Mandel-Quinoa",
+  "seoName": null,
+  "category": null,
+  "slug": "wie-in-spanien-lauwarmer-orangen-mandel-quinoa",
+  "headline": "mit Feldsalat und Hirtenkäse",
+  "description": "Super gesund, leicht und sommerlich! Lauwarmer Salat für langsam wärmer werdende Tage und Abende. Quinoa als eiweißreiches Superfood hält lange satt, dazu liefern Feldsalat und Orange viele wichtige Vitamine. Ein perfektes Gericht auch als Lunch im Büro.",
+  "descriptionHTML": "<p>Super gesund, leicht und sommerlich! Lauwarmer Salat für langsam wärmer werdende Tage und Abende. Quinoa als eiweißreiches Superfood hält lange satt, dazu liefern Feldsalat und Orange viele wichtige Vitamine. Ein perfektes Gericht auch als Lunch im Büro.</p>",
+  "descriptionMarkdown": "Super gesund, leicht und sommerlich! Lauwarmer Salat für langsam wärmer werdende Tage und Abende. Quinoa als eiweißreiches Superfood hält lange satt, dazu liefern Feldsalat und Orange viele wichtige Vitamine. Ein perfektes Gericht auch als Lunch im Büro.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-04-19T12:50:13+00:00",
+  "updatedAt": "2017-04-06T10:18:58+00:00",
+  "link": "https://hellofresh.com/recipes/57162985f8b25e63698b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/57162985f8b25e63698b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/wie-in-spanien-lauwarme-orangen-mandel-quinoa-8b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2351.408,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 562,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 22,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "556c24054dab71bd3b8b4568",
+      "type": "quinoa",
+      "name": "Quinoa",
+      "slug": "quinoa",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c24054dab71bd3b8b4568.png",
+      "usage": 60,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc18",
+        "type": "quinoa",
+        "name": "Quinoa",
+        "slug": "quinoa",
+        "description": null,
+        "priority": 0,
+        "iconLink": null,
+        "usageByCountry": {
+          "AT": 75,
+          "AU": 36,
+          "BE": 20,
+          "CA": 26,
+          "CH": 13,
+          "DE": 62,
+          "ER": 0,
+          "FR": 5,
+          "GB": 28,
+          "LU": 31,
+          "NL": 21,
+          "NZ": 3,
+          "ML": 72,
+          "US": 57
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556dc4df4dab71614b8b456a",
+      "type": "feldsalat",
+      "name": "Feldsalat",
+      "slug": "feldsalat",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556dc4df4dab71614b8b456a.png",
+      "usage": 58,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55685f0df8b25e5b408b4568",
+      "type": "orange",
+      "name": "Orange",
+      "slug": "orange",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55685f0df8b25e5b408b4568.png",
+      "usage": 62,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbef",
+        "type": "orange",
+        "name": "Orange",
+        "slug": "orange",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbef-561baa16.png",
+        "usageByCountry": {
+          "AT": 63,
+          "AU": 18,
+          "BE": 130,
+          "CA": 19,
+          "CH": 17,
+          "DE": 67,
+          "ER": 0,
+          "FR": 19,
+          "GB": 26,
+          "LU": 126,
+          "NL": 211,
+          "NZ": 2,
+          "ML": 57,
+          "US": 59
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55a7a8cdfd2cb94e0f8b4567",
+      "type": "hirtenkäse",
+      "name": "Hirtenkäse",
+      "slug": "hirtenkase",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55a7a8cdfd2cb94e0f8b4567.png",
+      "usage": 179,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7f6cfd2cb911618b456b",
+      "type": "mandelblättchen",
+      "name": "Mandelblättchen",
+      "slug": "mandelblattchen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7f6cfd2cb911618b456b.png",
+      "usage": 71,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fb",
+          "type": "nuts",
+          "name": "Schalenfrüchte",
+          "slug": "schalenfruchte",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+          "usage": 300
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55953f68fd2cb90f238b4567",
+      "type": "getrocknete aprikosen",
+      "name": "getrocknete Aprikosen",
+      "slug": "getrocknete-aprikosen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55953f68fd2cb90f238b4567-12e0d6f3.png",
+      "usage": 17,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb90",
+        "type": "dried-fruit",
+        "name": "Trockenfrüchte",
+        "slug": "trockenfruchte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb90-8edcc2cc.png",
+        "usageByCountry": {
+          "AT": 91,
+          "AU": 6,
+          "BE": 182,
+          "CA": 11,
+          "CH": 30,
+          "DE": 85,
+          "ER": 0,
+          "FR": 14,
+          "GB": 54,
+          "LU": 152,
+          "NL": 206,
+          "NZ": 0,
+          "ML": 8,
+          "US": 51
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22f4f8b25e42438b4567",
+      "type": "essig",
+      "name": "Essig*",
+      "slug": "essig",
+      "description": null,
+      "internalName": "Essig [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22f4f8b25e42438b4567.png",
+      "usage": 323,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052ff",
+          "type": "sulphites",
+          "name": "Schwefel",
+          "slug": "schwefel",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+          "usage": 178
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc4e",
+        "type": "vinegar",
+        "name": "Essig",
+        "slug": "essig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc4e-487a2c2e.png",
+        "usageByCountry": {
+          "AT": 946,
+          "AU": 556,
+          "BE": 739,
+          "CA": 272,
+          "CH": 185,
+          "DE": 877,
+          "ER": 16,
+          "FR": 209,
+          "GB": 406,
+          "LU": 884,
+          "NL": 855,
+          "NZ": 199,
+          "ML": 77,
+          "US": 710
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "type": "nuts",
+      "name": "Schalenfrüchte",
+      "slug": "schalenfruchte",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "usage": 300
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "type": "sulphites",
+      "name": "Schwefel",
+      "slug": "schwefel",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "usage": 178
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b3053a1",
+      "type": "smallpot",
+      "name": "Kleiner Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Große Schüssel"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305315",
+      "type": "gluten-free",
+      "name": "glutenfrei",
+      "slug": "glutenfrei",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-gluten%403x.png",
+      "numberOfRecipes": 2,
+      "numberOfRecipesByCountry": {
+        "AT": 210,
+        "AU": 209,
+        "BE": 573,
+        "CA": 39,
+        "CH": 41,
+        "DE": 206,
+        "ER": 0,
+        "FR": 154,
+        "GB": 2,
+        "LU": 745,
+        "NL": 677,
+        "NZ": 0,
+        "ML": 141,
+        "US": 663
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "556c24054dab71bd3b8b4568",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "556dc4df4dab71614b8b456a",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "55685f0df8b25e5b408b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55a7a8cdfd2cb94e0f8b4567",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b7f6cfd2cb911618b456b",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "55953f68fd2cb90f238b4567",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22f4f8b25e42438b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Wasser im Wasserkocher erhitzen. Obst, Gemüse und Kräuter waschen und putzen.\n\nQuinoa in einem Sieb unter warmem Wasser gründlich abspülen. In einen kleinen Topf 200 ml kochendes Wasser geben, dieses leicht salzen, Quinoa hinzufügen und ca. 15 Min. köcheln lassen. Danach den Topf vom Herd nehmen und Quinoa zugedeckt ruhen lassen.",
+      "instructionsHTML": "<p>Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Wasser im Wasserkocher erhitzen. Obst, Gemüse und Kräuter waschen und putzen.</p>\n<p>Quinoa in einem Sieb unter warmem Wasser gründlich abspülen. In einen kleinen Topf 200 ml kochendes Wasser geben, dieses leicht salzen, Quinoa hinzufügen und ca. 15 Min. köcheln lassen. Danach den Topf vom Herd nehmen und Quinoa zugedeckt ruhen lassen.</p>",
+      "instructions": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Wasser im Wasserkocher erhitzen. Obst, Gemüse und Kräuter waschen und putzen.\nQuinoa in einem Sieb unter warmem Wasser gründlich abspülen. In einen kleinen Topf 200 ml kochendes Wasser geben, dieses leicht salzen, Quinoa hinzufügen und ca. 15 Min. köcheln lassen. Danach den Topf vom Herd nehmen und Quinoa zugedeckt ruhen lassen.",
+      "timers": [
+        {
+          "name": "Quinoa kochen",
+          "duration": "PT15M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556c24054dab71bd3b8b4568",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a1",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Feldsalat in einem Sieb abtropfen lassen.",
+      "instructionsHTML": "<p>Feldsalat in einem Sieb abtropfen lassen.</p>",
+      "instructions": "Feldsalat in einem Sieb abtropfen lassen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556dc4df4dab71614b8b456a"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Die Orange halbieren und eine Hälfte auspressen. Die andere Hälfte schälen und in 1 – 2 cm große Stücke schneiden. Hirtenkäse würfeln.",
+      "instructionsHTML": "<p>Die Orange halbieren und eine Hälfte auspressen. Die andere Hälfte schälen und in 1 – 2 cm große Stücke schneiden. Hirtenkäse würfeln.</p>",
+      "instructions": "Die Orange halbieren und eine Hälfte auspressen. Die andere Hälfte schälen und in 1 – 2 cm große Stücke schneiden. Hirtenkäse würfeln.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/57162985f8b25e63698b4567/step_571641ebb6ee3.jpg",
+          "caption": "Orange verarbeiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55a7a8cdfd2cb94e0f8b4567",
+        "55685f0df8b25e5b408b4568"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Zwiebel schälen und fein würfeln. Knoblauch abziehen. Aprikosen vierteln. In einer kleinen Pfanne 1 EL Öl erwärmen, Zwiebelwürfel und Aprikosenstücke zugeben, Knoblauch hinein pressen und alles 1 - 2 Min. anbraten, bis die Zwiebeln glasig sind. Dann Mandelblättchen zufügen (einige Mandelblättchen für die Dekoration beiseitelegen) und Pfanne vom Herd nehmen.",
+      "instructionsHTML": "<p>Zwiebel schälen und fein würfeln. Knoblauch abziehen. Aprikosen vierteln. In einer kleinen Pfanne 1 EL Öl erwärmen, Zwiebelwürfel und Aprikosenstücke zugeben, Knoblauch hinein pressen und alles 1 - 2 Min. anbraten, bis die Zwiebeln glasig sind. Dann Mandelblättchen zufügen (einige Mandelblättchen für die Dekoration beiseitelegen) und Pfanne vom Herd nehmen.</p>",
+      "instructions": "Zwiebel schälen und fein würfeln. Knoblauch abziehen. Aprikosen vierteln. In einer kleinen Pfanne 1 EL Öl erwärmen, Zwiebelwürfel und Aprikosenstücke zugeben, Knoblauch hinein pressen und alles 1 - 2 Min. anbraten, bis die Zwiebeln glasig sind. Dann Mandelblättchen zufügen (einige Mandelblättchen für die Dekoration beiseitelegen) und Pfanne vom Herd nehmen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/57162985f8b25e63698b4567/step_571641ebc6f6d.jpg",
+          "caption": "Zwiebel, Knoblauch und Aprikose anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b7f6cfd2cb911618b456b",
+        "554b34554dab71a6058b4576",
+        "554b268ffd2cb983608b4568",
+        "55953f68fd2cb90f238b4567",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einer großen Schüssel Orangensaft, 1 EL Olivenöl, 1 EL Essig, 1 TL Salz und ½ TL Pfeffer zu einem Dressing verrühren. 1 – 2 EL des Dressings unter die Quinoa rühren. Feldsalat mit dem restlichem Dressing vermischen, Orangenstücke und Hirtenkäse unter den Salat heben.",
+      "instructionsHTML": "<p>In einer großen Schüssel Orangensaft, 1 EL Olivenöl, 1 EL Essig, 1 TL Salz und ½ TL Pfeffer zu einem Dressing verrühren. 1 – 2 EL des Dressings unter die Quinoa rühren. Feldsalat mit dem restlichem Dressing vermischen, Orangenstücke und Hirtenkäse unter den Salat heben.</p>",
+      "instructions": "In einer großen Schüssel Orangensaft, 1 EL Olivenöl, 1 EL Essig, 1 TL Salz und ½ TL Pfeffer zu einem Dressing verrühren. 1 – 2 EL des Dressings unter die Quinoa rühren. Feldsalat mit dem restlichem Dressing vermischen, Orangenstücke und Hirtenkäse unter den Salat heben.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/57162985f8b25e63698b4567/step_571641ebcf53b.jpg",
+          "caption": "Dressing zum Quinoa geben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556c24054dab71bd3b8b4568",
+        "556dc4df4dab71614b8b456a",
+        "55a7a8cdfd2cb94e0f8b4567",
+        "554b1bf6f8b25eef3e8b4570",
+        "554b22f4f8b25e42438b4567",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Zwiebel-Aprikosen-Mischung unter die Quinoa mischen.",
+      "instructionsHTML": "<p>Zwiebel-Aprikosen-Mischung unter die Quinoa mischen.</p>",
+      "instructions": "Zwiebel-Aprikosen-Mischung unter die Quinoa mischen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/57162985f8b25e63698b4567/step_571641ebe8a2c.jpg",
+          "caption": "Quinoa fertig zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Feldsalat auf Tellern mit restlichen Mandelblättchen dekorieren, lauwarme Orangen-Mandel-Quinoa dazu anrichten und genießen!",
+      "instructionsHTML": "<p>Feldsalat auf Tellern mit restlichen Mandelblättchen dekorieren, lauwarme Orangen-Mandel-Quinoa dazu anrichten und genießen!</p>",
+      "instructions": "Feldsalat auf Tellern mit restlichen Mandelblättchen dekorieren, lauwarme Orangen-Mandel-Quinoa dazu anrichten und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3,
+  "ratingsCount": 361,
+  "favoritesCount": 519,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/wie-in-spanien-lauwarmer-orangen-mandel-quinoa-57162985f8b25e63698b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

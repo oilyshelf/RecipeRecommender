@@ -1,0 +1,824 @@
+{
+  "country": "DE",
+  "id": "5899b5b69f236a4a17463092",
+  "name": "Schneller Thunfisch-Flammkuchen",
+  "seoName": null,
+  "category": null,
+  "slug": "schneller-thunfisch-flammkuchen-tm",
+  "headline": "mit fruchtig-frischer Tomatensoße",
+  "description": "Mhm – selbst gemachte Tomatensoße auf einem leichten Flammkuchenteig mit saftigem Thunfisch und knusprigen, roten Zwiebeln – ein (unglaublich leckerers) Gedicht. Lass Dir unser leckeres Thermomix-Rezept schmecken!",
+  "descriptionHTML": "<p>Mhm – selbst gemachte Tomatensoße auf einem leichten Flammkuchenteig mit saftigem Thunfisch und knusprigen, roten Zwiebeln – ein (unglaublich leckerers) Gedicht. Lass Dir unser leckeres Thermomix-Rezept schmecken!</p>",
+  "descriptionMarkdown": "Mhm – selbst gemachte Tomatensoße auf einem leichten Flammkuchenteig mit saftigem Thunfisch und knusprigen, roten Zwiebeln – ein (unglaublich leckerers) Gedicht. Lass Dir unser leckeres Thermomix-Rezept schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT30M",
+  "totalTime": "PT20M",
+  "servingSize": 550,
+  "createdAt": "2017-02-07T11:55:34+00:00",
+  "updatedAt": "2017-04-25T10:42:45+00:00",
+  "link": "https://hellofresh.com/recipes/5899b5b69f236a4a17463092",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/schneller-thunfisch-flammkuchen-tm-7fa41878.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/schneller-thunfisch-flammkuchen-tm-9e14f8cc.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2435,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 582,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 15,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 73,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 33,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 3,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d73c1fd2cb9c4078b4567",
+      "type": "estragon",
+      "name": "Estragon",
+      "slug": "estragon",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d73c1fd2cb9c4078b4567.png",
+      "usage": 31,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc42",
+        "type": "tarragon",
+        "name": "Estragon",
+        "slug": "estragon",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc42-45d09a2f.png",
+        "usageByCountry": {
+          "AT": 31,
+          "AU": 10,
+          "BE": 37,
+          "CA": 14,
+          "CH": 4,
+          "DE": 31,
+          "ER": 0,
+          "FR": 10,
+          "GB": 71,
+          "LU": 50,
+          "NL": 45,
+          "NZ": 4,
+          "ML": 0,
+          "US": 50
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "567270cdf8b25e663f8b4567",
+      "type": "knoblauchzehe",
+      "name": "Knoblauchzehe",
+      "slug": "knoblauchzehe",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/567270cdf8b25e663f8b4567.png",
+      "usage": 1222,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556ecabbf8b25e04068b4568",
+      "type": "flammkuchenteig",
+      "name": "Flammkuchenteig",
+      "slug": "flammkuchenteig",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556ecabbf8b25e04068b4568.png",
+      "usage": 68,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        },
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc0d",
+        "type": "pizza-dough",
+        "name": "Pizza-Teig",
+        "slug": "pizza-teig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc0d-784518af.png",
+        "usageByCountry": {
+          "AT": 95,
+          "AU": 50,
+          "BE": 2,
+          "CA": 13,
+          "CH": 18,
+          "DE": 83,
+          "ER": 0,
+          "FR": 0,
+          "GB": 18,
+          "LU": 0,
+          "NL": 2,
+          "NZ": 5,
+          "ML": 0,
+          "US": 28
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556ec8674dab7193558b4567",
+      "type": "thunfisch-in-ol",
+      "name": "Thunfisch",
+      "slug": "thunfisch-in-ol",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556ec8674dab7193558b4567.png",
+      "usage": 18,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f7",
+          "type": "fish",
+          "name": "Fisch",
+          "slug": "fisch",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+          "usage": 299
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb9e",
+        "type": "fish-canned",
+        "name": "Fische (Dosen)",
+        "slug": "fische-dosen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb9e-3fdb4c98.png",
+        "usageByCountry": {
+          "AT": 20,
+          "AU": 0,
+          "BE": 4,
+          "CA": 0,
+          "CH": 0,
+          "DE": 18,
+          "ER": 0,
+          "FR": 1,
+          "GB": 0,
+          "LU": 6,
+          "NL": 0,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27b5f8b25e42438b4568",
+      "type": "rucola",
+      "name": "Rucola",
+      "slug": "rucola",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27b5f8b25e42438b4568.png",
+      "usage": 266,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f7",
+      "type": "fish",
+      "name": "Fisch",
+      "slug": "fisch",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "usage": 299
+    }
+  ],
+  "utensils": [],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b30531a",
+      "type": "low-calorie",
+      "name": "leichter Genuss",
+      "slug": "leichter-genuss",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 4438,
+      "numberOfRecipesByCountry": {
+        "AT": 1377,
+        "AU": 144,
+        "BE": 299,
+        "CA": 0,
+        "CH": 139,
+        "DE": 1205,
+        "ER": 0,
+        "FR": 128,
+        "GB": 111,
+        "LU": 576,
+        "NL": 380,
+        "NZ": 79,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d172533a58fe2e42242755",
+      "type": "thermomix-kocht",
+      "name": "Thermomix kocht",
+      "slug": "thermomix-kocht",
+      "iconLink": null,
+      "numberOfRecipes": 896,
+      "numberOfRecipesByCountry": {
+        "AT": 456,
+        "AU": 0,
+        "BE": 0,
+        "CA": 0,
+        "CH": 0,
+        "DE": 440,
+        "ER": 0,
+        "FR": 0,
+        "GB": 0,
+        "LU": 0,
+        "NL": 0,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": "thermomix",
+  "label": {
+    "text": "Thermomix",
+    "handle": "thermomix",
+    "backgroundColor": "#009747",
+    "foregroundColor": "#ffffff"
+  },
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "556d73c1fd2cb9c4078b4567",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "567270cdf8b25e663f8b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556ecabbf8b25e04068b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556ec8674dab7193558b4567",
+          "amount": 1,
+          "unit": "Dose"
+        },
+        {
+          "id": "554b27b5f8b25e42438b4568",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Wasche Gemüse und Kräuter ab. Heize den Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vor.\n\nTomaten halbieren, Strunk entfernen und Tomatenhälften in grobe Würfel schneiden. Blätter vom Estragon abzupfen. Knoblauch abziehen.",
+      "instructionsHTML": "<p>Wasche Gemüse und Kräuter ab. Heize den Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vor.</p>\n<p>Tomaten halbieren, Strunk entfernen und Tomatenhälften in grobe Würfel schneiden. Blätter vom Estragon abzupfen. Knoblauch abziehen.</p>",
+      "instructions": "Wasche Gemüse und Kräuter ab. Heize den Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vor.\nTomaten halbieren, Strunk entfernen und Tomatenhälften in grobe Würfel schneiden. Blätter vom Estragon abzupfen. Knoblauch abziehen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5899b5b69f236a4a17463092-0-0-5e3a1130.jpg",
+          "caption": "Tomaten schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2621fd2cb99c598b4576"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Thunfisch mit einer Gabel etwas zerteilen und in eine kleine Schüssel umfüllen.",
+      "instructionsHTML": "<p>Thunfisch mit einer Gabel etwas zerteilen und in eine kleine Schüssel umfüllen.</p>",
+      "instructions": "Thunfisch mit einer Gabel etwas zerteilen und in eine kleine Schüssel umfüllen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5899b5b69f236a4a17463092-1-0-439942ea.jpg",
+          "caption": "Thunfisch vorbereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556ec8674dab7193558b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Estragon und Knoblauch in den Mixtopf geben, 3 Sek./Stufe 8 zerkleinern. Mithilfe des Spatels nach unten schieben. 15 g Öl, Tomatenwürfel, 1 Prise Salz und Pfeffer\nzugeben und 6 Min./100 °C/Stufe 1 garen. \n\nTIPP: Estragon schmeckt sehr intensiv, taste Dich für die Soße langsam heran.",
+      "instructionsHTML": "<p>Estragon und Knoblauch in den Mixtopf geben, 3 Sek./Stufe 8 zerkleinern. Mithilfe des Spatels nach unten schieben. 15 g Öl, Tomatenwürfel, 1 Prise Salz und Pfeffer\nzugeben und 6 Min./100 °C/Stufe 1 garen. </p>\n<p>TIPP: Estragon schmeckt sehr intensiv, taste Dich für die Soße langsam heran.</p>",
+      "instructions": "Estragon und Knoblauch in den Mixtopf geben, 3 Sek./Stufe 8 zerkleinern. Mithilfe des Spatels nach unten schieben. 15 g Öl, Tomatenwürfel, 1 Prise Salz und Pfeffer\nzugeben und 6 Min./100 °C/Stufe 1 garen. \nTIPP: Estragon schmeckt sehr intensiv, taste Dich für die Soße langsam heran.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5899b5b69f236a4a17463092-2-0-1458c5e2.jpg",
+          "caption": "Soße zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556d73c1fd2cb9c4078b4567",
+        "567270cdf8b25e663f8b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Rote Zwiebel abziehen und in feine Ringe schneiden. Flammkuchenteig auf einem Backblech ausrollen.",
+      "instructionsHTML": "<p>Rote Zwiebel abziehen und in feine Ringe schneiden. Flammkuchenteig auf einem Backblech ausrollen.</p>",
+      "instructions": "Rote Zwiebel abziehen und in feine Ringe schneiden. Flammkuchenteig auf einem Backblech ausrollen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5899b5b69f236a4a17463092-3-0-05807209.jpg",
+          "caption": "Teig ausrollen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556ecabbf8b25e04068b4568",
+        "554b2abcf8b25eef3e8b4573"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Tomatensoße gleichmäßig auf dem Teig verstreichen, rundherum am Rand ca. 1 cm frei lassen. Mit Zwiebelringen und Thunfischstücken belegen und auf der\nmittleren Schiene im Backofen ca. 15 Min. backen, bis der Rand goldbraun ist.",
+      "instructionsHTML": "<p>Tomatensoße gleichmäßig auf dem Teig verstreichen, rundherum am Rand ca. 1 cm frei lassen. Mit Zwiebelringen und Thunfischstücken belegen und auf der\nmittleren Schiene im Backofen ca. 15 Min. backen, bis der Rand goldbraun ist.</p>",
+      "instructions": "Tomatensoße gleichmäßig auf dem Teig verstreichen, rundherum am Rand ca. 1 cm frei lassen. Mit Zwiebelringen und Thunfischstücken belegen und auf der\nmittleren Schiene im Backofen ca. 15 Min. backen, bis der Rand goldbraun ist.",
+      "timers": [
+        {
+          "name": "Flammkuchenteig backen",
+          "duration": "PT15M",
+          "temperature": 200,
+          "temperatureUnit": "C",
+          "ovenMode": "TopBottomHeating"
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5899b5b69f236a4a17463092-4-0-2dcc662a.jpg",
+          "caption": "Flammkuchenteig belegen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Thunfisch-Flammkuchen mit Rucola belegen und in Stücke schneiden. Tritt einen Schritt zurück. Sieht gut aus, oder?",
+      "instructionsHTML": "<p>Thunfisch-Flammkuchen mit Rucola belegen und in Stücke schneiden. Tritt einen Schritt zurück. Sieht gut aus, oder?</p>",
+      "instructions": "Thunfisch-Flammkuchen mit Rucola belegen und in Stücke schneiden. Tritt einen Schritt zurück. Sieht gut aus, oder?",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5899b5b69f236a4a17463092-5-0-f035b540.jpg",
+          "caption": "Anrichten und genießen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.4,
+  "ratingsCount": 57,
+  "favoritesCount": 156,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/schneller-thunfisch-flammkuchen-tm-5899b5b69f236a4a17463092",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

@@ -1,0 +1,1133 @@
+{
+  "country": "DE",
+  "id": "5513eb676ced6ee3448b456b",
+  "name": "Auberginen-„Caponata“",
+  "seoName": null,
+  "category": null,
+  "slug": "auberginen-caponata",
+  "headline": "sizilianische Art auf Tortiglioni",
+  "description": "Damit Deine Eierfrucht - wie die Aubergine auch genannt wird - lange frisch bleibt solltest Du sie lieber nicht mit Äpfeln oder Tomaten lagern, da diese Reifegase von sich geben, die der Aubergine nicht zusagen. Sie sollte auch nicht zu kühl gelagert werden. Sie mag es über 10 Grad warm. Guten Appetit.",
+  "descriptionHTML": "<p>Damit Deine Eierfrucht - wie die Aubergine auch genannt wird - lange frisch bleibt solltest Du sie lieber nicht mit Äpfeln oder Tomaten lagern, da diese Reifegase von sich geben, die der Aubergine nicht zusagen. Sie sollte auch nicht zu kühl gelagert werden. Sie mag es über 10 Grad warm. Guten Appetit.</p>",
+  "descriptionMarkdown": "Damit Deine Eierfrucht - wie die Aubergine auch genannt wird - lange frisch bleibt solltest Du sie lieber nicht mit Äpfeln oder Tomaten lagern, da diese Reifegase von sich geben, die der Aubergine nicht zusagen. Sie sollte auch nicht zu kühl gelagert werden. Sie mag es über 10 Grad warm. Guten Appetit.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT35M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-03-26T11:20:07+00:00",
+  "updatedAt": "2016-07-13T13:58:39+00:00",
+  "link": "https://hellofresh.com/recipes/5513eb676ced6ee3448b456b",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/5513eb676ced6ee3448b456b.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/5513eb676ced6ee3448b456b.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3171.472,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 758,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 29,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 101,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 22,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "55535c2efd2cb9ae048b4567",
+      "type": "aubergine",
+      "name": "Aubergine",
+      "slug": "aubergine",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55535c2efd2cb9ae048b4567.png",
+      "usage": 127,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb3b",
+        "type": "aubergine-eggplant",
+        "name": "Aubergine",
+        "slug": "aubergine",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb3b-df248e73.png",
+        "usageByCountry": {
+          "AT": 128,
+          "AU": 35,
+          "BE": 118,
+          "CA": 22,
+          "CH": 22,
+          "DE": 127,
+          "ER": 0,
+          "FR": 29,
+          "GB": 120,
+          "LU": 137,
+          "NL": 127,
+          "NZ": 3,
+          "ML": 9,
+          "US": 30
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566f93cfd2cb97e018b4568",
+      "type": "schalotte",
+      "name": "Schalotte",
+      "slug": "schalotte",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566f93cfd2cb97e018b4568.png",
+      "usage": 156,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556da575fd2cb9d1088b456a",
+      "type": "große tomate",
+      "name": "Große Tomate",
+      "slug": "grosze-tomate",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556da575fd2cb9d1088b456a.png",
+      "usage": 8,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d6f6cf8b25ee2718b456b",
+      "type": "staudensellerie",
+      "name": "Staudensellerie",
+      "slug": "staudensellerie",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d6f6cf8b25ee2718b456b.png",
+      "usage": 26,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb65",
+        "type": "celery",
+        "name": "Sellerie",
+        "slug": "sellerie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb65-d7edf01c.png",
+        "usageByCountry": {
+          "AT": 82,
+          "AU": 41,
+          "BE": 47,
+          "CA": 17,
+          "CH": 13,
+          "DE": 79,
+          "ER": 0,
+          "FR": 4,
+          "GB": 102,
+          "LU": 43,
+          "NL": 48,
+          "NZ": 10,
+          "ML": 24,
+          "US": 30
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b640e4dab711c0d8b456a",
+      "type": "gerebelter oregano",
+      "name": "gerebelter Oregano",
+      "slug": "gerebelter-oregano",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b640e4dab711c0d8b456a.png",
+      "usage": 37,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf0",
+        "type": "oregano",
+        "name": "Oregano",
+        "slug": "oregano",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf0-6e86fa56.png",
+        "usageByCountry": {
+          "AT": 189,
+          "AU": 88,
+          "BE": 199,
+          "CA": 43,
+          "CH": 36,
+          "DE": 166,
+          "ER": 6,
+          "FR": 31,
+          "GB": 89,
+          "LU": 160,
+          "NL": 225,
+          "NZ": 24,
+          "ML": 0,
+          "US": 155
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556db214f8b25e83738b4567",
+      "type": "kapern",
+      "name": "Kapern",
+      "slug": "kapern",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/556db214f8b25e83738b4567-6720f5b4.png",
+      "usage": 10,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5f",
+        "type": "capers",
+        "name": "Kapern",
+        "slug": "kapern",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5f-55628563.png",
+        "usageByCountry": {
+          "AT": 11,
+          "AU": 18,
+          "BE": 23,
+          "CA": 4,
+          "CH": 1,
+          "DE": 10,
+          "ER": 0,
+          "FR": 11,
+          "GB": 24,
+          "LU": 53,
+          "NL": 35,
+          "NZ": 3,
+          "ML": 0,
+          "US": 15
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556db2d74dab71e14a8b4568",
+      "type": "tortiglioni",
+      "name": "Tortiglioni",
+      "slug": "tortiglioni",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556db2d74dab71e14a8b4568.png",
+      "usage": 5,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbfd",
+        "type": "pasta",
+        "name": "Pasta",
+        "slug": "pasta",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbfd-6aeaecc6.png",
+        "usageByCountry": {
+          "AT": 442,
+          "AU": 193,
+          "BE": 394,
+          "CA": 103,
+          "CH": 92,
+          "DE": 427,
+          "ER": 30,
+          "FR": 113,
+          "GB": 276,
+          "LU": 485,
+          "NL": 454,
+          "NZ": 48,
+          "ML": 420,
+          "US": 506
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7f6cfd2cb911618b456b",
+      "type": "mandelblättchen",
+      "name": "Mandelblättchen",
+      "slug": "mandelblattchen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7f6cfd2cb911618b456b.png",
+      "usage": 71,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fb",
+          "type": "nuts",
+          "name": "Schalenfrüchte",
+          "slug": "schalenfruchte",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+          "usage": 300
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b32d1f8b25ef93e8b456e",
+      "type": "basilikum",
+      "name": "Basilikum",
+      "slug": "basilikum",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b32d1f8b25ef93e8b456e.png",
+      "usage": 428,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb45",
+        "type": "basil",
+        "name": "Basilikum",
+        "slug": "basilikum",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb45-a1061353.png",
+        "usageByCountry": {
+          "AT": 475,
+          "AU": 94,
+          "BE": 150,
+          "CA": 72,
+          "CH": 92,
+          "DE": 459,
+          "ER": 0,
+          "FR": 44,
+          "GB": 167,
+          "LU": 168,
+          "NL": 191,
+          "NZ": 14,
+          "ML": 0,
+          "US": 172
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34b64dab71aa058b4573",
+      "type": "petersilie",
+      "name": "Petersilie",
+      "slug": "petersilie",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34b64dab71aa058b4573.png",
+      "usage": 861,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "type": "nuts",
+      "name": "Schalenfrüchte",
+      "slug": "schalenfruchte",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "usage": 300
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italienisch",
+      "slug": "italienisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg",
+      "usage": 4262
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "55535c2efd2cb9ae048b4567",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "5566f93cfd2cb97e018b4568",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556da575fd2cb9d1088b456a",
+          "amount": 0.125,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556d6f6cf8b25ee2718b456b",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b640e4dab711c0d8b456a",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "556db214f8b25e83738b4567",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "id": "556db2d74dab71e14a8b4568",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b7f6cfd2cb911618b456b",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "554b32d1f8b25ef93e8b456e",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "55535c2efd2cb9ae048b4567",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "5566f93cfd2cb97e018b4568",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.25,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556da575fd2cb9d1088b456a",
+          "amount": 0.25,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556d6f6cf8b25ee2718b456b",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b640e4dab711c0d8b456a",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "id": "556db214f8b25e83738b4567",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "id": "556db2d74dab71e14a8b4568",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "554b7f6cfd2cb911618b456b",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "id": "554b32d1f8b25ef93e8b456e",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Aubergine waschen und in ca. 2 cm große Würfel schneiden. Schalotte und Knoblauch abziehen und fein hacken. Tomaten waschen und grob hacken. Sellerie waschen und in feine Scheiben schneiden. Kapern abgießen.",
+      "instructionsHTML": "<p>Aubergine waschen und in ca. 2 cm große Würfel schneiden. Schalotte und Knoblauch abziehen und fein hacken. Tomaten waschen und grob hacken. Sellerie waschen und in feine Scheiben schneiden. Kapern abgießen.</p>",
+      "instructions": "Aubergine waschen und in ca. 2 cm große Würfel schneiden. Schalotte und Knoblauch abziehen und fein hacken. Tomaten waschen und grob hacken. Sellerie waschen und in feine Scheiben schneiden. Kapern abgießen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5513eb676ced6ee3448b456b/step_5571ad238cc5c.jpg",
+          "caption": "Gemüse schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55535c2efd2cb9ae048b4567",
+        "5566f93cfd2cb97e018b4568",
+        "554b268ffd2cb983608b4568",
+        "556d6f6cf8b25ee2718b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "3 EL Olivenöl in einer Pfanne erwärmen. Aubergine zugeben und in ca. 15-20 Min. weich garen. Anschließend aus der Pfanne nehmen und kurz beiseitestellen.",
+      "instructionsHTML": "<p>3 EL Olivenöl in einer Pfanne erwärmen. Aubergine zugeben und in ca. 15-20 Min. weich garen. Anschließend aus der Pfanne nehmen und kurz beiseitestellen.</p>",
+      "instructions": "3 EL Olivenöl in einer Pfanne erwärmen. Aubergine zugeben und in ca. 15-20 Min. weich garen. Anschließend aus der Pfanne nehmen und kurz beiseitestellen.",
+      "timers": [
+        {
+          "name": "Aubergine weich garen",
+          "duration": "PT20M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "55535c2efd2cb9ae048b4567",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "1⁄2 EL Olivenöl erneut in der Pfanne erwärmen. Schalotten zugeben und ca. 2-3 Min. glasig dünsten. Tomaten und Knoblauch zugeben, Hitze herunterstufen und ca. 5 Min. anbraten, bis sie weich und etwas matschig werden. Dann Aubergine erneut zugegeben.",
+      "instructionsHTML": "<p>1⁄2 EL Olivenöl erneut in der Pfanne erwärmen. Schalotten zugeben und ca. 2-3 Min. glasig dünsten. Tomaten und Knoblauch zugeben, Hitze herunterstufen und ca. 5 Min. anbraten, bis sie weich und etwas matschig werden. Dann Aubergine erneut zugegeben.</p>",
+      "instructions": "1⁄2 EL Olivenöl erneut in der Pfanne erwärmen. Schalotten zugeben und ca. 2-3 Min. glasig dünsten. Tomaten und Knoblauch zugeben, Hitze herunterstufen und ca. 5 Min. anbraten, bis sie weich und etwas matschig werden. Dann Aubergine erneut zugegeben.",
+      "timers": [
+        {
+          "name": "Schalotten 3 Min. glasig dünsten",
+          "duration": "PT5M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        },
+        {
+          "name": "Anschließend Tomaten und Knoblauch zugeben",
+          "duration": "PT5M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5513eb676ced6ee3448b456b/step_5571ad23aeaa3.jpg",
+          "caption": "Auberginen hinzugeben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5566f93cfd2cb97e018b4568",
+        "554b268ffd2cb983608b4568",
+        "556da575fd2cb9d1088b456a",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Sellerie, Oregano und Kapern unterrühren, Pfanne mit einem Deckel versehen und ca. 20 weitere Min. kochen lassen. Mit etwas Salz, Pfeffer und 1 Prise Zucker abschmecken.",
+      "instructionsHTML": "<p>Sellerie, Oregano und Kapern unterrühren, Pfanne mit einem Deckel versehen und ca. 20 weitere Min. kochen lassen. Mit etwas Salz, Pfeffer und 1 Prise Zucker abschmecken.</p>",
+      "instructions": "Sellerie, Oregano und Kapern unterrühren, Pfanne mit einem Deckel versehen und ca. 20 weitere Min. kochen lassen. Mit etwas Salz, Pfeffer und 1 Prise Zucker abschmecken.",
+      "timers": [
+        {
+          "name": "Die Zutaten weiter 20 Min. kochen lassen",
+          "duration": "PT20M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5513eb676ced6ee3448b456b/step_5571ad23c3784.jpg",
+          "caption": "Sellerie, Oregano und Kapern unterrühren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556d6f6cf8b25ee2718b456b",
+        "554b640e4dab711c0d8b456a"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Tortiglioni in reichlich kochendem Salzwasser nach Packungsangabe bissfest garen. Mandelblättchen in einer Pfanne ohne Zusatz von Fett rösten, bis sie duften. Basilikum und Petersilie waschen, trocken schütteln, Blätter abzupfen und grob hacken.",
+      "instructionsHTML": "<p>Tortiglioni in reichlich kochendem Salzwasser nach Packungsangabe bissfest garen. Mandelblättchen in einer Pfanne ohne Zusatz von Fett rösten, bis sie duften. Basilikum und Petersilie waschen, trocken schütteln, Blätter abzupfen und grob hacken.</p>",
+      "instructions": "Tortiglioni in reichlich kochendem Salzwasser nach Packungsangabe bissfest garen. Mandelblättchen in einer Pfanne ohne Zusatz von Fett rösten, bis sie duften. Basilikum und Petersilie waschen, trocken schütteln, Blätter abzupfen und grob hacken.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556db2d74dab71e14a8b4568",
+        "554b7f6cfd2cb911618b456b",
+        "554b32d1f8b25ef93e8b456e",
+        "554b34b64dab71aa058b4573"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Tortiglioni nach Garzeit abgießen. 1 TL Olivenöl und Petersilie unterrühren.",
+      "instructionsHTML": "<p>Tortiglioni nach Garzeit abgießen. 1 TL Olivenöl und Petersilie unterrühren.</p>",
+      "instructions": "Tortiglioni nach Garzeit abgießen. 1 TL Olivenöl und Petersilie unterrühren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5513eb676ced6ee3448b456b/step_5571ad23dde55.jpg",
+          "caption": "Olivenöl und Petersilie unterrühren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Tortiglioni auf Tellern verteilen, Auberginen-Caponata darauf anrichten und mit Mandelblättchen und Basilikum bestreut genießen.",
+      "instructionsHTML": "<p>Tortiglioni auf Tellern verteilen, Auberginen-Caponata darauf anrichten und mit Mandelblättchen und Basilikum bestreut genießen.</p>",
+      "instructions": "Tortiglioni auf Tellern verteilen, Auberginen-Caponata darauf anrichten und mit Mandelblättchen und Basilikum bestreut genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3,
+  "ratingsCount": 331,
+  "favoritesCount": 80,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/auberginen-caponata-5513eb676ced6ee3448b456b",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

@@ -1,0 +1,964 @@
+{
+  "country": "DE",
+  "id": "56cc14e04dab7163418b4567",
+  "name": "Mediterranes Bohnenpüree mit Rucolasalat",
+  "seoName": null,
+  "category": null,
+  "slug": "mediterranes-bohnenpuree-mit-rucolasalat",
+  "headline": "und Feta",
+  "description": "Heute wird das Ciabatta nicht belegt, sondern in Form krosser Würfel selbst zur Beilage. Satt und gesund machen Dich außerdem die Bohnen, sie stecken voller Ballaststo\u001fffe, Proteine und zellschützenden Antioxidantien. Guten Appetit!",
+  "descriptionHTML": "<p>Heute wird das Ciabatta nicht belegt, sondern in Form krosser Würfel selbst zur Beilage. Satt und gesund machen Dich außerdem die Bohnen, sie stecken voller Ballaststo\u001fffe, Proteine und zellschützenden Antioxidantien. Guten Appetit!</p>",
+  "descriptionMarkdown": "Heute wird das Ciabatta nicht belegt, sondern in Form krosser Würfel selbst zur Beilage. Satt und gesund machen Dich außerdem die Bohnen, sie stecken voller Ballaststo\u001fffe, Proteine und zellschützenden Antioxidantien. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT20M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-02-23T08:14:24+00:00",
+  "updatedAt": "2017-04-03T09:17:03+00:00",
+  "link": "https://hellofresh.com/recipes/56cc14e04dab7163418b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/56cc14e04dab7163418b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/mediterranes-bohnenpuree-mit-rucolasalat-45c2fb8c.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2636,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 630,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 53,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 44,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 19,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "556d7036f8b25ee8718b4568",
+      "type": "weiße riesenbohnen",
+      "name": "weiße Riesenbohnen",
+      "slug": "weisze-riesenbohnen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d7036f8b25ee8718b4568.png",
+      "usage": 18,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4c",
+        "type": "beans",
+        "name": "Bohnen",
+        "slug": "bohnen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4c-15ab1383.png",
+        "usageByCountry": {
+          "AT": 255,
+          "AU": 115,
+          "BE": 77,
+          "CA": 78,
+          "CH": 43,
+          "DE": 231,
+          "ER": 3,
+          "FR": 28,
+          "GB": 241,
+          "LU": 95,
+          "NL": 51,
+          "NZ": 28,
+          "ML": 153,
+          "US": 198
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55ee903a4dab7123728b4568",
+      "type": "ciabatta-brotchen",
+      "name": "Ciabattabrötchen",
+      "slug": "ciabatta-brotchen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/55ee903a4dab7123728b4568-35e1eb0a.png",
+      "usage": 35,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b26d2f8b25ef53e8b4572",
+      "type": "mandeln",
+      "name": "Mandeln",
+      "slug": "mandeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b26d2f8b25ef53e8b4572.png",
+      "usage": 63,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fb",
+          "type": "nuts",
+          "name": "Schalenfrüchte",
+          "slug": "schalenfruchte",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+          "usage": 300
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "56bdcfaa4dab71ac4b8b4567",
+      "type": "zitrone, bio",
+      "name": "Zitrone, bio",
+      "slug": "zitrone-bio",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/56bdcfaa4dab71ac4b8b4567.png",
+      "usage": 25,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27b5f8b25e42438b4568",
+      "type": "rucola",
+      "name": "Rucola",
+      "slug": "rucola",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27b5f8b25e42438b4568.png",
+      "usage": 266,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2a87f8b25ef53e8b4573",
+      "type": "kirschtomaten",
+      "name": "Kirschtomaten",
+      "slug": "kirschtomaten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2a87f8b25ef53e8b4573.png",
+      "usage": 324,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da9924dab714b1b8b4567",
+      "type": "feta",
+      "name": "Feta",
+      "slug": "feta",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da9924dab714b1b8b4567.png",
+      "usage": 113,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3639f8b25eef3e8b4575",
+      "type": "gemusebruhe-home",
+      "name": "Gemüsebrühe*",
+      "slug": "gemusebruhe",
+      "description": null,
+      "internalName": "Gemüsebrühe home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3639f8b25eef3e8b4575.png",
+      "usage": 441,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "type": "nuts",
+      "name": "Schalenfrüchte",
+      "slug": "schalenfruchte",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "usage": 300
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b3053a1",
+      "type": "smallpot",
+      "name": "Kleiner Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539a",
+      "type": "stick-blender",
+      "name": "Stabmixer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536e",
+      "type": "grater",
+      "name": "Reibe"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b8",
+      "type": "mediterranean",
+      "name": "Mediterran",
+      "slug": "mediterran",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b8-f04aa19c.jpg",
+      "usage": 1179
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "556d7036f8b25ee8718b4568",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.25,
+          "unit": "Stück"
+        },
+        {
+          "id": "55ee903a4dab7123728b4568",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b26d2f8b25ef53e8b4572",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "56bdcfaa4dab71ac4b8b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b27b5f8b25e42438b4568",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "554b2a87f8b25ef53e8b4573",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "555da9924dab714b1b8b4567",
+          "amount": 125,
+          "unit": "g"
+        },
+        {
+          "id": "554b3639f8b25eef3e8b4575",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Zwiebel und Knoblauch abziehen und hacken. In einem kleinen Topf heiße Gemüsebrühe zubereiten. Riesenbohnen in einem Sieb mit kaltem Wasser abspülen und abtropfen lassen. Bohnen zusammen mit der Zwiebel und der Häl\u001efte des Knoblauchs in der Brühe aufkochen und zugedeckt ca. 5 Min. weiterköcheln lassen. Anschließend mit dem Pürierstab sämig pürieren.",
+      "instructionsHTML": "<p>Zwiebel und Knoblauch abziehen und hacken. In einem kleinen Topf heiße Gemüsebrühe zubereiten. Riesenbohnen in einem Sieb mit kaltem Wasser abspülen und abtropfen lassen. Bohnen zusammen mit der Zwiebel und der Häl\u001efte des Knoblauchs in der Brühe aufkochen und zugedeckt ca. 5 Min. weiterköcheln lassen. Anschließend mit dem Pürierstab sämig pürieren.</p>",
+      "instructions": "Zwiebel und Knoblauch abziehen und hacken. In einem kleinen Topf heiße Gemüsebrühe zubereiten. Riesenbohnen in einem Sieb mit kaltem Wasser abspülen und abtropfen lassen. Bohnen zusammen mit der Zwiebel und der Häl\u001efte des Knoblauchs in der Brühe aufkochen und zugedeckt ca. 5 Min. weiterköcheln lassen. Anschließend mit dem Pürierstab sämig pürieren.",
+      "timers": [
+        {
+          "name": "Bohnen garen",
+          "duration": "PT5M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56cc14e04dab7163418b4567/step_56d089943385c.jpg",
+          "caption": "Riesenbohnen abspülen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556d7036f8b25ee8718b4568",
+        "554b34554dab71a6058b4576",
+        "554b268ffd2cb983608b4568",
+        "554b3639f8b25eef3e8b4575"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a1",
+        "57e2674fb7e8697d4b305382",
+        "57e2674fb7e8697d4b30539a"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Ciabatta-Brötchen würfeln. Mandeln in der Verpackung mit dem Boden eines Topfs etwas zerdrücken. Zitrone heiß abwaschen, Schale fein abreiben und entsa\u001eften. Für den Salat Rucola waschen und in einem Sieb abtropfen lassen. Kirschtomaten waschen und halbieren.",
+      "instructionsHTML": "<p>Ciabatta-Brötchen würfeln. Mandeln in der Verpackung mit dem Boden eines Topfs etwas zerdrücken. Zitrone heiß abwaschen, Schale fein abreiben und entsa\u001eften. Für den Salat Rucola waschen und in einem Sieb abtropfen lassen. Kirschtomaten waschen und halbieren.</p>",
+      "instructions": "Ciabatta-Brötchen würfeln. Mandeln in der Verpackung mit dem Boden eines Topfs etwas zerdrücken. Zitrone heiß abwaschen, Schale fein abreiben und entsa\u001eften. Für den Salat Rucola waschen und in einem Sieb abtropfen lassen. Kirschtomaten waschen und halbieren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56cc14e04dab7163418b4567/step_56d089944a835.jpg",
+          "caption": "Mandeln zerdrücken"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55ee903a4dab7123728b4568",
+        "554b26d2f8b25ef53e8b4572",
+        "56bdcfaa4dab71ac4b8b4567",
+        "554b27b5f8b25e42438b4568",
+        "554b2a87f8b25ef53e8b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536e",
+        "57e2674fb7e8697d4b305382",
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einer großen Pfanne einen Schuss Olivenöl erhitzen, Ciabatta-Würfel darin ca. 5 Min. von allen Seiten goldbraun anbraten. Mandeln, restlichen Knoblauch und Zitronenabrieb dazugeben und alles gut miteinander vermischen.",
+      "instructionsHTML": "<p>In einer großen Pfanne einen Schuss Olivenöl erhitzen, Ciabatta-Würfel darin ca. 5 Min. von allen Seiten goldbraun anbraten. Mandeln, restlichen Knoblauch und Zitronenabrieb dazugeben und alles gut miteinander vermischen.</p>",
+      "instructions": "In einer großen Pfanne einen Schuss Olivenöl erhitzen, Ciabatta-Würfel darin ca. 5 Min. von allen Seiten goldbraun anbraten. Mandeln, restlichen Knoblauch und Zitronenabrieb dazugeben und alles gut miteinander vermischen.",
+      "timers": [
+        {
+          "name": "Ciabatta-Würfel anbraten",
+          "duration": "PT5M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56cc14e04dab7163418b4567/step_56d0899476a89.jpg",
+          "caption": "Ciabatta-Würfel rösten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b268ffd2cb983608b4568",
+        "55ee903a4dab7123728b4568",
+        "554b26d2f8b25ef53e8b4572",
+        "56bdcfaa4dab71ac4b8b4567",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer Schüssel Zitronensaft mit 1 EL Olivenöl, Salz und Pfeffer zu einem Dressing verrühren. Rucola und Kirschtomaten damit vermischen und kurz ziehen lassen. Feta würfeln.",
+      "instructionsHTML": "<p>In einer Schüssel Zitronensaft mit 1 EL Olivenöl, Salz und Pfeffer zu einem Dressing verrühren. Rucola und Kirschtomaten damit vermischen und kurz ziehen lassen. Feta würfeln.</p>",
+      "instructions": "In einer Schüssel Zitronensaft mit 1 EL Olivenöl, Salz und Pfeffer zu einem Dressing verrühren. Rucola und Kirschtomaten damit vermischen und kurz ziehen lassen. Feta würfeln.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56cc14e04dab7163418b4567/step_56d08994a1459.jpg",
+          "caption": "Feta zerkleinern"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "56bdcfaa4dab71ac4b8b4567",
+        "554b27b5f8b25e42438b4568",
+        "554b2a87f8b25ef53e8b4573",
+        "555da9924dab714b1b8b4567",
+        "554b22cb4dab71c8058b4570",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Zum Anrichten Bohnenpüree auf die Mitte der Teller geben und mit einem Löffel je eine Mulde formen. Rucolasalat darin anrichten und mit Ciabatta-Würfeln bestreuen. Feta darauf verteilen und genießen!",
+      "instructionsHTML": "<p>Zum Anrichten Bohnenpüree auf die Mitte der Teller geben und mit einem Löffel je eine Mulde formen. Rucolasalat darin anrichten und mit Ciabatta-Würfeln bestreuen. Feta darauf verteilen und genießen!</p>",
+      "instructions": "Zum Anrichten Bohnenpüree auf die Mitte der Teller geben und mit einem Löffel je eine Mulde formen. Rucolasalat darin anrichten und mit Ciabatta-Würfeln bestreuen. Feta darauf verteilen und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556d7036f8b25ee8718b4568",
+        "55ee903a4dab7123728b4568",
+        "554b27b5f8b25e42438b4568",
+        "555da9924dab714b1b8b4567"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.1,
+  "ratingsCount": 412,
+  "favoritesCount": 485,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/mediterranes-bohnenpuree-mit-rucolasalat-56cc14e04dab7163418b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

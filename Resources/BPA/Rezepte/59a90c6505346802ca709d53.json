@@ -1,0 +1,966 @@
+{
+  "country": "DE",
+  "id": "59a90c6505346802ca709d53",
+  "name": "Gebratene Eierspätzle",
+  "seoName": "Gebratene Eierspätzle",
+  "category": null,
+  "slug": "gebratene-eierspatzle",
+  "headline": "mit Mozzarella und Pinienkernen",
+  "description": "Man nehme das Lieblingsgericht der Schwaben, verbinde es mit der aromatisch-mediterranen Küche Italiens und heraus kommt diese Geschmacksexplosion: gebratene Eierspätzle all’italiana, wie wir sie liebevoll nennen! Eine völlig neue und inspirierende Variante eines echten Klassikers\n– lass es Dir schmecken!",
+  "descriptionHTML": "<p>Man nehme das Lieblingsgericht der Schwaben, verbinde es mit der aromatisch-mediterranen Küche Italiens und heraus kommt diese Geschmacksexplosion: gebratene Eierspätzle all’italiana, wie wir sie liebevoll nennen! Eine völlig neue und inspirierende Variante eines echten Klassikers\n– lass es Dir schmecken!</p>",
+  "descriptionMarkdown": "Man nehme das Lieblingsgericht der Schwaben, verbinde es mit der aromatisch-mediterranen Küche Italiens und heraus kommt diese Geschmacksexplosion: gebratene Eierspätzle all’italiana, wie wir sie liebevoll nennen! Eine völlig neue und inspirierende Variante eines echten Klassikers \n– lass es Dir schmecken!",
+  "seoDescription": "Schnell und einfach: Gebratene Käsespätzle. Genieße unser Rezept mit frischen Eierspäzle und getrockneten Tomaten.",
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT25M",
+  "totalTime": null,
+  "servingSize": 500,
+  "createdAt": "2017-09-01T07:29:41+00:00",
+  "updatedAt": "2017-12-22T11:13:32+00:00",
+  "link": "https://hellofresh.com/recipes/59a90c6505346802ca709d53",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/gebratene-kasespatzle-461950a0.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/gebratene-eierspatzle-4d76a528.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2682,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 641,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 73,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 16,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 31,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 3,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b32d1f8b25ef93e8b456e",
+      "type": "basilikum",
+      "name": "Basilikum",
+      "slug": "basilikum",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b32d1f8b25ef93e8b456e.png",
+      "usage": 428,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb45",
+        "type": "basil",
+        "name": "Basilikum",
+        "slug": "basilikum",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb45-a1061353.png",
+        "usageByCountry": {
+          "AT": 475,
+          "AU": 94,
+          "BE": 150,
+          "CA": 72,
+          "CH": 92,
+          "DE": 459,
+          "ER": 0,
+          "FR": 44,
+          "GB": 167,
+          "LU": 168,
+          "NL": 191,
+          "NZ": 14,
+          "ML": 0,
+          "US": 172
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0ad83f8b25ea63d8b4567",
+      "type": "eierspätzle",
+      "name": "Eierspätzle",
+      "slug": "eierspatzle",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55b0ad83f8b25ea63d8b4567-e695bd79.png",
+      "usage": 33,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f6",
+          "type": "egg",
+          "name": "Ei",
+          "slug": "ei",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+          "usage": 365
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbfd",
+        "type": "pasta",
+        "name": "Pasta",
+        "slug": "pasta",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbfd-6aeaecc6.png",
+        "usageByCountry": {
+          "AT": 442,
+          "AU": 193,
+          "BE": 394,
+          "CA": 103,
+          "CH": 92,
+          "DE": 427,
+          "ER": 30,
+          "FR": 113,
+          "GB": 276,
+          "LU": 485,
+          "NL": 454,
+          "NZ": 48,
+          "ML": 420,
+          "US": 506
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2a87f8b25ef53e8b4573",
+      "type": "kirschtomaten",
+      "name": "Kirschtomaten",
+      "slug": "kirschtomaten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2a87f8b25ef53e8b4573.png",
+      "usage": 324,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27104dab71a9058b456c",
+      "type": "getrocknete tomaten",
+      "name": "getrocknete Tomaten",
+      "slug": "getrocknete-tomaten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27104dab71a9058b456c.png",
+      "usage": 142,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "58da10324f78db45e7284f92",
+      "type": "gemusebruhe-shipped",
+      "name": "Gemüsebrühe",
+      "slug": "gemusebruhe",
+      "description": null,
+      "internalName": "Gemüsebrühe shipped",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/58da10324f78db45e7284f92-e0564ca4.png",
+      "usage": 201,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "58aee2f831310069c42647c2",
+      "type": "mozzarella-bocconcino",
+      "name": "Mozzarella \"Bocconcino\"",
+      "slug": "mozzarella-bocconcino",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/58aee2f831310069c42647c2-cb626547.png",
+      "usage": 47,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c13a14dab71a3398b4567",
+      "type": "pinienkerne",
+      "name": "Pinienkerne",
+      "slug": "pinienkerne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c13a14dab71a3398b4567.png",
+      "usage": 130,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2aa14dab71aa058b4570",
+      "type": "zucchini",
+      "name": "Zucchini",
+      "slug": "zucchini",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2aa14dab71aa058b4570-0ba23f81.png",
+      "usage": 435,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc58",
+        "type": "zucchini",
+        "name": "Zucchini",
+        "slug": "zucchini",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc58-4066951c.png",
+        "usageByCountry": {
+          "AT": 449,
+          "AU": 407,
+          "BE": 0,
+          "CA": 103,
+          "CH": 74,
+          "DE": 439,
+          "ER": 23,
+          "FR": 0,
+          "GB": 0,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 110,
+          "ML": 163,
+          "US": 443
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "type": "egg",
+      "name": "Ei",
+      "slug": "ei",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "usage": 365
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b30530e",
+      "type": "under-30-minutes",
+      "name": "Zeit sparen",
+      "slug": "zeit-sparen",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/HF_Icon_App_LessThan30min.png",
+      "numberOfRecipes": 4370,
+      "numberOfRecipesByCountry": {
+        "AT": 1140,
+        "AU": 141,
+        "BE": 540,
+        "CA": 0,
+        "CH": 201,
+        "DE": 989,
+        "ER": 0,
+        "FR": 128,
+        "GB": 0,
+        "LU": 581,
+        "NL": 644,
+        "NZ": 0,
+        "ML": 0,
+        "US": 6
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b30531a",
+      "type": "low-calorie",
+      "name": "leichter Genuss",
+      "slug": "leichter-genuss",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 4438,
+      "numberOfRecipesByCountry": {
+        "AT": 1377,
+        "AU": 144,
+        "BE": 299,
+        "CA": 0,
+        "CH": 139,
+        "DE": 1205,
+        "ER": 0,
+        "FR": 128,
+        "GB": 111,
+        "LU": 576,
+        "NL": 380,
+        "NZ": 79,
+        "ML": 0,
+        "US": 0
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italienisch",
+      "slug": "italienisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg",
+      "usage": 4262
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b32d1f8b25ef93e8b456e",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "55b0ad83f8b25ea63d8b4567",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "554b2a87f8b25ef53e8b4573",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b27104dab71a9058b456c",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "58da10324f78db45e7284f92",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "id": "58aee2f831310069c42647c2",
+          "amount": 125,
+          "unit": "g"
+        },
+        {
+          "id": "556c13a14dab71a3398b4567",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "554b2aa14dab71aa058b4570",
+          "amount": 1,
+          "unit": "Stück"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b32d1f8b25ef93e8b456e",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "55b0ad83f8b25ea63d8b4567",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "id": "554b2a87f8b25ef53e8b4573",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "554b27104dab71a9058b456c",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "58da10324f78db45e7284f92",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "id": "58aee2f831310069c42647c2",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "556c13a14dab71a3398b4567",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "554b2aa14dab71aa058b4570",
+          "amount": 2,
+          "unit": "Stück"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Wasche Gemüse und Kräuter ab. Zum Kochen benötigst Du außerdem 1 große Pfanne (mit Deckel), einen Sparschäler und eine Gemüsereibe.\n\nBlätter vom Basilikum abzupfen und grob hacken. Kirschtomaten halbieren. Getrocknete Tomaten grob hacken. Aus der Gemüsebrühe und 50 ml [100 ml] heißem Wasser eine Brühe vorbereiten. Mozzarella in ca. 1 cm große Würfel schneiden. Zucchini der Länge nach mit einem Sparschäler in Streifen schneiden.",
+      "instructionsHTML": "<p>Wasche Gemüse und Kräuter ab. Zum Kochen benötigst Du außerdem 1 große Pfanne (mit Deckel), einen Sparschäler und eine Gemüsereibe.</p>\n<p>Blätter vom Basilikum abzupfen und grob hacken. Kirschtomaten halbieren. Getrocknete Tomaten grob hacken. Aus der Gemüsebrühe und 50 ml [100 ml] heißem Wasser eine Brühe vorbereiten. Mozzarella in ca. 1 cm große Würfel schneiden. Zucchini der Länge nach mit einem Sparschäler in Streifen schneiden.</p>",
+      "instructions": "Wasche Gemüse und Kräuter ab. Zum Kochen benötigst Du außerdem 1 große Pfanne (mit Deckel), einen Sparschäler und eine Gemüsereibe.\nBlätter vom Basilikum abzupfen und grob hacken. Kirschtomaten halbieren. Getrocknete Tomaten grob hacken. Aus der Gemüsebrühe und 50 ml [100 ml] heißem Wasser eine Brühe vorbereiten. Mozzarella in ca. 1 cm große Würfel schneiden. Zucchini der Länge nach mit einem Sparschäler in Streifen schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/59a90c6505346802ca709d53-0-0-394a219f.jpg",
+          "caption": "VORBEREITEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "In einer großen Pfanne Pinienkerne ohne Fettzugabe bei mittlerer Hitze 2 – 3 Min. rösten, bis sie fein duften. Anschließend aus der Pfanne nehmen und kurz abkühlen lassen.",
+      "instructionsHTML": "<p>In einer großen Pfanne Pinienkerne ohne Fettzugabe bei mittlerer Hitze 2 – 3 Min. rösten, bis sie fein duften. Anschließend aus der Pfanne nehmen und kurz abkühlen lassen.</p>",
+      "instructions": "In einer großen Pfanne Pinienkerne ohne Fettzugabe bei mittlerer Hitze 2 – 3 Min. rösten, bis sie fein duften. Anschließend aus der Pfanne nehmen und kurz abkühlen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/59a90c6505346802ca709d53-1-0-ebc23eff.jpg",
+          "caption": "PINIENKERNE RÖSTEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In derselben Pfanne 1 TL [1 EL] Öl erhitzen, Eierspätzle darin 3 – 6 Min. unter Wenden anbraten, bis sie goldbraun sind.",
+      "instructionsHTML": "<p>In derselben Pfanne 1 TL [1 EL] Öl erhitzen, Eierspätzle darin 3 – 6 Min. unter Wenden anbraten, bis sie goldbraun sind.</p>",
+      "instructions": "In derselben Pfanne 1 TL [1 EL] Öl erhitzen, Eierspätzle darin 3 – 6 Min. unter Wenden anbraten, bis sie goldbraun sind.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/59a90c6505346802ca709d53-2-0-890d1c68.jpg",
+          "caption": "SPÄTZLE BRATEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Anschließend mit Gemüsebrühe ablöschen. Kirschtomatenhälften hinzugeben und 3 – 4 Min. schmoren lassen.",
+      "instructionsHTML": "<p>Anschließend mit Gemüsebrühe ablöschen. Kirschtomatenhälften hinzugeben und 3 – 4 Min. schmoren lassen.</p>",
+      "instructions": "Anschließend mit Gemüsebrühe ablöschen. Kirschtomatenhälften hinzugeben und 3 – 4 Min. schmoren lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/59a90c6505346802ca709d53-3-0-516f501c.jpg",
+          "caption": "WEITERSCHMOREN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "½ des gehackten Basilikums, gehackte getrocknete Tomaten und Zucchinistreifen unterheben. Mit Salz und Pfeffer abschmecken. Deckel aufsetzen und Spätzlepfanne bei schwacher Hitze ca. 3 Min. weitergaren.",
+      "instructionsHTML": "<p>½ des gehackten Basilikums, gehackte getrocknete Tomaten und Zucchinistreifen unterheben. Mit Salz und Pfeffer abschmecken. Deckel aufsetzen und Spätzlepfanne bei schwacher Hitze ca. 3 Min. weitergaren.</p>",
+      "instructions": "½ des gehackten Basilikums, gehackte getrocknete Tomaten und Zucchinistreifen unterheben. Mit Salz und Pfeffer abschmecken. Deckel aufsetzen und Spätzlepfanne bei schwacher Hitze ca. 3 Min. weitergaren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/59a90c6505346802ca709d53-4-0-d4ecf5bc.jpg",
+          "caption": "ABSCHMECKEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Spätzle auf Teller verteilen, mit gerösteten Pinienkernen, Mozzarellawürfeln und restlichem Basilikum garnieren und genießen.\n\n**Guten Appetit!**",
+      "instructionsHTML": "<p>Spätzle auf Teller verteilen, mit gerösteten Pinienkernen, Mozzarellawürfeln und restlichem Basilikum garnieren und genießen.</p>\n<p><strong>Guten Appetit!</strong></p>",
+      "instructions": "Spätzle auf Teller verteilen, mit gerösteten Pinienkernen, Mozzarellawürfeln und restlichem Basilikum garnieren und genießen.\nGuten Appetit!",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/59a90c6505346802ca709d53-5-0-50e78f98.jpg",
+          "caption": "ANRICHTEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.1,
+  "ratingsCount": 536,
+  "favoritesCount": 951,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/gebratene-eierspatzle-59a90c6505346802ca709d53",
+  "clonedFrom": "593e5fc1171c584f62626c72",
+  "canonical": null,
+  "canonicalLink": null
+}

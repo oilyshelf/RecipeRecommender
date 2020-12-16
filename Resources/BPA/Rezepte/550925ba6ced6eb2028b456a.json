@@ -1,0 +1,934 @@
+{
+  "country": "DE",
+  "id": "550925ba6ced6eb2028b456a",
+  "name": "Schnitzel „natur‘“ auf Zucchinitagliatelle",
+  "seoName": null,
+  "category": null,
+  "slug": "schnitzel-natur-auf-zucchinitagliatelle",
+  "headline": "mit Parmesan-Zitronensoße",
+  "description": "Weniger Kohlenhydrate und trotzdem lecker? Kein Problem. Ganz einfach Nudeln aus Zucchini zaubern. Dafür braucht man nur einen Gemüseschäler und schon entsteht aus einer Zucchini Pasta, die vollgepackt ist mit Vitaminen und fast komplett auf Kohlenhydrate verzichtet. Guten Appetit!",
+  "descriptionHTML": "<p>Weniger Kohlenhydrate und trotzdem lecker? Kein Problem. Ganz einfach Nudeln aus Zucchini zaubern. Dafür braucht man nur einen Gemüseschäler und schon entsteht aus einer Zucchini Pasta, die vollgepackt ist mit Vitaminen und fast komplett auf Kohlenhydrate verzichtet. Guten Appetit!</p>",
+  "descriptionMarkdown": "Weniger Kohlenhydrate und trotzdem lecker? Kein Problem. Ganz einfach Nudeln aus Zucchini zaubern. Dafür braucht man nur einen Gemüseschäler und schon entsteht aus einer Zucchini Pasta, die vollgepackt ist mit Vitaminen und fast komplett auf Kohlenhydrate verzichtet. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 3,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-03-18T07:14:02+00:00",
+  "updatedAt": "2017-03-30T08:38:13+00:00",
+  "link": "https://hellofresh.com/recipes/550925ba6ced6eb2028b456a",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/550925ba6ced6eb2028b456a.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/550925ba6ced6eb2028b456a.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2246.808,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 537,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 34,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 13,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 41,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "556d8275fd2cb924088b4567",
+      "type": "schnitzel",
+      "name": "Schnitzel",
+      "slug": "schnitzel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d8275fd2cb924088b4567.png",
+      "usage": 1,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6b",
+        "type": "chicken",
+        "name": "Hähnchen",
+        "slug": "hahnchen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6b-8f15f243.png",
+        "usageByCountry": {
+          "AT": 293,
+          "AU": 427,
+          "BE": 305,
+          "CA": 214,
+          "CH": 94,
+          "DE": 262,
+          "ER": 62,
+          "FR": 92,
+          "GB": 486,
+          "LU": 380,
+          "NL": 282,
+          "NZ": 125,
+          "ML": 653,
+          "US": 668
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2aa14dab71aa058b4570",
+      "type": "zucchini",
+      "name": "Zucchini",
+      "slug": "zucchini",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2aa14dab71aa058b4570-0ba23f81.png",
+      "usage": 435,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc58",
+        "type": "zucchini",
+        "name": "Zucchini",
+        "slug": "zucchini",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc58-4066951c.png",
+        "usageByCountry": {
+          "AT": 449,
+          "AU": 407,
+          "BE": 0,
+          "CA": 103,
+          "CH": 74,
+          "DE": 439,
+          "ER": 23,
+          "FR": 0,
+          "GB": 0,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 110,
+          "ML": 163,
+          "US": 443
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b200f4dab71aa058b456f",
+      "type": "parmesan d.o.p.",
+      "name": "Parmesan D.O.P.",
+      "slug": "parmesan-d-o-p",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b200f4dab71aa058b456f.png",
+      "usage": 168,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3300fd2cb973608b4569",
+      "type": "milch-home",
+      "name": "Milch*",
+      "slug": "milch",
+      "description": null,
+      "internalName": "Milch [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3300fd2cb973608b4569.png",
+      "usage": 111,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbd9",
+        "type": "milk",
+        "name": "Milch",
+        "slug": "milch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbd9-a1323e62.png",
+        "usageByCountry": {
+          "AT": 194,
+          "AU": 281,
+          "BE": 254,
+          "CA": 57,
+          "CH": 28,
+          "DE": 178,
+          "ER": 11,
+          "FR": 54,
+          "GB": 28,
+          "LU": 288,
+          "NL": 288,
+          "NZ": 102,
+          "ML": 11,
+          "US": 176
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2645fd2cb983608b4567",
+      "type": "frischer oregano",
+      "name": "frischer Oregano",
+      "slug": "frischer-oregano",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2645fd2cb983608b4567.png",
+      "usage": 120,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf0",
+        "type": "oregano",
+        "name": "Oregano",
+        "slug": "oregano",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf0-6e86fa56.png",
+        "usageByCountry": {
+          "AT": 189,
+          "AU": 88,
+          "BE": 199,
+          "CA": 43,
+          "CH": 36,
+          "DE": 166,
+          "ER": 6,
+          "FR": 31,
+          "GB": 89,
+          "LU": 160,
+          "NL": 225,
+          "NZ": 24,
+          "ML": 0,
+          "US": 155
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5568443bfd2cb985278b4569",
+      "type": "geflügelbrühe",
+      "name": "Geflügelbrühe",
+      "slug": "geflugelbruhe",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5568443bfd2cb985278b4569.png",
+      "usage": 35,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dc1a9fd2cb944758b4569",
+      "type": "mehl-home",
+      "name": "Mehl*",
+      "slug": "mehl",
+      "description": null,
+      "internalName": "Mehl home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dc1a9fd2cb944758b4569.png",
+      "usage": 156,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba0",
+        "type": "flour",
+        "name": "Mehl",
+        "slug": "mehl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba0-03891dce.png",
+        "usageByCountry": {
+          "AT": 391,
+          "AU": 201,
+          "BE": 10,
+          "CA": 106,
+          "CH": 74,
+          "DE": 383,
+          "ER": 19,
+          "FR": 0,
+          "GB": 141,
+          "LU": 5,
+          "NL": 14,
+          "NZ": 74,
+          "ML": 9,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30536e",
+      "type": "grater",
+      "name": "Reibe"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305316",
+      "type": "low-carb",
+      "name": "Low Carb",
+      "slug": "low-carb",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 82,
+      "numberOfRecipesByCountry": {
+        "AT": 28,
+        "AU": 21,
+        "BE": 0,
+        "CA": 0,
+        "CH": 7,
+        "DE": 26,
+        "ER": 0,
+        "FR": 0,
+        "GB": 0,
+        "LU": 0,
+        "NL": 0,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "556d8275fd2cb924088b4567",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2aa14dab71aa058b4570",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 0.5,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b200f4dab71aa058b456f",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "id": "554b3300fd2cb973608b4569",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "id": "554b2645fd2cb983608b4567",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "5568443bfd2cb985278b4569",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555dc1a9fd2cb944758b4569",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "556d8275fd2cb924088b4567",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2aa14dab71aa058b4570",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b200f4dab71aa058b456f",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "id": "554b3300fd2cb973608b4569",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "id": "554b2645fd2cb983608b4567",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "5568443bfd2cb985278b4569",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555dc1a9fd2cb944758b4569",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Schnitzel aus dem Kühlschrank nehmen, damit diese Zimmertemperatur erreichen können.",
+      "instructionsHTML": "<p>Schnitzel aus dem Kühlschrank nehmen, damit diese Zimmertemperatur erreichen können.</p>",
+      "instructions": "Schnitzel aus dem Kühlschrank nehmen, damit diese Zimmertemperatur erreichen können.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556d8275fd2cb924088b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Zucchini waschen, Enden abschneiden und mithilfe eines Sparschälers in feine Streifen schneiden. Dann längs in drei dünnere Streifen schneiden, damit sie wie Tagliatelle aussehen. Zitrone entsaften, Parmesan fein reiben. 100 ml heiße Geflügelbrühe zubereiten. Oregano waschen, trocken schütteln, Blätter abzupfen und grob hacken.",
+      "instructionsHTML": "<p>Zucchini waschen, Enden abschneiden und mithilfe eines Sparschälers in feine Streifen schneiden. Dann längs in drei dünnere Streifen schneiden, damit sie wie Tagliatelle aussehen. Zitrone entsaften, Parmesan fein reiben. 100 ml heiße Geflügelbrühe zubereiten. Oregano waschen, trocken schütteln, Blätter abzupfen und grob hacken.</p>",
+      "instructions": "Zucchini waschen, Enden abschneiden und mithilfe eines Sparschälers in feine Streifen schneiden. Dann längs in drei dünnere Streifen schneiden, damit sie wie Tagliatelle aussehen. Zitrone entsaften, Parmesan fein reiben. 100 ml heiße Geflügelbrühe zubereiten. Oregano waschen, trocken schütteln, Blätter abzupfen und grob hacken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/550925ba6ced6eb2028b456a/step_556d855c9609f.jpg",
+          "caption": "Zuchini zur Tagliatelleform schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2aa14dab71aa058b4570",
+        "554b1de2f8b25ef93e8b456b",
+        "554b200f4dab71aa058b456f",
+        "554b2645fd2cb983608b4567",
+        "5568443bfd2cb985278b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536e"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Schnitzel mit dem Boden einer Pfanne behutsam flacher klopfen. Dann mit Salz und Pfeffer würzen und in etwas Mehl wenden. 1 EL Olivenöl in einer großen beschichteten Pfanne erhitzen. Schnitzel darin ca. 2 Min. je Seite anbraten, anschließend warmhalten.",
+      "instructionsHTML": "<p>Schnitzel mit dem Boden einer Pfanne behutsam flacher klopfen. Dann mit Salz und Pfeffer würzen und in etwas Mehl wenden. 1 EL Olivenöl in einer großen beschichteten Pfanne erhitzen. Schnitzel darin ca. 2 Min. je Seite anbraten, anschließend warmhalten.</p>",
+      "instructions": "Schnitzel mit dem Boden einer Pfanne behutsam flacher klopfen. Dann mit Salz und Pfeffer würzen und in etwas Mehl wenden. 1 EL Olivenöl in einer großen beschichteten Pfanne erhitzen. Schnitzel darin ca. 2 Min. je Seite anbraten, anschließend warmhalten.",
+      "timers": [
+        {
+          "name": "Schnitzel braten",
+          "duration": "PT4M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/550925ba6ced6eb2028b456a/step_556d855cac5a6.jpg",
+          "caption": "Schnitzel zubereiten und braten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556d8275fd2cb924088b4567",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573",
+        "555dc1a9fd2cb944758b4569",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Pfanne mit Küchenpapier auswischen. 1 EL Olivenöl darin erwärmen, Zucchinistreifen zugeben und ca. 1 Min. anbraten.",
+      "instructionsHTML": "<p>Pfanne mit Küchenpapier auswischen. 1 EL Olivenöl darin erwärmen, Zucchinistreifen zugeben und ca. 1 Min. anbraten.</p>",
+      "instructions": "Pfanne mit Küchenpapier auswischen. 1 EL Olivenöl darin erwärmen, Zucchinistreifen zugeben und ca. 1 Min. anbraten.",
+      "timers": [
+        {
+          "name": "Zuchini braten",
+          "duration": "PT1M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/550925ba6ced6eb2028b456a/step_556d855cc5788.jpg",
+          "caption": "Zuchinistreifen braten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2aa14dab71aa058b4570",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Mit Milch und der vorbereiten Brühe ablöschen und ca. 5 Min. einkochen lassen. Anschließend mit etwas Zitronensaft abschmecken, Oregano hinzufügen und nach Geschmack mit Salz und Pfeffer würzen.",
+      "instructionsHTML": "<p>Mit Milch und der vorbereiten Brühe ablöschen und ca. 5 Min. einkochen lassen. Anschließend mit etwas Zitronensaft abschmecken, Oregano hinzufügen und nach Geschmack mit Salz und Pfeffer würzen.</p>",
+      "instructions": "Mit Milch und der vorbereiten Brühe ablöschen und ca. 5 Min. einkochen lassen. Anschließend mit etwas Zitronensaft abschmecken, Oregano hinzufügen und nach Geschmack mit Salz und Pfeffer würzen.",
+      "timers": [
+        {
+          "name": "Milch und Brühe hinzugeben",
+          "duration": "PT5M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/550925ba6ced6eb2028b456a/step_556d855cde902.jpg",
+          "caption": "Milch und Brühe hinzugeben und kochen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1de2f8b25ef93e8b456b",
+        "554b3300fd2cb973608b4569",
+        "554b2645fd2cb983608b4567",
+        "5568443bfd2cb985278b4569",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Zucchinitagliatelle auf flachen Tellern verteilen, Schnitzel darauf anrichten und mit frisch geriebenem Parmesan bestreut genießen.",
+      "instructionsHTML": "<p>Zucchinitagliatelle auf flachen Tellern verteilen, Schnitzel darauf anrichten und mit frisch geriebenem Parmesan bestreut genießen.</p>",
+      "instructions": "Zucchinitagliatelle auf flachen Tellern verteilen, Schnitzel darauf anrichten und mit frisch geriebenem Parmesan bestreut genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556d8275fd2cb924088b4567",
+        "554b200f4dab71aa058b456f"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3,
+  "ratingsCount": 909,
+  "favoritesCount": 599,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/schnitzel-natur-auf-zucchinitagliatelle-550925ba6ced6eb2028b456a",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

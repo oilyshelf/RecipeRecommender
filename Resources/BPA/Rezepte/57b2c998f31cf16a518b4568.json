@@ -1,0 +1,1053 @@
+{
+  "country": "DE",
+  "id": "57b2c998f31cf16a518b4568",
+  "name": "Hähnchenbrustfilet in Panko-Kokos-Panade",
+  "seoName": null,
+  "category": null,
+  "slug": "hahnchenbrustfilet-in-panko-koko",
+  "headline": "mit süß-saurem Paprikagemüse und Basmatireis",
+  "description": "Asiatisch angehaucht sind diese knusprigen Hähnchenbruststücke mit Pankomehl und Kokosflocken paniert. Abgerundet wird das Gericht mit süß-saurem Paprikagemüse. Guten Appetit!",
+  "descriptionHTML": "<p>Asiatisch angehaucht sind diese knusprigen Hähnchenbruststücke mit Pankomehl und Kokosflocken paniert. Abgerundet wird das Gericht mit süß-saurem Paprikagemüse. Guten Appetit!</p>",
+  "descriptionMarkdown": "Asiatisch angehaucht sind diese knusprigen Hähnchenbruststücke mit Pankomehl und Kokosflocken paniert. Abgerundet wird das Gericht mit süß-saurem Paprikagemüse. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": null,
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-08-16T08:06:48+00:00",
+  "updatedAt": "2017-04-20T09:42:02+00:00",
+  "link": "https://hellofresh.com/recipes/57b2c998f31cf16a518b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/hahnchenbrustfilet-in-panko-kokos-panade-b5516134.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/hahnchenbrustfilet-in-panko-koko-d069e298.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2857.672,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 683,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 16,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 90,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 83,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b3534f8b25ef53e8b4575",
+      "type": "basmatireis",
+      "name": "Basmatireis",
+      "slug": "basmatireis",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3534f8b25ef53e8b4575.png",
+      "usage": 194,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1c",
+        "type": "rice",
+        "name": "Reis",
+        "slug": "reis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1c-0b4adebd.png",
+        "usageByCountry": {
+          "AT": 540,
+          "AU": 405,
+          "BE": 265,
+          "CA": 169,
+          "CH": 114,
+          "DE": 505,
+          "ER": 39,
+          "FR": 79,
+          "GB": 480,
+          "LU": 361,
+          "NL": 319,
+          "NZ": 107,
+          "ML": 328,
+          "US": 527
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1db1fd2cb99c598b4574",
+      "type": "hähnchenbrust",
+      "name": "Hähnchenbrust",
+      "slug": "hahnchenbrust",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1db1fd2cb99c598b4574.png",
+      "usage": 81,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6b",
+        "type": "chicken",
+        "name": "Hähnchen",
+        "slug": "hahnchen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6b-8f15f243.png",
+        "usageByCountry": {
+          "AT": 293,
+          "AU": 427,
+          "BE": 305,
+          "CA": 214,
+          "CH": 94,
+          "DE": 262,
+          "ER": 62,
+          "FR": 92,
+          "GB": 486,
+          "LU": 380,
+          "NL": 282,
+          "NZ": 125,
+          "ML": 653,
+          "US": 668
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555346104dab71c63e8b4568",
+      "type": "panko-mehl",
+      "name": "Panko-Mehl",
+      "slug": "panko-mehl",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555346104dab71c63e8b4568.png",
+      "usage": 54,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba0",
+        "type": "flour",
+        "name": "Mehl",
+        "slug": "mehl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba0-03891dce.png",
+        "usageByCountry": {
+          "AT": 391,
+          "AU": 201,
+          "BE": 10,
+          "CA": 106,
+          "CH": 74,
+          "DE": 383,
+          "ER": 19,
+          "FR": 0,
+          "GB": 141,
+          "LU": 5,
+          "NL": 14,
+          "NZ": 74,
+          "ML": 9,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "569f9b694dab712f278b4567",
+      "type": "kokosflocken",
+      "name": "Kokosflocken",
+      "slug": "kokosflocken",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/569f9b694dab712f278b4567.png",
+      "usage": 8,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb7d",
+        "type": "coconut",
+        "name": "Kokosnuss",
+        "slug": "kokosnuss",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb7d-9605841c.png",
+        "usageByCountry": {
+          "AT": 14,
+          "AU": 0,
+          "BE": 70,
+          "CA": 6,
+          "CH": 3,
+          "DE": 13,
+          "ER": 0,
+          "FR": 13,
+          "GB": 52,
+          "LU": 72,
+          "NL": 89,
+          "NZ": 0,
+          "ML": 0,
+          "US": 5
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7f33fd2cb96c628b456a",
+      "type": "ingwer",
+      "name": "Ingwer",
+      "slug": "ingwer",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7f33fd2cb96c628b456a.png",
+      "usage": 241,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba7",
+        "type": "ginger",
+        "name": "Ingwer",
+        "slug": "ingwer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba7-565cc248.png",
+        "usageByCountry": {
+          "AT": 278,
+          "AU": 225,
+          "BE": 200,
+          "CA": 107,
+          "CH": 52,
+          "DE": 241,
+          "ER": 20,
+          "FR": 57,
+          "GB": 231,
+          "LU": 241,
+          "NL": 220,
+          "NZ": 65,
+          "ML": 25,
+          "US": 246
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b343a4dab71aa058b4572",
+      "type": "gelbe paprika",
+      "name": "gelbe Paprika",
+      "slug": "gelbe-paprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b343a4dab71aa058b4572.png",
+      "usage": 284,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf7",
+        "type": "paprika",
+        "name": "Paprika",
+        "slug": "paprika",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf7-e6b2d1a6.png",
+        "usageByCountry": {
+          "AT": 581,
+          "AU": 50,
+          "BE": 613,
+          "CA": 64,
+          "CH": 21,
+          "DE": 536,
+          "ER": 7,
+          "FR": 166,
+          "GB": 539,
+          "LU": 769,
+          "NL": 388,
+          "NZ": 6,
+          "ML": 38,
+          "US": 79
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7e84fd2cb911618b456a",
+      "type": "rote paprika",
+      "name": "rote Paprika",
+      "slug": "rote-paprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7e84fd2cb911618b456a.png",
+      "usage": 229,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf7",
+        "type": "paprika",
+        "name": "Paprika",
+        "slug": "paprika",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf7-e6b2d1a6.png",
+        "usageByCountry": {
+          "AT": 581,
+          "AU": 50,
+          "BE": 613,
+          "CA": 64,
+          "CH": 21,
+          "DE": 536,
+          "ER": 7,
+          "FR": 166,
+          "GB": 539,
+          "LU": 769,
+          "NL": 388,
+          "NZ": 6,
+          "ML": 38,
+          "US": 79
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55f993aa79a23c486f8b4569",
+      "type": "ketchup",
+      "name": "Ketchup",
+      "slug": "ketchup",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55f993aa79a23c486f8b4569.png",
+      "usage": 45,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbbf",
+        "type": "ketchup",
+        "name": "Ketchup",
+        "slug": "ketchup",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbbf-54fee48e.png",
+        "usageByCountry": {
+          "AT": 47,
+          "AU": 0,
+          "BE": 0,
+          "CA": 9,
+          "CH": 9,
+          "DE": 45,
+          "ER": 10,
+          "FR": 0,
+          "GB": 57,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 0,
+          "ML": 0,
+          "US": 117
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1e654dab71a6058b4571",
+      "type": "koriander",
+      "name": "Koriander",
+      "slug": "koriander",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1e654dab71a6058b4571.png",
+      "usage": 240,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb79",
+        "type": "cilantro-coriander",
+        "name": "Cilantro / Koriander",
+        "slug": "cilantro-koriander",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb79-7a34459a.png",
+        "usageByCountry": {
+          "AT": 253,
+          "AU": 387,
+          "BE": 166,
+          "CA": 173,
+          "CH": 75,
+          "DE": 240,
+          "ER": 3,
+          "FR": 66,
+          "GB": 542,
+          "LU": 305,
+          "NL": 193,
+          "NZ": 102,
+          "ML": 8,
+          "US": 432
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Große Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiatisch",
+      "slug": "asiatisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg",
+      "usage": 2484
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b3534f8b25ef53e8b4575",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b1db1fd2cb99c598b4574",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "555346104dab71c63e8b4568",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "id": "569f9b694dab712f278b4567",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7f33fd2cb96c628b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b343a4dab71aa058b4572",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7e84fd2cb911618b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55f993aa79a23c486f8b4569",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "554b1e654dab71a6058b4571",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten. Backofen\nauf 200 °C Ober-/Unterhitze (180 °C Umlu\u001f ) vorheizen\n\n300 ml kochendes Wasser in einen kleinen Topf geben, salzen, Basmatireis hineingeben und bei großer Hitze aufkochen lassen. Hitze reduzieren und mit aufgesetztem Deckel 10 Min. köcheln lassen. Topf vom Herd nehmen und mit Deckel mindestens 10 Min. ziehen lassen.",
+      "instructionsHTML": "<p>Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten. Backofen\nauf 200 °C Ober-/Unterhitze (180 °C Umlu\u001f ) vorheizen</p>\n<p>300 ml kochendes Wasser in einen kleinen Topf geben, salzen, Basmatireis hineingeben und bei großer Hitze aufkochen lassen. Hitze reduzieren und mit aufgesetztem Deckel 10 Min. köcheln lassen. Topf vom Herd nehmen und mit Deckel mindestens 10 Min. ziehen lassen.</p>",
+      "instructions": "Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten. Backofen\nauf 200 °C Ober-/Unterhitze (180 °C Umlu\u001f ) vorheizen\n300 ml kochendes Wasser in einen kleinen Topf geben, salzen, Basmatireis hineingeben und bei großer Hitze aufkochen lassen. Hitze reduzieren und mit aufgesetztem Deckel 10 Min. köcheln lassen. Topf vom Herd nehmen und mit Deckel mindestens 10 Min. ziehen lassen.",
+      "timers": [
+        {
+          "name": "Reis kochen",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b3534f8b25ef53e8b4575"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Hähnchenbrust mit Küchenpapier trocken tupfen und jede Brust längs in 3 Streifen schneiden. Mit 1 TL Öl, Salz und Pfeffer vermengen.",
+      "instructionsHTML": "<p>Hähnchenbrust mit Küchenpapier trocken tupfen und jede Brust längs in 3 Streifen schneiden. Mit 1 TL Öl, Salz und Pfeffer vermengen.</p>",
+      "instructions": "Hähnchenbrust mit Küchenpapier trocken tupfen und jede Brust längs in 3 Streifen schneiden. Mit 1 TL Öl, Salz und Pfeffer vermengen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/57b2c998f31cf16a518b4568/step_57b2fb2dc18c1.jpg",
+          "caption": "Hähnchenbrust vorbereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1db1fd2cb99c598b4574",
+        "554b1c284dab71a9058b456b",
+        "554b1bf6f8b25eef3e8b4570",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Pankomehl/Kokosflocken in eine kleine Schüssel geben und die Hähnchenbruststücke darin wälzen, bis sie rundherum paniert sind. Auf ein mit Backpapier belegtes Backblech geben und im Backofen ca. 20 – 25 Min. backen, bis die Panade goldbraun ist.",
+      "instructionsHTML": "<p>Pankomehl/Kokosflocken in eine kleine Schüssel geben und die Hähnchenbruststücke darin wälzen, bis sie rundherum paniert sind. Auf ein mit Backpapier belegtes Backblech geben und im Backofen ca. 20 – 25 Min. backen, bis die Panade goldbraun ist.</p>",
+      "instructions": "Pankomehl/Kokosflocken in eine kleine Schüssel geben und die Hähnchenbruststücke darin wälzen, bis sie rundherum paniert sind. Auf ein mit Backpapier belegtes Backblech geben und im Backofen ca. 20 – 25 Min. backen, bis die Panade goldbraun ist.",
+      "timers": [
+        {
+          "name": "Hähnchenbrust backen",
+          "duration": "PT25M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/57b2c998f31cf16a518b4568/step_57b2fb2de1ffc.jpg",
+          "caption": "Hähnchenbrust panieren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555346104dab71c63e8b4568",
+        "569f9b694dab712f278b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305377",
+        "57e2674fb7e8697d4b305372",
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Zwiebel und Knoblauch abziehen. Ingwer schälen. Zwiebel würfeln, Knoblauch und Ingwer (nach Geschmack) fein reiben. Rote und gelbe Paprika halbieren, die Kerngehäuse entfernen und Paprika in mundgerechte Stücke schneiden.",
+      "instructionsHTML": "<p>Zwiebel und Knoblauch abziehen. Ingwer schälen. Zwiebel würfeln, Knoblauch und Ingwer (nach Geschmack) fein reiben. Rote und gelbe Paprika halbieren, die Kerngehäuse entfernen und Paprika in mundgerechte Stücke schneiden.</p>",
+      "instructions": "Zwiebel und Knoblauch abziehen. Ingwer schälen. Zwiebel würfeln, Knoblauch und Ingwer (nach Geschmack) fein reiben. Rote und gelbe Paprika halbieren, die Kerngehäuse entfernen und Paprika in mundgerechte Stücke schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/57b2c998f31cf16a518b4568/step_57b2fb2e070e3.jpg",
+          "caption": "Zwiebel schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b34554dab71a6058b4576",
+        "554b268ffd2cb983608b4568",
+        "554b7f33fd2cb96c628b456a",
+        "554b343a4dab71aa058b4572",
+        "554b7e84fd2cb911618b456a"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einer großen Pfanne 1 TL Öl bei großer Hitze erwärmen. Zwiebel darin ca. 2 Min. andünsten. Paprikastücke zugeben und weitere 2 – 3 Min. mitbraten. 1 TL Zucker sowie geriebenen Knoblauch und Ingwer zugeben, weitere 1 – 2 Min. anbraten und mit 100 ml Wasser ablöschen. Ketchup zugeben und alles etwas einköcheln lassen.",
+      "instructionsHTML": "<p>In einer großen Pfanne 1 TL Öl bei großer Hitze erwärmen. Zwiebel darin ca. 2 Min. andünsten. Paprikastücke zugeben und weitere 2 – 3 Min. mitbraten. 1 TL Zucker sowie geriebenen Knoblauch und Ingwer zugeben, weitere 1 – 2 Min. anbraten und mit 100 ml Wasser ablöschen. Ketchup zugeben und alles etwas einköcheln lassen.</p>",
+      "instructions": "In einer großen Pfanne 1 TL Öl bei großer Hitze erwärmen. Zwiebel darin ca. 2 Min. andünsten. Paprikastücke zugeben und weitere 2 – 3 Min. mitbraten. 1 TL Zucker sowie geriebenen Knoblauch und Ingwer zugeben, weitere 1 – 2 Min. anbraten und mit 100 ml Wasser ablöschen. Ketchup zugeben und alles etwas einköcheln lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/57b2c998f31cf16a518b4568/step_57b2fb2e13934.jpg",
+          "caption": "Paprika hinzugeben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55f993aa79a23c486f8b4569",
+        "554b2319fd2cb9ba598b456d",
+        "554b268ffd2cb983608b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Korianderblätter abzupfen und grob hacken.",
+      "instructionsHTML": "<p>Korianderblätter abzupfen und grob hacken.</p>",
+      "instructions": "Korianderblätter abzupfen und grob hacken.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b1e654dab71a6058b4571"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Reis auf Teller verteilen, Paprikagemüse darüber geben. Hähnchenbrust darauf anrichten, mit Koriander bestreuen und genießen.",
+      "instructionsHTML": "<p>Reis auf Teller verteilen, Paprikagemüse darüber geben. Hähnchenbrust darauf anrichten, mit Koriander bestreuen und genießen.</p>",
+      "instructions": "Reis auf Teller verteilen, Paprikagemüse darüber geben. Hähnchenbrust darauf anrichten, mit Koriander bestreuen und genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.3,
+  "ratingsCount": 1021,
+  "favoritesCount": 612,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/hahnchenbrustfilet-in-panko-koko-57b2c998f31cf16a518b4568",
+  "clonedFrom": null,
+  "canonical": "57b2c998f31cf16a518b4568",
+  "canonicalLink": "https://www.hellofresh.de/recipes/hahnchenbrustfilet-in-panko-koko-57b2c998f31cf16a518b4568"
+}

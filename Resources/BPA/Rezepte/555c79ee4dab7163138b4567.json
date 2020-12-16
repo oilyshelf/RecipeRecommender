@@ -1,0 +1,999 @@
+{
+  "country": "DE",
+  "id": "555c79ee4dab7163138b4567",
+  "name": "Herzhaft trifft süß: Penne mit Birnen,",
+  "seoName": null,
+  "category": null,
+  "slug": "herzhaft-trifft-susz-penne-mit-birnen",
+  "headline": "Bohnen, Speck und Feta-Kürbiskern-Pesto",
+  "description": "Wenn Du jetzt denkst, “Die Zutaten hätte ich nie kombiniert”, dann haben wir alles richtig gemacht: Du hast ein neues, leckeres Rezept entdeckt, mit dem du Gäste beeindrucken kannst. Und Du hast auch noch ballaststoffreiche Bohnen und gesunde Fettsäuren enthaltende Kürbiskerne genossen. Guten Appetit!",
+  "descriptionHTML": "<p>Wenn Du jetzt denkst, “Die Zutaten hätte ich nie kombiniert”, dann haben wir alles richtig gemacht: Du hast ein neues, leckeres Rezept entdeckt, mit dem du Gäste beeindrucken kannst. Und Du hast auch noch ballaststoffreiche Bohnen und gesunde Fettsäuren enthaltende Kürbiskerne genossen. Guten Appetit!</p>",
+  "descriptionMarkdown": "Wenn Du jetzt denkst, “Die Zutaten hätte ich nie kombiniert”, dann haben wir alles richtig gemacht: Du hast ein neues, leckeres Rezept entdeckt, mit dem du Gäste beeindrucken kannst. Und Du hast auch noch ballaststoffreiche Bohnen und gesunde Fettsäuren enthaltende Kürbiskerne genossen. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT25M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-05-20T12:11:26+00:00",
+  "updatedAt": "2017-04-03T19:04:59+00:00",
+  "link": "https://hellofresh.com/recipes/555c79ee4dab7163138b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/555c79ee4dab7163138b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/555c79ee4dab7163138b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3912.04,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 935,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 119,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 43,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "555da91cf8b25e246a8b4567",
+      "type": "penne",
+      "name": "Penne",
+      "slug": "penne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da91cf8b25e246a8b4567.png",
+      "usage": 47,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbfd",
+        "type": "pasta",
+        "name": "Pasta",
+        "slug": "pasta",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbfd-6aeaecc6.png",
+        "usageByCountry": {
+          "AT": 442,
+          "AU": 193,
+          "BE": 394,
+          "CA": 103,
+          "CH": 92,
+          "DE": 427,
+          "ER": 30,
+          "FR": 113,
+          "GB": 276,
+          "LU": 485,
+          "NL": 454,
+          "NZ": 48,
+          "ML": 420,
+          "US": 506
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da9624dab71591b8b4567",
+      "type": "birne",
+      "name": "Birne",
+      "slug": "birne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da9624dab71591b8b4567.png",
+      "usage": 44,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc03",
+        "type": "pear",
+        "name": "Birne",
+        "slug": "birne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc03-b735e9d7.png",
+        "usageByCountry": {
+          "AT": 47,
+          "AU": 14,
+          "BE": 71,
+          "CA": 2,
+          "CH": 7,
+          "DE": 44,
+          "ER": 0,
+          "FR": 6,
+          "GB": 1,
+          "LU": 58,
+          "NL": 120,
+          "NZ": 3,
+          "ML": 0,
+          "US": 15
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da9924dab714b1b8b4567",
+      "type": "feta",
+      "name": "Feta",
+      "slug": "feta",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da9924dab714b1b8b4567.png",
+      "usage": 113,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34b64dab71aa058b4573",
+      "type": "petersilie",
+      "name": "Petersilie",
+      "slug": "petersilie",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34b64dab71aa058b4573.png",
+      "usage": 861,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dab31f8b25e156a8b4568",
+      "type": "weiße/ braune bohnen",
+      "name": "weiße/ braune Bohnen",
+      "slug": "weisze-braune-bohnen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dab31f8b25e156a8b4568.png",
+      "usage": 1,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4c",
+        "type": "beans",
+        "name": "Bohnen",
+        "slug": "bohnen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4c-15ab1383.png",
+        "usageByCountry": {
+          "AT": 255,
+          "AU": 115,
+          "BE": 77,
+          "CA": 78,
+          "CH": 43,
+          "DE": 231,
+          "ER": 3,
+          "FR": 28,
+          "GB": 241,
+          "LU": 95,
+          "NL": 51,
+          "NZ": 28,
+          "ML": 153,
+          "US": 198
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dab5c4dab71621b8b4567",
+      "type": "kurbiskerne",
+      "name": "Kürbiskerne",
+      "slug": "kurbiskerne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dab5c4dab71621b8b4567.png",
+      "usage": 121,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc2a",
+        "type": "seeds",
+        "name": "Saat",
+        "slug": "saat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc2a-b47cd032.png",
+        "usageByCountry": {
+          "AT": 170,
+          "AU": 54,
+          "BE": 143,
+          "CA": 19,
+          "CH": 30,
+          "DE": 147,
+          "ER": 0,
+          "FR": 39,
+          "GB": 81,
+          "LU": 175,
+          "NL": 177,
+          "NZ": 26,
+          "ML": 0,
+          "US": 67
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dab894dab714a1b8b4568",
+      "type": "kurbiskernol",
+      "name": "Kürbiskernöl",
+      "slug": "kurbiskernol",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dab894dab714a1b8b4568.png",
+      "usage": 31,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dabaff8b25e246a8b4568",
+      "type": "speckwürfel",
+      "name": "Speckwürfel",
+      "slug": "speckwurfel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dabaff8b25e246a8b4568.png",
+      "usage": 5,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc12",
+        "type": "pork",
+        "name": "Schweinefleisch",
+        "slug": "schweinefleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc12-bdd443ff.png",
+        "usageByCountry": {
+          "AT": 486,
+          "AU": 290,
+          "BE": 179,
+          "CA": 134,
+          "CH": 113,
+          "DE": 455,
+          "ER": 54,
+          "FR": 58,
+          "GB": 613,
+          "LU": 212,
+          "NL": 191,
+          "NZ": 97,
+          "ML": 289,
+          "US": 624
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Pürierstab"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italienisch",
+      "slug": "italienisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg",
+      "usage": 4262
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "555da91cf8b25e246a8b4567",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555da9624dab71591b8b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "555da9924dab714b1b8b4567",
+          "amount": 125,
+          "unit": "g"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "555dab31f8b25e156a8b4568",
+          "amount": 1,
+          "unit": "Dose"
+        },
+        {
+          "id": "555dab5c4dab71621b8b4567",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "555dab894dab714a1b8b4568",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "id": "555dabaff8b25e246a8b4568",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "555da91cf8b25e246a8b4567",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555da9624dab71591b8b4567",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "555da9924dab714b1b8b4567",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "555dab31f8b25e156a8b4568",
+          "amount": 2,
+          "unit": "Dose"
+        },
+        {
+          "id": "555dab5c4dab71621b8b4567",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "id": "555dab894dab714a1b8b4568",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "id": "555dabaff8b25e246a8b4568",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Penne nach Packungsanleitung in reichlich Salzwasser garen.",
+      "instructionsHTML": "<p>Penne nach Packungsanleitung in reichlich Salzwasser garen.</p>",
+      "instructions": "Penne nach Packungsanleitung in reichlich Salzwasser garen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/555c79ee4dab7163138b4567/step_556841c72975d.jpg",
+          "caption": "Penne kochen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555da91cf8b25e246a8b4567",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Zitrone entsaften. Knoblauch abziehen. Birne waschen, halbieren, Kerngehäuse entfernen, zuerst in dünne Spalten schneiden, diese dann in ca. 2 cm große Stücke schneiden. Feta grob zerbröseln. Petersilie waschen, trocken schütteln, Blätter und Stiele getrennt voneinander zerkleinern. Dose mit weißen Bohnen öffnen, in einem Sieb abtropfen lassen.",
+      "instructionsHTML": "<p>Zitrone entsaften. Knoblauch abziehen. Birne waschen, halbieren, Kerngehäuse entfernen, zuerst in dünne Spalten schneiden, diese dann in ca. 2 cm große Stücke schneiden. Feta grob zerbröseln. Petersilie waschen, trocken schütteln, Blätter und Stiele getrennt voneinander zerkleinern. Dose mit weißen Bohnen öffnen, in einem Sieb abtropfen lassen.</p>",
+      "instructions": "Zitrone entsaften. Knoblauch abziehen. Birne waschen, halbieren, Kerngehäuse entfernen, zuerst in dünne Spalten schneiden, diese dann in ca. 2 cm große Stücke schneiden. Feta grob zerbröseln. Petersilie waschen, trocken schütteln, Blätter und Stiele getrennt voneinander zerkleinern. Dose mit weißen Bohnen öffnen, in einem Sieb abtropfen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/555c79ee4dab7163138b4567/step_556841c741e71.jpg",
+          "caption": "Bohnen abgießen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1de2f8b25ef93e8b456b",
+        "554b268ffd2cb983608b4568",
+        "555da9624dab71591b8b4567",
+        "555da9924dab714b1b8b4567",
+        "554b34b64dab71aa058b4573",
+        "555dab31f8b25e156a8b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Für das Pesto: 3 EL Olivenöl, 2 EL Zitronensaft, Knoblauch, Kürbiskerne, Kürbiskernöl, Petersilie (Stiele und ⅔ der Blätter) und Feta mit einem Pürierstab zerkleinern, evtl. mit etwas Salz und Pfeffer abschmecken.",
+      "instructionsHTML": "<p>Für das Pesto: 3 EL Olivenöl, 2 EL Zitronensaft, Knoblauch, Kürbiskerne, Kürbiskernöl, Petersilie (Stiele und ⅔ der Blätter) und Feta mit einem Pürierstab zerkleinern, evtl. mit etwas Salz und Pfeffer abschmecken.</p>",
+      "instructions": "Für das Pesto: 3 EL Olivenöl, 2 EL Zitronensaft, Knoblauch, Kürbiskerne, Kürbiskernöl, Petersilie (Stiele und ⅔ der Blätter) und Feta mit einem Pürierstab zerkleinern, evtl. mit etwas Salz und Pfeffer abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/555c79ee4dab7163138b4567/step_556841c753403.jpg",
+          "caption": "Zutaten pürieren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1de2f8b25ef93e8b456b",
+        "554b268ffd2cb983608b4568",
+        "554b34b64dab71aa058b4573",
+        "555dab5c4dab71621b8b4567",
+        "555dab894dab714a1b8b4568",
+        "554b22cb4dab71c8058b4570",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a0"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Eine Pfanne ohne Zugabe von Fett erhitzen und Speckwürfel darin 2–3 Min knusprig anbraten. Bohnen und Birnenwürfel für 1–2 Min. dazugeben und miteinander erwärmen.",
+      "instructionsHTML": "<p>Eine Pfanne ohne Zugabe von Fett erhitzen und Speckwürfel darin 2–3 Min knusprig anbraten. Bohnen und Birnenwürfel für 1–2 Min. dazugeben und miteinander erwärmen.</p>",
+      "instructions": "Eine Pfanne ohne Zugabe von Fett erhitzen und Speckwürfel darin 2–3 Min knusprig anbraten. Bohnen und Birnenwürfel für 1–2 Min. dazugeben und miteinander erwärmen.",
+      "timers": [
+        {
+          "name": "Speckwürfel anbraten",
+          "duration": "PT03M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        },
+        {
+          "name": "Bohnen und Birnenwürfel erwärmen",
+          "duration": "PT02M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/555c79ee4dab7163138b4567/step_556841c7640bb.jpg",
+          "caption": "Zutaten in der Pfanne"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Penne nach der Garzeit abgießen, mit Feta-Kürbiskern-Pesto und Bohnen-Speck-Mischung gut vermischen. Dann auf Tellern verteilen und mit der restlichen Petersilie bestreut genießen!",
+      "instructionsHTML": "<p>Penne nach der Garzeit abgießen, mit Feta-Kürbiskern-Pesto und Bohnen-Speck-Mischung gut vermischen. Dann auf Tellern verteilen und mit der restlichen Petersilie bestreut genießen!</p>",
+      "instructions": "Penne nach der Garzeit abgießen, mit Feta-Kürbiskern-Pesto und Bohnen-Speck-Mischung gut vermischen. Dann auf Tellern verteilen und mit der restlichen Petersilie bestreut genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b34b64dab71aa058b4573"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 2.7,
+  "ratingsCount": 213,
+  "favoritesCount": 243,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/herzhaft-trifft-susz-penne-mit-birnen-555c79ee4dab7163138b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

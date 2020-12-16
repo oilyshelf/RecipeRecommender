@@ -1,0 +1,1129 @@
+{
+  "country": "DE",
+  "id": "552e173e6ced6ede3e8b456a",
+  "name": "SalaRico-Couscous-Salat",
+  "seoName": null,
+  "category": null,
+  "slug": "salarico-couscous-salat",
+  "headline": "mit Sumach-Süßkartoffelwürfeln und Zitronenthymian-Frischkäse",
+  "description": "Sumach ist bei uns leider noch sehr unbekannt. Zu unrecht, wie ich finde, denn der leicht säuerliche Geschmack des Gewürzes lässt Gerichte zu einem besonderen Erlebnis werden. Bei unseren Testköchen kam es auf Süßkartoffeln besonders gut an. Wir hoffen bei Dir auch. Guten Appetit.",
+  "descriptionHTML": "<p>Sumach ist bei uns leider noch sehr unbekannt. Zu unrecht, wie ich finde, denn der leicht säuerliche Geschmack des Gewürzes lässt Gerichte zu einem besonderen Erlebnis werden. Bei unseren Testköchen kam es auf Süßkartoffeln besonders gut an. Wir hoffen bei Dir auch. Guten Appetit.</p>",
+  "descriptionMarkdown": "Sumach ist bei uns leider noch sehr unbekannt. Zu unrecht, wie ich finde, denn der leicht säuerliche Geschmack des Gewürzes lässt Gerichte zu einem besonderen Erlebnis werden. Bei unseren Testköchen kam es auf Süßkartoffeln besonders gut an. Wir hoffen bei Dir auch. Guten Appetit.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT25M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-04-15T07:46:06+00:00",
+  "updatedAt": "2017-03-03T23:38:30+00:00",
+  "link": "https://hellofresh.com/recipes/552e173e6ced6ede3e8b456a",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/552e173e6ced6ede3e8b456a.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/552e173e6ced6ede3e8b456a.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2924.616,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 699,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 87,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 26,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "555358b3f8b25e89038b456b",
+      "type": "couscous",
+      "name": "Couscous",
+      "slug": "couscous",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555358b3f8b25e89038b456b.png",
+      "usage": 80,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb84",
+        "type": "couscous",
+        "name": "Couscous",
+        "slug": "couscous",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb84-0e0812fe.png",
+        "usageByCountry": {
+          "AT": 75,
+          "AU": 72,
+          "BE": 148,
+          "CA": 55,
+          "CH": 22,
+          "DE": 80,
+          "ER": 8,
+          "FR": 44,
+          "GB": 90,
+          "LU": 177,
+          "NL": 185,
+          "NZ": 17,
+          "ML": 2,
+          "US": 188
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1a294dab71a6058b4570",
+      "type": "suszkartoffeln",
+      "name": "Süßkartoffel",
+      "slug": "suszkartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1a294dab71a6058b4570.png",
+      "usage": 226,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556ef47efd2cb9a3158b4567",
+      "type": "zitronenthymian",
+      "name": "Zitronenthymian",
+      "slug": "zitronenthymian",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556ef47efd2cb9a3158b4567.png",
+      "usage": 7,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc43",
+        "type": "thyme",
+        "name": "Thymian",
+        "slug": "thymian",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc43-d0cc4199.png",
+        "usageByCountry": {
+          "AT": 252,
+          "AU": 94,
+          "BE": 243,
+          "CA": 96,
+          "CH": 34,
+          "DE": 252,
+          "ER": 0,
+          "FR": 73,
+          "GB": 187,
+          "LU": 346,
+          "NL": 288,
+          "NZ": 38,
+          "ML": 213,
+          "US": 322
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1adef8b25ef93e8b456a",
+      "type": "rote-chili",
+      "name": "roter Chili",
+      "slug": "rote-chili",
+      "description": null,
+      "internalName": "roter Chili",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1adef8b25ef93e8b456a.png",
+      "usage": 325,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6d",
+        "type": "chili",
+        "name": "Chili",
+        "slug": "chili",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6d-270fd94b.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 223,
+          "BE": 0,
+          "CA": 48,
+          "CH": 61,
+          "DE": 326,
+          "ER": 0,
+          "FR": 0,
+          "GB": 75,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 55,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556ef58afd2cb988158b4567",
+      "type": "salarico®",
+      "name": "SalaRico®",
+      "slug": "salarico",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556ef58afd2cb988158b4567.png",
+      "usage": 10,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556ef8534dab71c5568b4567",
+      "type": "sumach, trocken",
+      "name": "Sumach",
+      "slug": "sumach-trocken",
+      "description": null,
+      "internalName": "Sumach, trocken",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/556ef8534dab71c5568b4567-b6fd901c.png",
+      "usage": 3,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3c",
+        "type": "sumac",
+        "name": "Sumach",
+        "slug": "sumach",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3c-2ac0a518.png",
+        "usageByCountry": {
+          "AT": 3,
+          "AU": 11,
+          "BE": 0,
+          "CA": 4,
+          "CH": 2,
+          "DE": 3,
+          "ER": 0,
+          "FR": 0,
+          "GB": 17,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 0,
+          "ML": 0,
+          "US": 20
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556ef65afd2cb98b158b4567",
+      "type": "paprika, eingelegt",
+      "name": "Paprika, eingelegt",
+      "slug": "paprika-eingelegt",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556ef65afd2cb98b158b4567.png",
+      "usage": 3,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc06",
+        "type": "pepper-vegetable",
+        "name": "Pfeffer (Gemüse)",
+        "slug": "pfeffer-gemuse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc06-d58f09de.png",
+        "usageByCountry": {
+          "AT": 216,
+          "AU": 285,
+          "BE": 95,
+          "CA": 188,
+          "CH": 92,
+          "DE": 215,
+          "ER": 51,
+          "FR": 30,
+          "GB": 307,
+          "LU": 126,
+          "NL": 108,
+          "NZ": 62,
+          "ML": 428,
+          "US": 579
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556ef93cfd2cb9d0158b4567",
+      "type": "körniger frischkäse",
+      "name": "Körniger Frischkäse",
+      "slug": "korniger-frischkase",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556ef93cfd2cb9d0158b4567.png",
+      "usage": 8,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3639f8b25eef3e8b4575",
+      "type": "gemusebruhe-home",
+      "name": "Gemüsebrühe*",
+      "slug": "gemusebruhe",
+      "description": null,
+      "internalName": "Gemüsebrühe home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3639f8b25eef3e8b4575.png",
+      "usage": 441,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Kleine Schale"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305381",
+      "type": "spoon",
+      "name": "Löffel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536d",
+      "type": "fork",
+      "name": "Gabel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b30530e",
+      "type": "under-30-minutes",
+      "name": "Zeit sparen",
+      "slug": "zeit-sparen",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/HF_Icon_App_LessThan30min.png",
+      "numberOfRecipes": 4370,
+      "numberOfRecipesByCountry": {
+        "AT": 1140,
+        "AU": 141,
+        "BE": 540,
+        "CA": 0,
+        "CH": 201,
+        "DE": 989,
+        "ER": 0,
+        "FR": 128,
+        "GB": 0,
+        "LU": 581,
+        "NL": 644,
+        "NZ": 0,
+        "ML": 0,
+        "US": 6
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a3",
+      "type": "african",
+      "name": "Afrikanisch",
+      "slug": "afrikanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a3-3f3a3d24.jpg",
+      "usage": 176
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053c2",
+      "type": "northafrican",
+      "name": "Nordafrikanisch",
+      "slug": "nordafrikanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053c2-76b2585e.jpg",
+      "usage": 197
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "555358b3f8b25e89038b456b",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1a294dab71a6058b4570",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556ef47efd2cb9a3158b4567",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b1adef8b25ef93e8b456a",
+          "amount": 0.5,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556ef58afd2cb988158b4567",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556ef8534dab71c5568b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556ef65afd2cb98b158b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556ef93cfd2cb9d0158b4567",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "554b3639f8b25eef3e8b4575",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "555358b3f8b25e89038b456b",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.25,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1a294dab71a6058b4570",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556ef47efd2cb9a3158b4567",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b1adef8b25ef93e8b456a",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556ef58afd2cb988158b4567",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556ef8534dab71c5568b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556ef65afd2cb98b158b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556ef93cfd2cb9d0158b4567",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "554b3639f8b25eef3e8b4575",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "200 ml Gemüsebrühe zum Kochen bringen, vom Herd nehmen, Couscous einrühren und zugedeckt ziehen lassen.",
+      "instructionsHTML": "<p>200 ml Gemüsebrühe zum Kochen bringen, vom Herd nehmen, Couscous einrühren und zugedeckt ziehen lassen.</p>",
+      "instructions": "200 ml Gemüsebrühe zum Kochen bringen, vom Herd nehmen, Couscous einrühren und zugedeckt ziehen lassen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "555358b3f8b25e89038b456b",
+        "554b3639f8b25eef3e8b4575"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Knoblauch abziehen und fein hacken. Süßkartoffel schälen und in ca. 1 cm große Würfel schneiden. Zitronenthymian waschen, trocken schütteln, die Blätter abstreifen und grob hacken. Chili waschen und in feine Ringe schneiden. SalaRico® 1 cm vom Strunk entfernt abschneiden, damit sich die Blätter voneinander lösen. Dann quer in 2 cm breite Streifen schneiden, waschen und abtropfen lassen. Paprika grob hacken (Öl aufsparen).",
+      "instructionsHTML": "<p>Knoblauch abziehen und fein hacken. Süßkartoffel schälen und in ca. 1 cm große Würfel schneiden. Zitronenthymian waschen, trocken schütteln, die Blätter abstreifen und grob hacken. Chili waschen und in feine Ringe schneiden. SalaRico® 1 cm vom Strunk entfernt abschneiden, damit sich die Blätter voneinander lösen. Dann quer in 2 cm breite Streifen schneiden, waschen und abtropfen lassen. Paprika grob hacken (Öl aufsparen).</p>",
+      "instructions": "Knoblauch abziehen und fein hacken. Süßkartoffel schälen und in ca. 1 cm große Würfel schneiden. Zitronenthymian waschen, trocken schütteln, die Blätter abstreifen und grob hacken. Chili waschen und in feine Ringe schneiden. SalaRico® 1 cm vom Strunk entfernt abschneiden, damit sich die Blätter voneinander lösen. Dann quer in 2 cm breite Streifen schneiden, waschen und abtropfen lassen. Paprika grob hacken (Öl aufsparen).",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/552e173e6ced6ede3e8b456a/step_556f054190b9f.jpg",
+          "caption": "Salat schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b268ffd2cb983608b4568",
+        "554b1a294dab71a6058b4570",
+        "556ef47efd2cb9a3158b4567",
+        "556ef58afd2cb988158b4567",
+        "556ef65afd2cb98b158b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Für die Sumach-Süßkartoffeln: In einer großen Pfanne 2 EL Öl erhitzen. Knoblauch, Chili (nach gewünschter Schärfe), Sumach und Süßkartoffelwürfel darin ca. 5–8 Min. anbraten. Mit Salz abschmecken.",
+      "instructionsHTML": "<p>Für die Sumach-Süßkartoffeln: In einer großen Pfanne 2 EL Öl erhitzen. Knoblauch, Chili (nach gewünschter Schärfe), Sumach und Süßkartoffelwürfel darin ca. 5–8 Min. anbraten. Mit Salz abschmecken.</p>",
+      "instructions": "Für die Sumach-Süßkartoffeln: In einer großen Pfanne 2 EL Öl erhitzen. Knoblauch, Chili (nach gewünschter Schärfe), Sumach und Süßkartoffelwürfel darin ca. 5–8 Min. anbraten. Mit Salz abschmecken.",
+      "timers": [
+        {
+          "name": "Süßkartoffeln anbraten",
+          "duration": "PT8M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/552e173e6ced6ede3e8b456a/step_556f0541a603c.jpg",
+          "caption": "Süßkartoffeln mit Sumach anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b268ffd2cb983608b4568",
+        "554b1a294dab71a6058b4570",
+        "554b1adef8b25ef93e8b456a",
+        "556ef8534dab71c5568b4567",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Für den Dip: Frischkäse mit Zitronenthymian, 1 EL Olivenöl sowie Salz und Pfeffer gut miteinander verrühren.",
+      "instructionsHTML": "<p>Für den Dip: Frischkäse mit Zitronenthymian, 1 EL Olivenöl sowie Salz und Pfeffer gut miteinander verrühren.</p>",
+      "instructions": "Für den Dip: Frischkäse mit Zitronenthymian, 1 EL Olivenöl sowie Salz und Pfeffer gut miteinander verrühren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/552e173e6ced6ede3e8b456a/step_556f0541bdc92.jpg",
+          "caption": "Dip zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556ef47efd2cb9a3158b4567",
+        "556ef93cfd2cb9d0158b4567",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305380",
+        "57e2674fb7e8697d4b305381"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Couscous mit einer Gabel auflockern. Paprika, SalaRico® und etwas Paprika-Öl untermischen.",
+      "instructionsHTML": "<p>Couscous mit einer Gabel auflockern. Paprika, SalaRico® und etwas Paprika-Öl untermischen.</p>",
+      "instructions": "Couscous mit einer Gabel auflockern. Paprika, SalaRico® und etwas Paprika-Öl untermischen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/552e173e6ced6ede3e8b456a/step_556f0541d592b.jpg",
+          "caption": "Couscous auflockern und mit Paprika-Öl untermischen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555358b3f8b25e89038b456b",
+        "556ef58afd2cb988158b4567",
+        "556ef65afd2cb98b158b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536d",
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "SalaRico®-Couscous-Salat mit Sumach-Süßkartoffeln auf einem Teller anrichten und mit Zitronenthymian-Frischkäse-Dip genießen.",
+      "instructionsHTML": "<p>SalaRico®-Couscous-Salat mit Sumach-Süßkartoffeln auf einem Teller anrichten und mit Zitronenthymian-Frischkäse-Dip genießen.</p>",
+      "instructions": "SalaRico®-Couscous-Salat mit Sumach-Süßkartoffeln auf einem Teller anrichten und mit Zitronenthymian-Frischkäse-Dip genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b1a294dab71a6058b4570",
+        "556ef47efd2cb9a3158b4567",
+        "556ef58afd2cb988158b4567",
+        "556ef93cfd2cb9d0158b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3,
+  "ratingsCount": 298,
+  "favoritesCount": 175,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/salarico-couscous-salat-552e173e6ced6ede3e8b456a",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

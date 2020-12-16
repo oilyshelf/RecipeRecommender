@@ -1,0 +1,1042 @@
+{
+  "country": "DE",
+  "id": "55d1b325f8b25ef7038b4567",
+  "name": "Lauwarmer, cremiger Quinoa-Blumenkohl-Salat",
+  "seoName": null,
+  "category": null,
+  "slug": "lauwarmer-cremiger-quinoa-blumenkohl-salat",
+  "headline": "mit Haselnüssen und Cranberries",
+  "description": "Quinoa ist übrigens kein Getreide, sondern ein sogenanntes Fuchsschwanzgewächs und war schon bei den Inkas bekannt. Damals wie heute steckt es voll Eiweiß, enthält alle neun essenziellen Aminosäuren und dafür kein Gluten - perfekt für alle, die Weizen nicht vertragen. Guten Appetit!",
+  "descriptionHTML": "<p>Quinoa ist übrigens kein Getreide, sondern ein sogenanntes Fuchsschwanzgewächs und war schon bei den Inkas bekannt. Damals wie heute steckt es voll Eiweiß, enthält alle neun essenziellen Aminosäuren und dafür kein Gluten - perfekt für alle, die Weizen nicht vertragen. Guten Appetit!</p>",
+  "descriptionMarkdown": "Quinoa ist übrigens kein Getreide, sondern ein sogenanntes Fuchsschwanzgewächs und war schon bei den Inkas bekannt. Damals wie heute steckt es voll Eiweiß, enthält alle neun essenziellen Aminosäuren und dafür kein Gluten - perfekt für alle, die Weizen nicht vertragen. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-08-17T10:10:45+00:00",
+  "updatedAt": "2017-03-06T13:39:53+00:00",
+  "link": "https://hellofresh.com/recipes/55d1b325f8b25ef7038b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/55d1b325f8b25ef7038b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/55d1b325f8b25ef7038b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2962.272,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 708,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 42,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 45,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "556c24054dab71bd3b8b4568",
+      "type": "quinoa",
+      "name": "Quinoa",
+      "slug": "quinoa",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c24054dab71bd3b8b4568.png",
+      "usage": 60,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc18",
+        "type": "quinoa",
+        "name": "Quinoa",
+        "slug": "quinoa",
+        "description": null,
+        "priority": 0,
+        "iconLink": null,
+        "usageByCountry": {
+          "AT": 75,
+          "AU": 36,
+          "BE": 20,
+          "CA": 26,
+          "CH": 13,
+          "DE": 62,
+          "ER": 0,
+          "FR": 5,
+          "GB": 28,
+          "LU": 31,
+          "NL": 21,
+          "NZ": 3,
+          "ML": 72,
+          "US": 57
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7e9af8b25e2b448b456a",
+      "type": "blumenkohl",
+      "name": "Blumenkohl",
+      "slug": "blumenkohl",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7e9af8b25e2b448b456a.png",
+      "usage": 66,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb64",
+        "type": "cauliflower",
+        "name": "Blumenkohl",
+        "slug": "blumenkohl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb64-8ac4b2cb.png",
+        "usageByCountry": {
+          "AT": 66,
+          "AU": 47,
+          "BE": 53,
+          "CA": 18,
+          "CH": 8,
+          "DE": 66,
+          "ER": 0,
+          "FR": 2,
+          "GB": 23,
+          "LU": 35,
+          "NL": 57,
+          "NZ": 14,
+          "ML": 117,
+          "US": 69
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c09b7f8b25e74628b4567",
+      "type": "grüne paprika",
+      "name": "grüne Paprika",
+      "slug": "grune-paprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c09b7f8b25e74628b4567.png",
+      "usage": 37,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf8",
+        "type": "paprika-powder",
+        "name": "Paprikapulver",
+        "slug": "paprikapulver",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf8-57ddbd04.png",
+        "usageByCountry": {
+          "AT": 105,
+          "AU": 15,
+          "BE": 162,
+          "CA": 6,
+          "CH": 26,
+          "DE": 105,
+          "ER": 1,
+          "FR": 42,
+          "GB": 35,
+          "LU": 213,
+          "NL": 182,
+          "NZ": 0,
+          "ML": 0,
+          "US": 31
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555357a3f8b25e89038b456a",
+      "type": "limette",
+      "name": "Limette",
+      "slug": "limette",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555357a3f8b25e89038b456a.png",
+      "usage": 350,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc8",
+        "type": "lime",
+        "name": "Limette",
+        "slug": "limette",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc8-7cbce945.png",
+        "usageByCountry": {
+          "AT": 383,
+          "AU": 227,
+          "BE": 132,
+          "CA": 137,
+          "CH": 82,
+          "DE": 351,
+          "ER": 61,
+          "FR": 68,
+          "GB": 407,
+          "LU": 224,
+          "NL": 155,
+          "NZ": 63,
+          "ML": 87,
+          "US": 604
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556da575fd2cb9d1088b456a",
+      "type": "große tomate",
+      "name": "Große Tomate",
+      "slug": "grosze-tomate",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556da575fd2cb9d1088b456a.png",
+      "usage": 8,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2645fd2cb983608b4567",
+      "type": "frischer oregano",
+      "name": "frischer Oregano",
+      "slug": "frischer-oregano",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2645fd2cb983608b4567.png",
+      "usage": 120,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf0",
+        "type": "oregano",
+        "name": "Oregano",
+        "slug": "oregano",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf0-6e86fa56.png",
+        "usageByCountry": {
+          "AT": 189,
+          "AU": 88,
+          "BE": 199,
+          "CA": 43,
+          "CH": 36,
+          "DE": 166,
+          "ER": 6,
+          "FR": 31,
+          "GB": 89,
+          "LU": 160,
+          "NL": 225,
+          "NZ": 24,
+          "ML": 0,
+          "US": 155
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1f134dab71aa058b456e",
+      "type": "crème fraîche",
+      "name": "Crème fraîche",
+      "slug": "creme-fraiche",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1f134dab71aa058b456e.png",
+      "usage": 305,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb86",
+        "type": "creme-fraiche",
+        "name": "Crème Fraîche",
+        "slug": "creme-fraiche",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb86-533fc64c.png",
+        "usageByCountry": {
+          "AT": 321,
+          "AU": 0,
+          "BE": 119,
+          "CA": 0,
+          "CH": 81,
+          "DE": 305,
+          "ER": 0,
+          "FR": 21,
+          "GB": 328,
+          "LU": 127,
+          "NL": 144,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55685f9bf8b25e67408b4567",
+      "type": "haselnusse",
+      "name": "Haselnüsse",
+      "slug": "haselnusse",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55685f9bf8b25e67408b4567.png",
+      "usage": 25,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fb",
+          "type": "nuts",
+          "name": "Schalenfrüchte",
+          "slug": "schalenfruchte",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+          "usage": 300
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d7aaefd2cb9c4078b4569",
+      "type": "cranberries",
+      "name": "Cranberrys",
+      "slug": "cranberries",
+      "description": null,
+      "internalName": "Cranberries",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/556d7aaefd2cb9c4078b4569-e6a6f1b0.png",
+      "usage": 27,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb52",
+        "type": "berries",
+        "name": "Beeren",
+        "slug": "beeren",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb52-f1abe164.png",
+        "usageByCountry": {
+          "AT": 42,
+          "AU": 41,
+          "BE": 58,
+          "CA": 14,
+          "CH": 4,
+          "DE": 42,
+          "ER": 0,
+          "FR": 0,
+          "GB": 17,
+          "LU": 18,
+          "NL": 90,
+          "NZ": 10,
+          "ML": 0,
+          "US": 58
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b21b64dab71a6058b4572",
+      "type": "cheddar",
+      "name": "geriebener Cheddar",
+      "slug": "geriebener-cheddar",
+      "description": null,
+      "internalName": "geriebener Cheddar",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b21b64dab71a6058b4572.png",
+      "usage": 110,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "type": "nuts",
+      "name": "Schalenfrüchte",
+      "slug": "schalenfruchte",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "usage": 300
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "556c24054dab71bd3b8b4568",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b7e9af8b25e2b448b456a",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "556c09b7f8b25e74628b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "555357a3f8b25e89038b456a",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "556da575fd2cb9d1088b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2645fd2cb983608b4567",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b1f134dab71aa058b456e",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "55685f9bf8b25e67408b4567",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "556d7aaefd2cb9c4078b4569",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b21b64dab71a6058b4572",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "In einem großen Topf Quinoa in leicht gesalzenem Wasser nach Packungsangabe zubereiten.",
+      "instructionsHTML": "<p>In einem großen Topf Quinoa in leicht gesalzenem Wasser nach Packungsangabe zubereiten.</p>",
+      "instructions": "In einem großen Topf Quinoa in leicht gesalzenem Wasser nach Packungsangabe zubereiten.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55d1b325f8b25ef7038b4567/step_55d1df2710f3f.jpg",
+          "caption": "Quinoa kochen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556c24054dab71bd3b8b4568",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Blumenkohl in Röschen aufteilen, diese in einem Sieb waschen. Dann in einem großen Topf mit leicht gesalzenem Wasser bedecken und einmal aufkochen lassen. Hitze reduzieren und ca. 3 Min. weiterköcheln lassen, wieder in das Sieb abgießen, mit kaltem Wasser abschrecken und mit Küchenpapier trockentupfen.",
+      "instructionsHTML": "<p>Blumenkohl in Röschen aufteilen, diese in einem Sieb waschen. Dann in einem großen Topf mit leicht gesalzenem Wasser bedecken und einmal aufkochen lassen. Hitze reduzieren und ca. 3 Min. weiterköcheln lassen, wieder in das Sieb abgießen, mit kaltem Wasser abschrecken und mit Küchenpapier trockentupfen.</p>",
+      "instructions": "Blumenkohl in Röschen aufteilen, diese in einem Sieb waschen. Dann in einem großen Topf mit leicht gesalzenem Wasser bedecken und einmal aufkochen lassen. Hitze reduzieren und ca. 3 Min. weiterköcheln lassen, wieder in das Sieb abgießen, mit kaltem Wasser abschrecken und mit Küchenpapier trockentupfen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55d1b325f8b25ef7038b4567/step_55d1df272df97.jpg",
+          "caption": null
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b7e9af8b25e2b448b456a"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Knoblauch abziehen und fein hacken. Paprika waschen, Kerngehäuse entfernen und in ca. 2 cm große Würfel schneiden. Limette heiß abwaschen, Schale fein abreiben und entsaften. Tomaten waschen, halbieren, Strunk entfernen und in 2 cm große Würfel schneiden. Oregano waschen, trockenschütteln, Blätter abzupfen und grob hacken.",
+      "instructionsHTML": "<p>Knoblauch abziehen und fein hacken. Paprika waschen, Kerngehäuse entfernen und in ca. 2 cm große Würfel schneiden. Limette heiß abwaschen, Schale fein abreiben und entsaften. Tomaten waschen, halbieren, Strunk entfernen und in 2 cm große Würfel schneiden. Oregano waschen, trockenschütteln, Blätter abzupfen und grob hacken.</p>",
+      "instructions": "Knoblauch abziehen und fein hacken. Paprika waschen, Kerngehäuse entfernen und in ca. 2 cm große Würfel schneiden. Limette heiß abwaschen, Schale fein abreiben und entsaften. Tomaten waschen, halbieren, Strunk entfernen und in 2 cm große Würfel schneiden. Oregano waschen, trockenschütteln, Blätter abzupfen und grob hacken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55d1b325f8b25ef7038b4567/step_55d1df27427ce.jpg",
+          "caption": null
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b268ffd2cb983608b4568",
+        "556c09b7f8b25e74628b4567",
+        "555357a3f8b25e89038b456a",
+        "556da575fd2cb9d1088b456a",
+        "554b2645fd2cb983608b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer Pfanne 1 EL Butter erhitzen und Blumenkohl darin 3–5 Min. unter mehrmaligem Wenden bräunlich werden lassen. Knoblauch für ca. 1 Min. mit anbraten.",
+      "instructionsHTML": "<p>In einer Pfanne 1 EL Butter erhitzen und Blumenkohl darin 3–5 Min. unter mehrmaligem Wenden bräunlich werden lassen. Knoblauch für ca. 1 Min. mit anbraten.</p>",
+      "instructions": "In einer Pfanne 1 EL Butter erhitzen und Blumenkohl darin 3–5 Min. unter mehrmaligem Wenden bräunlich werden lassen. Knoblauch für ca. 1 Min. mit anbraten.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55d1b325f8b25ef7038b4567/step_55d1df275a2fa.jpg",
+          "caption": null
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b7e9af8b25e2b448b456a",
+        "554b268ffd2cb983608b4568",
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einer Salatschüssel 2 EL Olivenöl, Salz, Pfeffer und nach Geschmack Limettensaft und -abrieb zu einem Dressing verrühren. Dann alle Zutaten gut miteinander vermischen, Crème fraîche, Haselnüsse, Cranberries und Cheddar zufügen. Dann den noch lauwarmen Quinoa-Blumenkohl-Salat auf Tellern verteilen und genießen!",
+      "instructionsHTML": "<p>In einer Salatschüssel 2 EL Olivenöl, Salz, Pfeffer und nach Geschmack Limettensaft und -abrieb zu einem Dressing verrühren. Dann alle Zutaten gut miteinander vermischen, Crème fraîche, Haselnüsse, Cranberries und Cheddar zufügen. Dann den noch lauwarmen Quinoa-Blumenkohl-Salat auf Tellern verteilen und genießen!</p>",
+      "instructions": "In einer Salatschüssel 2 EL Olivenöl, Salz, Pfeffer und nach Geschmack Limettensaft und -abrieb zu einem Dressing verrühren. Dann alle Zutaten gut miteinander vermischen, Crème fraîche, Haselnüsse, Cranberries und Cheddar zufügen. Dann den noch lauwarmen Quinoa-Blumenkohl-Salat auf Tellern verteilen und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "55685f9bf8b25e67408b4567",
+        "556d7aaefd2cb9c4078b4569",
+        "554b21b64dab71a6058b4572",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b22cb4dab71c8058b4570",
+        "554b1f134dab71aa058b456e"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.1,
+  "ratingsCount": 38,
+  "favoritesCount": 252,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/lauwarmer-cremiger-quinoa-blumenkohl-salat-55d1b325f8b25ef7038b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

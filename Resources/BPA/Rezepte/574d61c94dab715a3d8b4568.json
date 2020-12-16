@@ -1,0 +1,1180 @@
+{
+  "country": "DE",
+  "id": "574d61c94dab715a3d8b4568",
+  "name": "Gemüsepfanne mit Trockenfrüchten",
+  "seoName": null,
+  "category": null,
+  "slug": "tm-gemusepfanne-mit-trockenfruchten",
+  "headline": "dazu Couscous und Sahne-Kefir-Dip (Thermomix)",
+  "description": "Wenn Du immer so lecker und gesund isst, wirst Du hoffentlich mehr als Tausendundeine schöne Nacht erleben und das, ohne Dir spannende Geschichten ausdenken zu müssen. Ein paar exotische Zutaten, knackiges Gemüse und süße Trockenfrüchte reichen dafür schon aus. Guten Appetit!",
+  "descriptionHTML": "<p>Wenn Du immer so lecker und gesund isst, wirst Du hoffentlich mehr als Tausendundeine schöne Nacht erleben und das, ohne Dir spannende Geschichten ausdenken zu müssen. Ein paar exotische Zutaten, knackiges Gemüse und süße Trockenfrüchte reichen dafür schon aus. Guten Appetit!</p>",
+  "descriptionMarkdown": "Wenn Du immer so lecker und gesund isst, wirst Du hoffentlich mehr als Tausendundeine schöne Nacht erleben und das, ohne Dir spannende Geschichten ausdenken zu müssen. Ein paar exotische Zutaten, knackiges Gemüse und süße Trockenfrüchte reichen dafür schon aus. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT35M",
+  "totalTime": "PT45M",
+  "servingSize": 0,
+  "createdAt": "2016-05-31T10:04:57+00:00",
+  "updatedAt": "2017-02-19T09:05:23+00:00",
+  "link": "https://hellofresh.com/recipes/574d61c94dab715a3d8b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/tm-gemusepfanne-mit-trockenfruchten-e90847e1.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/gemusepfanne-mit-trockenfruchten-df8e5421.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2995.744,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 716,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 13,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 117,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 27,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 11,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "555dc6b1fd2cb944758b456a",
+      "type": "kichererbsen",
+      "name": "Kichererbsen",
+      "slug": "kichererbsen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dc6b1fd2cb944758b456a.png",
+      "usage": 88,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6c",
+        "type": "chickpeas",
+        "name": "Kichererbsen",
+        "slug": "kichererbsen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6c-7142aee3.png",
+        "usageByCountry": {
+          "AT": 87,
+          "AU": 73,
+          "BE": 6,
+          "CA": 20,
+          "CH": 22,
+          "DE": 88,
+          "ER": 1,
+          "FR": 2,
+          "GB": 53,
+          "LU": 18,
+          "NL": 37,
+          "NZ": 7,
+          "ML": 6,
+          "US": 81
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555358b3f8b25e89038b456b",
+      "type": "couscous",
+      "name": "Couscous",
+      "slug": "couscous",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555358b3f8b25e89038b456b.png",
+      "usage": 80,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb84",
+        "type": "couscous",
+        "name": "Couscous",
+        "slug": "couscous",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb84-0e0812fe.png",
+        "usageByCountry": {
+          "AT": 75,
+          "AU": 72,
+          "BE": 148,
+          "CA": 55,
+          "CH": 22,
+          "DE": 80,
+          "ER": 8,
+          "FR": 44,
+          "GB": 90,
+          "LU": 177,
+          "NL": 185,
+          "NZ": 17,
+          "ML": 2,
+          "US": 188
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2aa14dab71aa058b4570",
+      "type": "zucchini",
+      "name": "Zucchini",
+      "slug": "zucchini",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2aa14dab71aa058b4570-0ba23f81.png",
+      "usage": 435,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc58",
+        "type": "zucchini",
+        "name": "Zucchini",
+        "slug": "zucchini",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc58-4066951c.png",
+        "usageByCountry": {
+          "AT": 449,
+          "AU": 407,
+          "BE": 0,
+          "CA": 103,
+          "CH": 74,
+          "DE": 439,
+          "ER": 23,
+          "FR": 0,
+          "GB": 0,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 110,
+          "ML": 163,
+          "US": 443
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34b64dab71aa058b4573",
+      "type": "petersilie",
+      "name": "Petersilie",
+      "slug": "petersilie",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34b64dab71aa058b4573.png",
+      "usage": 861,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da357fd2cb943758b4567",
+      "type": "thymian",
+      "name": "Thymian",
+      "slug": "thymian",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da357fd2cb943758b4567.png",
+      "usage": 245,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc43",
+        "type": "thyme",
+        "name": "Thymian",
+        "slug": "thymian",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc43-d0cc4199.png",
+        "usageByCountry": {
+          "AT": 252,
+          "AU": 94,
+          "BE": 243,
+          "CA": 96,
+          "CH": 34,
+          "DE": 252,
+          "ER": 0,
+          "FR": 73,
+          "GB": 187,
+          "LU": 346,
+          "NL": 288,
+          "NZ": 38,
+          "ML": 213,
+          "US": 322
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b343a4dab71aa058b4572",
+      "type": "gelbe paprika",
+      "name": "gelbe Paprika",
+      "slug": "gelbe-paprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b343a4dab71aa058b4572.png",
+      "usage": 284,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf7",
+        "type": "paprika",
+        "name": "Paprika",
+        "slug": "paprika",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf7-e6b2d1a6.png",
+        "usageByCountry": {
+          "AT": 581,
+          "AU": 50,
+          "BE": 613,
+          "CA": 64,
+          "CH": 21,
+          "DE": 536,
+          "ER": 7,
+          "FR": 166,
+          "GB": 539,
+          "LU": 769,
+          "NL": 388,
+          "NZ": 6,
+          "ML": 38,
+          "US": 79
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55953f68fd2cb90f238b4567",
+      "type": "getrocknete aprikosen",
+      "name": "getrocknete Aprikosen",
+      "slug": "getrocknete-aprikosen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55953f68fd2cb90f238b4567-12e0d6f3.png",
+      "usage": 17,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb90",
+        "type": "dried-fruit",
+        "name": "Trockenfrüchte",
+        "slug": "trockenfruchte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb90-8edcc2cc.png",
+        "usageByCountry": {
+          "AT": 91,
+          "AU": 6,
+          "BE": 182,
+          "CA": 11,
+          "CH": 30,
+          "DE": 85,
+          "ER": 0,
+          "FR": 14,
+          "GB": 54,
+          "LU": 152,
+          "NL": 206,
+          "NZ": 0,
+          "ML": 8,
+          "US": 51
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55953f804dab71b00d8b4569",
+      "type": "getrocknete feigen",
+      "name": "getrocknete Feigen",
+      "slug": "getrocknete-feigen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55953f804dab71b00d8b4569.png",
+      "usage": 4,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052ff",
+          "type": "sulphites",
+          "name": "Schwefel",
+          "slug": "schwefel",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+          "usage": 178
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb9b",
+        "type": "figs",
+        "name": "Fig",
+        "slug": "fig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb9b-7a5d04b9.png",
+        "usageByCountry": {
+          "AT": 12,
+          "AU": 1,
+          "BE": 1,
+          "CA": 2,
+          "CH": 3,
+          "DE": 12,
+          "ER": 0,
+          "FR": 1,
+          "GB": 1,
+          "LU": 1,
+          "NL": 3,
+          "NZ": 0,
+          "ML": 0,
+          "US": 7
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "574d5388f8b25efb0a8b4568",
+      "type": "gewürzmischung \"gemüse-couscous\"",
+      "name": "Gewürzmischung \"Gemüse-Couscous\"",
+      "slug": "gewurzmischung-gemuse-couscous",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/574d5388f8b25efb0a8b4568.png",
+      "usage": 2,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc32",
+        "type": "spice-mix",
+        "name": "Gewürzmischung",
+        "slug": "gewurzmischung",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc32-7154509f.png",
+        "usageByCountry": {
+          "AT": 594,
+          "AU": 114,
+          "BE": 15,
+          "CA": 34,
+          "CH": 92,
+          "DE": 475,
+          "ER": 36,
+          "FR": 10,
+          "GB": 42,
+          "LU": 10,
+          "NL": 25,
+          "NZ": 48,
+          "ML": 10,
+          "US": 366
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55685f67fd2cb997288b4567",
+      "type": "sahnekefir",
+      "name": "Sahnekefir",
+      "slug": "sahnekefir",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55685f67fd2cb997288b4567.png",
+      "usage": 6,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbbe",
+        "type": "kefir",
+        "name": "Kefir",
+        "slug": "kefir",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbbe-825533d1.png",
+        "usageByCountry": {
+          "AT": 7,
+          "AU": 0,
+          "BE": 0,
+          "CA": 0,
+          "CH": 0,
+          "DE": 7,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3639f8b25eef3e8b4575",
+      "type": "gemusebruhe-home",
+      "name": "Gemüsebrühe*",
+      "slug": "gemusebruhe",
+      "description": null,
+      "internalName": "Gemüsebrühe home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3639f8b25eef3e8b4575.png",
+      "usage": 441,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "type": "sulphites",
+      "name": "Schwefel",
+      "slug": "schwefel",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "usage": 178
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Große Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539b",
+      "type": "sieve",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a2",
+      "type": "thermomix",
+      "name": "Thermomix"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Kleine Schale"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305328",
+      "type": "thermomix",
+      "name": "Thermomix",
+      "slug": "thermomix",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200https://s3-eu-west-1.amazonaws.com/hf-recipes/tags/icon-thermomix.png",
+      "numberOfRecipes": 1034,
+      "numberOfRecipesByCountry": {
+        "AT": 568,
+        "AU": 0,
+        "BE": 0,
+        "CA": 0,
+        "CH": 3,
+        "DE": 463,
+        "ER": 0,
+        "FR": 0,
+        "GB": 0,
+        "LU": 0,
+        "NL": 0,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053c5",
+      "type": "oriental",
+      "name": "Orientalisch",
+      "slug": "orientalisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053c5-47ee2bee.jpg",
+      "usage": 259
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": "thermomix",
+  "label": {
+    "text": "Thermomix",
+    "handle": "thermomix",
+    "backgroundColor": "#009747",
+    "foregroundColor": "#ffffff"
+  },
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "555dc6b1fd2cb944758b456a",
+          "amount": 1,
+          "unit": "Dose"
+        },
+        {
+          "id": "555358b3f8b25e89038b456b",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b2aa14dab71aa058b4570",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 2,
+          "unit": "Zweig"
+        },
+        {
+          "id": "555da357fd2cb943758b4567",
+          "amount": 1,
+          "unit": "Zweig"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b343a4dab71aa058b4572",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55953f68fd2cb90f238b4567",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "55953f804dab71b00d8b4569",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "574d5388f8b25efb0a8b4568",
+          "amount": 3,
+          "unit": "g"
+        },
+        {
+          "id": "55685f67fd2cb997288b4567",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "554b3639f8b25eef3e8b4575",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Gemüse und Kräuter waschen und putzen.\n\nKichererbsen durch ein Sieb abgießen und mit kaltem Wasser abspülen\nund abtropfen lassen. Couscous in eine große Schüssel füllen.",
+      "instructionsHTML": "<p>Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Gemüse und Kräuter waschen und putzen.</p>\n<p>Kichererbsen durch ein Sieb abgießen und mit kaltem Wasser abspülen\nund abtropfen lassen. Couscous in eine große Schüssel füllen.</p>",
+      "instructions": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Gemüse und Kräuter waschen und putzen.\nKichererbsen durch ein Sieb abgießen und mit kaltem Wasser abspülen\nund abtropfen lassen. Couscous in eine große Schüssel füllen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "555dc6b1fd2cb944758b456a",
+        "555358b3f8b25e89038b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305372",
+        "57e2674fb7e8697d4b30539b"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "200 g Wasser, 1 TL Salz und 15 g Öl in den Mixtopf einwiegen, 3 Min./100 °C/Stufe 1 aufkochen. In dieser Zeit Zuccini in 1 cm Würfel schneiden. Heiße Flüssigkeit über den Couscous gießen, verrühren und ziehen lassen. Mixtopf kalt ausspülen und trocknen.",
+      "instructionsHTML": "<p>200 g Wasser, 1 TL Salz und 15 g Öl in den Mixtopf einwiegen, 3 Min./100 °C/Stufe 1 aufkochen. In dieser Zeit Zuccini in 1 cm Würfel schneiden. Heiße Flüssigkeit über den Couscous gießen, verrühren und ziehen lassen. Mixtopf kalt ausspülen und trocknen.</p>",
+      "instructions": "200 g Wasser, 1 TL Salz und 15 g Öl in den Mixtopf einwiegen, 3 Min./100 °C/Stufe 1 aufkochen. In dieser Zeit Zuccini in 1 cm Würfel schneiden. Heiße Flüssigkeit über den Couscous gießen, verrühren und ziehen lassen. Mixtopf kalt ausspülen und trocknen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b2aa14dab71aa058b4570",
+        "554b22cb4dab71c8058b4570",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Petersilie und Thymian in den Mixtopf geben und 4 Sek./Stufe 8 zerkleinern\nund in eine kleine Schüssel umfüllen.",
+      "instructionsHTML": "<p>Petersilie und Thymian in den Mixtopf geben und 4 Sek./Stufe 8 zerkleinern\nund in eine kleine Schüssel umfüllen.</p>",
+      "instructions": "Petersilie und Thymian in den Mixtopf geben und 4 Sek./Stufe 8 zerkleinern\nund in eine kleine Schüssel umfüllen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/574d61c94dab715a3d8b4568/step_575ac3deb7170.jpg",
+          "caption": "Kräuter zerkleinern"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b34b64dab71aa058b4573",
+        "555da357fd2cb943758b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305380",
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Knoblauch und Zwiebelhälften in den Mixtopf geben, 5 Sek./Stufe 5 zerkleinern und mit dem Spatel nach unten schieben. 1 EL Öl und Gewürzmischung dazugeben und 3 Min. /120 ° C/ Stufe 1 dünsten. Währenddessen Paprika in mundgerechte Stücke schneiden. Zucchiniwürfel dazugeben und weitere 4 Min./120 °C/:thermomix-reverse-on-off:/Stufe :thermomix-stirring-speed: dünsten. In dieser Zeit getrocknete Feigen und Aprikosen vierteln.",
+      "instructionsHTML": "<p>Knoblauch und Zwiebelhälften in den Mixtopf geben, 5 Sek./Stufe 5 zerkleinern und mit dem Spatel nach unten schieben. 1 EL Öl und Gewürzmischung dazugeben und 3 Min. /120 ° C/ Stufe 1 dünsten. Währenddessen Paprika in mundgerechte Stücke schneiden. Zucchiniwürfel dazugeben und weitere 4 Min./120 °C/<span class=\"thermomix-reverse-on-off\"></span>/Stufe <span class=\"thermomix-stirring-speed\"></span> dünsten. In dieser Zeit getrocknete Feigen und Aprikosen vierteln.</p>",
+      "instructions": "Knoblauch und Zwiebelhälften in den Mixtopf geben, 5 Sek./Stufe 5 zerkleinern und mit dem Spatel nach unten schieben. 1 EL Öl und Gewürzmischung dazugeben und 3 Min. /120 ° C/ Stufe 1 dünsten. Währenddessen Paprika in mundgerechte Stücke schneiden. Zucchiniwürfel dazugeben und weitere 4 Min./120 °C//Stufe dünsten. In dieser Zeit getrocknete Feigen und Aprikosen vierteln.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/574d61c94dab715a3d8b4568/step_575ac3dee6f28.jpg",
+          "caption": "Zucchini zugeben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b268ffd2cb983608b4568",
+        "554b2abcf8b25eef3e8b4573",
+        "554b343a4dab71aa058b4572",
+        "554b2aa14dab71aa058b4570",
+        "55953f68fd2cb90f238b4567",
+        "55953f804dab71b00d8b4569",
+        "574d5388f8b25efb0a8b4568",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Paprikastücke, Feigen- und Aprikosenviertel dazugeben und 3 Min./120 °C/:thermomix-reverse-on-off:/Stufe 0,5 dünsten. 400 g Gemüsebrühe, abgetropfte Kichererbsen, 1 Prise Salz und Pfeffer in den Mixtopf geben, anstelle des Messbechers Gareinsatz als Spritzschutz auf den Mixtopfdeckel stellen und 8 Min./100 °C/:thermomix-reverse-on-off:/Stufe 1 garen. In dieser Zeit Sahne-Kefir mit etwas Salz und Pfeffer in einer kleinen Schüssel verrühren.",
+      "instructionsHTML": "<p>Paprikastücke, Feigen- und Aprikosenviertel dazugeben und 3 Min./120 °C/<span class=\"thermomix-reverse-on-off\"></span>/Stufe 0,5 dünsten. 400 g Gemüsebrühe, abgetropfte Kichererbsen, 1 Prise Salz und Pfeffer in den Mixtopf geben, anstelle des Messbechers Gareinsatz als Spritzschutz auf den Mixtopfdeckel stellen und 8 Min./100 °C/<span class=\"thermomix-reverse-on-off\"></span>/Stufe 1 garen. In dieser Zeit Sahne-Kefir mit etwas Salz und Pfeffer in einer kleinen Schüssel verrühren.</p>",
+      "instructions": "Paprikastücke, Feigen- und Aprikosenviertel dazugeben und 3 Min./120 °C//Stufe 0,5 dünsten. 400 g Gemüsebrühe, abgetropfte Kichererbsen, 1 Prise Salz und Pfeffer in den Mixtopf geben, anstelle des Messbechers Gareinsatz als Spritzschutz auf den Mixtopfdeckel stellen und 8 Min./100 °C//Stufe 1 garen. In dieser Zeit Sahne-Kefir mit etwas Salz und Pfeffer in einer kleinen Schüssel verrühren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/574d61c94dab715a3d8b4568/step_575ac3df03322.jpg",
+          "caption": "Paprika zugeben"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/574d61c94dab715a3d8b4568/step_575ac3df2d23d.jpg",
+          "caption": "Sahne-Kefir zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b343a4dab71aa058b4572",
+        "55953f68fd2cb90f238b4567",
+        "55953f804dab71b00d8b4569",
+        "555dc6b1fd2cb944758b456a",
+        "55685f67fd2cb997288b4567",
+        "554b3639f8b25eef3e8b4575",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305380",
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Couscous mit einer Gabel auflockern. Dann auf tiefen Tellern verteilen und das Gemüse darauf anrichten. Mit der zerkleinerten Petersilie und Thymian bestreuen und mit ein wenig Sahne-Kefir genießen!",
+      "instructionsHTML": "<p>Couscous mit einer Gabel auflockern. Dann auf tiefen Tellern verteilen und das Gemüse darauf anrichten. Mit der zerkleinerten Petersilie und Thymian bestreuen und mit ein wenig Sahne-Kefir genießen!</p>",
+      "instructions": "Couscous mit einer Gabel auflockern. Dann auf tiefen Tellern verteilen und das Gemüse darauf anrichten. Mit der zerkleinerten Petersilie und Thymian bestreuen und mit ein wenig Sahne-Kefir genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b34b64dab71aa058b4573",
+        "555da357fd2cb943758b4567"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.5,
+  "ratingsCount": 12,
+  "favoritesCount": 116,
+  "active": true,
+  "highlighted": true,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/tm-gemusepfanne-mit-trockenfruchten-574d61c94dab715a3d8b4568",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

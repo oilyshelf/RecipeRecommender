@@ -1,0 +1,1056 @@
+{
+  "country": "DE",
+  "id": "5524fa8a6ced6efd4d8b4567",
+  "name": "Hennings vegane Königsberger Klopse",
+  "seoName": null,
+  "category": null,
+  "slug": "hennings-vegane-konigsberger-klopse",
+  "headline": "mit Kartoffel-Karotten-Gemüse aus dem Ofen",
+  "description": "Als ich unseren Henning nach seinem Lieblingsgericht gefragt habe, kam es wie aus der Pistole geschossen: Vegane Königsberger Klopse! Bitte verzeih‘ es mir, aber eigentlich hätte ich Dich eher in die Sauerbraten-Schublade gepackt, lieber Henning. Eine Spitzenwahl, wie ich finde. Guten Appetit!",
+  "descriptionHTML": "<p>Als ich unseren Henning nach seinem Lieblingsgericht gefragt habe, kam es wie aus der Pistole geschossen: Vegane Königsberger Klopse! Bitte verzeih‘ es mir, aber eigentlich hätte ich Dich eher in die Sauerbraten-Schublade gepackt, lieber Henning. Eine Spitzenwahl, wie ich finde. Guten Appetit!</p>",
+  "descriptionMarkdown": "Als ich unseren Henning nach seinem Lieblingsgericht gefragt habe, kam es wie aus der Pistole geschossen: Vegane Königsberger Klopse! Bitte verzeih‘ es mir, aber eigentlich hätte ich Dich eher in die Sauerbraten-Schublade gepackt, lieber Henning. Eine Spitzenwahl, wie ich finde. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 3,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-04-08T09:53:14+00:00",
+  "updatedAt": "2017-04-03T19:31:03+00:00",
+  "link": "https://hellofresh.com/recipes/5524fa8a6ced6efd4d8b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/5524fa8a6ced6efd4d8b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/5524fa8a6ced6efd4d8b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3343.016,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 799,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 67,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 32,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b23dff8b25ef53e8b456f",
+      "type": "karotten",
+      "name": "Karotte",
+      "slug": "karotten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b23dff8b25ef53e8b456f.png",
+      "usage": 566,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb62",
+        "type": "carrot",
+        "name": "Karotte",
+        "slug": "karotte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb62-c4a1f62d.png",
+        "usageByCountry": {
+          "AT": 679,
+          "AU": 553,
+          "BE": 225,
+          "CA": 127,
+          "CH": 130,
+          "DE": 627,
+          "ER": 27,
+          "FR": 49,
+          "GB": 343,
+          "LU": 220,
+          "NL": 263,
+          "NZ": 175,
+          "ML": 243,
+          "US": 318
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34b64dab71aa058b4573",
+      "type": "petersilie",
+      "name": "Petersilie",
+      "slug": "petersilie",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34b64dab71aa058b4573.png",
+      "usage": 861,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556841a94dab71d81c8b4568",
+      "type": "tofu",
+      "name": "Tofu",
+      "slug": "tofu",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556841a94dab71d81c8b4568.png",
+      "usage": 22,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f9",
+          "type": "soya",
+          "name": "Soja",
+          "slug": "soja",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+          "usage": 390
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc44",
+        "type": "tofu",
+        "name": "Tofu",
+        "slug": "tofu",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc44-7698781a.png",
+        "usageByCountry": {
+          "AT": 34,
+          "AU": 59,
+          "BE": 19,
+          "CA": 13,
+          "CH": 5,
+          "DE": 35,
+          "ER": 0,
+          "FR": 8,
+          "GB": 12,
+          "LU": 15,
+          "NL": 26,
+          "NZ": 15,
+          "ML": 0,
+          "US": 7
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556db214f8b25e83738b4567",
+      "type": "kapern",
+      "name": "Kapern",
+      "slug": "kapern",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/556db214f8b25e83738b4567-6720f5b4.png",
+      "usage": 10,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5f",
+        "type": "capers",
+        "name": "Kapern",
+        "slug": "kapern",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5f-55628563.png",
+        "usageByCountry": {
+          "AT": 11,
+          "AU": 18,
+          "BE": 23,
+          "CA": 4,
+          "CH": 1,
+          "DE": 10,
+          "ER": 0,
+          "FR": 11,
+          "GB": 24,
+          "LU": 53,
+          "NL": 35,
+          "NZ": 3,
+          "ML": 0,
+          "US": 15
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535e24f8b25e78738b4569",
+      "type": "senf",
+      "name": "Senf",
+      "slug": "senf",
+      "description": null,
+      "internalName": "Senf home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55535e24f8b25e78738b4569.png",
+      "usage": 102,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fd",
+          "type": "mustard",
+          "name": "Senf",
+          "slug": "senf",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+          "usage": 158
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbdf",
+        "type": "mustard",
+        "name": "Senf",
+        "slug": "senf",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbdf-bd28b3fe.png",
+        "usageByCountry": {
+          "AT": 411,
+          "AU": 149,
+          "BE": 262,
+          "CA": 135,
+          "CH": 75,
+          "DE": 361,
+          "ER": 7,
+          "FR": 68,
+          "GB": 159,
+          "LU": 354,
+          "NL": 295,
+          "NZ": 42,
+          "ML": 1,
+          "US": 175
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c5f24fd2cb97b4d8b4567",
+      "type": "paniermehl",
+      "name": "Paniermehl",
+      "slug": "paniermehl",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/556c5f24fd2cb97b4d8b4567-39e77526.png",
+      "usage": 8,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf4",
+        "type": "panko",
+        "name": "Panko",
+        "slug": "panko",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf4-7b32397f.png",
+        "usageByCountry": {
+          "AT": 7,
+          "AU": 108,
+          "BE": 0,
+          "CA": 87,
+          "CH": 13,
+          "DE": 8,
+          "ER": 18,
+          "FR": 0,
+          "GB": 169,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 55,
+          "ML": 60,
+          "US": 429
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556853824dab71441d8b4567",
+      "type": "soja-sahne",
+      "name": "Soja-Sahne",
+      "slug": "soja-sahne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556853824dab71441d8b4567.png",
+      "usage": 2,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f9",
+          "type": "soya",
+          "name": "Soja",
+          "slug": "soja",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+          "usage": 390
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "type": "soya",
+      "name": "Soja",
+      "slug": "soja",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "usage": 390
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "type": "mustard",
+      "name": "Senf",
+      "slug": "senf",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "usage": 158
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 0.5,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 0.5,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556841a94dab71d81c8b4568",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "556db214f8b25e83738b4567",
+          "amount": 2,
+          "unit": "Esslöffel"
+        },
+        {
+          "id": "55535e24f8b25e78738b4569",
+          "amount": 1,
+          "unit": "Teelöffel"
+        },
+        {
+          "id": "556c5f24fd2cb97b4d8b4567",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "id": "556853824dab71441d8b4567",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556841a94dab71d81c8b4568",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "556db214f8b25e83738b4567",
+          "amount": 4,
+          "unit": "Esslöffel"
+        },
+        {
+          "id": "55535e24f8b25e78738b4569",
+          "amount": 2,
+          "unit": "Teelöffel"
+        },
+        {
+          "id": "556c5f24fd2cb97b4d8b4567",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "id": "556853824dab71441d8b4567",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Ofen auf 200 °C Ober-/Unterhitze (Umluft 180 °C) vorheizen.",
+      "instructionsHTML": "<p>Ofen auf 200 °C Ober-/Unterhitze (Umluft 180 °C) vorheizen.</p>",
+      "instructions": "Ofen auf 200 °C Ober-/Unterhitze (Umluft 180 °C) vorheizen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Kartoffeln gut waschen und in ca. 2–3 cm große Ecken schneiden. Karotten schälen und ebenfalls in ca. 2–3 cm große Stücke schneiden. Alles auf ein Backblech verteilen, mit 1 EL Olivenöl und Salz und Pfeffer mischen und ca. 15-20 Min. knusprig backen.",
+      "instructionsHTML": "<p>Kartoffeln gut waschen und in ca. 2–3 cm große Ecken schneiden. Karotten schälen und ebenfalls in ca. 2–3 cm große Stücke schneiden. Alles auf ein Backblech verteilen, mit 1 EL Olivenöl und Salz und Pfeffer mischen und ca. 15-20 Min. knusprig backen.</p>",
+      "instructions": "Kartoffeln gut waschen und in ca. 2–3 cm große Ecken schneiden. Karotten schälen und ebenfalls in ca. 2–3 cm große Stücke schneiden. Alles auf ein Backblech verteilen, mit 1 EL Olivenöl und Salz und Pfeffer mischen und ca. 15-20 Min. knusprig backen.",
+      "timers": [
+        {
+          "name": "Kartoffeln backen",
+          "duration": "PT20M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5524fa8a6ced6efd4d8b4567/step_556dcb9c32110.jpg",
+          "caption": "Kartoffeln und Karotten backen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567",
+        "554b23dff8b25ef53e8b456f"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Zwiebel abziehen und fein würfeln. Petersilie waschen, trocken schütteln, Blätter abzupfen und fein hacken. Zitrone heiß abwaschen, Schale fein abreiben und entsaften.",
+      "instructionsHTML": "<p>Zwiebel abziehen und fein würfeln. Petersilie waschen, trocken schütteln, Blätter abzupfen und fein hacken. Zitrone heiß abwaschen, Schale fein abreiben und entsaften.</p>",
+      "instructions": "Zwiebel abziehen und fein würfeln. Petersilie waschen, trocken schütteln, Blätter abzupfen und fein hacken. Zitrone heiß abwaschen, Schale fein abreiben und entsaften.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b34554dab71a6058b4576",
+        "554b34b64dab71aa058b4573",
+        "554b1de2f8b25ef93e8b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Tofu in einer Schüssel fein zerbröseln. Zusammen mit 1 EL Kapern, Zitronenschale, Senf, Paniermehl, Salz und Pfeffer 2–3 Min. verkneten, am besten mit der Hand. Dann mit nassen Händen 6 Klopse (ungefähr so groß wie ein Esslöffel) formen, 8 größere Klopse für 4 Personen.",
+      "instructionsHTML": "<p>Tofu in einer Schüssel fein zerbröseln. Zusammen mit 1 EL Kapern, Zitronenschale, Senf, Paniermehl, Salz und Pfeffer 2–3 Min. verkneten, am besten mit der Hand. Dann mit nassen Händen 6 Klopse (ungefähr so groß wie ein Esslöffel) formen, 8 größere Klopse für 4 Personen.</p>",
+      "instructions": "Tofu in einer Schüssel fein zerbröseln. Zusammen mit 1 EL Kapern, Zitronenschale, Senf, Paniermehl, Salz und Pfeffer 2–3 Min. verkneten, am besten mit der Hand. Dann mit nassen Händen 6 Klopse (ungefähr so groß wie ein Esslöffel) formen, 8 größere Klopse für 4 Personen.",
+      "timers": [
+        {
+          "name": "Tofu verkneten",
+          "duration": "PT03M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5524fa8a6ced6efd4d8b4567/step_556dcb9c5d299.jpg",
+          "caption": "Tofu zubereiten"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5524fa8a6ced6efd4d8b4567/step_556dcc833b146.jpg",
+          "caption": "Klopse formen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1de2f8b25ef93e8b456b",
+        "556841a94dab71d81c8b4568",
+        "556db214f8b25e83738b4567",
+        "55535e24f8b25e78738b4569",
+        "556c5f24fd2cb97b4d8b4567",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einer Pfanne 1 EL Öl erhitzen und Tofu-Klopse darin 2–3 Min. von jeder Seite anbraten. Aus der Pfanne nehmen und kurz beiseitestellen.",
+      "instructionsHTML": "<p>In einer Pfanne 1 EL Öl erhitzen und Tofu-Klopse darin 2–3 Min. von jeder Seite anbraten. Aus der Pfanne nehmen und kurz beiseitestellen.</p>",
+      "instructions": "In einer Pfanne 1 EL Öl erhitzen und Tofu-Klopse darin 2–3 Min. von jeder Seite anbraten. Aus der Pfanne nehmen und kurz beiseitestellen.",
+      "timers": [
+        {
+          "name": "Tofu-Klopse anbraten",
+          "duration": "PT06M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556841a94dab71d81c8b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Erneut in der Pfanne 1 EL Öl erhitzen und Zwiebeln darin 3 Min. glasig andünsten. 1 EL Mehl hinzufügen und leicht anrösten. 1 EL Kapern hinzufügen, mit Sojasahne ablöschen und gut mit einem Schneebesen verrühren. Mit Salz, Pfeffer und etwas Zitronensaft abschmecken. Tofu-Klopse zu der Soße geben und kurz erwärmen.",
+      "instructionsHTML": "<p>Erneut in der Pfanne 1 EL Öl erhitzen und Zwiebeln darin 3 Min. glasig andünsten. 1 EL Mehl hinzufügen und leicht anrösten. 1 EL Kapern hinzufügen, mit Sojasahne ablöschen und gut mit einem Schneebesen verrühren. Mit Salz, Pfeffer und etwas Zitronensaft abschmecken. Tofu-Klopse zu der Soße geben und kurz erwärmen.</p>",
+      "instructions": "Erneut in der Pfanne 1 EL Öl erhitzen und Zwiebeln darin 3 Min. glasig andünsten. 1 EL Mehl hinzufügen und leicht anrösten. 1 EL Kapern hinzufügen, mit Sojasahne ablöschen und gut mit einem Schneebesen verrühren. Mit Salz, Pfeffer und etwas Zitronensaft abschmecken. Tofu-Klopse zu der Soße geben und kurz erwärmen.",
+      "timers": [
+        {
+          "name": "Tofu-Klopse zu der Soße geben",
+          "duration": "PT03M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5524fa8a6ced6efd4d8b4567/step_556dcc8358bf6.jpg",
+          "caption": "Tofu-Klopse zu der Soße geben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b34554dab71a6058b4576",
+        "554b1de2f8b25ef93e8b456b",
+        "556db214f8b25e83738b4567",
+        "556c5f24fd2cb97b4d8b4567",
+        "556853824dab71441d8b4567",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Kartoffeln und Karotten nach der Garzeit aus dem Ofen nehmen und mit Soße und Klopsen auf flachen Tellern verteilen, mit Petersilie bestreut genießen.",
+      "instructionsHTML": "<p>Kartoffeln und Karotten nach der Garzeit aus dem Ofen nehmen und mit Soße und Klopsen auf flachen Tellern verteilen, mit Petersilie bestreut genießen.</p>",
+      "instructions": "Kartoffeln und Karotten nach der Garzeit aus dem Ofen nehmen und mit Soße und Klopsen auf flachen Tellern verteilen, mit Petersilie bestreut genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567",
+        "554b23dff8b25ef53e8b456f",
+        "554b34554dab71a6058b4576",
+        "554b34b64dab71aa058b4573",
+        "554b1de2f8b25ef93e8b456b",
+        "556841a94dab71d81c8b4568",
+        "556db214f8b25e83738b4567",
+        "55535e24f8b25e78738b4569",
+        "556c5f24fd2cb97b4d8b4567",
+        "556853824dab71441d8b4567",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 2.7,
+  "ratingsCount": 60,
+  "favoritesCount": 130,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/hennings-vegane-konigsberger-klopse-5524fa8a6ced6efd4d8b4567",
+  "clonedFrom": null,
+  "canonical": "5524fa8a6ced6efd4d8b4567",
+  "canonicalLink": "https://www.hellofresh.de/recipes/hennings-vegane-konigsberger-klopse-5524fa8a6ced6efd4d8b4567"
+}

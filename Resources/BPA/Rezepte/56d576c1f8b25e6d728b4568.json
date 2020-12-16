@@ -1,0 +1,1163 @@
+{
+  "country": "DE",
+  "id": "56d576c1f8b25e6d728b4568",
+  "name": "Orientalisch: Kokos-Gemüse-Curry mit Süßkartoffeln",
+  "seoName": null,
+  "category": null,
+  "slug": "orientalisch-kokos-gemuse-curry",
+  "headline": "und knusprigem Naan-Brot",
+  "description": "In der farbenfrohen, asiatischen Küche sind würzig-leckere Curry-Gerichte nicht mehr wegzudenken. Viel frisches Gemüse und aromatische Curry-Gewürze zaubern Dir heute im Nu ein bisschen vom bunten Asia-Feeling auf den Teller. Lass es Dir schmecken!",
+  "descriptionHTML": "<p>In der farbenfrohen, asiatischen Küche sind würzig-leckere Curry-Gerichte nicht mehr wegzudenken. Viel frisches Gemüse und aromatische Curry-Gewürze zaubern Dir heute im Nu ein bisschen vom bunten Asia-Feeling auf den Teller. Lass es Dir schmecken!</p>",
+  "descriptionMarkdown": "In der farbenfrohen, asiatischen Küche sind würzig-leckere Curry-Gerichte nicht mehr wegzudenken. Viel frisches Gemüse und aromatische Curry-Gewürze zaubern Dir heute im Nu ein bisschen vom bunten Asia-Feeling auf den Teller. Lass es Dir schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT40M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-03-01T11:02:25+00:00",
+  "updatedAt": "2017-03-09T17:37:23+00:00",
+  "link": "https://hellofresh.com/recipes/56d576c1f8b25e6d728b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/56d576c1f8b25e6d728b4568.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/56d576c1f8b25e6d728b4568.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3376,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 807,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 46,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 87,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 14,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b1a294dab71a6058b4570",
+      "type": "suszkartoffeln",
+      "name": "Süßkartoffel",
+      "slug": "suszkartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1a294dab71a6058b4570.png",
+      "usage": 226,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3507f8b25ef93e8b4570",
+      "type": "cashewkerne",
+      "name": "Cashewkerne",
+      "slug": "cashewkerne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3507f8b25ef93e8b4570.png",
+      "usage": 98,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b23dff8b25ef53e8b456f",
+      "type": "karotten",
+      "name": "Karotte",
+      "slug": "karotten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b23dff8b25ef53e8b456f.png",
+      "usage": 566,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb62",
+        "type": "carrot",
+        "name": "Karotte",
+        "slug": "karotte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb62-c4a1f62d.png",
+        "usageByCountry": {
+          "AT": 679,
+          "AU": 553,
+          "BE": 225,
+          "CA": 127,
+          "CH": 130,
+          "DE": 627,
+          "ER": 27,
+          "FR": 49,
+          "GB": 343,
+          "LU": 220,
+          "NL": 263,
+          "NZ": 175,
+          "ML": 243,
+          "US": 318
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2aa14dab71aa058b4570",
+      "type": "zucchini",
+      "name": "Zucchini",
+      "slug": "zucchini",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2aa14dab71aa058b4570-0ba23f81.png",
+      "usage": 435,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc58",
+        "type": "zucchini",
+        "name": "Zucchini",
+        "slug": "zucchini",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc58-4066951c.png",
+        "usageByCountry": {
+          "AT": 449,
+          "AU": 407,
+          "BE": 0,
+          "CA": 103,
+          "CH": 74,
+          "DE": 439,
+          "ER": 23,
+          "FR": 0,
+          "GB": 0,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 110,
+          "ML": 163,
+          "US": 443
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7e84fd2cb911618b456a",
+      "type": "rote paprika",
+      "name": "rote Paprika",
+      "slug": "rote-paprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7e84fd2cb911618b456a.png",
+      "usage": 229,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf7",
+        "type": "paprika",
+        "name": "Paprika",
+        "slug": "paprika",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf7-e6b2d1a6.png",
+        "usageByCountry": {
+          "AT": 581,
+          "AU": 50,
+          "BE": 613,
+          "CA": 64,
+          "CH": 21,
+          "DE": 536,
+          "ER": 7,
+          "FR": 166,
+          "GB": 539,
+          "LU": 769,
+          "NL": 388,
+          "NZ": 6,
+          "ML": 38,
+          "US": 79
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556db2a04dab71104b8b4568",
+      "type": "naan-brot",
+      "name": "Naan-Brot",
+      "slug": "naan-brot",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556db2a04dab71104b8b4568.png",
+      "usage": 66,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dbbe8fd2cb9c9768b4567",
+      "type": "kokosmilch",
+      "name": "Kokosmilch",
+      "slug": "kokosmilch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dbbe8fd2cb9c9768b4567.png",
+      "usage": 322,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb7e",
+        "type": "coconut-milk",
+        "name": "Kokosmilch",
+        "slug": "kokosmilch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb7e-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 374,
+          "AU": 60,
+          "BE": 137,
+          "CA": 27,
+          "CH": 66,
+          "DE": 322,
+          "ER": 0,
+          "FR": 30,
+          "GB": 115,
+          "LU": 157,
+          "NL": 160,
+          "NZ": 24,
+          "ML": 0,
+          "US": 22
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566f38e4dab7138088b456b",
+      "type": "rote currypaste",
+      "name": "rote Currypaste",
+      "slug": "rote-currypaste",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566f38e4dab7138088b456b.png",
+      "usage": 6,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb8a",
+        "type": "curry",
+        "name": "Curry",
+        "slug": "curry",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb8a-43199cbe.png",
+        "usageByCountry": {
+          "AT": 166,
+          "AU": 61,
+          "BE": 155,
+          "CA": 16,
+          "CH": 36,
+          "DE": 148,
+          "ER": 0,
+          "FR": 35,
+          "GB": 159,
+          "LU": 163,
+          "NL": 177,
+          "NZ": 14,
+          "ML": 0,
+          "US": 21
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55685e4cf8b25e68408b456a",
+      "type": "kreuzkümmel, gemahlen",
+      "name": "Kreuzkümmel, gemahlen",
+      "slug": "kreuzkummel-gemahlen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55685e4cf8b25e68408b456a.png",
+      "usage": 21,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb89",
+        "type": "cumin",
+        "name": "Kreuzkümmel",
+        "slug": "kreuzkummel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb89-bc3144f6.png",
+        "usageByCountry": {
+          "AT": 97,
+          "AU": 47,
+          "BE": 91,
+          "CA": 18,
+          "CH": 18,
+          "DE": 90,
+          "ER": 4,
+          "FR": 19,
+          "GB": 89,
+          "LU": 131,
+          "NL": 120,
+          "NZ": 0,
+          "ML": 69,
+          "US": 128
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34b64dab71aa058b4573",
+      "type": "petersilie",
+      "name": "Petersilie",
+      "slug": "petersilie",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34b64dab71aa058b4573.png",
+      "usage": 861,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1e654dab71a6058b4571",
+      "type": "koriander",
+      "name": "Koriander",
+      "slug": "koriander",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1e654dab71a6058b4571.png",
+      "usage": 240,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb79",
+        "type": "cilantro-coriander",
+        "name": "Cilantro / Koriander",
+        "slug": "cilantro-koriander",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb79-7a34459a.png",
+        "usageByCountry": {
+          "AT": 253,
+          "AU": 387,
+          "BE": 166,
+          "CA": 173,
+          "CH": 75,
+          "DE": 240,
+          "ER": 3,
+          "FR": 66,
+          "GB": 542,
+          "LU": 305,
+          "NL": 193,
+          "NZ": 102,
+          "ML": 8,
+          "US": 432
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55683068fd2cb9d8268b4569",
+      "type": "rosinen",
+      "name": "Rosinen",
+      "slug": "rosinen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55683068fd2cb9d8268b4569.png",
+      "usage": 11,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb90",
+        "type": "dried-fruit",
+        "name": "Trockenfrüchte",
+        "slug": "trockenfruchte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb90-8edcc2cc.png",
+        "usageByCountry": {
+          "AT": 91,
+          "AU": 6,
+          "BE": 182,
+          "CA": 11,
+          "CH": 30,
+          "DE": 85,
+          "ER": 0,
+          "FR": 14,
+          "GB": 54,
+          "LU": 152,
+          "NL": 206,
+          "NZ": 0,
+          "ML": 8,
+          "US": 51
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30538b",
+      "type": "pan-lid",
+      "name": "Pfanne mit Deckel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b1a294dab71a6058b4570",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b3507f8b25ef93e8b4570",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2aa14dab71aa058b4570",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7e84fd2cb911618b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556db2a04dab71104b8b4568",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "555dbbe8fd2cb9c9768b4567",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "id": "5566f38e4dab7138088b456b",
+          "amount": 1,
+          "unit": "Esslöffel"
+        },
+        {
+          "id": "55685e4cf8b25e68408b456a",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b1e654dab71a6058b4571",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "55683068fd2cb9d8268b4569",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Süßkartoffel schälen und in ca. 0,5 cm dicke Scheiben schneiden. Cashewkerne grob hacken. In einer großen Pfanne einen Schuss Öl erhitzen. Süßkartoffeln und Cashewkerne darin mit geringer bis mittlerer Hitze 15–20 Min. bei geschlossenem Deckel garen, gelegentlich wenden.",
+      "instructionsHTML": "<p>Süßkartoffel schälen und in ca. 0,5 cm dicke Scheiben schneiden. Cashewkerne grob hacken. In einer großen Pfanne einen Schuss Öl erhitzen. Süßkartoffeln und Cashewkerne darin mit geringer bis mittlerer Hitze 15–20 Min. bei geschlossenem Deckel garen, gelegentlich wenden.</p>",
+      "instructions": "Süßkartoffel schälen und in ca. 0,5 cm dicke Scheiben schneiden. Cashewkerne grob hacken. In einer großen Pfanne einen Schuss Öl erhitzen. Süßkartoffeln und Cashewkerne darin mit geringer bis mittlerer Hitze 15–20 Min. bei geschlossenem Deckel garen, gelegentlich wenden.",
+      "timers": [
+        {
+          "name": "Süßkartoffeln garen",
+          "duration": "PT15M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56d576c1f8b25e6d728b4568/step_56d863c6d8348.jpg",
+          "caption": "Süßkartoffeln schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1a294dab71a6058b4570",
+        "554b3507f8b25ef93e8b4570",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30538b"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Backofen auf 180 °C Ober-/Unterhitze (160 °C Umluft) vorheizen.",
+      "instructionsHTML": "<p>Backofen auf 180 °C Ober-/Unterhitze (160 °C Umluft) vorheizen.</p>",
+      "instructions": "Backofen auf 180 °C Ober-/Unterhitze (160 °C Umluft) vorheizen.",
+      "timers": [
+        {
+          "name": "Backofen vorheizen",
+          "duration": "PT20M",
+          "temperature": 180,
+          "temperatureUnit": "C",
+          "ovenMode": "PreHeating"
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Karotte schälen und in dünne Scheiben schneiden. Zwiebel abziehen, halbieren und in feine Streifen schneiden. Zucchini waschen, Enden entfernen, halbieren und in Scheiben schneiden. Paprika waschen, halbieren, Kerngehäuse entfernen und klein schneiden. Naan-Brote auf ein mit Backpapier belegtes Blech geben und im Ofen 10 Min. aufbacken.",
+      "instructionsHTML": "<p>Karotte schälen und in dünne Scheiben schneiden. Zwiebel abziehen, halbieren und in feine Streifen schneiden. Zucchini waschen, Enden entfernen, halbieren und in Scheiben schneiden. Paprika waschen, halbieren, Kerngehäuse entfernen und klein schneiden. Naan-Brote auf ein mit Backpapier belegtes Blech geben und im Ofen 10 Min. aufbacken.</p>",
+      "instructions": "Karotte schälen und in dünne Scheiben schneiden. Zwiebel abziehen, halbieren und in feine Streifen schneiden. Zucchini waschen, Enden entfernen, halbieren und in Scheiben schneiden. Paprika waschen, halbieren, Kerngehäuse entfernen und klein schneiden. Naan-Brote auf ein mit Backpapier belegtes Blech geben und im Ofen 10 Min. aufbacken.",
+      "timers": [
+        {
+          "name": "Naan-Brote aufbacken",
+          "duration": "PT10M",
+          "temperature": 180,
+          "temperatureUnit": "C",
+          "ovenMode": "HotAir"
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56d576c1f8b25e6d728b4568/step_56d863c7075ba.jpg",
+          "caption": "Gemüse klein schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b23dff8b25ef53e8b456f",
+        "554b34554dab71a6058b4576",
+        "554b2aa14dab71aa058b4570",
+        "554b7e84fd2cb911618b456a",
+        "556db2a04dab71104b8b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305374",
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305377"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einem großen Topf einen Schuss Öl stark erhitzen, Karotte und Zwiebel scharf darin anbraten. Zucchini dazugeben und 1–2 Minuten mitbraten. Mit Kokosmilch ablöschen. Currypaste, Kreuzkümmel und Paprika zufügen, miteinander verrühren und 3–4 Min. bei mittlerer Hitze einköcheln lassen. Mit Salz, Pfeffer und einer Prise Zucker abschmecken.",
+      "instructionsHTML": "<p>In einem großen Topf einen Schuss Öl stark erhitzen, Karotte und Zwiebel scharf darin anbraten. Zucchini dazugeben und 1–2 Minuten mitbraten. Mit Kokosmilch ablöschen. Currypaste, Kreuzkümmel und Paprika zufügen, miteinander verrühren und 3–4 Min. bei mittlerer Hitze einköcheln lassen. Mit Salz, Pfeffer und einer Prise Zucker abschmecken.</p>",
+      "instructions": "In einem großen Topf einen Schuss Öl stark erhitzen, Karotte und Zwiebel scharf darin anbraten. Zucchini dazugeben und 1–2 Minuten mitbraten. Mit Kokosmilch ablöschen. Currypaste, Kreuzkümmel und Paprika zufügen, miteinander verrühren und 3–4 Min. bei mittlerer Hitze einköcheln lassen. Mit Salz, Pfeffer und einer Prise Zucker abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56d576c1f8b25e6d728b4568/step_56d863c720bd3.jpg",
+          "caption": "Gemüse mit Kokosmilch ablöschen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b23dff8b25ef53e8b456f",
+        "554b34554dab71a6058b4576",
+        "554b2aa14dab71aa058b4570",
+        "554b7e84fd2cb911618b456a",
+        "555dbbe8fd2cb9c9768b4567",
+        "5566f38e4dab7138088b456b",
+        "55685e4cf8b25e68408b456a",
+        "554b1bf6f8b25eef3e8b4570",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b2319fd2cb9ba598b456d"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Petersilie und Koriander waschen, trocken schütteln, Blätter abzupfen und grob hacken. Naan-Brote aus dem Ofen nehmen und kurz abkühlen lassen, dann in schräge Streifen schneiden. Je nach Vorliebe Rosinen unter die Süßkartoffeln mischen.",
+      "instructionsHTML": "<p>Petersilie und Koriander waschen, trocken schütteln, Blätter abzupfen und grob hacken. Naan-Brote aus dem Ofen nehmen und kurz abkühlen lassen, dann in schräge Streifen schneiden. Je nach Vorliebe Rosinen unter die Süßkartoffeln mischen.</p>",
+      "instructions": "Petersilie und Koriander waschen, trocken schütteln, Blätter abzupfen und grob hacken. Naan-Brote aus dem Ofen nehmen und kurz abkühlen lassen, dann in schräge Streifen schneiden. Je nach Vorliebe Rosinen unter die Süßkartoffeln mischen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56d576c1f8b25e6d728b4568/step_56d863c75f80d.jpg",
+          "caption": "Naan-Brote schräg aufschneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1a294dab71a6058b4570",
+        "556db2a04dab71104b8b4568",
+        "554b34b64dab71aa058b4573",
+        "554b1e654dab71a6058b4571",
+        "55683068fd2cb9d8268b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Kokos-Gemüse-Curry auf tiefen Tellern verteilen, Süßkartoffeln dazu anrichten und mit gehackten Kräutern bestreuen. Knuspriges Naan-Brot dazu reichen und genießen!",
+      "instructionsHTML": "<p>Kokos-Gemüse-Curry auf tiefen Tellern verteilen, Süßkartoffeln dazu anrichten und mit gehackten Kräutern bestreuen. Knuspriges Naan-Brot dazu reichen und genießen!</p>",
+      "instructions": "Kokos-Gemüse-Curry auf tiefen Tellern verteilen, Süßkartoffeln dazu anrichten und mit gehackten Kräutern bestreuen. Knuspriges Naan-Brot dazu reichen und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b1a294dab71a6058b4570",
+        "556db2a04dab71104b8b4568",
+        "555dbbe8fd2cb9c9768b4567",
+        "5566f38e4dab7138088b456b",
+        "554b34b64dab71aa058b4573",
+        "554b1e654dab71a6058b4571"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.4,
+  "ratingsCount": 331,
+  "favoritesCount": 915,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/orientalisch-kokos-gemuse-curry-56d576c1f8b25e6d728b4568",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

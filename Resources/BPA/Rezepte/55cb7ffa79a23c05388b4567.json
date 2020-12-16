@@ -1,0 +1,861 @@
+{
+  "country": "DE",
+  "id": "55cb7ffa79a23c05388b4567",
+  "name": "Köstlicher Flammkuchen mit grünen Tomaten",
+  "seoName": null,
+  "category": null,
+  "slug": "kostlicher-flammkuchen-mit-grunen-tomaten",
+  "headline": "Süßkartoffeln und Speckwürfeln, dazu Rucola-Salat",
+  "description": "Mit unserem Flammkuchenteig ist diese französische Spezialität im Handumdrehen zubereitet. Dazu noch ein würziger Rucola-Salat, und deine Nährstoff-, Energie- und Gute-Laune-Speicher sind wieder aufgeladen. Jetzt noch den Film „Grüne Tomaten“ besorgt, und ab aufs Sofa. Guten Appetit!",
+  "descriptionHTML": "<p>Mit unserem Flammkuchenteig ist diese französische Spezialität im Handumdrehen zubereitet. Dazu noch ein würziger Rucola-Salat, und deine Nährstoff-, Energie- und Gute-Laune-Speicher sind wieder aufgeladen. Jetzt noch den Film „Grüne Tomaten“ besorgt, und ab aufs Sofa. Guten Appetit!</p>",
+  "descriptionMarkdown": "Mit unserem Flammkuchenteig ist diese französische Spezialität im Handumdrehen zubereitet. Dazu noch ein würziger Rucola-Salat, und deine Nährstoff-, Energie- und Gute-Laune-Speicher sind wieder aufgeladen. Jetzt noch den Film „Grüne Tomaten“ besorgt, und ab aufs Sofa. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-08-12T17:18:50+00:00",
+  "updatedAt": "2017-02-04T14:38:01+00:00",
+  "link": "https://hellofresh.com/recipes/55cb7ffa79a23c05388b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/55cb7ffa79a23c05388b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/55cb7ffa79a23c05388b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3359.752,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 803,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 32,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 95,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 32,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b1a294dab71a6058b4570",
+      "type": "suszkartoffeln",
+      "name": "Süßkartoffel",
+      "slug": "suszkartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1a294dab71a6058b4570.png",
+      "usage": 226,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55cb7f874dab71f80d8b4567",
+      "type": "grüne tomaten",
+      "name": "grüne Tomaten",
+      "slug": "grune-tomaten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55cb7f874dab71f80d8b4567-e2cccf96.png",
+      "usage": 1,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dbfe6f8b25e406a8b4569",
+      "type": "dill",
+      "name": "Dill",
+      "slug": "dill",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dbfe6f8b25e406a8b4569.png",
+      "usage": 65,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb8d",
+        "type": "dill",
+        "name": "Dill",
+        "slug": "dill",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb8d-ba6242c3.png",
+        "usageByCountry": {
+          "AT": 58,
+          "AU": 26,
+          "BE": 58,
+          "CA": 22,
+          "CH": 9,
+          "DE": 65,
+          "ER": 0,
+          "FR": 15,
+          "GB": 31,
+          "LU": 78,
+          "NL": 69,
+          "NZ": 6,
+          "ML": 117,
+          "US": 58
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555357a3f8b25e89038b456a",
+      "type": "limette",
+      "name": "Limette",
+      "slug": "limette",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555357a3f8b25e89038b456a.png",
+      "usage": 350,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc8",
+        "type": "lime",
+        "name": "Limette",
+        "slug": "limette",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc8-7cbce945.png",
+        "usageByCountry": {
+          "AT": 383,
+          "AU": 227,
+          "BE": 132,
+          "CA": 137,
+          "CH": 82,
+          "DE": 351,
+          "ER": 61,
+          "FR": 68,
+          "GB": 407,
+          "LU": 224,
+          "NL": 155,
+          "NZ": 63,
+          "ML": 87,
+          "US": 604
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55683289f8b25e623e8b4568",
+      "type": "ricotta",
+      "name": "Ricotta",
+      "slug": "ricotta",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55683289f8b25e623e8b4568.png",
+      "usage": 37,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55cb7fc0fd2cb945488b4567",
+      "type": "piment, gemahlen",
+      "name": "gemahlener Piment",
+      "slug": "piment-gemahlen",
+      "description": null,
+      "internalName": "Piment, gemahlen",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55cb7fc0fd2cb945488b4567-6b5b0c0b.png",
+      "usage": 18,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556ecabbf8b25e04068b4568",
+      "type": "flammkuchenteig",
+      "name": "Flammkuchenteig",
+      "slug": "flammkuchenteig",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556ecabbf8b25e04068b4568.png",
+      "usage": 68,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        },
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc0d",
+        "type": "pizza-dough",
+        "name": "Pizza-Teig",
+        "slug": "pizza-teig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc0d-784518af.png",
+        "usageByCountry": {
+          "AT": 95,
+          "AU": 50,
+          "BE": 2,
+          "CA": 13,
+          "CH": 18,
+          "DE": 83,
+          "ER": 0,
+          "FR": 0,
+          "GB": 18,
+          "LU": 0,
+          "NL": 2,
+          "NZ": 5,
+          "ML": 0,
+          "US": 28
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dabaff8b25e246a8b4568",
+      "type": "speckwürfel",
+      "name": "Speckwürfel",
+      "slug": "speckwurfel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dabaff8b25e246a8b4568.png",
+      "usage": 5,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc12",
+        "type": "pork",
+        "name": "Schweinefleisch",
+        "slug": "schweinefleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc12-bdd443ff.png",
+        "usageByCountry": {
+          "AT": 486,
+          "AU": 290,
+          "BE": 179,
+          "CA": 134,
+          "CH": 113,
+          "DE": 455,
+          "ER": 54,
+          "FR": 58,
+          "GB": 613,
+          "LU": 212,
+          "NL": 191,
+          "NZ": 97,
+          "ML": 289,
+          "US": 624
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27b5f8b25e42438b4568",
+      "type": "rucola",
+      "name": "Rucola",
+      "slug": "rucola",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27b5f8b25e42438b4568.png",
+      "usage": 266,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    }
+  ],
+  "tags": [],
+  "cuisines": [],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b1a294dab71a6058b4570",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55cb7f874dab71f80d8b4567",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "555dbfe6f8b25e406a8b4569",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "555357a3f8b25e89038b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55683289f8b25e623e8b4568",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "55cb7fc0fd2cb945488b4567",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "556ecabbf8b25e04068b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "555dabaff8b25e246a8b4568",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b27b5f8b25e42438b4568",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Backofen auf 200 °C Ober-/Unterhitze vorheizen.",
+      "instructionsHTML": "<p>Backofen auf 200 °C Ober-/Unterhitze vorheizen.</p>",
+      "instructions": "Backofen auf 200 °C Ober-/Unterhitze vorheizen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Süßkartoffeln schälen, waschen und in feine Scheiben hobeln. Tomaten waschen, Strunk entfernen und in dünne Scheiben schneiden. Dill waschen und trockenschütteln, Spitzen fein hacken. Limette waschen, Schale fein abreiben, dann entsaften.",
+      "instructionsHTML": "<p>Süßkartoffeln schälen, waschen und in feine Scheiben hobeln. Tomaten waschen, Strunk entfernen und in dünne Scheiben schneiden. Dill waschen und trockenschütteln, Spitzen fein hacken. Limette waschen, Schale fein abreiben, dann entsaften.</p>",
+      "instructions": "Süßkartoffeln schälen, waschen und in feine Scheiben hobeln. Tomaten waschen, Strunk entfernen und in dünne Scheiben schneiden. Dill waschen und trockenschütteln, Spitzen fein hacken. Limette waschen, Schale fein abreiben, dann entsaften.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55cb7ffa79a23c05388b4567/step_55cb812c85c4d.jpg",
+          "caption": "Süßkartoffel hobeln"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1a294dab71a6058b4570",
+        "55cb7f874dab71f80d8b4567",
+        "555dbfe6f8b25e406a8b4569",
+        "555357a3f8b25e89038b456a"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einer kleinen Schüssel Ricotta mit 1 EL Olivenöl, 1 EL Limettensaft, etwas Limettenabrieb, Piment, Dillspitzen, Salz und Pfeffer vermischen.",
+      "instructionsHTML": "<p>In einer kleinen Schüssel Ricotta mit 1 EL Olivenöl, 1 EL Limettensaft, etwas Limettenabrieb, Piment, Dillspitzen, Salz und Pfeffer vermischen.</p>",
+      "instructions": "In einer kleinen Schüssel Ricotta mit 1 EL Olivenöl, 1 EL Limettensaft, etwas Limettenabrieb, Piment, Dillspitzen, Salz und Pfeffer vermischen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55cb7ffa79a23c05388b4567/step_55cb812ca2994.jpg",
+          "caption": "Ricotta anrühren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555dbfe6f8b25e406a8b4569",
+        "555357a3f8b25e89038b456a",
+        "55683289f8b25e623e8b4568",
+        "55cb7fc0fd2cb945488b4567",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Flammkuchenteig vorsichtig auf einem mit Backpapier belegten Backblech ausrollen und mit der Ricotta-Mischung bestreichen. Dann zuerst mit Süßkartoffelscheiben, dann mit Tomatenscheiben belegen, mit Salz und Pfeffer würzen. Anschließend noch mit Speckwürfeln bestreuen und für 13–15 Min. im Ofen backen.",
+      "instructionsHTML": "<p>Flammkuchenteig vorsichtig auf einem mit Backpapier belegten Backblech ausrollen und mit der Ricotta-Mischung bestreichen. Dann zuerst mit Süßkartoffelscheiben, dann mit Tomatenscheiben belegen, mit Salz und Pfeffer würzen. Anschließend noch mit Speckwürfeln bestreuen und für 13–15 Min. im Ofen backen.</p>",
+      "instructions": "Flammkuchenteig vorsichtig auf einem mit Backpapier belegten Backblech ausrollen und mit der Ricotta-Mischung bestreichen. Dann zuerst mit Süßkartoffelscheiben, dann mit Tomatenscheiben belegen, mit Salz und Pfeffer würzen. Anschließend noch mit Speckwürfeln bestreuen und für 13–15 Min. im Ofen backen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55cb7ffa79a23c05388b4567/step_55cb812cb5f65.jpg",
+          "caption": "Flammkuchenteig belegen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556ecabbf8b25e04068b4568",
+        "555dabaff8b25e246a8b4568"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Für den Salat: Rucola waschen und in einem Sieb abtropfen lassen. In einer Salatschüssel 2 EL Limettensaft, 1 EL Olivenöl, Salz und Pfeffer zu einem Dressing verrühren und den Rucola unterheben. Bis zum Anrichten ziehen lassen.",
+      "instructionsHTML": "<p>Für den Salat: Rucola waschen und in einem Sieb abtropfen lassen. In einer Salatschüssel 2 EL Limettensaft, 1 EL Olivenöl, Salz und Pfeffer zu einem Dressing verrühren und den Rucola unterheben. Bis zum Anrichten ziehen lassen.</p>",
+      "instructions": "Für den Salat: Rucola waschen und in einem Sieb abtropfen lassen. In einer Salatschüssel 2 EL Limettensaft, 1 EL Olivenöl, Salz und Pfeffer zu einem Dressing verrühren und den Rucola unterheben. Bis zum Anrichten ziehen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55cb7ffa79a23c05388b4567/step_55cb812cd9ff1.jpg",
+          "caption": "Dressing anrühren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555357a3f8b25e89038b456a",
+        "554b27b5f8b25e42438b4568",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Flammkuchen nach der Garzeit aus dem Ofen nehmen, in Stücke scheiden und auf Tellern verteilen. Zusammen mit dem Rucola-Salat genießen!",
+      "instructionsHTML": "<p>Flammkuchen nach der Garzeit aus dem Ofen nehmen, in Stücke scheiden und auf Tellern verteilen. Zusammen mit dem Rucola-Salat genießen!</p>",
+      "instructions": "Flammkuchen nach der Garzeit aus dem Ofen nehmen, in Stücke scheiden und auf Tellern verteilen. Zusammen mit dem Rucola-Salat genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3,
+  "ratingsCount": 165,
+  "favoritesCount": 283,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/kostlicher-flammkuchen-mit-grunen-tomaten-55cb7ffa79a23c05388b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

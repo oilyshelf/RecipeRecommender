@@ -1,0 +1,1070 @@
+{
+  "country": "DE",
+  "id": "561d1d9a79a23ceb408b4567",
+  "name": "Pikanter Geflügelwurst-Eintopf",
+  "seoName": null,
+  "category": null,
+  "slug": "pikanter-geflugelwurst-eintopf",
+  "headline": "mit cremigem Schnittlauch-Kartoffelstampf",
+  "description": "Die große Kunst des Kochens ist es, altbekannte Zutaten neu zu kombinieren. Darum gibt es heute keine Bratwurst mit Senf im Brötchen, sondern Bratwurst im Gemüseeintopf mit Kartoffelstampf. Passt perfekt zur Kälte draußen und versorgt dich mit Abwehrstoffen gegen Grippewellen. Guten Appetit!",
+  "descriptionHTML": "<p>Die große Kunst des Kochens ist es, altbekannte Zutaten neu zu kombinieren. Darum gibt es heute keine Bratwurst mit Senf im Brötchen, sondern Bratwurst im Gemüseeintopf mit Kartoffelstampf. Passt perfekt zur Kälte draußen und versorgt dich mit Abwehrstoffen gegen Grippewellen. Guten Appetit!</p>",
+  "descriptionMarkdown": "Die große Kunst des Kochens ist es, altbekannte Zutaten neu zu kombinieren. Darum gibt es heute keine Bratwurst mit Senf im Brötchen, sondern Bratwurst im Gemüseeintopf mit Kartoffelstampf. Passt perfekt zur Kälte draußen und versorgt dich mit Abwehrstoffen gegen Grippewellen. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT35M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-10-13T15:04:58+00:00",
+  "updatedAt": "2017-04-25T11:51:57+00:00",
+  "link": "https://hellofresh.com/recipes/561d1d9a79a23ceb408b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/561d1d9a79a23ceb408b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/561d1d9a79a23ceb408b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 4066.848,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 972,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 51,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 16,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b2ae2fd2cb983608b456a",
+      "type": "geflügelwürste",
+      "name": "Geflügelwürste",
+      "slug": "geflugelwurste",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2ae2fd2cb983608b456a.png",
+      "usage": 5,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6b",
+        "type": "chicken",
+        "name": "Hähnchen",
+        "slug": "hahnchen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6b-8f15f243.png",
+        "usageByCountry": {
+          "AT": 293,
+          "AU": 427,
+          "BE": 305,
+          "CA": 214,
+          "CH": 94,
+          "DE": 262,
+          "ER": 62,
+          "FR": 92,
+          "GB": 486,
+          "LU": 380,
+          "NL": 282,
+          "NZ": 125,
+          "ML": 653,
+          "US": 668
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7e84fd2cb911618b456a",
+      "type": "rote paprika",
+      "name": "rote Paprika",
+      "slug": "rote-paprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7e84fd2cb911618b456a.png",
+      "usage": 229,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf7",
+        "type": "paprika",
+        "name": "Paprika",
+        "slug": "paprika",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf7-e6b2d1a6.png",
+        "usageByCountry": {
+          "AT": 581,
+          "AU": 50,
+          "BE": 613,
+          "CA": 64,
+          "CH": 21,
+          "DE": 536,
+          "ER": 7,
+          "FR": 166,
+          "GB": 539,
+          "LU": 769,
+          "NL": 388,
+          "NZ": 6,
+          "ML": 38,
+          "US": 79
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c1f20fd2cb99f468b4568",
+      "type": "porree",
+      "name": "Porree",
+      "slug": "porree",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c1f20fd2cb99f468b4568.png",
+      "usage": 191,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc4",
+        "type": "leek",
+        "name": "Lauch",
+        "slug": "lauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc4-1460799d.png",
+        "usageByCountry": {
+          "AT": 212,
+          "AU": 43,
+          "BE": 129,
+          "CA": 14,
+          "CH": 41,
+          "DE": 199,
+          "ER": 0,
+          "FR": 25,
+          "GB": 148,
+          "LU": 118,
+          "NL": 150,
+          "NZ": 13,
+          "ML": 0,
+          "US": 7
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b73864dab71150d8b456e",
+      "type": "kidneybohnen",
+      "name": "Kidneybohnen",
+      "slug": "kidneybohnen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b73864dab71150d8b456e.png",
+      "usage": 66,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4c",
+        "type": "beans",
+        "name": "Bohnen",
+        "slug": "bohnen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4c-15ab1383.png",
+        "usageByCountry": {
+          "AT": 255,
+          "AU": 115,
+          "BE": 77,
+          "CA": 78,
+          "CH": 43,
+          "DE": 231,
+          "ER": 3,
+          "FR": 28,
+          "GB": 241,
+          "LU": 95,
+          "NL": 51,
+          "NZ": 28,
+          "ML": 153,
+          "US": 198
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2a674dab71c8058b4572",
+      "type": "gewürzmischung \"linsen-suppe\"",
+      "name": "Gewürzmischung \"Linsen-Suppe\"",
+      "slug": "gewurzmischung-linsen-suppe",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2a674dab71c8058b4572.png",
+      "usage": 62,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc32",
+        "type": "spice-mix",
+        "name": "Gewürzmischung",
+        "slug": "gewurzmischung",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc32-7154509f.png",
+        "usageByCountry": {
+          "AT": 594,
+          "AU": 114,
+          "BE": 15,
+          "CA": 34,
+          "CH": 92,
+          "DE": 475,
+          "ER": 36,
+          "FR": 10,
+          "GB": 42,
+          "LU": 10,
+          "NL": 25,
+          "NZ": 48,
+          "ML": 10,
+          "US": 366
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2226fd2cb9ba598b456c",
+      "type": "tomatenpolpa",
+      "name": "Tomatenpolpa",
+      "slug": "tomatenpolpa",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2226fd2cb9ba598b456c.png",
+      "usage": 21,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55534596f8b25ea1038b4569",
+      "type": "schnittlauch",
+      "name": "Schnittlauch",
+      "slug": "schnittlauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55534596f8b25ea1038b4569.png",
+      "usage": 358,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb74",
+        "type": "chives",
+        "name": "Schnittlauch",
+        "slug": "schnittlauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb74-921bfcce.png",
+        "usageByCountry": {
+          "AT": 382,
+          "AU": 32,
+          "BE": 85,
+          "CA": 38,
+          "CH": 68,
+          "DE": 358,
+          "ER": 0,
+          "FR": 30,
+          "GB": 71,
+          "LU": 117,
+          "NL": 104,
+          "NZ": 20,
+          "ML": 0,
+          "US": 80
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7fb3fd2cb9d8608b4571",
+      "type": "sahne-joghurt",
+      "name": "Sahne-Joghurt",
+      "slug": "sahne-joghurt",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7fb3fd2cb9d8608b4571.png",
+      "usage": 18,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc57",
+        "type": "yoghurt",
+        "name": "Jo­ghurt",
+        "slug": "joghurt",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc57-825533d1.png",
+        "usageByCountry": {
+          "AT": 464,
+          "AU": 272,
+          "BE": 368,
+          "CA": 43,
+          "CH": 101,
+          "DE": 434,
+          "ER": 0,
+          "FR": 31,
+          "GB": 207,
+          "LU": 341,
+          "NL": 408,
+          "NZ": 78,
+          "ML": 8,
+          "US": 48
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539b",
+      "type": "sieve",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b2ae2fd2cb983608b456a",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "554b7e84fd2cb911618b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556c1f20fd2cb99f468b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b73864dab71150d8b456e",
+          "amount": 1,
+          "unit": "Dose"
+        },
+        {
+          "id": "554b2a674dab71c8058b4572",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b2226fd2cb9ba598b456c",
+          "amount": 1,
+          "unit": "Dose"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b7fb3fd2cb9d8608b4571",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Bratwurst aus dem Kühlschrank nehmen, damit sie Zimmertemperatur annehmen kann. Kartoffeln waschen, schälen und in ca. 2 cm große Würfel schneiden. Paprika waschen, halbieren, Kerngehäuse entfernen und in feine Spalten schneiden. Porree waschen, äußere Schicht entfernen, den weißen und hellgrünen Teil in feine Ringe schneiden. Knoblauch abziehen und fein hacken. Tomaten waschen, halbieren, Strunk entfernen und klein schneiden. Kidneybohnen in ein Sieb abgießen und mit kaltem Wasser abspülen, bis dieses klar hindurchfließt.",
+      "instructionsHTML": "<p>Bratwurst aus dem Kühlschrank nehmen, damit sie Zimmertemperatur annehmen kann. Kartoffeln waschen, schälen und in ca. 2 cm große Würfel schneiden. Paprika waschen, halbieren, Kerngehäuse entfernen und in feine Spalten schneiden. Porree waschen, äußere Schicht entfernen, den weißen und hellgrünen Teil in feine Ringe schneiden. Knoblauch abziehen und fein hacken. Tomaten waschen, halbieren, Strunk entfernen und klein schneiden. Kidneybohnen in ein Sieb abgießen und mit kaltem Wasser abspülen, bis dieses klar hindurchfließt.</p>",
+      "instructions": "Bratwurst aus dem Kühlschrank nehmen, damit sie Zimmertemperatur annehmen kann. Kartoffeln waschen, schälen und in ca. 2 cm große Würfel schneiden. Paprika waschen, halbieren, Kerngehäuse entfernen und in feine Spalten schneiden. Porree waschen, äußere Schicht entfernen, den weißen und hellgrünen Teil in feine Ringe schneiden. Knoblauch abziehen und fein hacken. Tomaten waschen, halbieren, Strunk entfernen und klein schneiden. Kidneybohnen in ein Sieb abgießen und mit kaltem Wasser abspülen, bis dieses klar hindurchfließt.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/561d1d9a79a23ceb408b4567/step_561e19f847f0b.jpg",
+          "caption": "Kartoffeln schälen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2ae2fd2cb983608b456a",
+        "554b7e84fd2cb911618b456a",
+        "556c1f20fd2cb99f468b4568",
+        "554b268ffd2cb983608b4568",
+        "554b2621fd2cb99c598b4576",
+        "554b73864dab71150d8b456e",
+        "554b25fcfd2cb973608b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b30539b"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Kartoffeln in einem großen Topf mit reichlich Wasser bedecken, ein wenig salzen und Deckel aufsetzen. Einmal aufkochen lassen, dann Hitze herunterstufen und in 10–15 Min. weich kochen.",
+      "instructionsHTML": "<p>Kartoffeln in einem großen Topf mit reichlich Wasser bedecken, ein wenig salzen und Deckel aufsetzen. Einmal aufkochen lassen, dann Hitze herunterstufen und in 10–15 Min. weich kochen.</p>",
+      "instructions": "Kartoffeln in einem großen Topf mit reichlich Wasser bedecken, ein wenig salzen und Deckel aufsetzen. Einmal aufkochen lassen, dann Hitze herunterstufen und in 10–15 Min. weich kochen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b1c284dab71a9058b456b",
+        "554b25fcfd2cb973608b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Bratwurst-Fleisch quer in 2 cm große Stücke schneiden. In einer großen Pfanne ½ EL Olivenöl erwärmen. Bratwurst-Stücke darin für ca. 5 Min. rundherum bräunlich anbraten. Paprika und Porree zugeben und ca. 4 Min. mitbraten. Tomaten, Knoblauch und Gewürzmischung zugeben und 2–3 Min. mitbraten. Tomatenpolpa, Kidneybohnen und 1 TL Zucker zugeben, evtl. noch ein wenig salzen und pfeffern, weitere 5–8 Min. einkochen lassen.",
+      "instructionsHTML": "<p>Bratwurst-Fleisch quer in 2 cm große Stücke schneiden. In einer großen Pfanne ½ EL Olivenöl erwärmen. Bratwurst-Stücke darin für ca. 5 Min. rundherum bräunlich anbraten. Paprika und Porree zugeben und ca. 4 Min. mitbraten. Tomaten, Knoblauch und Gewürzmischung zugeben und 2–3 Min. mitbraten. Tomatenpolpa, Kidneybohnen und 1 TL Zucker zugeben, evtl. noch ein wenig salzen und pfeffern, weitere 5–8 Min. einkochen lassen.</p>",
+      "instructions": "Bratwurst-Fleisch quer in 2 cm große Stücke schneiden. In einer großen Pfanne ½ EL Olivenöl erwärmen. Bratwurst-Stücke darin für ca. 5 Min. rundherum bräunlich anbraten. Paprika und Porree zugeben und ca. 4 Min. mitbraten. Tomaten, Knoblauch und Gewürzmischung zugeben und 2–3 Min. mitbraten. Tomatenpolpa, Kidneybohnen und 1 TL Zucker zugeben, evtl. noch ein wenig salzen und pfeffern, weitere 5–8 Min. einkochen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/561d1d9a79a23ceb408b4567/step_561e19f863d56.jpg",
+          "caption": "Bratwürste in Topf zum Anbraten geben"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/561d1d9a79a23ceb408b4567/step_561e19f87934d.jpg",
+          "caption": "Eintopf zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b7e84fd2cb911618b456a",
+        "556c1f20fd2cb99f468b4568",
+        "554b268ffd2cb983608b4568",
+        "554b2621fd2cb99c598b4576",
+        "554b73864dab71150d8b456e",
+        "554b2a674dab71c8058b4572",
+        "554b2226fd2cb9ba598b456c",
+        "554b22cb4dab71c8058b4570",
+        "554b2319fd2cb9ba598b456d"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Schnittlauch waschen, trocken schütteln und in feine Röllchen schneiden. Kartoffeln in ein Sieb abgießen und gleich wieder zurück in den Topf geben. Diesen bei schwacher Hitze erneut auf den Herd stellen. ½ EL Butter zugeben und Kartoffeln mit Hilfe eines Kartoffelstampfers grob zerkleinern. Dann noch 1 EL Wasser, 3 EL Sahne-Joghurt und Schnittlauch unterheben, evtl. noch ein wenig salzen und pfeffern.",
+      "instructionsHTML": "<p>Schnittlauch waschen, trocken schütteln und in feine Röllchen schneiden. Kartoffeln in ein Sieb abgießen und gleich wieder zurück in den Topf geben. Diesen bei schwacher Hitze erneut auf den Herd stellen. ½ EL Butter zugeben und Kartoffeln mit Hilfe eines Kartoffelstampfers grob zerkleinern. Dann noch 1 EL Wasser, 3 EL Sahne-Joghurt und Schnittlauch unterheben, evtl. noch ein wenig salzen und pfeffern.</p>",
+      "instructions": "Schnittlauch waschen, trocken schütteln und in feine Röllchen schneiden. Kartoffeln in ein Sieb abgießen und gleich wieder zurück in den Topf geben. Diesen bei schwacher Hitze erneut auf den Herd stellen. ½ EL Butter zugeben und Kartoffeln mit Hilfe eines Kartoffelstampfers grob zerkleinern. Dann noch 1 EL Wasser, 3 EL Sahne-Joghurt und Schnittlauch unterheben, evtl. noch ein wenig salzen und pfeffern.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/561d1d9a79a23ceb408b4567/step_561e19f8894af.jpg",
+          "caption": "Schnittlauch-Kartoffelstampf zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55534596f8b25ea1038b4569",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b25fcfd2cb973608b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Schnittlauch-Kartoffelstampf auf Tellern verteilen, Bratwurst-Eintopf dazu anrichten, einen Klecks Sahne-Joghurt darauf geben und genießen!",
+      "instructionsHTML": "<p>Schnittlauch-Kartoffelstampf auf Tellern verteilen, Bratwurst-Eintopf dazu anrichten, einen Klecks Sahne-Joghurt darauf geben und genießen!</p>",
+      "instructions": "Schnittlauch-Kartoffelstampf auf Tellern verteilen, Bratwurst-Eintopf dazu anrichten, einen Klecks Sahne-Joghurt darauf geben und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.1,
+  "ratingsCount": 232,
+  "favoritesCount": 228,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/pikanter-geflugelwurst-eintopf-561d1d9a79a23ceb408b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

@@ -1,0 +1,1075 @@
+{
+  "country": "DE",
+  "id": "56a8a0f2f8b25ee7538b4567",
+  "name": "Winterlicher Gnocchi-Gemüse-Auflauf",
+  "seoName": null,
+  "category": null,
+  "slug": "winterlicher-gnocchi-gemuse-aufl",
+  "headline": null,
+  "description": "Im Winter braucht man besonders viel Energie – deswegen ist dieser leckere Auflauf mit Wintergemüse auch genau das Richtige! Spinat, Pastinake und Karotte versorgen Dich mit wertvollen Nährstoffen, die Gnocchi und der würzige Gorgonzola mit wohliger Wärme. Guten Appetit!",
+  "descriptionHTML": "<p>Im Winter braucht man besonders viel Energie – deswegen ist dieser leckere Auflauf mit Wintergemüse auch genau das Richtige! Spinat, Pastinake und Karotte versorgen Dich mit wertvollen Nährstoffen, die Gnocchi und der würzige Gorgonzola mit wohliger Wärme. Guten Appetit!</p>",
+  "descriptionMarkdown": "Im Winter braucht man besonders viel Energie – deswegen ist dieser leckere Auflauf mit Wintergemüse auch genau das Richtige! Spinat, Pastinake und Karotte versorgen Dich mit wertvollen Nährstoffen, die Gnocchi und der würzige Gorgonzola mit wohliger Wärme. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT40M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-01-27T10:50:26+00:00",
+  "updatedAt": "2017-04-14T12:19:19+00:00",
+  "link": "https://hellofresh.com/recipes/56a8a0f2f8b25ee7538b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/56a8a0f2f8b25ee7538b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/56a8a0f2f8b25ee7538b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3812,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 911,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 38,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 111,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 28,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b1a294dab71a6058b4570",
+      "type": "suszkartoffeln",
+      "name": "Süßkartoffel",
+      "slug": "suszkartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1a294dab71a6058b4570.png",
+      "usage": 226,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55e835e279a23cba7d8b4567",
+      "type": "pastinake",
+      "name": "Pastinake",
+      "slug": "pastinake",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55e835e279a23cba7d8b4567-75aa02b7.png",
+      "usage": 55,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbfa",
+        "type": "parsnip",
+        "name": "Pastinake",
+        "slug": "pastinake",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbfa-aadd34fb.png",
+        "usageByCountry": {
+          "AT": 56,
+          "AU": 3,
+          "BE": 22,
+          "CA": 10,
+          "CH": 11,
+          "DE": 56,
+          "ER": 0,
+          "FR": 4,
+          "GB": 23,
+          "LU": 15,
+          "NL": 29,
+          "NZ": 0,
+          "ML": 0,
+          "US": 22
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b23dff8b25ef53e8b456f",
+      "type": "karotten",
+      "name": "Karotte",
+      "slug": "karotten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b23dff8b25ef53e8b456f.png",
+      "usage": 566,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb62",
+        "type": "carrot",
+        "name": "Karotte",
+        "slug": "karotte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb62-c4a1f62d.png",
+        "usageByCountry": {
+          "AT": 679,
+          "AU": 553,
+          "BE": 225,
+          "CA": 127,
+          "CH": 130,
+          "DE": 627,
+          "ER": 27,
+          "FR": 49,
+          "GB": 343,
+          "LU": 220,
+          "NL": 263,
+          "NZ": 175,
+          "ML": 243,
+          "US": 318
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55534d6dfd2cb92b1a8b456c",
+      "type": "spinat",
+      "name": "Spinat",
+      "slug": "spinat",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55534d6dfd2cb92b1a8b456c.png",
+      "usage": 55,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc34",
+        "type": "spinach",
+        "name": "Spinat",
+        "slug": "spinat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc34-2105763d.png",
+        "usageByCountry": {
+          "AT": 279,
+          "AU": 393,
+          "BE": 203,
+          "CA": 89,
+          "CH": 61,
+          "DE": 266,
+          "ER": 0,
+          "FR": 63,
+          "GB": 243,
+          "LU": 261,
+          "NL": 228,
+          "NZ": 108,
+          "ML": 157,
+          "US": 141
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da31afd2cb95a758b4568",
+      "type": "frische gnocchi",
+      "name": "Frische Gnocchi",
+      "slug": "frische-gnocchi",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da31afd2cb95a758b4568.png",
+      "usage": 92,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f6",
+          "type": "egg",
+          "name": "Ei",
+          "slug": "ei",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+          "usage": 365
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba8",
+        "type": "gnocchi",
+        "name": "Gnocchi",
+        "slug": "gnocchi",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba8-4a2e844b.png",
+        "usageByCountry": {
+          "AT": 112,
+          "AU": 20,
+          "BE": 26,
+          "CA": 9,
+          "CH": 16,
+          "DE": 111,
+          "ER": 0,
+          "FR": 4,
+          "GB": 51,
+          "LU": 24,
+          "NL": 27,
+          "NZ": 6,
+          "ML": 0,
+          "US": 13
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "56a8dc124dab71187c8b4567",
+      "type": "gorgonzola",
+      "name": "Gorgonzola",
+      "slug": "gorgonzola",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/56a8dc124dab71187c8b4567-46a9eb5e.png",
+      "usage": 7,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b31684dab71a6058b4573",
+      "type": "mozzarella",
+      "name": "Mozzarella",
+      "slug": "mozzarella",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b31684dab71a6058b4573.png",
+      "usage": 163,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b21914dab71c8058b456f",
+      "type": "salbei",
+      "name": "Salbei",
+      "slug": "salbei",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b21914dab71c8058b456f.png",
+      "usage": 87,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc21",
+        "type": "sage",
+        "name": "Salbei",
+        "slug": "salbei",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc21-1ebb9dee.png",
+        "usageByCountry": {
+          "AT": 85,
+          "AU": 27,
+          "BE": 29,
+          "CA": 17,
+          "CH": 11,
+          "DE": 87,
+          "ER": 2,
+          "FR": 4,
+          "GB": 42,
+          "LU": 29,
+          "NL": 30,
+          "NZ": 4,
+          "ML": 1,
+          "US": 61
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c0e3efd2cb9692b8b4568",
+      "type": "sahne",
+      "name": "Sahne",
+      "slug": "sahne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c0e3efd2cb9692b8b4568.png",
+      "usage": 176,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "type": "egg",
+      "name": "Ei",
+      "slug": "ei",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "usage": 365
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305378",
+      "type": "paringknife",
+      "name": "Schälmesser"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Auflaufform"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b1a294dab71a6058b4570",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55e835e279a23cba7d8b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55534d6dfd2cb92b1a8b456c",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "555da31afd2cb95a758b4568",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "56a8dc124dab71187c8b4567",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "id": "554b31684dab71a6058b4573",
+          "amount": 125,
+          "unit": "g"
+        },
+        {
+          "id": "554b21914dab71c8058b456f",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "556c0e3efd2cb9692b8b4568",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Backofen auf 200 °C Ober-/Unterhitze vorheizen. Süßkartoffel waschen, schälen und in ca. 2 cm große Würfel schneiden. Pastinake und Karotte waschen, schälen und in ca. 2 cm große Stücke schneiden. Zwiebel abziehen halbieren und achteln.",
+      "instructionsHTML": "<p>Backofen auf 200 °C Ober-/Unterhitze vorheizen. Süßkartoffel waschen, schälen und in ca. 2 cm große Würfel schneiden. Pastinake und Karotte waschen, schälen und in ca. 2 cm große Stücke schneiden. Zwiebel abziehen halbieren und achteln.</p>",
+      "instructions": "Backofen auf 200 °C Ober-/Unterhitze vorheizen. Süßkartoffel waschen, schälen und in ca. 2 cm große Würfel schneiden. Pastinake und Karotte waschen, schälen und in ca. 2 cm große Stücke schneiden. Zwiebel abziehen halbieren und achteln.",
+      "timers": [
+        {
+          "name": "Backofen vorheizen",
+          "duration": "PT20M",
+          "temperature": 200,
+          "temperatureUnit": "C",
+          "ovenMode": "PreHeating"
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56a8a0f2f8b25ee7538b4567/step_56a8f08a58061.jpg",
+          "caption": "Süßkartoffel schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1a294dab71a6058b4570",
+        "55e835e279a23cba7d8b4567",
+        "554b23dff8b25ef53e8b456f",
+        "554b34554dab71a6058b4576"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b305374",
+        "57e2674fb7e8697d4b305378"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Eine Auflaufform leicht mit Butter einfetten. Süßkartoffel, Pastinake, Karotte und Zwiebel darin verteilen, mit 1 EL Olivenöl beträufeln und mit ein wenig Salz und Pfeffer bestreuen. Dann auf der mittleren Schiene im Ofen ca. 20 Min. garen. Spinat in einem Sieb waschen und mit kochendem Wasser übergießen, bis er ein wenig zusammengefallen ist. Evtl. noch ein wenig zerkleinern.",
+      "instructionsHTML": "<p>Eine Auflaufform leicht mit Butter einfetten. Süßkartoffel, Pastinake, Karotte und Zwiebel darin verteilen, mit 1 EL Olivenöl beträufeln und mit ein wenig Salz und Pfeffer bestreuen. Dann auf der mittleren Schiene im Ofen ca. 20 Min. garen. Spinat in einem Sieb waschen und mit kochendem Wasser übergießen, bis er ein wenig zusammengefallen ist. Evtl. noch ein wenig zerkleinern.</p>",
+      "instructions": "Eine Auflaufform leicht mit Butter einfetten. Süßkartoffel, Pastinake, Karotte und Zwiebel darin verteilen, mit 1 EL Olivenöl beträufeln und mit ein wenig Salz und Pfeffer bestreuen. Dann auf der mittleren Schiene im Ofen ca. 20 Min. garen. Spinat in einem Sieb waschen und mit kochendem Wasser übergießen, bis er ein wenig zusammengefallen ist. Evtl. noch ein wenig zerkleinern.",
+      "timers": [
+        {
+          "name": "Gemüse garen",
+          "duration": "PT20M",
+          "temperature": 200,
+          "temperatureUnit": "C",
+          "ovenMode": "HotAir"
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56a8a0f2f8b25ee7538b4567/step_56a8f08a73ac9.jpg",
+          "caption": "Spinat mit kochendem Wasser übergießen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55534d6dfd2cb92b1a8b456c",
+        "554b2288f8b25ef93e8b456c",
+        "554b22cb4dab71c8058b4570",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305367",
+        "57e2674fb7e8697d4b305374",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einem großen Topf reichlich Salzwasser zum Kochen bringen. Gnocchi darin ca. 2 Min. garen, anschließend in einem Sieb abtropfen lassen. Gorgonzola grob zerkleinern. Mozzarella abgießen und in feine Würfel schneiden. Salbei waschen, trocken schütteln, Blätter abzupfen und grob hacken.",
+      "instructionsHTML": "<p>In einem großen Topf reichlich Salzwasser zum Kochen bringen. Gnocchi darin ca. 2 Min. garen, anschließend in einem Sieb abtropfen lassen. Gorgonzola grob zerkleinern. Mozzarella abgießen und in feine Würfel schneiden. Salbei waschen, trocken schütteln, Blätter abzupfen und grob hacken.</p>",
+      "instructions": "In einem großen Topf reichlich Salzwasser zum Kochen bringen. Gnocchi darin ca. 2 Min. garen, anschließend in einem Sieb abtropfen lassen. Gorgonzola grob zerkleinern. Mozzarella abgießen und in feine Würfel schneiden. Salbei waschen, trocken schütteln, Blätter abzupfen und grob hacken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56a8a0f2f8b25ee7538b4567/step_56a8f08a8e38f.jpg",
+          "caption": "Gorgonzola grob zerkleinern"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555da31afd2cb95a758b4568",
+        "554b31684dab71a6058b4573",
+        "554b21914dab71c8058b456f",
+        "56a8dc124dab71187c8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c",
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Auflauf kurz aus dem Ofen nehmen. Gnocchi zum Gemüse geben und mit Sahne übergießen. Spinat darauf verteilen, Gorgonzola und Mozzarella darüber streuen. Backofen auf Grillfunktion umstellen. Auflauf auf höchstem Einschub im Ofen 2–4 Min. überbacken, bis die beiden Käse schön zerlaufen und bräunlich sind.",
+      "instructionsHTML": "<p>Auflauf kurz aus dem Ofen nehmen. Gnocchi zum Gemüse geben und mit Sahne übergießen. Spinat darauf verteilen, Gorgonzola und Mozzarella darüber streuen. Backofen auf Grillfunktion umstellen. Auflauf auf höchstem Einschub im Ofen 2–4 Min. überbacken, bis die beiden Käse schön zerlaufen und bräunlich sind.</p>",
+      "instructions": "Auflauf kurz aus dem Ofen nehmen. Gnocchi zum Gemüse geben und mit Sahne übergießen. Spinat darauf verteilen, Gorgonzola und Mozzarella darüber streuen. Backofen auf Grillfunktion umstellen. Auflauf auf höchstem Einschub im Ofen 2–4 Min. überbacken, bis die beiden Käse schön zerlaufen und bräunlich sind.",
+      "timers": [
+        {
+          "name": "Auflauf überbacken",
+          "duration": "PT2M",
+          "temperature": 200,
+          "temperatureUnit": "C",
+          "ovenMode": "TopBottomHeating"
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56a8a0f2f8b25ee7538b4567/step_56a8f08a9e8ab.jpg",
+          "caption": "Gnocchi mit Sahne übergießen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55534d6dfd2cb92b1a8b456c",
+        "555da31afd2cb95a758b4568",
+        "554b31684dab71a6058b4573",
+        "556c0e3efd2cb9692b8b4568",
+        "56a8dc124dab71187c8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Nach der Garzeit den Auflauf auf Tellern verteilen, mit Salbei bestreuen und genießen!",
+      "instructionsHTML": "<p>Nach der Garzeit den Auflauf auf Tellern verteilen, mit Salbei bestreuen und genießen!</p>",
+      "instructions": "Nach der Garzeit den Auflauf auf Tellern verteilen, mit Salbei bestreuen und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b21914dab71c8058b456f"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.1,
+  "ratingsCount": 84,
+  "favoritesCount": 1052,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/winterlicher-gnocchi-gemuse-aufl-56a8a0f2f8b25ee7538b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

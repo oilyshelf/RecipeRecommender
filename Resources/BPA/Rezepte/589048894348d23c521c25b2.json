@@ -1,0 +1,785 @@
+{
+  "country": "DE",
+  "id": "589048894348d23c521c25b2",
+  "name": "Hähnchen mit Porree-Feta-Gemüse",
+  "seoName": null,
+  "category": null,
+  "slug": "hahnchen-mit-porree-feta-gemuse-n",
+  "headline": "und lila Kartoffeln",
+  "description": "Unsere lila Kartoffeln liegen voll im Trend! Lila ist dieses Jahr eine absoulte Trendfarbe und sorgt nicht nur auf dem Laufsteg für Furore – auch auf Deinem Teller sorgt sie für ein echtes optisches und geschmackliches Highlight! Lass es Dir schmecken!",
+  "descriptionHTML": "<p>Unsere lila Kartoffeln liegen voll im Trend! Lila ist dieses Jahr eine absoulte Trendfarbe und sorgt nicht nur auf dem Laufsteg für Furore – auch auf Deinem Teller sorgt sie für ein echtes optisches und geschmackliches Highlight! Lass es Dir schmecken!</p>",
+  "descriptionMarkdown": "Unsere lila Kartoffeln liegen voll im Trend! Lila ist dieses Jahr eine absoulte Trendfarbe und sorgt nicht nur auf dem Laufsteg für Furore – auch auf Deinem Teller sorgt sie für ein echtes optisches und geschmackliches Highlight! Lass es Dir schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 550,
+  "createdAt": "2017-01-31T08:19:18+00:00",
+  "updatedAt": "2018-05-28T20:31:40+00:00",
+  "link": "https://hellofresh.com/recipes/589048894348d23c521c25b2",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/hahnchen-mit-porree-feta-gemuse-n-41891c7d.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/hahnchen-mit-porree-feta-gemuse-n-11d28a6f.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2343,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 560,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 22,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 64,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 46,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 6,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "56c597a2fd2cb93b428b456b",
+      "type": "hahnchenbrustfilet",
+      "name": "Hähnchenbrustfilet",
+      "slug": "hahnchenbrustfilet",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/56c597a2fd2cb93b428b456b-f3c13014.png",
+      "usage": 114,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6b",
+        "type": "chicken",
+        "name": "Hähnchen",
+        "slug": "hahnchen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6b-8f15f243.png",
+        "usageByCountry": {
+          "AT": 293,
+          "AU": 427,
+          "BE": 305,
+          "CA": 214,
+          "CH": 94,
+          "DE": 262,
+          "ER": 62,
+          "FR": 92,
+          "GB": 486,
+          "LU": 380,
+          "NL": 282,
+          "NZ": 125,
+          "ML": 653,
+          "US": 668
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d6890fd2cb987078b4567",
+      "type": "vitelotte kartoffeln",
+      "name": "Vitelotte Kartoffeln",
+      "slug": "vitelotte-kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d6890fd2cb987078b4567.png",
+      "usage": 3,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c1f20fd2cb99f468b4568",
+      "type": "porree",
+      "name": "Porree",
+      "slug": "porree",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c1f20fd2cb99f468b4568.png",
+      "usage": 191,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc4",
+        "type": "leek",
+        "name": "Lauch",
+        "slug": "lauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc4-1460799d.png",
+        "usageByCountry": {
+          "AT": 212,
+          "AU": 43,
+          "BE": 129,
+          "CA": 14,
+          "CH": 41,
+          "DE": 199,
+          "ER": 0,
+          "FR": 25,
+          "GB": 148,
+          "LU": 118,
+          "NL": 150,
+          "NZ": 13,
+          "ML": 0,
+          "US": 7
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da9924dab714b1b8b4567",
+      "type": "feta",
+      "name": "Feta",
+      "slug": "feta",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da9924dab714b1b8b4567.png",
+      "usage": 113,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b383efd2cb983608b456b",
+      "type": "minze",
+      "name": "Minze",
+      "slug": "minze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b383efd2cb983608b456b.png",
+      "usage": 143,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbdb",
+        "type": "mint",
+        "name": "Minze",
+        "slug": "minze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbdb-560eacae.png",
+        "usageByCountry": {
+          "AT": 146,
+          "AU": 164,
+          "BE": 116,
+          "CA": 37,
+          "CH": 33,
+          "DE": 144,
+          "ER": 0,
+          "FR": 39,
+          "GB": 172,
+          "LU": 133,
+          "NL": 137,
+          "NZ": 35,
+          "ML": 0,
+          "US": 90
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    }
+  ],
+  "utensils": [],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b30531a",
+      "type": "low-calorie",
+      "name": "leichter Genuss",
+      "slug": "leichter-genuss",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 4438,
+      "numberOfRecipesByCountry": {
+        "AT": 1377,
+        "AU": 144,
+        "BE": 299,
+        "CA": 0,
+        "CH": 139,
+        "DE": 1205,
+        "ER": 0,
+        "FR": 128,
+        "GB": 111,
+        "LU": 576,
+        "NL": 380,
+        "NZ": 79,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305321",
+      "type": "high-protein",
+      "name": "proteinreich",
+      "slug": "proteinreich",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 659,
+      "numberOfRecipesByCountry": {
+        "AT": 159,
+        "AU": 250,
+        "BE": 22,
+        "CA": 0,
+        "CH": 26,
+        "DE": 178,
+        "ER": 0,
+        "FR": 0,
+        "GB": 0,
+        "LU": 2,
+        "NL": 22,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b30530e",
+      "type": "under-30-minutes",
+      "name": "Zeit sparen",
+      "slug": "zeit-sparen",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/HF_Icon_App_LessThan30min.png",
+      "numberOfRecipes": 4370,
+      "numberOfRecipesByCountry": {
+        "AT": 1140,
+        "AU": 141,
+        "BE": 540,
+        "CA": 0,
+        "CH": 201,
+        "DE": 989,
+        "ER": 0,
+        "FR": 128,
+        "GB": 0,
+        "LU": 581,
+        "NL": 644,
+        "NZ": 0,
+        "ML": 0,
+        "US": 6
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305315",
+      "type": "gluten-free",
+      "name": "glutenfrei",
+      "slug": "glutenfrei",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-gluten%403x.png",
+      "numberOfRecipes": 2,
+      "numberOfRecipesByCountry": {
+        "AT": 210,
+        "AU": 209,
+        "BE": 573,
+        "CA": 39,
+        "CH": 41,
+        "DE": 206,
+        "ER": 0,
+        "FR": 154,
+        "GB": 2,
+        "LU": 745,
+        "NL": 677,
+        "NZ": 0,
+        "ML": 141,
+        "US": 663
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "56c597a2fd2cb93b428b456b",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "556d6890fd2cb987078b4567",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "556c1f20fd2cb99f468b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "555da9924dab714b1b8b4567",
+          "amount": 125,
+          "unit": "g"
+        },
+        {
+          "id": "554b383efd2cb983608b456b",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Gemüse, Kräuter und Fleisch abwaschen und das Fleisch mit Küchenpapier trockentupfen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.\n\nUngeschälte lila Kartoffeln in 2 cm große Stücke schneiden. Kartoffelstücke in einen kleinen Topf mit kaltem, gesalzenem Wasser geben, aufkochen lassen und ca. 15 Min. garen.\n\nTIPP: Schau Dir mal das Kochwasser der Kartoffeln an. Durch den Farbstoff in den Kartoffeln färbt sich dieses grün.",
+      "instructionsHTML": "<p>Vorbereitung: Gemüse, Kräuter und Fleisch abwaschen und das Fleisch mit Küchenpapier trockentupfen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.</p>\n<p>Ungeschälte lila Kartoffeln in 2 cm große Stücke schneiden. Kartoffelstücke in einen kleinen Topf mit kaltem, gesalzenem Wasser geben, aufkochen lassen und ca. 15 Min. garen.</p>\n<p>TIPP: Schau Dir mal das Kochwasser der Kartoffeln an. Durch den Farbstoff in den Kartoffeln färbt sich dieses grün.</p>",
+      "instructions": "Vorbereitung: Gemüse, Kräuter und Fleisch abwaschen und das Fleisch mit Küchenpapier trockentupfen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.\nUngeschälte lila Kartoffeln in 2 cm große Stücke schneiden. Kartoffelstücke in einen kleinen Topf mit kaltem, gesalzenem Wasser geben, aufkochen lassen und ca. 15 Min. garen.\nTIPP: Schau Dir mal das Kochwasser der Kartoffeln an. Durch den Farbstoff in den Kartoffeln färbt sich dieses grün.",
+      "timers": [
+        {
+          "name": "Backofen vorheizen",
+          "duration": "PT20M",
+          "temperature": 200,
+          "temperatureUnit": "C",
+          "ovenMode": "PreHeating"
+        },
+        {
+          "name": "Karotffeln kochen",
+          "duration": "PT15M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/589048894348d23c521c25b2-0-0-dbcd619e.jpg",
+          "caption": "Kartoffeln in Stücke schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556d6890fd2cb987078b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Porree der Länge nach halbieren, mit Wasser ausspülen und in sehr dünne Streifen schneiden. In einer großen Pfanne 1 EL [2 EL] Öl bei mittlerer Stufe erwärmen und Porreestreifen darin 10 Min. garen, bis sie weich sind.",
+      "instructionsHTML": "<p>Porree der Länge nach halbieren, mit Wasser ausspülen und in sehr dünne Streifen schneiden. In einer großen Pfanne 1 EL [2 EL] Öl bei mittlerer Stufe erwärmen und Porreestreifen darin 10 Min. garen, bis sie weich sind.</p>",
+      "instructions": "Porree der Länge nach halbieren, mit Wasser ausspülen und in sehr dünne Streifen schneiden. In einer großen Pfanne 1 EL [2 EL] Öl bei mittlerer Stufe erwärmen und Porreestreifen darin 10 Min. garen, bis sie weich sind.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556c1f20fd2cb99f468b4568",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Grillfunktion des Ofens anschalten. Hähnchenbrustfilets seitlich einschneiden und wie ein Buch aufklappen und auf ein Backblech mit Backpapier legen 1 TL Olivenöl, etwas Salz und Pfeffer auf dem Fleisch verteilen. Auf der obersten Schiene 4 – 5 Min. pro Seite das Hähnchen garen.",
+      "instructionsHTML": "<p>Grillfunktion des Ofens anschalten. Hähnchenbrustfilets seitlich einschneiden und wie ein Buch aufklappen und auf ein Backblech mit Backpapier legen 1 TL Olivenöl, etwas Salz und Pfeffer auf dem Fleisch verteilen. Auf der obersten Schiene 4 – 5 Min. pro Seite das Hähnchen garen.</p>",
+      "instructions": "Grillfunktion des Ofens anschalten. Hähnchenbrustfilets seitlich einschneiden und wie ein Buch aufklappen und auf ein Backblech mit Backpapier legen 1 TL Olivenöl, etwas Salz und Pfeffer auf dem Fleisch verteilen. Auf der obersten Schiene 4 – 5 Min. pro Seite das Hähnchen garen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/589048894348d23c521c25b2-2-0-196ad368.jpg",
+          "caption": "Butterfly the chicken"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "56c597a2fd2cb93b428b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b1c284dab71a9058b456b",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Während das Hähnchen im Backofen gart, Feta zum Porree in die Pfanne bröseln und mit etwas Salz und Pfeffer abschmecken. Minzblätter fein hacken.",
+      "instructionsHTML": "<p>Während das Hähnchen im Backofen gart, Feta zum Porree in die Pfanne bröseln und mit etwas Salz und Pfeffer abschmecken. Minzblätter fein hacken.</p>",
+      "instructions": "Während das Hähnchen im Backofen gart, Feta zum Porree in die Pfanne bröseln und mit etwas Salz und Pfeffer abschmecken. Minzblätter fein hacken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/589048894348d23c521c25b2-3-0-13a734a6.jpg",
+          "caption": "Feta zum Lauch in die Pfanne bröseln"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555da9924dab714b1b8b4567",
+        "554b383efd2cb983608b456b"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Porree-Feta-Gemüse auf den gegarten Hähnchenfilets verteilen und nochmal für 1 – 2 Min. in den Backofen geben, bis der Feta goldgelb ist.",
+      "instructionsHTML": "<p>Porree-Feta-Gemüse auf den gegarten Hähnchenfilets verteilen und nochmal für 1 – 2 Min. in den Backofen geben, bis der Feta goldgelb ist.</p>",
+      "instructions": "Porree-Feta-Gemüse auf den gegarten Hähnchenfilets verteilen und nochmal für 1 – 2 Min. in den Backofen geben, bis der Feta goldgelb ist.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Kartoffeln vorsichtig mit Hilfe des Deckels abgießen, 1 TL Butter und gehackte Minzblätter dazugeben. Auf Teller verteilen und mit dem Hähnchen genießen.",
+      "instructionsHTML": "<p>Kartoffeln vorsichtig mit Hilfe des Deckels abgießen, 1 TL Butter und gehackte Minzblätter dazugeben. Auf Teller verteilen und mit dem Hähnchen genießen.</p>",
+      "instructions": "Kartoffeln vorsichtig mit Hilfe des Deckels abgießen, 1 TL Butter und gehackte Minzblätter dazugeben. Auf Teller verteilen und mit dem Hähnchen genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.1,
+  "ratingsCount": 1223,
+  "favoritesCount": 693,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/hahnchen-mit-porree-feta-gemuse-n-589048894348d23c521c25b2",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

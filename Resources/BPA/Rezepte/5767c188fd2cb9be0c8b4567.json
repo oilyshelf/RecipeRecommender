@@ -1,0 +1,1017 @@
+{
+  "country": "DE",
+  "id": "5767c188fd2cb9be0c8b4567",
+  "name": "Frisch, frischer - Melonen-Gazpacho",
+  "seoName": null,
+  "category": null,
+  "slug": "frisch-frischer-melonen-gazpacho",
+  "headline": "mit Basilikum-Pesto und Rosmarin-Foccacia-Scheiben",
+  "description": "Hier kommt die Abkühlung Deines Sommers! Die Verbindung aus fruchtig-frisch, cremig und pikant-herzha\u001fft wird Dich außerdem kulinarisch in ganz neue Höhenflüge versetzen. Lass es Dir sommerlich-leicht und ra\u001effiniert-kreativ schmecken!",
+  "descriptionHTML": "<p>Hier kommt die Abkühlung Deines Sommers! Die Verbindung aus fruchtig-frisch, cremig und pikant-herzha\u001fft wird Dich außerdem kulinarisch in ganz neue Höhenflüge versetzen. Lass es Dir sommerlich-leicht und ra\u001effiniert-kreativ schmecken!</p>",
+  "descriptionMarkdown": "Hier kommt die Abkühlung Deines Sommers! Die Verbindung aus fruchtig-frisch, cremig und pikant-herzha\u001fft wird Dich außerdem kulinarisch in ganz neue Höhenflüge versetzen. Lass es Dir sommerlich-leicht und ra\u001effiniert-kreativ schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-06-20T10:12:24+00:00",
+  "updatedAt": "2017-01-25T17:13:41+00:00",
+  "link": "https://hellofresh.com/recipes/5767c188fd2cb9be0c8b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/frisch-frischer-melonen-gazpacho-c32dd569.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/frisch-frischer-melonen-gazpacho-bb210011.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3314,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 792,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 31,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 99,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 31,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": null,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "55a7a505fd2cb9210f8b4567",
+      "type": "foccacia",
+      "name": "Foccacia",
+      "slug": "foccacia",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55a7a505fd2cb9210f8b4567.png",
+      "usage": 31,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b32d1f8b25ef93e8b456e",
+      "type": "basilikum",
+      "name": "Basilikum",
+      "slug": "basilikum",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b32d1f8b25ef93e8b456e.png",
+      "usage": 428,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb45",
+        "type": "basil",
+        "name": "Basilikum",
+        "slug": "basilikum",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb45-a1061353.png",
+        "usageByCountry": {
+          "AT": 475,
+          "AU": 94,
+          "BE": 150,
+          "CA": 72,
+          "CH": 92,
+          "DE": 459,
+          "ER": 0,
+          "FR": 44,
+          "GB": 167,
+          "LU": 168,
+          "NL": 191,
+          "NZ": 14,
+          "ML": 0,
+          "US": 172
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b200f4dab71aa058b456f",
+      "type": "parmesan d.o.p.",
+      "name": "Parmesan D.O.P.",
+      "slug": "parmesan-d-o-p",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b200f4dab71aa058b456f.png",
+      "usage": 168,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5767c1094dab717a118b4568",
+      "type": "wassermelone",
+      "name": "Wassermelone",
+      "slug": "wassermelone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5767c1094dab717a118b4568.png",
+      "usage": 2,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc52",
+        "type": "watermelon",
+        "name": "Wassermelone",
+        "slug": "wassermelone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc52-21274d69.png",
+        "usageByCountry": {
+          "AT": 0,
+          "AU": 0,
+          "BE": 0,
+          "CA": 0,
+          "CH": 1,
+          "DE": 2,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 0,
+          "ML": 0,
+          "US": 1
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7e84fd2cb911618b456a",
+      "type": "rote paprika",
+      "name": "rote Paprika",
+      "slug": "rote-paprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7e84fd2cb911618b456a.png",
+      "usage": 229,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf7",
+        "type": "paprika",
+        "name": "Paprika",
+        "slug": "paprika",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf7-e6b2d1a6.png",
+        "usageByCountry": {
+          "AT": 581,
+          "AU": 50,
+          "BE": 613,
+          "CA": 64,
+          "CH": 21,
+          "DE": 536,
+          "ER": 7,
+          "FR": 166,
+          "GB": 539,
+          "LU": 769,
+          "NL": 388,
+          "NZ": 6,
+          "ML": 38,
+          "US": 79
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22f4f8b25e42438b4567",
+      "type": "essig",
+      "name": "Essig*",
+      "slug": "essig",
+      "description": null,
+      "internalName": "Essig [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22f4f8b25e42438b4567.png",
+      "usage": 323,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052ff",
+          "type": "sulphites",
+          "name": "Schwefel",
+          "slug": "schwefel",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+          "usage": 178
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc4e",
+        "type": "vinegar",
+        "name": "Essig",
+        "slug": "essig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc4e-487a2c2e.png",
+        "usageByCountry": {
+          "AT": 946,
+          "AU": 556,
+          "BE": 739,
+          "CA": 272,
+          "CH": 185,
+          "DE": 877,
+          "ER": 16,
+          "FR": 209,
+          "GB": 406,
+          "LU": 884,
+          "NL": 855,
+          "NZ": 199,
+          "ML": 77,
+          "US": 710
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b31684dab71a6058b4573",
+      "type": "mozzarella",
+      "name": "Mozzarella",
+      "slug": "mozzarella",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b31684dab71a6058b4573.png",
+      "usage": 163,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "type": "sulphites",
+      "name": "Schwefel",
+      "slug": "schwefel",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "usage": 178
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Pürierstab"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538e",
+      "type": "mixingbowl",
+      "name": "Rührschüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Große Schüssel"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "55a7a505fd2cb9210f8b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b32d1f8b25ef93e8b456e",
+          "amount": 2,
+          "unit": "Zweig"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b200f4dab71aa058b456f",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "5767c1094dab717a118b4568",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7e84fd2cb911618b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22f4f8b25e42438b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b31684dab71a6058b4573",
+          "amount": 125,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Obst, Gemüse und Kräuter waschen und putzen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.\n\nEin Viertel des Focaccia abschneiden und beiseitelegen. Restliches Focaccia in ca. 2 cm breite Scheiben schneiden und auf einem mit Backpapier belegten Backblech verteilen. 1 EL Olivenöl darüberträufeln, und auf der mittleren Schiene im Backofen 10–15 Min. knusprig backen.",
+      "instructionsHTML": "<p>Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Obst, Gemüse und Kräuter waschen und putzen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.</p>\n<p>Ein Viertel des Focaccia abschneiden und beiseitelegen. Restliches Focaccia in ca. 2 cm breite Scheiben schneiden und auf einem mit Backpapier belegten Backblech verteilen. 1 EL Olivenöl darüberträufeln, und auf der mittleren Schiene im Backofen 10–15 Min. knusprig backen.</p>",
+      "instructions": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Obst, Gemüse und Kräuter waschen und putzen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.\nEin Viertel des Focaccia abschneiden und beiseitelegen. Restliches Focaccia in ca. 2 cm breite Scheiben schneiden und auf einem mit Backpapier belegten Backblech verteilen. 1 EL Olivenöl darüberträufeln, und auf der mittleren Schiene im Backofen 10–15 Min. knusprig backen.",
+      "timers": [
+        {
+          "name": "Backofen vorheizen",
+          "duration": "PT20M",
+          "temperature": 180,
+          "temperatureUnit": "C",
+          "ovenMode": "PreHeating"
+        },
+        {
+          "name": "Focaccia backen",
+          "duration": "PT10M",
+          "temperature": 180,
+          "temperatureUnit": "C",
+          "ovenMode": "HotAir"
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5767c188fd2cb9be0c8b4567/step_5768fa6c41bc4.jpg",
+          "caption": "Focaccia vorbereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55a7a505fd2cb9210f8b4567",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305377",
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Dicke Stielenden vom Basilikum abschneiden. Knoblauch abziehen und pressen. Parmesan grob zerkleinern. In einem hohen Rührgefäß Basilikum, Parmesan, Knoblauch und 2 EL Olivenöl mit einem Stabmixer zu einem glatten Pesto verarbeiten.",
+      "instructionsHTML": "<p>Dicke Stielenden vom Basilikum abschneiden. Knoblauch abziehen und pressen. Parmesan grob zerkleinern. In einem hohen Rührgefäß Basilikum, Parmesan, Knoblauch und 2 EL Olivenöl mit einem Stabmixer zu einem glatten Pesto verarbeiten.</p>",
+      "instructions": "Dicke Stielenden vom Basilikum abschneiden. Knoblauch abziehen und pressen. Parmesan grob zerkleinern. In einem hohen Rührgefäß Basilikum, Parmesan, Knoblauch und 2 EL Olivenöl mit einem Stabmixer zu einem glatten Pesto verarbeiten.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5767c188fd2cb9be0c8b4567/step_5768fa6c57d3a.jpg",
+          "caption": "Pesto zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b32d1f8b25ef93e8b456e",
+        "554b268ffd2cb983608b4568",
+        "554b200f4dab71aa058b456f",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a0",
+        "57e2674fb7e8697d4b30538e"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Wassermelone halbieren, Fruchtfleisch herauslöffeln und in eine große Schüssel geben. Paprika halbieren, entkernen und grob zerkleinern. Tomaten halbieren, Kerne entfernen und ebenfalls grob zerkleinern. Restliches Focaccia klein schneiden.",
+      "instructionsHTML": "<p>Wassermelone halbieren, Fruchtfleisch herauslöffeln und in eine große Schüssel geben. Paprika halbieren, entkernen und grob zerkleinern. Tomaten halbieren, Kerne entfernen und ebenfalls grob zerkleinern. Restliches Focaccia klein schneiden.</p>",
+      "instructions": "Wassermelone halbieren, Fruchtfleisch herauslöffeln und in eine große Schüssel geben. Paprika halbieren, entkernen und grob zerkleinern. Tomaten halbieren, Kerne entfernen und ebenfalls grob zerkleinern. Restliches Focaccia klein schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5767c188fd2cb9be0c8b4567/step_5768fa6c6bff2.jpg",
+          "caption": "Tomaten entkernen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55a7a505fd2cb9210f8b4567",
+        "5767c1094dab717a118b4568",
+        "554b7e84fd2cb911618b456a",
+        "554b2621fd2cb99c598b4576"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Focacciawürfel, Paprika- und Tomatenstücke in die Schüssel zur Wassermelone geben. Mit dem Stabmixer fein pürieren und mit Salz, Pfeffer, einer Prise Zucker und 1 EL Essig (weißer Balsamico oder ein Fruchtessig passen besonders gut) abschmecken.",
+      "instructionsHTML": "<p>Focacciawürfel, Paprika- und Tomatenstücke in die Schüssel zur Wassermelone geben. Mit dem Stabmixer fein pürieren und mit Salz, Pfeffer, einer Prise Zucker und 1 EL Essig (weißer Balsamico oder ein Fruchtessig passen besonders gut) abschmecken.</p>",
+      "instructions": "Focacciawürfel, Paprika- und Tomatenstücke in die Schüssel zur Wassermelone geben. Mit dem Stabmixer fein pürieren und mit Salz, Pfeffer, einer Prise Zucker und 1 EL Essig (weißer Balsamico oder ein Fruchtessig passen besonders gut) abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5767c188fd2cb9be0c8b4567/step_5768fa6ca9a29.jpg",
+          "caption": "Paprika und Tomatenstücke zugeben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55a7a505fd2cb9210f8b4567",
+        "554b7e84fd2cb911618b456a",
+        "554b2621fd2cb99c598b4576",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b2319fd2cb9ba598b456d",
+        "554b22f4f8b25e42438b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Mozzarella in kleine Stücke zupfen. Melonen-Gazpacho auf tiefen Teller verteilen. Mozzarellastücke hineingeben und mit Pesto beträufeln. Focaccia-Scheiben dazu servieren und genießen!",
+      "instructionsHTML": "<p>Mozzarella in kleine Stücke zupfen. Melonen-Gazpacho auf tiefen Teller verteilen. Mozzarellastücke hineingeben und mit Pesto beträufeln. Focaccia-Scheiben dazu servieren und genießen!</p>",
+      "instructions": "Mozzarella in kleine Stücke zupfen. Melonen-Gazpacho auf tiefen Teller verteilen. Mozzarellastücke hineingeben und mit Pesto beträufeln. Focaccia-Scheiben dazu servieren und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b31684dab71a6058b4573"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3,
+  "ratingsCount": 240,
+  "favoritesCount": 247,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/frisch-frischer-melonen-gazpacho-5767c188fd2cb9be0c8b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

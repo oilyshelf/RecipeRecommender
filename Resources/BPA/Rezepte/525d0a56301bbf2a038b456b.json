@@ -1,0 +1,1151 @@
+{
+  "country": "DE",
+  "id": "525d0a56301bbf2a038b456b",
+  "name": "Indisches Putenbrustcurry",
+  "seoName": null,
+  "category": null,
+  "slug": "indisches-putenbrustcurry",
+  "headline": "in cremiger Sahnesoße auf Basmatireis",
+  "description": "",
+  "descriptionHTML": "",
+  "descriptionMarkdown": null,
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2013-10-15T09:26:46+00:00",
+  "updatedAt": "2016-05-24T14:05:36+00:00",
+  "link": "https://hellofresh.com/recipes/525d0a56301bbf2a038b456b",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/525d0a56301bbf2a038b456b.jpg",
+  "cardLink": null,
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3004.112,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 718,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 42,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 37,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 45,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "556db2a04dab71104b8b4568",
+      "type": "naan-brot",
+      "name": "Naan-Brot",
+      "slug": "naan-brot",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556db2a04dab71104b8b4568.png",
+      "usage": 66,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b6070f8b25e49448b4568",
+      "type": "putenbrust",
+      "name": "Putenbrust",
+      "slug": "putenbrust",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b6070f8b25e49448b4568.png",
+      "usage": 125,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc47",
+        "type": "turkey",
+        "name": "Truthahn",
+        "slug": "truthahn",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc47-151890c5.png",
+        "usageByCountry": {
+          "AT": 171,
+          "AU": 0,
+          "BE": 20,
+          "CA": 24,
+          "CH": 46,
+          "DE": 171,
+          "ER": 0,
+          "FR": 2,
+          "GB": 33,
+          "LU": 11,
+          "NL": 23,
+          "NZ": 0,
+          "ML": 26,
+          "US": 42
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7f33fd2cb96c628b456a",
+      "type": "ingwer",
+      "name": "Ingwer",
+      "slug": "ingwer",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7f33fd2cb96c628b456a.png",
+      "usage": 241,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba7",
+        "type": "ginger",
+        "name": "Ingwer",
+        "slug": "ingwer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba7-565cc248.png",
+        "usageByCountry": {
+          "AT": 278,
+          "AU": 225,
+          "BE": 200,
+          "CA": 107,
+          "CH": 52,
+          "DE": 241,
+          "ER": 20,
+          "FR": 57,
+          "GB": 231,
+          "LU": 241,
+          "NL": 220,
+          "NZ": 65,
+          "ML": 25,
+          "US": 246
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "565574b64dab71665f8b4567",
+      "type": "chilipulver",
+      "name": "Chilipulver",
+      "slug": "chilipulver",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/565574b64dab71665f8b4567-7ede9f44.png",
+      "usage": 4,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6e",
+        "type": "chili-spice",
+        "name": "Chili (Gewürz)",
+        "slug": "chili-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6e-57ddbd04.png",
+        "usageByCountry": {
+          "AT": 67,
+          "AU": 111,
+          "BE": 0,
+          "CA": 73,
+          "CH": 26,
+          "DE": 71,
+          "ER": 42,
+          "FR": 0,
+          "GB": 115,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 51,
+          "ML": 81,
+          "US": 426
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c7ea0f8b25e106c8b4567",
+      "type": "kokosraspeln",
+      "name": "Kokosraspeln",
+      "slug": "kokosraspeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c7ea0f8b25e106c8b4567.png",
+      "usage": 5,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb7d",
+        "type": "coconut",
+        "name": "Kokosnuss",
+        "slug": "kokosnuss",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb7d-9605841c.png",
+        "usageByCountry": {
+          "AT": 14,
+          "AU": 0,
+          "BE": 70,
+          "CA": 6,
+          "CH": 3,
+          "DE": 13,
+          "ER": 0,
+          "FR": 13,
+          "GB": 52,
+          "LU": 72,
+          "NL": 89,
+          "NZ": 0,
+          "ML": 0,
+          "US": 5
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c09b7f8b25e74628b4567",
+      "type": "grüne paprika",
+      "name": "grüne Paprika",
+      "slug": "grune-paprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c09b7f8b25e74628b4567.png",
+      "usage": 37,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf8",
+        "type": "paprika-powder",
+        "name": "Paprikapulver",
+        "slug": "paprikapulver",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf8-57ddbd04.png",
+        "usageByCountry": {
+          "AT": 105,
+          "AU": 15,
+          "BE": 162,
+          "CA": 6,
+          "CH": 26,
+          "DE": 105,
+          "ER": 1,
+          "FR": 42,
+          "GB": 35,
+          "LU": 213,
+          "NL": 182,
+          "NZ": 0,
+          "ML": 0,
+          "US": 31
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c5b19fd2cb97a4d8b4567",
+      "type": "chili",
+      "name": "Chili",
+      "slug": "chili",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c5b19fd2cb97a4d8b4567.png",
+      "usage": 24,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc33",
+        "type": "spicy-pepper-vegetable",
+        "name": "Würziger Pfeffer (Gemüse)",
+        "slug": "wurziger-pfeffer-gemuse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc33-f05fb04f.png",
+        "usageByCountry": {
+          "AT": 167,
+          "AU": 19,
+          "BE": 6,
+          "CA": 18,
+          "CH": 23,
+          "DE": 141,
+          "ER": 23,
+          "FR": 1,
+          "GB": 189,
+          "LU": 5,
+          "NL": 328,
+          "NZ": 0,
+          "ML": 0,
+          "US": 142
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1e654dab71a6058b4571",
+      "type": "koriander",
+      "name": "Koriander",
+      "slug": "koriander",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1e654dab71a6058b4571.png",
+      "usage": 240,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb79",
+        "type": "cilantro-coriander",
+        "name": "Cilantro / Koriander",
+        "slug": "cilantro-koriander",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb79-7a34459a.png",
+        "usageByCountry": {
+          "AT": 253,
+          "AU": 387,
+          "BE": 166,
+          "CA": 173,
+          "CH": 75,
+          "DE": 240,
+          "ER": 3,
+          "FR": 66,
+          "GB": 542,
+          "LU": 305,
+          "NL": 193,
+          "NZ": 102,
+          "ML": 8,
+          "US": 432
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "56273fd94dab713a1d8b4567",
+      "type": "kurkuma",
+      "name": "Kurkuma",
+      "slug": "kurkuma",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/56273fd94dab713a1d8b4567.png",
+      "usage": 24,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc48",
+        "type": "turmeric",
+        "name": "Kurkuma",
+        "slug": "kurkuma",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc48-46bdb73d.png",
+        "usageByCountry": {
+          "AT": 27,
+          "AU": 15,
+          "BE": 56,
+          "CA": 6,
+          "CH": 11,
+          "DE": 27,
+          "ER": 0,
+          "FR": 14,
+          "GB": 78,
+          "LU": 79,
+          "NL": 68,
+          "NZ": 0,
+          "ML": 0,
+          "US": 12
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c0e3efd2cb9692b8b4568",
+      "type": "sahne",
+      "name": "Sahne",
+      "slug": "sahne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c0e3efd2cb9692b8b4568.png",
+      "usage": 176,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5568201ff8b25e0d3a8b4567",
+      "type": "huhnerbruhe",
+      "name": "Hühnerbrühe*",
+      "slug": "huhnerbruhe",
+      "description": null,
+      "internalName": "Hühnerbrühe [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5568201ff8b25e0d3a8b4567.png",
+      "usage": 65,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305381",
+      "type": "spoon",
+      "name": "Löffel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305397",
+      "type": "non-stick-pan",
+      "name": "Beschichtete Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Küchenpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [],
+  "cuisines": [],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "556db2a04dab71104b8b4568",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b6070f8b25e49448b4568",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "554b7f33fd2cb96c628b456a",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "565574b64dab71665f8b4567",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "556c7ea0f8b25e106c8b4567",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "556c09b7f8b25e74628b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "556c5b19fd2cb97a4d8b4567",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1e654dab71a6058b4571",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "56273fd94dab713a1d8b4567",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "556c0e3efd2cb9692b8b4568",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "5568201ff8b25e0d3a8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Backofen für Naan-Brote auf 200 °C Ober-/Unterhitze vorheizen. Putenbrust aus dem Kühlschrank nehmen, damit sie Zimmertemperatur annehmen kann.",
+      "instructionsHTML": "<p>Backofen für Naan-Brote auf 200 °C Ober-/Unterhitze vorheizen. Putenbrust aus dem Kühlschrank nehmen, damit sie Zimmertemperatur annehmen kann.</p>",
+      "instructions": "Backofen für Naan-Brote auf 200 °C Ober-/Unterhitze vorheizen. Putenbrust aus dem Kühlschrank nehmen, damit sie Zimmertemperatur annehmen kann.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556db2a04dab71104b8b4568",
+        "554b6070f8b25e49448b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Putenbrust mit Küchenpapier trocken tupfen und in ca. 3 cm große Würfel schneiden. Für die Fleisch-Marinade: Schale vom Ingwer mit dem Rand eines Löffels abschaben, dann fein würfeln. Knoblauch abziehen und fein hacken. Zitrone entsaften. In einer kleinen Schüssel Ingwer, Knoblauch, Hälfte des Zitronensaftes, Chilipulver und ½ EL Öl vermischen, Putenbrust darin marinieren und kurz ziehen lassen.",
+      "instructionsHTML": "<p>Putenbrust mit Küchenpapier trocken tupfen und in ca. 3 cm große Würfel schneiden. Für die Fleisch-Marinade: Schale vom Ingwer mit dem Rand eines Löffels abschaben, dann fein würfeln. Knoblauch abziehen und fein hacken. Zitrone entsaften. In einer kleinen Schüssel Ingwer, Knoblauch, Hälfte des Zitronensaftes, Chilipulver und ½ EL Öl vermischen, Putenbrust darin marinieren und kurz ziehen lassen.</p>",
+      "instructions": "Putenbrust mit Küchenpapier trocken tupfen und in ca. 3 cm große Würfel schneiden. Für die Fleisch-Marinade: Schale vom Ingwer mit dem Rand eines Löffels abschaben, dann fein würfeln. Knoblauch abziehen und fein hacken. Zitrone entsaften. In einer kleinen Schüssel Ingwer, Knoblauch, Hälfte des Zitronensaftes, Chilipulver und ½ EL Öl vermischen, Putenbrust darin marinieren und kurz ziehen lassen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b6070f8b25e49448b4568",
+        "554b7f33fd2cb96c628b456a",
+        "554b268ffd2cb983608b4568",
+        "554b1de2f8b25ef93e8b456b",
+        "565574b64dab71665f8b4567",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305381",
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einer kleinen Pfanne Kokosraspel ohne Fettzugabe rösten, bis sie duften. Anschließend herausnehmen und beiseitestellen. In einem kleinen Topf 300 ml heiße Hühnerbrühe zubereiten.",
+      "instructionsHTML": "<p>In einer kleinen Pfanne Kokosraspel ohne Fettzugabe rösten, bis sie duften. Anschließend herausnehmen und beiseitestellen. In einem kleinen Topf 300 ml heiße Hühnerbrühe zubereiten.</p>",
+      "instructions": "In einer kleinen Pfanne Kokosraspel ohne Fettzugabe rösten, bis sie duften. Anschließend herausnehmen und beiseitestellen. In einem kleinen Topf 300 ml heiße Hühnerbrühe zubereiten.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556c7ea0f8b25e106c8b4567",
+        "5568201ff8b25e0d3a8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Eine große beschichtete Pfanne bei mittlerer Hitze erwärmen. Putenbrust mit Marinade darin 6–8 Min. unter Wenden anbraten. Anschließend herausnehmen und kurz beiseitestellen.",
+      "instructionsHTML": "<p>Eine große beschichtete Pfanne bei mittlerer Hitze erwärmen. Putenbrust mit Marinade darin 6–8 Min. unter Wenden anbraten. Anschließend herausnehmen und kurz beiseitestellen.</p>",
+      "instructions": "Eine große beschichtete Pfanne bei mittlerer Hitze erwärmen. Putenbrust mit Marinade darin 6–8 Min. unter Wenden anbraten. Anschließend herausnehmen und kurz beiseitestellen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b6070f8b25e49448b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305397"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Naan-Brote auf der mittleren Schiene im Ofen 5–6 Min. aufbacken.",
+      "instructionsHTML": "<p>Naan-Brote auf der mittleren Schiene im Ofen 5–6 Min. aufbacken.</p>",
+      "instructions": "Naan-Brote auf der mittleren Schiene im Ofen 5–6 Min. aufbacken.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556db2a04dab71104b8b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Pfanne mit Küchenpapier auswischen, erneut 1 EL Öl darin erwärmen. Zwiebel zugeben und ca. 3 Min. glasig andünsten. Paprika und je nach gewünschter Schärfe ein wenig Chili zugeben und ca. 3 Min mitgaren. Kurkuma zugeben und ca. 1 Min. mitbraten. Hitze herunterstufen, dann Sahne und Hühnerbrühe hinzufügen und 2–3 Min. weiterköcheln lassen. Putenbrust und Großteil der Kokosraspel dazugeben und 2–4 Min. gut durchwärmen, nicht mehr zum Kochen bringen. Pfanne vom Herd nehmen, restlichen Zitronensaft einrühren und mit Salz und Pfeffer abschmecken.",
+      "instructionsHTML": "<p>Pfanne mit Küchenpapier auswischen, erneut 1 EL Öl darin erwärmen. Zwiebel zugeben und ca. 3 Min. glasig andünsten. Paprika und je nach gewünschter Schärfe ein wenig Chili zugeben und ca. 3 Min mitgaren. Kurkuma zugeben und ca. 1 Min. mitbraten. Hitze herunterstufen, dann Sahne und Hühnerbrühe hinzufügen und 2–3 Min. weiterköcheln lassen. Putenbrust und Großteil der Kokosraspel dazugeben und 2–4 Min. gut durchwärmen, nicht mehr zum Kochen bringen. Pfanne vom Herd nehmen, restlichen Zitronensaft einrühren und mit Salz und Pfeffer abschmecken.</p>",
+      "instructions": "Pfanne mit Küchenpapier auswischen, erneut 1 EL Öl darin erwärmen. Zwiebel zugeben und ca. 3 Min. glasig andünsten. Paprika und je nach gewünschter Schärfe ein wenig Chili zugeben und ca. 3 Min mitgaren. Kurkuma zugeben und ca. 1 Min. mitbraten. Hitze herunterstufen, dann Sahne und Hühnerbrühe hinzufügen und 2–3 Min. weiterköcheln lassen. Putenbrust und Großteil der Kokosraspel dazugeben und 2–4 Min. gut durchwärmen, nicht mehr zum Kochen bringen. Pfanne vom Herd nehmen, restlichen Zitronensaft einrühren und mit Salz und Pfeffer abschmecken.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b6070f8b25e49448b4568",
+        "556c7ea0f8b25e106c8b4567",
+        "556c09b7f8b25e74628b4567",
+        "554b34554dab71a6058b4576",
+        "556c5b19fd2cb97a4d8b4567",
+        "56273fd94dab713a1d8b4567",
+        "556c0e3efd2cb9692b8b4568",
+        "554b1bf6f8b25eef3e8b4570",
+        "5568201ff8b25e0d3a8b4567",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305376"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Indisches Puten-Curry auf Tellern verteilen und mit restlichen Kokosraspeln bestreuen. Nach Belieben mit ein wenig Koriander bestreuen und zusammen mit knusprigem Naan-Brot genießen!",
+      "instructionsHTML": "<p>Indisches Puten-Curry auf Tellern verteilen und mit restlichen Kokosraspeln bestreuen. Nach Belieben mit ein wenig Koriander bestreuen und zusammen mit knusprigem Naan-Brot genießen!</p>",
+      "instructions": "Indisches Puten-Curry auf Tellern verteilen und mit restlichen Kokosraspeln bestreuen. Nach Belieben mit ein wenig Koriander bestreuen und zusammen mit knusprigem Naan-Brot genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 2.9,
+  "ratingsCount": 18,
+  "favoritesCount": 318,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/indisches-putenbrustcurry-525d0a56301bbf2a038b456b",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

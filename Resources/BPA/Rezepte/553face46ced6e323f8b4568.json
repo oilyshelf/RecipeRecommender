@@ -1,0 +1,938 @@
+{
+  "country": "DE",
+  "id": "553face46ced6e323f8b4568",
+  "name": "Sagenhaft einfaches Salsiccia-Zucchini-Risotto",
+  "seoName": null,
+  "category": null,
+  "slug": "sagenhaft-einfaches-salsiccia-zucchini-risotto",
+  "headline": "verfeinert mit Zitrone und Schmand",
+  "description": "Wer nach dem Essen nicht gern Unmengen Geschirr spülen möchte, für den ist dies genau das richtige Rezept: Ein Topf genügt, um ein schmackhaftes Essen auf den Tisch zu bringen. Ein bisschen Zeit musst Du allerdings mitbringen, bis der Reis gar ist. Guten Appetit!",
+  "descriptionHTML": "<p>Wer nach dem Essen nicht gern Unmengen Geschirr spülen möchte, für den ist dies genau das richtige Rezept: Ein Topf genügt, um ein schmackhaftes Essen auf den Tisch zu bringen. Ein bisschen Zeit musst Du allerdings mitbringen, bis der Reis gar ist. Guten Appetit!</p>",
+  "descriptionMarkdown": "Wer nach dem Essen nicht gern Unmengen Geschirr spülen möchte, für den ist dies genau das richtige Rezept: Ein Topf genügt, um ein schmackhaftes Essen auf den Tisch zu bringen. Ein bisschen Zeit musst Du allerdings mitbringen, bis der Reis gar ist. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT40M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-04-28T15:53:08+00:00",
+  "updatedAt": "2017-04-07T09:47:53+00:00",
+  "link": "https://hellofresh.com/recipes/553face46ced6e323f8b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/553face46ced6e323f8b4568.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/553face46ced6e323f8b4568.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3158.92,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 755,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 35,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 78,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 32,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b75a34dab71db0d8b4567",
+      "type": "salsiccia",
+      "name": "Salsiccia",
+      "slug": "salsiccia",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b75a34dab71db0d8b4567.png",
+      "usage": 14,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc28",
+        "type": "sausage",
+        "name": "Wurst",
+        "slug": "wurst",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc28-0372e034.png",
+        "usageByCountry": {
+          "AT": 61,
+          "AU": 16,
+          "BE": 38,
+          "CA": 42,
+          "CH": 58,
+          "DE": 59,
+          "ER": 1,
+          "FR": 18,
+          "GB": 80,
+          "LU": 80,
+          "NL": 62,
+          "NZ": 3,
+          "ML": 0,
+          "US": 20
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7698fd2cb96c628b4568",
+      "type": "arborio-reis",
+      "name": "Arborio-Reis",
+      "slug": "arborio-reis",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7698fd2cb96c628b4568.png",
+      "usage": 6,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1c",
+        "type": "rice",
+        "name": "Reis",
+        "slug": "reis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1c-0b4adebd.png",
+        "usageByCountry": {
+          "AT": 540,
+          "AU": 405,
+          "BE": 265,
+          "CA": 169,
+          "CH": 114,
+          "DE": 505,
+          "ER": 39,
+          "FR": 79,
+          "GB": 480,
+          "LU": 361,
+          "NL": 319,
+          "NZ": 107,
+          "ML": 328,
+          "US": 527
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2aa14dab71aa058b4570",
+      "type": "zucchini",
+      "name": "Zucchini",
+      "slug": "zucchini",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2aa14dab71aa058b4570-0ba23f81.png",
+      "usage": 435,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc58",
+        "type": "zucchini",
+        "name": "Zucchini",
+        "slug": "zucchini",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc58-4066951c.png",
+        "usageByCountry": {
+          "AT": 449,
+          "AU": 407,
+          "BE": 0,
+          "CA": 103,
+          "CH": 74,
+          "DE": 439,
+          "ER": 23,
+          "FR": 0,
+          "GB": 0,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 110,
+          "ML": 163,
+          "US": 443
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2226fd2cb9ba598b456c",
+      "type": "tomatenpolpa",
+      "name": "Tomatenpolpa",
+      "slug": "tomatenpolpa",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2226fd2cb9ba598b456c.png",
+      "usage": 21,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7480fd2cb911618b4568",
+      "type": "schmand",
+      "name": "Schmand",
+      "slug": "schmand",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b7480fd2cb911618b4568-52e9ad6e.png",
+      "usage": 248,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b780e4dab71db0d8b4568",
+      "type": "brühe",
+      "name": "Brühe",
+      "slug": "bruhe",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b780e4dab71db0d8b4568.png",
+      "usage": 31,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b8",
+      "type": "mediterranean",
+      "name": "Mediterran",
+      "slug": "mediterran",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b8-f04aa19c.jpg",
+      "usage": 1179
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b75a34dab71db0d8b4567",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b7698fd2cb96c628b4568",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b2aa14dab71aa058b4570",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2226fd2cb9ba598b456c",
+          "amount": 1,
+          "unit": "Dose"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 0.5,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b7480fd2cb911618b4568",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "554b780e4dab71db0d8b4568",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b75a34dab71db0d8b4567",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b7698fd2cb96c628b4568",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "554b2aa14dab71aa058b4570",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2226fd2cb9ba598b456c",
+          "amount": 2,
+          "unit": "Dose"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b7480fd2cb911618b4568",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b780e4dab71db0d8b4568",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Zwiebel abziehen und in feine Ringe schneiden. Knoblauch abziehen und fein würfeln. Zucchini waschen und in dünne Scheiben hobeln. Zitrone heiß abwaschen, Schale fein abreiben und entsaften. Salsiccia in 2 cm großen Kugeln aus der Hülle pressen. 100 ml Brühe zubereiten.",
+      "instructionsHTML": "<p>Zwiebel abziehen und in feine Ringe schneiden. Knoblauch abziehen und fein würfeln. Zucchini waschen und in dünne Scheiben hobeln. Zitrone heiß abwaschen, Schale fein abreiben und entsaften. Salsiccia in 2 cm großen Kugeln aus der Hülle pressen. 100 ml Brühe zubereiten.</p>",
+      "instructions": "Zwiebel abziehen und in feine Ringe schneiden. Knoblauch abziehen und fein würfeln. Zucchini waschen und in dünne Scheiben hobeln. Zitrone heiß abwaschen, Schale fein abreiben und entsaften. Salsiccia in 2 cm großen Kugeln aus der Hülle pressen. 100 ml Brühe zubereiten.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/553face46ced6e323f8b4568/step_556ec236bc596.jpg",
+          "caption": "Zucchini hobeln"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/553face46ced6e323f8b4568/step_556ec236d4358.jpg",
+          "caption": "Salsiccia schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b75a34dab71db0d8b4567",
+        "554b268ffd2cb983608b4568",
+        "554b2aa14dab71aa058b4570",
+        "554b1de2f8b25ef93e8b456b",
+        "554b780e4dab71db0d8b4568",
+        "554b34554dab71a6058b4576"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "2 EL Öl in einem Topf erhitzen, Zwiebeln und Knoblauch darin für 2-3 Min. anbraten. Salsiccia dazugeben und weitere 2 Min. anbraten. Dann Reis unterrühren und mit Tomatenstücken ablöschen. Unter Rühren 5-7 Min. köcheln lassen. Hitze ein wenig herunterdrehen.",
+      "instructionsHTML": "<p>2 EL Öl in einem Topf erhitzen, Zwiebeln und Knoblauch darin für 2-3 Min. anbraten. Salsiccia dazugeben und weitere 2 Min. anbraten. Dann Reis unterrühren und mit Tomatenstücken ablöschen. Unter Rühren 5-7 Min. köcheln lassen. Hitze ein wenig herunterdrehen.</p>",
+      "instructions": "2 EL Öl in einem Topf erhitzen, Zwiebeln und Knoblauch darin für 2-3 Min. anbraten. Salsiccia dazugeben und weitere 2 Min. anbraten. Dann Reis unterrühren und mit Tomatenstücken ablöschen. Unter Rühren 5-7 Min. köcheln lassen. Hitze ein wenig herunterdrehen.",
+      "timers": [
+        {
+          "name": "Zwiebeln anbraten",
+          "duration": "PT12M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/553face46ced6e323f8b4568/step_556ec236e76e2.jpg",
+          "caption": "Zwiebeln anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b75a34dab71db0d8b4567",
+        "554b268ffd2cb983608b4568",
+        "554b34554dab71a6058b4576"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Zucchini, Zitronenabrieb und 2 EL Zitronensaft dazugeben. Anschließend die vorbereitete Brühe hineingießen und unter Rühren weitere 10-13 Min. köcheln lassen, bis der Reis die gewünschte Konsistenz erreicht hat.",
+      "instructionsHTML": "<p>Zucchini, Zitronenabrieb und 2 EL Zitronensaft dazugeben. Anschließend die vorbereitete Brühe hineingießen und unter Rühren weitere 10-13 Min. köcheln lassen, bis der Reis die gewünschte Konsistenz erreicht hat.</p>",
+      "instructions": "Zucchini, Zitronenabrieb und 2 EL Zitronensaft dazugeben. Anschließend die vorbereitete Brühe hineingießen und unter Rühren weitere 10-13 Min. köcheln lassen, bis der Reis die gewünschte Konsistenz erreicht hat.",
+      "timers": [
+        {
+          "name": "Reis kochen",
+          "duration": "PT13M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b7698fd2cb96c628b4568",
+        "554b2aa14dab71aa058b4570",
+        "554b1de2f8b25ef93e8b456b"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Risotto vom Herd ziehen, Schmand unterrühren und mit Salz und Pfeffer abschmecken.",
+      "instructionsHTML": "<p>Risotto vom Herd ziehen, Schmand unterrühren und mit Salz und Pfeffer abschmecken.</p>",
+      "instructions": "Risotto vom Herd ziehen, Schmand unterrühren und mit Salz und Pfeffer abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/553face46ced6e323f8b4568/step_556ec2371cf11.jpg",
+          "caption": "Schmand unterrühren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b75a34dab71db0d8b4567",
+        "554b268ffd2cb983608b4568",
+        "554b7698fd2cb96c628b4568",
+        "554b2aa14dab71aa058b4570",
+        "554b2226fd2cb9ba598b456c",
+        "554b1de2f8b25ef93e8b456b",
+        "554b7480fd2cb911618b4568",
+        "554b780e4dab71db0d8b4568",
+        "554b1bf6f8b25eef3e8b4570",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573",
+        "554b34554dab71a6058b4576"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Risotto auf Tellern verteilen und entspannt genießen.",
+      "instructionsHTML": "<p>Risotto auf Tellern verteilen und entspannt genießen.</p>",
+      "instructions": "Risotto auf Tellern verteilen und entspannt genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b75a34dab71db0d8b4567",
+        "554b268ffd2cb983608b4568",
+        "554b7698fd2cb96c628b4568",
+        "554b2aa14dab71aa058b4570",
+        "554b2226fd2cb9ba598b456c",
+        "554b1de2f8b25ef93e8b456b",
+        "554b7480fd2cb911618b4568",
+        "554b780e4dab71db0d8b4568",
+        "554b1bf6f8b25eef3e8b4570",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573",
+        "554b34554dab71a6058b4576"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 2.9,
+  "ratingsCount": 189,
+  "favoritesCount": 205,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/sagenhaft-einfaches-salsiccia-zucchini-risotto-553face46ced6e323f8b4568",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

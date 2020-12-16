@@ -1,0 +1,1069 @@
+{
+  "country": "DE",
+  "id": "563892e34dab718b7e8b4567",
+  "name": "Schweinelachsstreifen in cremiger Lauch-Paprika-Soße",
+  "seoName": null,
+  "category": null,
+  "slug": "schweinelachsstreifen-in-cremiger-lauch-paprika-sosze",
+  "headline": "mit Basmatireis",
+  "description": "Es muss nicht immer Reis zum asiatischen Gemüse und Karto\u001fffeln zum Schweinefleisch sein. Darum gibt es heute Schweinelachs mit cremiger Gemüsesoße zum Basmatireis, um das Multi-Kulti-Feeling auch in Deine Küche zu bringen. Lass es Dir schmecken!",
+  "descriptionHTML": "<p>Es muss nicht immer Reis zum asiatischen Gemüse und Karto\u001fffeln zum Schweinefleisch sein. Darum gibt es heute Schweinelachs mit cremiger Gemüsesoße zum Basmatireis, um das Multi-Kulti-Feeling auch in Deine Küche zu bringen. Lass es Dir schmecken!</p>",
+  "descriptionMarkdown": "Es muss nicht immer Reis zum asiatischen Gemüse und Karto\u001fffeln zum Schweinefleisch sein. Darum gibt es heute Schweinelachs mit cremiger Gemüsesoße zum Basmatireis, um das Multi-Kulti-Feeling auch in Deine Küche zu bringen. Lass es Dir schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-11-03T10:56:34+00:00",
+  "updatedAt": "2017-03-06T13:39:53+00:00",
+  "link": "https://hellofresh.com/recipes/563892e34dab718b7e8b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/563892e34dab718b7e8b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/563892e34dab718b7e8b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2836.752,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 678,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 70,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 6.35,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 36,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "5638bf6a79a23c10638b4567",
+      "type": "schweinelachs",
+      "name": "Schweinelachs",
+      "slug": "schweinelachs",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5638bf6a79a23c10638b4567.png",
+      "usage": 26,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc12",
+        "type": "pork",
+        "name": "Schweinefleisch",
+        "slug": "schweinefleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc12-bdd443ff.png",
+        "usageByCountry": {
+          "AT": 486,
+          "AU": 290,
+          "BE": 179,
+          "CA": 134,
+          "CH": 113,
+          "DE": 455,
+          "ER": 54,
+          "FR": 58,
+          "GB": 613,
+          "LU": 212,
+          "NL": 191,
+          "NZ": 97,
+          "ML": 289,
+          "US": 624
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3534f8b25ef53e8b4575",
+      "type": "basmatireis",
+      "name": "Basmatireis",
+      "slug": "basmatireis",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3534f8b25ef53e8b4575.png",
+      "usage": 194,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1c",
+        "type": "rice",
+        "name": "Reis",
+        "slug": "reis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1c-0b4adebd.png",
+        "usageByCountry": {
+          "AT": 540,
+          "AU": 405,
+          "BE": 265,
+          "CA": 169,
+          "CH": 114,
+          "DE": 505,
+          "ER": 39,
+          "FR": 79,
+          "GB": 480,
+          "LU": 361,
+          "NL": 319,
+          "NZ": 107,
+          "ML": 328,
+          "US": 527
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7e84fd2cb911618b456a",
+      "type": "rote paprika",
+      "name": "rote Paprika",
+      "slug": "rote-paprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7e84fd2cb911618b456a.png",
+      "usage": 229,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf7",
+        "type": "paprika",
+        "name": "Paprika",
+        "slug": "paprika",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf7-e6b2d1a6.png",
+        "usageByCountry": {
+          "AT": 581,
+          "AU": 50,
+          "BE": 613,
+          "CA": 64,
+          "CH": 21,
+          "DE": 536,
+          "ER": 7,
+          "FR": 166,
+          "GB": 539,
+          "LU": 769,
+          "NL": 388,
+          "NZ": 6,
+          "ML": 38,
+          "US": 79
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556736ccfd2cb964078b4568",
+      "type": "lauch",
+      "name": "Lauch",
+      "slug": "lauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556736ccfd2cb964078b4568.png",
+      "usage": 8,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc4",
+        "type": "leek",
+        "name": "Lauch",
+        "slug": "lauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc4-1460799d.png",
+        "usageByCountry": {
+          "AT": 212,
+          "AU": 43,
+          "BE": 129,
+          "CA": 14,
+          "CH": 41,
+          "DE": 199,
+          "ER": 0,
+          "FR": 25,
+          "GB": 148,
+          "LU": 118,
+          "NL": 150,
+          "NZ": 13,
+          "ML": 0,
+          "US": 7
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d72274dab712c498b4568",
+      "type": "paprikapulver edelsüß",
+      "name": "Paprikapulver edelsüß",
+      "slug": "paprikapulver-edelsusz",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d72274dab712c498b4568.png",
+      "usage": 31,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf8",
+        "type": "paprika-powder",
+        "name": "Paprikapulver",
+        "slug": "paprikapulver",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf8-57ddbd04.png",
+        "usageByCountry": {
+          "AT": 105,
+          "AU": 15,
+          "BE": 162,
+          "CA": 6,
+          "CH": 26,
+          "DE": 105,
+          "ER": 1,
+          "FR": 42,
+          "GB": 35,
+          "LU": 213,
+          "NL": 182,
+          "NZ": 0,
+          "ML": 0,
+          "US": 31
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1f134dab71aa058b456e",
+      "type": "crème fraîche",
+      "name": "Crème fraîche",
+      "slug": "creme-fraiche",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1f134dab71aa058b456e.png",
+      "usage": 305,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb86",
+        "type": "creme-fraiche",
+        "name": "Crème Fraîche",
+        "slug": "creme-fraiche",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb86-533fc64c.png",
+        "usageByCountry": {
+          "AT": 321,
+          "AU": 0,
+          "BE": 119,
+          "CA": 0,
+          "CH": 81,
+          "DE": 305,
+          "ER": 0,
+          "FR": 21,
+          "GB": 328,
+          "LU": 127,
+          "NL": 144,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55534596f8b25ea1038b4569",
+      "type": "schnittlauch",
+      "name": "Schnittlauch",
+      "slug": "schnittlauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55534596f8b25ea1038b4569.png",
+      "usage": 358,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb74",
+        "type": "chives",
+        "name": "Schnittlauch",
+        "slug": "schnittlauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb74-921bfcce.png",
+        "usageByCountry": {
+          "AT": 382,
+          "AU": 32,
+          "BE": 85,
+          "CA": 38,
+          "CH": 68,
+          "DE": 358,
+          "ER": 0,
+          "FR": 30,
+          "GB": 71,
+          "LU": 117,
+          "NL": 104,
+          "NZ": 20,
+          "ML": 0,
+          "US": 80
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b32d1f8b25ef93e8b456e",
+      "type": "basilikum",
+      "name": "Basilikum",
+      "slug": "basilikum",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b32d1f8b25ef93e8b456e.png",
+      "usage": 428,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb45",
+        "type": "basil",
+        "name": "Basilikum",
+        "slug": "basilikum",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb45-a1061353.png",
+        "usageByCountry": {
+          "AT": 475,
+          "AU": 94,
+          "BE": 150,
+          "CA": 72,
+          "CH": 92,
+          "DE": 459,
+          "ER": 0,
+          "FR": 44,
+          "GB": 167,
+          "LU": 168,
+          "NL": 191,
+          "NZ": 14,
+          "ML": 0,
+          "US": 172
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556868794dab71a61d8b4567",
+      "type": "rinderbruhe",
+      "name": "Rinderbrühe*",
+      "slug": "rinderbruhe",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556868794dab71a61d8b4567.png",
+      "usage": 26,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Küchenpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536d",
+      "type": "fork",
+      "name": "Gabel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "5638bf6a79a23c10638b4567",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b3534f8b25ef53e8b4575",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7e84fd2cb911618b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556736ccfd2cb964078b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556d72274dab712c498b4568",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "554b1f134dab71aa058b456e",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b32d1f8b25ef93e8b456e",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556868794dab71a61d8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Schweinelachs aus dem Kühlschrank nehmen, damit dieser Zimmertemperatur annehmen kann.",
+      "instructionsHTML": "<p>Schweinelachs aus dem Kühlschrank nehmen, damit dieser Zimmertemperatur annehmen kann.</p>",
+      "instructions": "Schweinelachs aus dem Kühlschrank nehmen, damit dieser Zimmertemperatur annehmen kann.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "5638bf6a79a23c10638b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Basmatireis in einem Sieb mit kaltem Wasser abbrausen, bis dieses klar hindurchfließt. In einem großen Topf 300 ml Wasser mit etwas Salz zum Kochen bringen. Reis einrühren und einmal aufkochen lassen, Deckel aufsetzen und bei niedriger Hitze ca. 10 Min. köcheln lassen. Dann vom Herd nehmen und mind. 10 Min. zugedeckt ruhen lassen.",
+      "instructionsHTML": "<p>Basmatireis in einem Sieb mit kaltem Wasser abbrausen, bis dieses klar hindurchfließt. In einem großen Topf 300 ml Wasser mit etwas Salz zum Kochen bringen. Reis einrühren und einmal aufkochen lassen, Deckel aufsetzen und bei niedriger Hitze ca. 10 Min. köcheln lassen. Dann vom Herd nehmen und mind. 10 Min. zugedeckt ruhen lassen.</p>",
+      "instructions": "Basmatireis in einem Sieb mit kaltem Wasser abbrausen, bis dieses klar hindurchfließt. In einem großen Topf 300 ml Wasser mit etwas Salz zum Kochen bringen. Reis einrühren und einmal aufkochen lassen, Deckel aufsetzen und bei niedriger Hitze ca. 10 Min. köcheln lassen. Dann vom Herd nehmen und mind. 10 Min. zugedeckt ruhen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/563892e34dab718b7e8b4567/step_563b1e198b47b.jpg",
+          "caption": "Basmatireis abbrausen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b3534f8b25ef53e8b4575",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Zwiebel abziehen, halbieren und in feine Streifen schneiden. Knoblauch abziehen und fein hacken. Paprika waschen, halbieren, Kerne entfernen und in mundgerechte Stücke schneiden. Lauch putzen, in ca. 10 cm lange Stücke schneiden, dann längs vierteln und waschen.",
+      "instructionsHTML": "<p>Zwiebel abziehen, halbieren und in feine Streifen schneiden. Knoblauch abziehen und fein hacken. Paprika waschen, halbieren, Kerne entfernen und in mundgerechte Stücke schneiden. Lauch putzen, in ca. 10 cm lange Stücke schneiden, dann längs vierteln und waschen.</p>",
+      "instructions": "Zwiebel abziehen, halbieren und in feine Streifen schneiden. Knoblauch abziehen und fein hacken. Paprika waschen, halbieren, Kerne entfernen und in mundgerechte Stücke schneiden. Lauch putzen, in ca. 10 cm lange Stücke schneiden, dann längs vierteln und waschen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b34554dab71a6058b4576",
+        "554b268ffd2cb983608b4568",
+        "554b7e84fd2cb911618b456a",
+        "556736ccfd2cb964078b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einem kleinen Topf 100 ml heiße Rinderbrühe zubereiten. Schweinelachs mit Küchenpapier trocken tupfen und in feine Streifen schneiden. In einer großen beschichteten Pfanne 1 TL Olivenöl erhitzen, Schweinefleischstreifen darin ca. 3 Min. rundherum scharf anbraten. Anschließend aus der Pfanne nehmen und kurz beiseite stellen.",
+      "instructionsHTML": "<p>In einem kleinen Topf 100 ml heiße Rinderbrühe zubereiten. Schweinelachs mit Küchenpapier trocken tupfen und in feine Streifen schneiden. In einer großen beschichteten Pfanne 1 TL Olivenöl erhitzen, Schweinefleischstreifen darin ca. 3 Min. rundherum scharf anbraten. Anschließend aus der Pfanne nehmen und kurz beiseite stellen.</p>",
+      "instructions": "In einem kleinen Topf 100 ml heiße Rinderbrühe zubereiten. Schweinelachs mit Küchenpapier trocken tupfen und in feine Streifen schneiden. In einer großen beschichteten Pfanne 1 TL Olivenöl erhitzen, Schweinefleischstreifen darin ca. 3 Min. rundherum scharf anbraten. Anschließend aus der Pfanne nehmen und kurz beiseite stellen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/563892e34dab718b7e8b4567/step_563b1e19a0e6c.jpg",
+          "caption": "Schweinelachs schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5638bf6a79a23c10638b4567",
+        "556868794dab71a61d8b4567",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305376",
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In der Pfanne erneut 1 TL Olivenöl und 1 TL Butter erwärmen. Zwiebel und Knoblauch zugeben und 4–5 Min. glasig andünsten. Paprika, Lauch und edelsüßen Paprika zugeben und 5–8 Min. bei mittlerer Hitze weiterschmoren lassen. Mit Brühe ablöschen (evtl. einen Schuss Weißwein zufügen) und 4–6 Min. einkochen lassen.",
+      "instructionsHTML": "<p>In der Pfanne erneut 1 TL Olivenöl und 1 TL Butter erwärmen. Zwiebel und Knoblauch zugeben und 4–5 Min. glasig andünsten. Paprika, Lauch und edelsüßen Paprika zugeben und 5–8 Min. bei mittlerer Hitze weiterschmoren lassen. Mit Brühe ablöschen (evtl. einen Schuss Weißwein zufügen) und 4–6 Min. einkochen lassen.</p>",
+      "instructions": "In der Pfanne erneut 1 TL Olivenöl und 1 TL Butter erwärmen. Zwiebel und Knoblauch zugeben und 4–5 Min. glasig andünsten. Paprika, Lauch und edelsüßen Paprika zugeben und 5–8 Min. bei mittlerer Hitze weiterschmoren lassen. Mit Brühe ablöschen (evtl. einen Schuss Weißwein zufügen) und 4–6 Min. einkochen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/563892e34dab718b7e8b4567/step_563b1e19ce83a.jpg",
+          "caption": "Gemüse in Pfanne zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b34554dab71a6058b4576",
+        "554b268ffd2cb983608b4568",
+        "554b7e84fd2cb911618b456a",
+        "556736ccfd2cb964078b4568",
+        "556d72274dab712c498b4568",
+        "554b22cb4dab71c8058b4570",
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Hitze herunterstufen und Schmand einrühren. Schweinelachsstreifen zugeben und die Soße ca. 2 Min. weiter einköcheln lassen (dabei nicht mehr zum Kochen bringen!).",
+      "instructionsHTML": "<p>Hitze herunterstufen und Schmand einrühren. Schweinelachsstreifen zugeben und die Soße ca. 2 Min. weiter einköcheln lassen (dabei nicht mehr zum Kochen bringen!).</p>",
+      "instructions": "Hitze herunterstufen und Schmand einrühren. Schweinelachsstreifen zugeben und die Soße ca. 2 Min. weiter einköcheln lassen (dabei nicht mehr zum Kochen bringen!).",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/563892e34dab718b7e8b4567/step_563b1e19e6f38.jpg",
+          "caption": "Schmand einrühren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Schnittlauch und Basilikum waschen und trocken schütteln. Basilikumblätter abzupfen, beides klein schneiden.",
+      "instructionsHTML": "<p>Schnittlauch und Basilikum waschen und trocken schütteln. Basilikumblätter abzupfen, beides klein schneiden.</p>",
+      "instructions": "Schnittlauch und Basilikum waschen und trocken schütteln. Basilikumblätter abzupfen, beides klein schneiden.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "55534596f8b25ea1038b4569",
+        "554b32d1f8b25ef93e8b456e"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 8,
+      "instructionsMarkdown": "Pfanne nach der Garzeit vom Herd nehmen, Hälfte der Kräuter einrühren und mit Salz und Pfeffer abschmecken.",
+      "instructionsHTML": "<p>Pfanne nach der Garzeit vom Herd nehmen, Hälfte der Kräuter einrühren und mit Salz und Pfeffer abschmecken.</p>",
+      "instructions": "Pfanne nach der Garzeit vom Herd nehmen, Hälfte der Kräuter einrühren und mit Salz und Pfeffer abschmecken.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 9,
+      "instructionsMarkdown": "Basmatireis nach der Ziehzeit mit einer Gabel auflockern und auf Tellern verteilen. Schweinelachs mit der cremigen Lauch-Paprika-Soße darauf anrichten. Mit restlichen Kräutern garnieren und genießen!",
+      "instructionsHTML": "<p>Basmatireis nach der Ziehzeit mit einer Gabel auflockern und auf Tellern verteilen. Schweinelachs mit der cremigen Lauch-Paprika-Soße darauf anrichten. Mit restlichen Kräutern garnieren und genießen!</p>",
+      "instructions": "Basmatireis nach der Ziehzeit mit einer Gabel auflockern und auf Tellern verteilen. Schweinelachs mit der cremigen Lauch-Paprika-Soße darauf anrichten. Mit restlichen Kräutern garnieren und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30536d",
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.4,
+  "ratingsCount": 1433,
+  "favoritesCount": 990,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/schweinelachsstreifen-in-cremiger-lauch-paprika-sosze-563892e34dab718b7e8b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

@@ -1,0 +1,983 @@
+{
+  "country": "DE",
+  "id": "57ce6f4b518c8868298b4568",
+  "name": "Super-Food: Grünkohl-Quinoa-Salat",
+  "seoName": null,
+  "category": null,
+  "slug": "super-food-grunkohl-quinoa-salat",
+  "headline": "mit Cranberries und Feta",
+  "description": "Dieser Salat strotzt nur so vor gesunden Bestandteilen: Grünkohl enthält jede Menge Vitamin C, Quinoa ist ein eiweißreiches Powerfood und Mandeln enthalten viel Magnesium und Folsäure. Getoppt mit Cranberries und Feta wird dieser Salat zum Geschmackserlebnis! Guten Appetit!",
+  "descriptionHTML": "<p>Dieser Salat strotzt nur so vor gesunden Bestandteilen: Grünkohl enthält jede Menge Vitamin C, Quinoa ist ein eiweißreiches Powerfood und Mandeln enthalten viel Magnesium und Folsäure. Getoppt mit Cranberries und Feta wird dieser Salat zum Geschmackserlebnis! Guten Appetit!</p>",
+  "descriptionMarkdown": "Dieser Salat strotzt nur so vor gesunden Bestandteilen: Grünkohl enthält jede Menge Vitamin C, Quinoa ist ein eiweißreiches Powerfood und Mandeln enthalten viel Magnesium und Folsäure. Getoppt mit Cranberries und Feta wird dieser Salat zum Geschmackserlebnis! Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-09-06T07:24:58+00:00",
+  "updatedAt": "2017-04-20T09:41:24+00:00",
+  "link": "https://hellofresh.com/recipes/57ce6f4b518c8868298b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/super-food-grunkohl-quinoa-salat-a350e78a.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/super-food-grunkohl-quinoa-salat-e53214cb.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3175.656,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 759,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 32,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 83,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 13,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 32,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 29,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "556c24054dab71bd3b8b4568",
+      "type": "quinoa",
+      "name": "Quinoa",
+      "slug": "quinoa",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c24054dab71bd3b8b4568.png",
+      "usage": 60,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc18",
+        "type": "quinoa",
+        "name": "Quinoa",
+        "slug": "quinoa",
+        "description": null,
+        "priority": 0,
+        "iconLink": null,
+        "usageByCountry": {
+          "AT": 75,
+          "AU": 36,
+          "BE": 20,
+          "CA": 26,
+          "CH": 13,
+          "DE": 62,
+          "ER": 0,
+          "FR": 5,
+          "GB": 28,
+          "LU": 31,
+          "NL": 21,
+          "NZ": 3,
+          "ML": 72,
+          "US": 57
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "57b2f0f1518c88cc7d8b4567",
+      "type": "baby-grunkohl",
+      "name": "Baby Grünkohl",
+      "slug": "baby-grunkohl",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/57b2f0f1518c88cc7d8b4567-1fd6b48a.png",
+      "usage": 24,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "567921d6f8b25e43768b4567",
+      "type": "balsamico-essig-home",
+      "name": "Balsamicoessig*",
+      "slug": "balsamico-essig",
+      "description": null,
+      "internalName": "Balsamico-Essig (home)",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/567921d6f8b25e43768b4567.png",
+      "usage": 97,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052ff",
+          "type": "sulphites",
+          "name": "Schwefel",
+          "slug": "schwefel",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+          "usage": 178
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc4e",
+        "type": "vinegar",
+        "name": "Essig",
+        "slug": "essig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc4e-487a2c2e.png",
+        "usageByCountry": {
+          "AT": 946,
+          "AU": 556,
+          "BE": 739,
+          "CA": 272,
+          "CH": 185,
+          "DE": 877,
+          "ER": 16,
+          "FR": 209,
+          "GB": 406,
+          "LU": 884,
+          "NL": 855,
+          "NZ": 199,
+          "ML": 77,
+          "US": 710
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7f6cfd2cb911618b456b",
+      "type": "mandelblättchen",
+      "name": "Mandelblättchen",
+      "slug": "mandelblattchen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7f6cfd2cb911618b456b.png",
+      "usage": 71,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fb",
+          "type": "nuts",
+          "name": "Schalenfrüchte",
+          "slug": "schalenfruchte",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+          "usage": 300
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dbfe6f8b25e406a8b4569",
+      "type": "dill",
+      "name": "Dill",
+      "slug": "dill",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dbfe6f8b25e406a8b4569.png",
+      "usage": 65,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb8d",
+        "type": "dill",
+        "name": "Dill",
+        "slug": "dill",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb8d-ba6242c3.png",
+        "usageByCountry": {
+          "AT": 58,
+          "AU": 26,
+          "BE": 58,
+          "CA": 22,
+          "CH": 9,
+          "DE": 65,
+          "ER": 0,
+          "FR": 15,
+          "GB": 31,
+          "LU": 78,
+          "NL": 69,
+          "NZ": 6,
+          "ML": 117,
+          "US": 58
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d7aaefd2cb9c4078b4569",
+      "type": "cranberries",
+      "name": "Cranberrys",
+      "slug": "cranberries",
+      "description": null,
+      "internalName": "Cranberries",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/556d7aaefd2cb9c4078b4569-e6a6f1b0.png",
+      "usage": 27,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb52",
+        "type": "berries",
+        "name": "Beeren",
+        "slug": "beeren",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb52-f1abe164.png",
+        "usageByCountry": {
+          "AT": 42,
+          "AU": 41,
+          "BE": 58,
+          "CA": 14,
+          "CH": 4,
+          "DE": 42,
+          "ER": 0,
+          "FR": 0,
+          "GB": 17,
+          "LU": 18,
+          "NL": 90,
+          "NZ": 10,
+          "ML": 0,
+          "US": 58
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da9924dab714b1b8b4567",
+      "type": "feta",
+      "name": "Feta",
+      "slug": "feta",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da9924dab714b1b8b4567.png",
+      "usage": 113,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3639f8b25eef3e8b4575",
+      "type": "gemusebruhe-home",
+      "name": "Gemüsebrühe*",
+      "slug": "gemusebruhe",
+      "description": null,
+      "internalName": "Gemüsebrühe home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3639f8b25eef3e8b4575.png",
+      "usage": 441,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7d614dab71160d8b456b",
+      "type": "honig-home",
+      "name": "Honig*",
+      "slug": "honig",
+      "description": null,
+      "internalName": "Honig [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7d614dab71160d8b456b.png",
+      "usage": 203,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbb3",
+        "type": "honey",
+        "name": "Honig",
+        "slug": "honig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbb3-efe0c124.png",
+        "usageByCountry": {
+          "AT": 360,
+          "AU": 274,
+          "BE": 368,
+          "CA": 136,
+          "CH": 83,
+          "DE": 326,
+          "ER": 12,
+          "FR": 77,
+          "GB": 224,
+          "LU": 363,
+          "NL": 442,
+          "NZ": 139,
+          "ML": 1,
+          "US": 303
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "type": "sulphites",
+      "name": "Schwefel",
+      "slug": "schwefel",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "usage": 178
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "type": "nuts",
+      "name": "Schalenfrüchte",
+      "slug": "schalenfruchte",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "usage": 300
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b3053a1",
+      "type": "smallpot",
+      "name": "Kleiner Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Große Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536d",
+      "type": "fork",
+      "name": "Gabel"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305315",
+      "type": "gluten-free",
+      "name": "glutenfrei",
+      "slug": "glutenfrei",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-gluten%403x.png",
+      "numberOfRecipes": 2,
+      "numberOfRecipesByCountry": {
+        "AT": 210,
+        "AU": 209,
+        "BE": 573,
+        "CA": 39,
+        "CH": 41,
+        "DE": 206,
+        "ER": 0,
+        "FR": 154,
+        "GB": 2,
+        "LU": 745,
+        "NL": 677,
+        "NZ": 0,
+        "ML": 141,
+        "US": 663
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305320",
+      "type": "high-fiber",
+      "name": "ballaststoffreich",
+      "slug": "ballaststoffreich",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 817,
+      "numberOfRecipesByCountry": {
+        "AT": 303,
+        "AU": 121,
+        "BE": 17,
+        "CA": 0,
+        "CH": 47,
+        "DE": 310,
+        "ER": 0,
+        "FR": 0,
+        "GB": 1,
+        "LU": 1,
+        "NL": 17,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    }
+  ],
+  "cuisines": [],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "556c24054dab71bd3b8b4568",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "57b2f0f1518c88cc7d8b4567",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "567921d6f8b25e43768b4567",
+          "amount": 12,
+          "unit": "mg"
+        },
+        {
+          "id": "554b7f6cfd2cb911618b456b",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "555dbfe6f8b25e406a8b4569",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "556d7aaefd2cb9c4078b4569",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "id": "555da9924dab714b1b8b4567",
+          "amount": 125,
+          "unit": "g"
+        },
+        {
+          "id": "554b3639f8b25eef3e8b4575",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b7d614dab71160d8b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Gemüseund Kräuter waschen und putzen.   \n\nIn einem kleinen Topf Quinoa mit 500 ml vorbereiteter Gemüsebrühe einmal aufkochen lassen. Dann Hitze reduzieren, Deckel aufsetzen und ca. 15 Min. weiterköcheln lassen, bis die Quinoa weich ist. Vom Herd nehmen und ruhen lassen.",
+      "instructionsHTML": "<p>Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Gemüseund Kräuter waschen und putzen.   </p>\n<p>In einem kleinen Topf Quinoa mit 500 ml vorbereiteter Gemüsebrühe einmal aufkochen lassen. Dann Hitze reduzieren, Deckel aufsetzen und ca. 15 Min. weiterköcheln lassen, bis die Quinoa weich ist. Vom Herd nehmen und ruhen lassen.</p>",
+      "instructions": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Gemüseund Kräuter waschen und putzen. \nIn einem kleinen Topf Quinoa mit 500 ml vorbereiteter Gemüsebrühe einmal aufkochen lassen. Dann Hitze reduzieren, Deckel aufsetzen und ca. 15 Min. weiterköcheln lassen, bis die Quinoa weich ist. Vom Herd nehmen und ruhen lassen.",
+      "timers": [
+        {
+          "name": "Quinoa köcheln lassen",
+          "duration": "PT15M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556c24054dab71bd3b8b4568",
+        "554b3639f8b25eef3e8b4575"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a1"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Stängel vom Grünkohl entfernen und diesen in möglichst schmale Streifen schneiden. In einer großen Schüssel 2 EL Balsamico-Essig, 1 TL Honig, 1 EL Öl und ein wenig Salz und Pfeffer verrühren. Dann Grünkohlstreifen unterheben und darin ziehen lassen.",
+      "instructionsHTML": "<p>Stängel vom Grünkohl entfernen und diesen in möglichst schmale Streifen schneiden. In einer großen Schüssel 2 EL Balsamico-Essig, 1 TL Honig, 1 EL Öl und ein wenig Salz und Pfeffer verrühren. Dann Grünkohlstreifen unterheben und darin ziehen lassen.</p>",
+      "instructions": "Stängel vom Grünkohl entfernen und diesen in möglichst schmale Streifen schneiden. In einer großen Schüssel 2 EL Balsamico-Essig, 1 TL Honig, 1 EL Öl und ein wenig Salz und Pfeffer verrühren. Dann Grünkohlstreifen unterheben und darin ziehen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57ce6f4b518c8868298b4568-1-0-cd7687a1.jpg",
+          "caption": "Grünkohl in streifen schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "57b2f0f1518c88cc7d8b4567",
+        "567921d6f8b25e43768b4567",
+        "554b7d614dab71160d8b456b",
+        "554b1bf6f8b25eef3e8b4570",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305372",
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einer kleinen Pfanne Mandelblättchen ohne Fettzugabe rösten, bis sie goldbraun sind und fein duften. Danach herausnehmen und kurz beiseitestellen.",
+      "instructionsHTML": "<p>In einer kleinen Pfanne Mandelblättchen ohne Fettzugabe rösten, bis sie goldbraun sind und fein duften. Danach herausnehmen und kurz beiseitestellen.</p>",
+      "instructions": "In einer kleinen Pfanne Mandelblättchen ohne Fettzugabe rösten, bis sie goldbraun sind und fein duften. Danach herausnehmen und kurz beiseitestellen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57ce6f4b518c8868298b4568-2-0-3304bc00.jpg",
+          "caption": "Mandeln rösten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b7f6cfd2cb911618b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Dill fein hacken. Quinoa mit einer Gabel ein wenig auflockern und mit dem marinierten Grünkohl vermischen. Zerkleinerten Dill und ½ der Cranberries unterheben. Mit Salz und Pfeffer abschmecken.",
+      "instructionsHTML": "<p>Dill fein hacken. Quinoa mit einer Gabel ein wenig auflockern und mit dem marinierten Grünkohl vermischen. Zerkleinerten Dill und ½ der Cranberries unterheben. Mit Salz und Pfeffer abschmecken.</p>",
+      "instructions": "Dill fein hacken. Quinoa mit einer Gabel ein wenig auflockern und mit dem marinierten Grünkohl vermischen. Zerkleinerten Dill und ½ der Cranberries unterheben. Mit Salz und Pfeffer abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57ce6f4b518c8868298b4568-3-0-5f765595.jpg",
+          "caption": "Dill hacken"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57ce6f4b518c8868298b4568-3-1-1cb3daad.jpg",
+          "caption": "Quinoa mit dem Grünkohl vermischen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555dbfe6f8b25e406a8b4569",
+        "556d7aaefd2cb9c4078b4569",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536d",
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Grünkohl-Quinoa-Salat auf Teller verteilen, mit restlichen Cranberrys und Mandelblättchen bestreuen und den Feta darüber bröseln.\n\nTIPP: Für Unterwegs-Esser ist dieser Salat übrigens genau das Richtige: In Deiner Lunch-Box kannst Du alles einfach verpacken, mitnehmen und am nächsten Tag genießen.",
+      "instructionsHTML": "<p>Grünkohl-Quinoa-Salat auf Teller verteilen, mit restlichen Cranberrys und Mandelblättchen bestreuen und den Feta darüber bröseln.</p>\n<p>TIPP: Für Unterwegs-Esser ist dieser Salat übrigens genau das Richtige: In Deiner Lunch-Box kannst Du alles einfach verpacken, mitnehmen und am nächsten Tag genießen.</p>",
+      "instructions": "Grünkohl-Quinoa-Salat auf Teller verteilen, mit restlichen Cranberrys und Mandelblättchen bestreuen und den Feta darüber bröseln.\nTIPP: Für Unterwegs-Esser ist dieser Salat übrigens genau das Richtige: In Deiner Lunch-Box kannst Du alles einfach verpacken, mitnehmen und am nächsten Tag genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 2.9,
+  "ratingsCount": 30,
+  "favoritesCount": 369,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/super-food-grunkohl-quinoa-salat-57ce6f4b518c8868298b4568",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

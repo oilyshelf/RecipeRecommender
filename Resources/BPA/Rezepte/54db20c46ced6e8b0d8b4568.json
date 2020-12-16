@@ -1,0 +1,992 @@
+{
+  "country": "DE",
+  "id": "54db20c46ced6e8b0d8b4568",
+  "name": "Pikanter Käse-Tortellini-Paprika-Auflauf",
+  "seoName": null,
+  "category": null,
+  "slug": "pikanter-kase-tortellini-paprika-auflauf",
+  "headline": "verfeinert mit Mozzarella",
+  "description": "Wenn es richtig schnell gehen muss und trotzdem super lecker sein soll, dann genießt unseren Klassiker dieser Woche! Noch viel schneller geht die Zubereitung, wenn die Schritte 6 und 7 weggelassen werden und alle Zutaten, ohne sie in den Ofen zu tun, gemischt auf den Teller kommen.",
+  "descriptionHTML": "<p>Wenn es richtig schnell gehen muss und trotzdem super lecker sein soll, dann genießt unseren Klassiker dieser Woche! Noch viel schneller geht die Zubereitung, wenn die Schritte 6 und 7 weggelassen werden und alle Zutaten, ohne sie in den Ofen zu tun, gemischt auf den Teller kommen.</p>",
+  "descriptionMarkdown": "Wenn es richtig schnell gehen muss und trotzdem super lecker sein soll, dann genießt unseren Klassiker dieser Woche! Noch viel schneller geht die Zubereitung, wenn die Schritte 6 und 7 weggelassen werden und alle Zutaten, ohne sie in den Ofen zu tun, gemischt auf den Teller kommen.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT35M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-02-11T09:28:36+00:00",
+  "updatedAt": "2017-03-30T08:39:29+00:00",
+  "link": "https://hellofresh.com/recipes/54db20c46ced6e8b0d8b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/54db20c46ced6e8b0d8b4568.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/54db20c46ced6e8b0d8b4568.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2648.472,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 633,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 22,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 76,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 27,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5568719bfd2cb982298b4568",
+      "type": "chilischote",
+      "name": "Chilischote",
+      "slug": "chilischote",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5568719bfd2cb982298b4568.png",
+      "usage": 28,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc33",
+        "type": "spicy-pepper-vegetable",
+        "name": "Würziger Pfeffer (Gemüse)",
+        "slug": "wurziger-pfeffer-gemuse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc33-f05fb04f.png",
+        "usageByCountry": {
+          "AT": 167,
+          "AU": 19,
+          "BE": 6,
+          "CA": 18,
+          "CH": 23,
+          "DE": 141,
+          "ER": 23,
+          "FR": 1,
+          "GB": 189,
+          "LU": 5,
+          "NL": 328,
+          "NZ": 0,
+          "ML": 0,
+          "US": 142
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b32d1f8b25ef93e8b456e",
+      "type": "basilikum",
+      "name": "Basilikum",
+      "slug": "basilikum",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b32d1f8b25ef93e8b456e.png",
+      "usage": 428,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb45",
+        "type": "basil",
+        "name": "Basilikum",
+        "slug": "basilikum",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb45-a1061353.png",
+        "usageByCountry": {
+          "AT": 475,
+          "AU": 94,
+          "BE": 150,
+          "CA": 72,
+          "CH": 92,
+          "DE": 459,
+          "ER": 0,
+          "FR": 44,
+          "GB": 167,
+          "LU": 168,
+          "NL": 191,
+          "NZ": 14,
+          "ML": 0,
+          "US": 172
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b343a4dab71aa058b4572",
+      "type": "gelbe paprika",
+      "name": "gelbe Paprika",
+      "slug": "gelbe-paprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b343a4dab71aa058b4572.png",
+      "usage": 284,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf7",
+        "type": "paprika",
+        "name": "Paprika",
+        "slug": "paprika",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf7-e6b2d1a6.png",
+        "usageByCountry": {
+          "AT": 581,
+          "AU": 50,
+          "BE": 613,
+          "CA": 64,
+          "CH": 21,
+          "DE": 536,
+          "ER": 7,
+          "FR": 166,
+          "GB": 539,
+          "LU": 769,
+          "NL": 388,
+          "NZ": 6,
+          "ML": 38,
+          "US": 79
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2226fd2cb9ba598b456c",
+      "type": "tomatenpolpa",
+      "name": "Tomatenpolpa",
+      "slug": "tomatenpolpa",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2226fd2cb9ba598b456c.png",
+      "usage": 21,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c25b0f8b25e9d648b4569",
+      "type": "käse-tortelini",
+      "name": "Käse-Tortelini",
+      "slug": "kase-tortelini",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c25b0f8b25e9d648b4569.png",
+      "usage": 4,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbfd",
+        "type": "pasta",
+        "name": "Pasta",
+        "slug": "pasta",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbfd-6aeaecc6.png",
+        "usageByCountry": {
+          "AT": 442,
+          "AU": 193,
+          "BE": 394,
+          "CA": 103,
+          "CH": 92,
+          "DE": 427,
+          "ER": 30,
+          "FR": 113,
+          "GB": 276,
+          "LU": 485,
+          "NL": 454,
+          "NZ": 48,
+          "ML": 420,
+          "US": 506
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b31684dab71a6058b4573",
+      "type": "mozzarella",
+      "name": "Mozzarella",
+      "slug": "mozzarella",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b31684dab71a6058b4573.png",
+      "usage": 163,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Auflaufform"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "scharf",
+      "slug": "scharf",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-spicy%403x.png",
+      "numberOfRecipes": 2399,
+      "numberOfRecipesByCountry": {
+        "AT": 200,
+        "AU": 107,
+        "BE": 147,
+        "CA": 71,
+        "CH": 53,
+        "DE": 211,
+        "ER": 103,
+        "FR": 0,
+        "GB": 497,
+        "LU": 54,
+        "NL": 149,
+        "NZ": 0,
+        "ML": 0,
+        "US": 807
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italienisch",
+      "slug": "italienisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg",
+      "usage": 4262
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053b8",
+      "type": "mediterranean",
+      "name": "Mediterran",
+      "slug": "mediterran",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b8-f04aa19c.jpg",
+      "usage": 1179
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Einheit"
+        },
+        {
+          "id": "5568719bfd2cb982298b4568",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b32d1f8b25ef93e8b456e",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b343a4dab71aa058b4572",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2226fd2cb9ba598b456c",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "556c25b0f8b25e9d648b4569",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "554b31684dab71a6058b4573",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": 3,
+          "unit": "Teelöffel"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": 1,
+          "unit": "Stück"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.25,
+          "unit": "Einheit"
+        },
+        {
+          "id": "5568719bfd2cb982298b4568",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b32d1f8b25ef93e8b456e",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b343a4dab71aa058b4572",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2226fd2cb9ba598b456c",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "id": "556c25b0f8b25e9d648b4569",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "id": "554b31684dab71a6058b4573",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": 6,
+          "unit": "Teelöffel"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": 2,
+          "unit": "Stück"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Knoblauch abziehen und fein hacken. Chilischote waschen, entkernen und je nach gewünschter Schärfe fein hacken. Basilikum waschen, trocken schütteln und grob hacken. Zwiebel abziehen und in feine Streifen schneiden. Paprika waschen, entkernen und in feine Spalten schneiden.",
+      "instructionsHTML": "<p>Knoblauch abziehen und fein hacken. Chilischote waschen, entkernen und je nach gewünschter Schärfe fein hacken. Basilikum waschen, trocken schütteln und grob hacken. Zwiebel abziehen und in feine Streifen schneiden. Paprika waschen, entkernen und in feine Spalten schneiden.</p>",
+      "instructions": "Knoblauch abziehen und fein hacken. Chilischote waschen, entkernen und je nach gewünschter Schärfe fein hacken. Basilikum waschen, trocken schütteln und grob hacken. Zwiebel abziehen und in feine Streifen schneiden. Paprika waschen, entkernen und in feine Spalten schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54db20c46ced6e8b0d8b4568/step_556c2961808f2.jpg",
+          "caption": "Knoblauch und Chilischoten vorbereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b268ffd2cb983608b4568",
+        "5568719bfd2cb982298b4568",
+        "554b32d1f8b25ef93e8b456e",
+        "554b2abcf8b25eef3e8b4573",
+        "554b343a4dab71aa058b4572"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "1 TL Olivenöl (2 TL bei 4 Personen) in einem kleinen Topf erwärmen. Knoblauch und Chili zugeben und ca. 1 Min. dünsten. Mit Tomatenpolpa ablöschen und ca. 5-8 Min. einkochen lassen, bis die Soße eine etwas dickere Konsistenz erreicht hat, dann von der Herdplatte ziehen. Mit Salz, Pfeffer und Zucker abschmecken. Die Hälfte des Basilikums unterrühren.",
+      "instructionsHTML": "<p>1 TL Olivenöl (2 TL bei 4 Personen) in einem kleinen Topf erwärmen. Knoblauch und Chili zugeben und ca. 1 Min. dünsten. Mit Tomatenpolpa ablöschen und ca. 5-8 Min. einkochen lassen, bis die Soße eine etwas dickere Konsistenz erreicht hat, dann von der Herdplatte ziehen. Mit Salz, Pfeffer und Zucker abschmecken. Die Hälfte des Basilikums unterrühren.</p>",
+      "instructions": "1 TL Olivenöl (2 TL bei 4 Personen) in einem kleinen Topf erwärmen. Knoblauch und Chili zugeben und ca. 1 Min. dünsten. Mit Tomatenpolpa ablöschen und ca. 5-8 Min. einkochen lassen, bis die Soße eine etwas dickere Konsistenz erreicht hat, dann von der Herdplatte ziehen. Mit Salz, Pfeffer und Zucker abschmecken. Die Hälfte des Basilikums unterrühren.",
+      "timers": [
+        {
+          "name": "Mit Tomatenpolpa einkochen",
+          "duration": "PT08M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54db20c46ced6e8b0d8b4568/step_556c296197dff.jpg",
+          "caption": "Die Tomatensoße zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b268ffd2cb983608b4568",
+        "5568719bfd2cb982298b4568",
+        "554b2226fd2cb9ba598b456c",
+        "554b22cb4dab71c8058b4570",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573",
+        "554b2319fd2cb9ba598b456d"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Tortellini nach Packungsangabe in kochendem Salzwasser garen. Anschließend abgießen, kurz ausdampfen lassen, unter die Tomatensoße rühren und kurz beiseitestellen.",
+      "instructionsHTML": "<p>Tortellini nach Packungsangabe in kochendem Salzwasser garen. Anschließend abgießen, kurz ausdampfen lassen, unter die Tomatensoße rühren und kurz beiseitestellen.</p>",
+      "instructions": "Tortellini nach Packungsangabe in kochendem Salzwasser garen. Anschließend abgießen, kurz ausdampfen lassen, unter die Tomatensoße rühren und kurz beiseitestellen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556c25b0f8b25e9d648b4569"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Ofen auf 200 °C vorheizen.",
+      "instructionsHTML": "<p>Ofen auf 200 °C vorheizen.</p>",
+      "instructions": "Ofen auf 200 °C vorheizen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "1 TL Olivenöl (2 TL bei 4 Personen) in einer beschichteten Pfanne erwärmen. Paprika und Zwiebel zugeben und ca. 6-10 Min. weich und bräunlich schmoren.",
+      "instructionsHTML": "<p>1 TL Olivenöl (2 TL bei 4 Personen) in einer beschichteten Pfanne erwärmen. Paprika und Zwiebel zugeben und ca. 6-10 Min. weich und bräunlich schmoren.</p>",
+      "instructions": "1 TL Olivenöl (2 TL bei 4 Personen) in einer beschichteten Pfanne erwärmen. Paprika und Zwiebel zugeben und ca. 6-10 Min. weich und bräunlich schmoren.",
+      "timers": [
+        {
+          "name": "Zwiebeln und Paprika bräunlich schmoren",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54db20c46ced6e8b0d8b4568/step_556c2961ad6d4.jpg",
+          "caption": "Paprika und Zwiebeln schmoren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2abcf8b25eef3e8b4573",
+        "554b343a4dab71aa058b4572",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Eine feuerfeste Auflaufform mit 1 TL Olivenöl (2 TL bei 4 Personen) einfetten. Die Hälfte der Tortellini darin verteilen, mit etwas Paprika- Zwiebel-Mischung und Mozzarella bedecken.",
+      "instructionsHTML": "<p>Eine feuerfeste Auflaufform mit 1 TL Olivenöl (2 TL bei 4 Personen) einfetten. Die Hälfte der Tortellini darin verteilen, mit etwas Paprika- Zwiebel-Mischung und Mozzarella bedecken.</p>",
+      "instructions": "Eine feuerfeste Auflaufform mit 1 TL Olivenöl (2 TL bei 4 Personen) einfetten. Die Hälfte der Tortellini darin verteilen, mit etwas Paprika- Zwiebel-Mischung und Mozzarella bedecken.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556c25b0f8b25e9d648b4569",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305367"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Mit den restlichen Zutaten wiederholen. Auflauf mit etwas Olivenöl beträufeln und auf mittlerer Schiene des Ofens ca. 15 Min. garen, bis der Käse bräunlich und zerlaufen ist.",
+      "instructionsHTML": "<p>Mit den restlichen Zutaten wiederholen. Auflauf mit etwas Olivenöl beträufeln und auf mittlerer Schiene des Ofens ca. 15 Min. garen, bis der Käse bräunlich und zerlaufen ist.</p>",
+      "instructions": "Mit den restlichen Zutaten wiederholen. Auflauf mit etwas Olivenöl beträufeln und auf mittlerer Schiene des Ofens ca. 15 Min. garen, bis der Käse bräunlich und zerlaufen ist.",
+      "timers": [
+        {
+          "name": "Auflauf garen",
+          "duration": "PT15M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54db20c46ced6e8b0d8b4568/step_556c2961c3419.jpg",
+          "caption": "Den Käse zum Auflauf geben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305367"
+      ]
+    },
+    {
+      "index": 8,
+      "instructionsMarkdown": "Auflauf nach Garzeit auf flachen Tellern verteilen, mit verbliebenem Basilikum garnieren und genießen.",
+      "instructionsHTML": "<p>Auflauf nach Garzeit auf flachen Tellern verteilen, mit verbliebenem Basilikum garnieren und genießen.</p>",
+      "instructions": "Auflauf nach Garzeit auf flachen Tellern verteilen, mit verbliebenem Basilikum garnieren und genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b32d1f8b25ef93e8b456e"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.1,
+  "ratingsCount": 290,
+  "favoritesCount": 308,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/pikanter-kase-tortellini-paprika-auflauf-54db20c46ced6e8b0d8b4568",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

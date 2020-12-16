@@ -1,0 +1,788 @@
+{
+  "country": "DE",
+  "id": "5799c6a631c0a2d9508b4568",
+  "name": "Rindergeschnetzeltes und Salzkartoffeln",
+  "seoName": null,
+  "category": null,
+  "slug": "rindergeschnetzeltes-und-salzkartoffeln",
+  "headline": "mit cremigem Porree-Karotten-Gemüse",
+  "description": "Kennst Du diese typischen Gerüche, die Dich an Deine Kindheit erinnern? Der Geruch von frisch gemähter Wiese zum Beispiel. Für unsere Rezeptentwicklerin Helen ist es der typische Kellergeruch, wenn sie für das Sonntagsessen bei ihren Großeltern die Karto\u001fffeln aus dem Keller geholt hat.",
+  "descriptionHTML": "<p>Kennst Du diese typischen Gerüche, die Dich an Deine Kindheit erinnern? Der Geruch von frisch gemähter Wiese zum Beispiel. Für unsere Rezeptentwicklerin Helen ist es der typische Kellergeruch, wenn sie für das Sonntagsessen bei ihren Großeltern die Karto\u001fffeln aus dem Keller geholt hat.</p>",
+  "descriptionMarkdown": "Kennst Du diese typischen Gerüche, die Dich an Deine Kindheit erinnern? Der Geruch von frisch gemähter Wiese zum Beispiel. Für unsere Rezeptentwicklerin Helen ist es der typische Kellergeruch, wenn sie für das Sonntagsessen bei ihren Großeltern die Karto\u001fffeln aus dem Keller geholt hat.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT40M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-07-28T08:47:34+00:00",
+  "updatedAt": "2017-04-25T11:23:00+00:00",
+  "link": "https://hellofresh.com/recipes/5799c6a631c0a2d9508b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/rindergeschnetzeltes-und-salzkartoffeln-a7abb815.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/rindergeschnetzeltes-und-salzkar-7fe43949.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3062.688,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 732,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 24,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 84,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 38,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c1f20fd2cb99f468b4568",
+      "type": "porree",
+      "name": "Porree",
+      "slug": "porree",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c1f20fd2cb99f468b4568.png",
+      "usage": 191,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc4",
+        "type": "leek",
+        "name": "Lauch",
+        "slug": "lauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc4-1460799d.png",
+        "usageByCountry": {
+          "AT": 212,
+          "AU": 43,
+          "BE": 129,
+          "CA": 14,
+          "CH": 41,
+          "DE": 199,
+          "ER": 0,
+          "FR": 25,
+          "GB": 148,
+          "LU": 118,
+          "NL": 150,
+          "NZ": 13,
+          "ML": 0,
+          "US": 7
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b23dff8b25ef53e8b456f",
+      "type": "karotten",
+      "name": "Karotte",
+      "slug": "karotten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b23dff8b25ef53e8b456f.png",
+      "usage": 566,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb62",
+        "type": "carrot",
+        "name": "Karotte",
+        "slug": "karotte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb62-c4a1f62d.png",
+        "usageByCountry": {
+          "AT": 679,
+          "AU": 553,
+          "BE": 225,
+          "CA": 127,
+          "CH": 130,
+          "DE": 627,
+          "ER": 27,
+          "FR": 49,
+          "GB": 343,
+          "LU": 220,
+          "NL": 263,
+          "NZ": 175,
+          "ML": 243,
+          "US": 318
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34b64dab71aa058b4573",
+      "type": "petersilie",
+      "name": "Petersilie",
+      "slug": "petersilie",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34b64dab71aa058b4573.png",
+      "usage": 861,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "575e719bfd2cb9ad2b8b4567",
+      "type": "rumpsteak",
+      "name": "Rumpsteak",
+      "slug": "rumpsteak",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/575e719bfd2cb9ad2b8b4567.png",
+      "usage": 23,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4e",
+        "type": "beef",
+        "name": "Rindfleisch",
+        "slug": "rindfleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4e-125de8b7.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 363,
+          "BE": 168,
+          "CA": 192,
+          "CH": 81,
+          "DE": 313,
+          "ER": 66,
+          "FR": 51,
+          "GB": 276,
+          "LU": 167,
+          "NL": 187,
+          "NZ": 103,
+          "ML": 494,
+          "US": 655
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7480fd2cb911618b4568",
+      "type": "schmand",
+      "name": "Schmand",
+      "slug": "schmand",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b7480fd2cb911618b4568-52e9ad6e.png",
+      "usage": 248,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3639f8b25eef3e8b4575",
+      "type": "gemusebruhe-home",
+      "name": "Gemüsebrühe*",
+      "slug": "gemusebruhe",
+      "description": null,
+      "internalName": "Gemüsebrühe home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3639f8b25eef3e8b4575.png",
+      "usage": 441,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a1",
+      "type": "smallpot",
+      "name": "Kleiner Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Küchenpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305315",
+      "type": "gluten-free",
+      "name": "glutenfrei",
+      "slug": "glutenfrei",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-gluten%403x.png",
+      "numberOfRecipes": 2,
+      "numberOfRecipesByCountry": {
+        "AT": 210,
+        "AU": 209,
+        "BE": 573,
+        "CA": 39,
+        "CH": 41,
+        "DE": 206,
+        "ER": 0,
+        "FR": 154,
+        "GB": 2,
+        "LU": 745,
+        "NL": 677,
+        "NZ": 0,
+        "ML": 141,
+        "US": 663
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b5",
+      "type": "german",
+      "name": "Deutsch",
+      "slug": "deutsch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b5-91d543c1.jpg",
+      "usage": 497
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "556c1f20fd2cb99f468b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 3,
+          "unit": "Zweig"
+        },
+        {
+          "id": "575e719bfd2cb9ad2b8b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7480fd2cb911618b4568",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b3639f8b25eef3e8b4575",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten.\n\nKarto\u001fffeln schälen und vierteln. Kochendes Wasser in einen großen Topf füllen, kräftig salzen, aufkochen lassen, Kartoffelviertel zugeben und 10 – 15 Min. köcheln lassen, bis sie gar sind. 300 ml heiße Gemüsebrühe zubereiten.",
+      "instructionsHTML": "<p>Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten.</p>\n<p>Karto\u001fffeln schälen und vierteln. Kochendes Wasser in einen großen Topf füllen, kräftig salzen, aufkochen lassen, Kartoffelviertel zugeben und 10 – 15 Min. köcheln lassen, bis sie gar sind. 300 ml heiße Gemüsebrühe zubereiten.</p>",
+      "instructions": "Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten.\nKarto\u001fffeln schälen und vierteln. Kochendes Wasser in einen großen Topf füllen, kräftig salzen, aufkochen lassen, Kartoffelviertel zugeben und 10 – 15 Min. köcheln lassen, bis sie gar sind. 300 ml heiße Gemüsebrühe zubereiten.",
+      "timers": [
+        {
+          "name": "Garzeit Kartoffeln",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5799c6a631c0a2d9508b4568/step_5799ea0c33f97.jpg",
+          "caption": "Kartoffeln vierteln"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567",
+        "554b1c284dab71a9058b456b",
+        "554b3639f8b25eef3e8b4575"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c",
+        "57e2674fb7e8697d4b3053a1"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Währenddessen: Porree in ca. 1 cm dicke Scheiben schneiden, Karotten schälen, längs halbieren und ebenfalls in Scheiben schneiden. Petersilie trocken schütteln, Blätter abzupfen und fein hacken. Rumpsteak mit Küchenpapier trocken tupfen, wenn nötig mit dem Handballen etwas flacher drücken, damit das Fleisch überall etwa gleich dick ist. Dann quer in daumendicke Streifen schneiden.",
+      "instructionsHTML": "<p>Währenddessen: Porree in ca. 1 cm dicke Scheiben schneiden, Karotten schälen, längs halbieren und ebenfalls in Scheiben schneiden. Petersilie trocken schütteln, Blätter abzupfen und fein hacken. Rumpsteak mit Küchenpapier trocken tupfen, wenn nötig mit dem Handballen etwas flacher drücken, damit das Fleisch überall etwa gleich dick ist. Dann quer in daumendicke Streifen schneiden.</p>",
+      "instructions": "Währenddessen: Porree in ca. 1 cm dicke Scheiben schneiden, Karotten schälen, längs halbieren und ebenfalls in Scheiben schneiden. Petersilie trocken schütteln, Blätter abzupfen und fein hacken. Rumpsteak mit Küchenpapier trocken tupfen, wenn nötig mit dem Handballen etwas flacher drücken, damit das Fleisch überall etwa gleich dick ist. Dann quer in daumendicke Streifen schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5799c6a631c0a2d9508b4568/step_5799ea0c5754b.jpg",
+          "caption": "Gemüse schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556c1f20fd2cb99f468b4568",
+        "554b23dff8b25ef53e8b456f",
+        "554b34b64dab71aa058b4573",
+        "575e719bfd2cb9ad2b8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305376"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einer großen Pfanne 1 EL Öl erhitzen, Karottenscheiben darin ca. 2 Min. anbraten, bis sie Farbe annehmen. Porreescheiben zufügen und mit Gemüsebrühe ablöschen. Dann bei mittlerer Hitze 4 – 6 Min. leicht köcheln lassen. Hitze reduzieren, Schmand und Häl\u001efte der Petersilie zufügen und verrühren, mit Salz und Pfe\u001fffer abschmecken und auf niedrigster Herdstufe warmhalten.",
+      "instructionsHTML": "<p>In einer großen Pfanne 1 EL Öl erhitzen, Karottenscheiben darin ca. 2 Min. anbraten, bis sie Farbe annehmen. Porreescheiben zufügen und mit Gemüsebrühe ablöschen. Dann bei mittlerer Hitze 4 – 6 Min. leicht köcheln lassen. Hitze reduzieren, Schmand und Häl\u001efte der Petersilie zufügen und verrühren, mit Salz und Pfe\u001fffer abschmecken und auf niedrigster Herdstufe warmhalten.</p>",
+      "instructions": "In einer großen Pfanne 1 EL Öl erhitzen, Karottenscheiben darin ca. 2 Min. anbraten, bis sie Farbe annehmen. Porreescheiben zufügen und mit Gemüsebrühe ablöschen. Dann bei mittlerer Hitze 4 – 6 Min. leicht köcheln lassen. Hitze reduzieren, Schmand und Häl\u001efte der Petersilie zufügen und verrühren, mit Salz und Pfe\u001fffer abschmecken und auf niedrigster Herdstufe warmhalten.",
+      "timers": [
+        {
+          "name": "Garzeit Gemüse",
+          "duration": "PT4M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5799c6a631c0a2d9508b4568/step_5799ea0c7050f.jpg",
+          "caption": "Schmand zugeben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556c1f20fd2cb99f468b4568",
+        "554b23dff8b25ef53e8b456f",
+        "554b34b64dab71aa058b4573",
+        "554b7480fd2cb911618b4568",
+        "554b1c284dab71a9058b456b",
+        "554b3639f8b25eef3e8b4575",
+        "554b1bf6f8b25eef3e8b4570",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Karto\u001fffelviertel nach der Garzeit in ein Sieb abgießen, gleich zurück in den Topf geben und ca. 5 Min. bei halb geö\u001fffnetem Deckel ausdampfen lassen. Währenddessen: In einer zweiten Pfanne 1 EL Öl erhitzen. Rinderstreifen salzen und pfeffern. Dann 2 Min. unter Wenden scharf anbraten, anschließend Hitze reduzieren und 2 Min. weiterbraten.",
+      "instructionsHTML": "<p>Karto\u001fffelviertel nach der Garzeit in ein Sieb abgießen, gleich zurück in den Topf geben und ca. 5 Min. bei halb geö\u001fffnetem Deckel ausdampfen lassen. Währenddessen: In einer zweiten Pfanne 1 EL Öl erhitzen. Rinderstreifen salzen und pfeffern. Dann 2 Min. unter Wenden scharf anbraten, anschließend Hitze reduzieren und 2 Min. weiterbraten.</p>",
+      "instructions": "Karto\u001fffelviertel nach der Garzeit in ein Sieb abgießen, gleich zurück in den Topf geben und ca. 5 Min. bei halb geö\u001fffnetem Deckel ausdampfen lassen. Währenddessen: In einer zweiten Pfanne 1 EL Öl erhitzen. Rinderstreifen salzen und pfeffern. Dann 2 Min. unter Wenden scharf anbraten, anschließend Hitze reduzieren und 2 Min. weiterbraten.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5799c6a631c0a2d9508b4568/step_5799ea0c885bb.jpg",
+          "caption": "Rinderstreifen anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567",
+        "575e719bfd2cb9ad2b8b4567",
+        "554b1c284dab71a9058b456b",
+        "554b1bf6f8b25eef3e8b4570",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Salzkartoffeln auf Tellern verteilen und mit der restlichen Petersilie bestreuen. Poreegemüse und Rinderstreifen dazu anrichten und genießen.\n\nTipp: Du liebst Grill-Aromen genauso wir wir? Die Rinderstreifen schmecken frisch vom Grill besonders lecker!",
+      "instructionsHTML": "<p>Salzkartoffeln auf Tellern verteilen und mit der restlichen Petersilie bestreuen. Poreegemüse und Rinderstreifen dazu anrichten und genießen.</p>\n<p>Tipp: Du liebst Grill-Aromen genauso wir wir? Die Rinderstreifen schmecken frisch vom Grill besonders lecker!</p>",
+      "instructions": "Salzkartoffeln auf Tellern verteilen und mit der restlichen Petersilie bestreuen. Poreegemüse und Rinderstreifen dazu anrichten und genießen.\nTipp: Du liebst Grill-Aromen genauso wir wir? Die Rinderstreifen schmecken frisch vom Grill besonders lecker!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b34b64dab71aa058b4573"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.5,
+  "ratingsCount": 1081,
+  "favoritesCount": 617,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/rindergeschnetzeltes-und-salzkartoffeln-5799c6a631c0a2d9508b4568",
+  "clonedFrom": null,
+  "canonical": "5799f7583933dc81388b4569",
+  "canonicalLink": "https://www.hellofresh.de/recipes/tm-rindergeschnetzeltes-und-salzkartoffeln-5799f7583933dc81388b4569"
+}

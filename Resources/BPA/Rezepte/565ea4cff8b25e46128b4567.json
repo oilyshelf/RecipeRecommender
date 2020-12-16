@@ -1,0 +1,1085 @@
+{
+  "country": "DE",
+  "id": "565ea4cff8b25e46128b4567",
+  "name": "Schweinelachs mit Pak Choi",
+  "seoName": null,
+  "category": null,
+  "slug": "schweinelachs-mit-pak-choi",
+  "headline": "in würziger Soße mit Basmatireis",
+  "description": "Grünes Blattgemüse ist der Sieger, wenn es um den Nährsto\u001fffgehalt geht. Wenn Dir jetzt höchstens Salat und Spinat einfallen, haben wir heute etwas Neues für Dich, nämlich Pak Choi. Stilgerecht auf Reis mit asiatischer Soße zu Schweinelachs.Lass es Dir schmecken!",
+  "descriptionHTML": "<p>Grünes Blattgemüse ist der Sieger, wenn es um den Nährsto\u001fffgehalt geht. Wenn Dir jetzt höchstens Salat und Spinat einfallen, haben wir heute etwas Neues für Dich, nämlich Pak Choi. Stilgerecht auf Reis mit asiatischer Soße zu Schweinelachs.Lass es Dir schmecken!</p>",
+  "descriptionMarkdown": "Grünes Blattgemüse ist der Sieger, wenn es um den Nährsto\u001fffgehalt geht. Wenn Dir jetzt höchstens Salat und Spinat einfallen, haben wir heute etwas Neues für Dich, nämlich Pak Choi. Stilgerecht auf Reis mit asiatischer Soße zu Schweinelachs.Lass es Dir schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT40M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-12-02T07:59:11+00:00",
+  "updatedAt": "2017-03-03T23:23:48+00:00",
+  "link": "https://hellofresh.com/recipes/565ea4cff8b25e46128b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/565ea4cff8b25e46128b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/565ea4cff8b25e46128b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2393.248,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 572,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 15,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 69,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 38,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "5638bf6a79a23c10638b4567",
+      "type": "schweinelachs",
+      "name": "Schweinelachs",
+      "slug": "schweinelachs",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5638bf6a79a23c10638b4567.png",
+      "usage": 26,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc12",
+        "type": "pork",
+        "name": "Schweinefleisch",
+        "slug": "schweinefleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc12-bdd443ff.png",
+        "usageByCountry": {
+          "AT": 486,
+          "AU": 290,
+          "BE": 179,
+          "CA": 134,
+          "CH": 113,
+          "DE": 455,
+          "ER": 54,
+          "FR": 58,
+          "GB": 613,
+          "LU": 212,
+          "NL": 191,
+          "NZ": 97,
+          "ML": 289,
+          "US": 624
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3534f8b25ef53e8b4575",
+      "type": "basmatireis",
+      "name": "Basmatireis",
+      "slug": "basmatireis",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3534f8b25ef53e8b4575.png",
+      "usage": 194,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1c",
+        "type": "rice",
+        "name": "Reis",
+        "slug": "reis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1c-0b4adebd.png",
+        "usageByCountry": {
+          "AT": 540,
+          "AU": 405,
+          "BE": 265,
+          "CA": 169,
+          "CH": 114,
+          "DE": 505,
+          "ER": 39,
+          "FR": 79,
+          "GB": 480,
+          "LU": 361,
+          "NL": 319,
+          "NZ": 107,
+          "ML": 328,
+          "US": 527
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d7577f8b25ee8718b4569",
+      "type": "pak choi",
+      "name": "Pak Choi",
+      "slug": "pak-choi",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d7577f8b25ee8718b4569.png",
+      "usage": 42,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb38",
+        "type": "asian-greens",
+        "name": "Asiatische Grüns",
+        "slug": "asiatische-gruns",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb38-12c78968.png",
+        "usageByCountry": {
+          "AT": 107,
+          "AU": 112,
+          "BE": 71,
+          "CA": 26,
+          "CH": 17,
+          "DE": 77,
+          "ER": 0,
+          "FR": 21,
+          "GB": 53,
+          "LU": 92,
+          "NL": 78,
+          "NZ": 26,
+          "ML": 0,
+          "US": 68
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7f33fd2cb96c628b456a",
+      "type": "ingwer",
+      "name": "Ingwer",
+      "slug": "ingwer",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7f33fd2cb96c628b456a.png",
+      "usage": 241,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba7",
+        "type": "ginger",
+        "name": "Ingwer",
+        "slug": "ingwer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba7-565cc248.png",
+        "usageByCountry": {
+          "AT": 278,
+          "AU": 225,
+          "BE": 200,
+          "CA": 107,
+          "CH": 52,
+          "DE": 241,
+          "ER": 20,
+          "FR": 57,
+          "GB": 231,
+          "LU": 241,
+          "NL": 220,
+          "NZ": 65,
+          "ML": 25,
+          "US": 246
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1adef8b25ef93e8b456a",
+      "type": "rote-chili",
+      "name": "roter Chili",
+      "slug": "rote-chili",
+      "description": null,
+      "internalName": "roter Chili",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1adef8b25ef93e8b456a.png",
+      "usage": 325,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6d",
+        "type": "chili",
+        "name": "Chili",
+        "slug": "chili",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6d-270fd94b.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 223,
+          "BE": 0,
+          "CA": 48,
+          "CH": 61,
+          "DE": 326,
+          "ER": 0,
+          "FR": 0,
+          "GB": 75,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 55,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566f93cfd2cb97e018b4568",
+      "type": "schalotte",
+      "name": "Schalotte",
+      "slug": "schalotte",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566f93cfd2cb97e018b4568.png",
+      "usage": 156,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7f6cfd2cb911618b456b",
+      "type": "mandelblättchen",
+      "name": "Mandelblättchen",
+      "slug": "mandelblattchen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7f6cfd2cb911618b456b.png",
+      "usage": 71,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fb",
+          "type": "nuts",
+          "name": "Schalenfrüchte",
+          "slug": "schalenfruchte",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+          "usage": 300
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7d36fd2cb9d8608b4570",
+      "type": "sojasoße",
+      "name": "Sojasoße",
+      "slug": "sojasosze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/554b7d36fd2cb9d8608b4570-f4ba216b.png",
+      "usage": 287,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f9",
+          "type": "soya",
+          "name": "Soja",
+          "slug": "soja",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+          "usage": 390
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc30",
+        "type": "soy-sauce",
+        "name": "Sojasauce",
+        "slug": "sojasauce",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc30-32ed361d.png",
+        "usageByCountry": {
+          "AT": 343,
+          "AU": 281,
+          "BE": 313,
+          "CA": 104,
+          "CH": 80,
+          "DE": 287,
+          "ER": 30,
+          "FR": 79,
+          "GB": 283,
+          "LU": 353,
+          "NL": 307,
+          "NZ": 116,
+          "ML": 6,
+          "US": 323
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7d614dab71160d8b456b",
+      "type": "honig-home",
+      "name": "Honig*",
+      "slug": "honig",
+      "description": null,
+      "internalName": "Honig [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7d614dab71160d8b456b.png",
+      "usage": 203,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbb3",
+        "type": "honey",
+        "name": "Honig",
+        "slug": "honig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbb3-efe0c124.png",
+        "usageByCountry": {
+          "AT": 360,
+          "AU": 274,
+          "BE": 368,
+          "CA": 136,
+          "CH": 83,
+          "DE": 326,
+          "ER": 12,
+          "FR": 77,
+          "GB": 224,
+          "LU": 363,
+          "NL": 442,
+          "NZ": 139,
+          "ML": 1,
+          "US": 303
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "type": "nuts",
+      "name": "Schalenfrüchte",
+      "slug": "schalenfruchte",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "usage": 300
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "type": "soya",
+      "name": "Soja",
+      "slug": "soja",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "usage": 390
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539b",
+      "type": "sieve",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305381",
+      "type": "spoon",
+      "name": "Löffel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Küchenpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536d",
+      "type": "fork",
+      "name": "Gabel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "scharf",
+      "slug": "scharf",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-spicy%403x.png",
+      "numberOfRecipes": 2399,
+      "numberOfRecipesByCountry": {
+        "AT": 200,
+        "AU": 107,
+        "BE": 147,
+        "CA": 71,
+        "CH": 53,
+        "DE": 211,
+        "ER": 103,
+        "FR": 0,
+        "GB": 497,
+        "LU": 54,
+        "NL": 149,
+        "NZ": 0,
+        "ML": 0,
+        "US": 807
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiatisch",
+      "slug": "asiatisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg",
+      "usage": 2484
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "5638bf6a79a23c10638b4567",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b3534f8b25ef53e8b4575",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "556d7577f8b25ee8718b4569",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "554b7f33fd2cb96c628b456a",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b1adef8b25ef93e8b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "5566f93cfd2cb97e018b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7f6cfd2cb911618b456b",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b7d36fd2cb9d8608b4570",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b7d614dab71160d8b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Schweinelachs aus dem Kühlschrank nehmen, damit er Zimmertemperatur annehmen kann.",
+      "instructionsHTML": "<p>Schweinelachs aus dem Kühlschrank nehmen, damit er Zimmertemperatur annehmen kann.</p>",
+      "instructions": "Schweinelachs aus dem Kühlschrank nehmen, damit er Zimmertemperatur annehmen kann.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "5638bf6a79a23c10638b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Basmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. In einem großen Topf 300 ml Wasser mit etwas Salz zum Kochen bringen. Reis einrühren und einmal aufkochen lassen, Deckel aufsetzen und bei niedriger Hitze ca. 10 Min. weiterköcheln lassen. Dann vom Herd nehmen und mind. 10 Min. abgedeckt ruhen lassen.",
+      "instructionsHTML": "<p>Basmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. In einem großen Topf 300 ml Wasser mit etwas Salz zum Kochen bringen. Reis einrühren und einmal aufkochen lassen, Deckel aufsetzen und bei niedriger Hitze ca. 10 Min. weiterköcheln lassen. Dann vom Herd nehmen und mind. 10 Min. abgedeckt ruhen lassen.</p>",
+      "instructions": "Basmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. In einem großen Topf 300 ml Wasser mit etwas Salz zum Kochen bringen. Reis einrühren und einmal aufkochen lassen, Deckel aufsetzen und bei niedriger Hitze ca. 10 Min. weiterköcheln lassen. Dann vom Herd nehmen und mind. 10 Min. abgedeckt ruhen lassen.",
+      "timers": [
+        {
+          "name": null,
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/565ea4cff8b25e46128b4567/step_565f25a686c1c.jpg",
+          "caption": "Basmatreis vorbereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b3534f8b25ef53e8b4575",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c",
+        "57e2674fb7e8697d4b30539b"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Pak Choi waschen, quer 0,5 cm vom Strunk abschneiden und längs vierteln. In einem Topf Salzwasser zum Kochen bringen, Pak Choi zugeben und 5–7 Min. darin garen. Dann abgießen und ausdampfen lassen.",
+      "instructionsHTML": "<p>Pak Choi waschen, quer 0,5 cm vom Strunk abschneiden und längs vierteln. In einem Topf Salzwasser zum Kochen bringen, Pak Choi zugeben und 5–7 Min. darin garen. Dann abgießen und ausdampfen lassen.</p>",
+      "instructions": "Pak Choi waschen, quer 0,5 cm vom Strunk abschneiden und längs vierteln. In einem Topf Salzwasser zum Kochen bringen, Pak Choi zugeben und 5–7 Min. darin garen. Dann abgießen und ausdampfen lassen.",
+      "timers": [
+        {
+          "name": null,
+          "duration": "PT5M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/565ea4cff8b25e46128b4567/step_5673f2d879cdf.jpg",
+          "caption": "Pak Choi shcneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556d7577f8b25ee8718b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c",
+        "57e2674fb7e8697d4b30539b"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Schale vom Ingwer mithilfe eines Löffels abkratzen, dann fein würfeln. Chili waschen, halbieren, Kerngehäuse entfernen, dann in feine Ringe schneiden. Schalotte abziehen und fein würfeln.",
+      "instructionsHTML": "<p>Schale vom Ingwer mithilfe eines Löffels abkratzen, dann fein würfeln. Chili waschen, halbieren, Kerngehäuse entfernen, dann in feine Ringe schneiden. Schalotte abziehen und fein würfeln.</p>",
+      "instructions": "Schale vom Ingwer mithilfe eines Löffels abkratzen, dann fein würfeln. Chili waschen, halbieren, Kerngehäuse entfernen, dann in feine Ringe schneiden. Schalotte abziehen und fein würfeln.",
+      "timers": [],
+      "images": [],
+      "videos": [
+        {
+          "link": "https://youtu.be/YuKMUGdKE1s",
+          "caption": "Ingwer schälen"
+        }
+      ],
+      "ingredients": [
+        "554b7f33fd2cb96c628b456a",
+        "554b1adef8b25ef93e8b456a",
+        "5566f93cfd2cb97e018b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305381",
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einer großen Pfanne Mandelblättchen ohne Fettzugabe anbraten, bis sie fein duften. Dann herausnehmen und beiseite stellen.",
+      "instructionsHTML": "<p>In einer großen Pfanne Mandelblättchen ohne Fettzugabe anbraten, bis sie fein duften. Dann herausnehmen und beiseite stellen.</p>",
+      "instructions": "In einer großen Pfanne Mandelblättchen ohne Fettzugabe anbraten, bis sie fein duften. Dann herausnehmen und beiseite stellen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b7f6cfd2cb911618b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Schweinelachs mit Küchenpapier trocken tupfen und auf beiden Seiten mit Salz und Pfeffer würzen. Pfanne mit Küchenpapier auswischen, dann 1 EL Öl darin erhitzen. Fleisch hineingeben und jede Seite 2–3 Min. darin anbraten. Danach herausnehmen und beiseite stellen.",
+      "instructionsHTML": "<p>Schweinelachs mit Küchenpapier trocken tupfen und auf beiden Seiten mit Salz und Pfeffer würzen. Pfanne mit Küchenpapier auswischen, dann 1 EL Öl darin erhitzen. Fleisch hineingeben und jede Seite 2–3 Min. darin anbraten. Danach herausnehmen und beiseite stellen.</p>",
+      "instructions": "Schweinelachs mit Küchenpapier trocken tupfen und auf beiden Seiten mit Salz und Pfeffer würzen. Pfanne mit Küchenpapier auswischen, dann 1 EL Öl darin erhitzen. Fleisch hineingeben und jede Seite 2–3 Min. darin anbraten. Danach herausnehmen und beiseite stellen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/565ea4cff8b25e46128b4567/step_565f25a6ba731.jpg",
+          "caption": "Schweinelachs anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5638bf6a79a23c10638b4567",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305376"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "In der Pfanne erneut 2 EL Öl erhitzen. Ingwer, Chili und Schalotte 30 Sek. darin anbraten. Dann 100 ml Wasser, Sojasoße und ½ TL Honig zugeben und gut miteinander verrühren. Pack Choi und Fleisch zugeben und kurz zusammen unter Wenden in der Soße erwärmen.",
+      "instructionsHTML": "<p>In der Pfanne erneut 2 EL Öl erhitzen. Ingwer, Chili und Schalotte 30 Sek. darin anbraten. Dann 100 ml Wasser, Sojasoße und ½ TL Honig zugeben und gut miteinander verrühren. Pack Choi und Fleisch zugeben und kurz zusammen unter Wenden in der Soße erwärmen.</p>",
+      "instructions": "In der Pfanne erneut 2 EL Öl erhitzen. Ingwer, Chili und Schalotte 30 Sek. darin anbraten. Dann 100 ml Wasser, Sojasoße und ½ TL Honig zugeben und gut miteinander verrühren. Pack Choi und Fleisch zugeben und kurz zusammen unter Wenden in der Soße erwärmen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/565ea4cff8b25e46128b4567/step_5673f2d889650.jpg",
+          "caption": "Pak Choi hinzufügen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b7d36fd2cb9d8608b4570",
+        "554b1bf6f8b25eef3e8b4570",
+        "554b7d614dab71160d8b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 8,
+      "instructionsMarkdown": "Basmatireis nach der Ziehzeit mit einer Gabel auflockern und 1 TL Butter untermischen. Reis auf Tellern verteilen, Schweinelachs und Pak Choi darauf anrichten, mit Mandelblättchen bestreuen und genießen!",
+      "instructionsHTML": "<p>Basmatireis nach der Ziehzeit mit einer Gabel auflockern und 1 TL Butter untermischen. Reis auf Tellern verteilen, Schweinelachs und Pak Choi darauf anrichten, mit Mandelblättchen bestreuen und genießen!</p>",
+      "instructions": "Basmatireis nach der Ziehzeit mit einer Gabel auflockern und 1 TL Butter untermischen. Reis auf Tellern verteilen, Schweinelachs und Pak Choi darauf anrichten, mit Mandelblättchen bestreuen und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b7f6cfd2cb911618b456b",
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536d",
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.4,
+  "ratingsCount": 593,
+  "favoritesCount": 504,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/schweinelachs-mit-pak-choi-565ea4cff8b25e46128b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

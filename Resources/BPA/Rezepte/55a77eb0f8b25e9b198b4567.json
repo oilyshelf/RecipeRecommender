@@ -1,0 +1,1193 @@
+{
+  "country": "DE",
+  "id": "55a77eb0f8b25e9b198b4567",
+  "name": "Low Carb: Schweinelachs-Steaks mit Bohnen-Tomaten-Püree",
+  "seoName": null,
+  "category": null,
+  "slug": "low-carb-schweinelachs-steaks-mit-bohnen-tomaten-puree",
+  "headline": "und Knoblauch-Rahmspinat",
+  "description": "Wusstest Du schon, dass Bohnen resistente Stärke enthalten? Das heißt, dass sie nur langsam verdaut werden und ein Teil der Kalorien gar nicht vom Körper aufgenommen wird. Sie liefern also reichlich Ballaststoffe, neben Protein und Kohlehydraten, und sorgen zudem für eine schlanke Taille. Guten Appetit!",
+  "descriptionHTML": "<p>Wusstest Du schon, dass Bohnen resistente Stärke enthalten? Das heißt, dass sie nur langsam verdaut werden und ein Teil der Kalorien gar nicht vom Körper aufgenommen wird. Sie liefern also reichlich Ballaststoffe, neben Protein und Kohlehydraten, und sorgen zudem für eine schlanke Taille. Guten Appetit!</p>",
+  "descriptionMarkdown": "Wusstest Du schon, dass Bohnen resistente Stärke enthalten? Das heißt, dass sie nur langsam verdaut werden und ein Teil der Kalorien gar nicht vom Körper aufgenommen wird. Sie liefern also reichlich Ballaststoffe, neben Protein und Kohlehydraten, und sorgen zudem für eine schlanke Taille. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-07-16T09:51:44+00:00",
+  "updatedAt": "2017-05-03T16:44:44+00:00",
+  "link": "https://hellofresh.com/recipes/55a77eb0f8b25e9b198b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/55a77eb0f8b25e9b198b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/55a77eb0f8b25e9b198b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2987.376,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 714,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 42,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 43,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "55704ae24dab71b7688b4569",
+      "type": "schweinelachssteaks",
+      "name": "Schweinelachssteaks",
+      "slug": "schweinelachssteaks",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55704ae24dab71b7688b4569-ba0d9b29.png",
+      "usage": 47,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc12",
+        "type": "pork",
+        "name": "Schweinefleisch",
+        "slug": "schweinefleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc12-bdd443ff.png",
+        "usageByCountry": {
+          "AT": 486,
+          "AU": 290,
+          "BE": 179,
+          "CA": 134,
+          "CH": 113,
+          "DE": 455,
+          "ER": 54,
+          "FR": 58,
+          "GB": 613,
+          "LU": 212,
+          "NL": 191,
+          "NZ": 97,
+          "ML": 289,
+          "US": 624
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556da241fd2cb914098b4567",
+      "type": "weiße bohnen",
+      "name": "weiße Bohnen",
+      "slug": "weisze-bohnen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556da241fd2cb914098b4567.png",
+      "usage": 5,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4c",
+        "type": "beans",
+        "name": "Bohnen",
+        "slug": "bohnen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4c-15ab1383.png",
+        "usageByCountry": {
+          "AT": 255,
+          "AU": 115,
+          "BE": 77,
+          "CA": 78,
+          "CH": 43,
+          "DE": 231,
+          "ER": 3,
+          "FR": 28,
+          "GB": 241,
+          "LU": 95,
+          "NL": 51,
+          "NZ": 28,
+          "ML": 153,
+          "US": 198
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566f93cfd2cb97e018b4568",
+      "type": "schalotte",
+      "name": "Schalotte",
+      "slug": "schalotte",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566f93cfd2cb97e018b4568.png",
+      "usage": 156,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55534d6dfd2cb92b1a8b456c",
+      "type": "spinat",
+      "name": "Spinat",
+      "slug": "spinat",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55534d6dfd2cb92b1a8b456c.png",
+      "usage": 55,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc34",
+        "type": "spinach",
+        "name": "Spinat",
+        "slug": "spinat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc34-2105763d.png",
+        "usageByCountry": {
+          "AT": 279,
+          "AU": 393,
+          "BE": 203,
+          "CA": 89,
+          "CH": 61,
+          "DE": 266,
+          "ER": 0,
+          "FR": 63,
+          "GB": 243,
+          "LU": 261,
+          "NL": 228,
+          "NZ": 108,
+          "ML": 157,
+          "US": 141
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2a87f8b25ef53e8b4573",
+      "type": "kirschtomaten",
+      "name": "Kirschtomaten",
+      "slug": "kirschtomaten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2a87f8b25ef53e8b4573.png",
+      "usage": 324,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27104dab71a9058b456c",
+      "type": "getrocknete tomaten",
+      "name": "getrocknete Tomaten",
+      "slug": "getrocknete-tomaten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27104dab71a9058b456c.png",
+      "usage": 142,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34b64dab71aa058b4573",
+      "type": "petersilie",
+      "name": "Petersilie",
+      "slug": "petersilie",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34b64dab71aa058b4573.png",
+      "usage": 861,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c0e3efd2cb9692b8b4568",
+      "type": "sahne",
+      "name": "Sahne",
+      "slug": "sahne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c0e3efd2cb9692b8b4568.png",
+      "usage": 176,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566f045fd2cb952018b456b",
+      "type": "muskatnuss, gemahlen",
+      "name": "Muskatnuss, gemahlen",
+      "slug": "muskatnuss-gemahlen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566f045fd2cb952018b456b.png",
+      "usage": 44,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe5",
+        "type": "nutmeg",
+        "name": "Muskatnuss",
+        "slug": "muskatnuss",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe5-5da7071b.png",
+        "usageByCountry": {
+          "AT": 89,
+          "AU": 2,
+          "BE": 28,
+          "CA": 1,
+          "CH": 16,
+          "DE": 88,
+          "ER": 0,
+          "FR": 6,
+          "GB": 1,
+          "LU": 49,
+          "NL": 41,
+          "NZ": 0,
+          "ML": 0,
+          "US": 23
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5568443bfd2cb985278b4569",
+      "type": "geflügelbrühe",
+      "name": "Geflügelbrühe",
+      "slug": "geflugelbruhe",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5568443bfd2cb985278b4569.png",
+      "usage": 35,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dc1a9fd2cb944758b4569",
+      "type": "mehl-home",
+      "name": "Mehl*",
+      "slug": "mehl",
+      "description": null,
+      "internalName": "Mehl home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dc1a9fd2cb944758b4569.png",
+      "usage": 156,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba0",
+        "type": "flour",
+        "name": "Mehl",
+        "slug": "mehl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba0-03891dce.png",
+        "usageByCountry": {
+          "AT": 391,
+          "AU": 201,
+          "BE": 10,
+          "CA": 106,
+          "CH": 74,
+          "DE": 383,
+          "ER": 19,
+          "FR": 0,
+          "GB": 141,
+          "LU": 5,
+          "NL": 14,
+          "NZ": 74,
+          "ML": 9,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Küchenpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305316",
+      "type": "low-carb",
+      "name": "Low Carb",
+      "slug": "low-carb",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 82,
+      "numberOfRecipesByCountry": {
+        "AT": 28,
+        "AU": 21,
+        "BE": 0,
+        "CA": 0,
+        "CH": 7,
+        "DE": 26,
+        "ER": 0,
+        "FR": 0,
+        "GB": 0,
+        "LU": 0,
+        "NL": 0,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "55704ae24dab71b7688b4569",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "556da241fd2cb914098b4567",
+          "amount": 1,
+          "unit": "Dose"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Einheit"
+        },
+        {
+          "id": "5566f93cfd2cb97e018b4568",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 0.5,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55534d6dfd2cb92b1a8b456c",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "554b2a87f8b25ef53e8b4573",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b27104dab71a9058b456c",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "556c0e3efd2cb9692b8b4568",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "id": "5566f045fd2cb952018b456b",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "5568443bfd2cb985278b4569",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555dc1a9fd2cb944758b4569",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Schweinelachs-Steaks aus dem Kühlschrank nehmen. Backofen auf 50°C Ober-/Unterhitze vorheizen.",
+      "instructionsHTML": "<p>Schweinelachs-Steaks aus dem Kühlschrank nehmen. Backofen auf 50°C Ober-/Unterhitze vorheizen.</p>",
+      "instructions": "Schweinelachs-Steaks aus dem Kühlschrank nehmen. Backofen auf 50°C Ober-/Unterhitze vorheizen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Weiße Bohnen in einem Sieb abgießen. Knoblauch und Schalotte abziehen und klein schneiden. Zitrone heiß abwaschen, Schale fein abreiben, dann entsaften. Spinat waschen und in einem Sieb abtropfen lassen. Kirschtomaten waschen und vierteln. Getrocknete Tomaten abgießen und grob hacken. Petersilie waschen, trockenschütteln und grob hacken. In einem kleinen Topf 50 ml heiße Geflügelbrühe zubereiten.",
+      "instructionsHTML": "<p>Weiße Bohnen in einem Sieb abgießen. Knoblauch und Schalotte abziehen und klein schneiden. Zitrone heiß abwaschen, Schale fein abreiben, dann entsaften. Spinat waschen und in einem Sieb abtropfen lassen. Kirschtomaten waschen und vierteln. Getrocknete Tomaten abgießen und grob hacken. Petersilie waschen, trockenschütteln und grob hacken. In einem kleinen Topf 50 ml heiße Geflügelbrühe zubereiten.</p>",
+      "instructions": "Weiße Bohnen in einem Sieb abgießen. Knoblauch und Schalotte abziehen und klein schneiden. Zitrone heiß abwaschen, Schale fein abreiben, dann entsaften. Spinat waschen und in einem Sieb abtropfen lassen. Kirschtomaten waschen und vierteln. Getrocknete Tomaten abgießen und grob hacken. Petersilie waschen, trockenschütteln und grob hacken. In einem kleinen Topf 50 ml heiße Geflügelbrühe zubereiten.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55a77eb0f8b25e9b198b4567/step_55acf170a2d58.jpg",
+          "caption": "Bohnen abtropfen lassen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556da241fd2cb914098b4567",
+        "554b268ffd2cb983608b4568",
+        "5566f93cfd2cb97e018b4568",
+        "554b1de2f8b25ef93e8b456b",
+        "55534d6dfd2cb92b1a8b456c",
+        "554b2a87f8b25ef53e8b4573",
+        "554b27104dab71a9058b456c",
+        "554b34b64dab71aa058b4573",
+        "5568443bfd2cb985278b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "2 EL Mehl mit Salz und Pfeffer vermischen. Steaks mit Küchenpapier trockentupfen und im Mehl wenden (überschüssiges Mehl abklopfen).",
+      "instructionsHTML": "<p>2 EL Mehl mit Salz und Pfeffer vermischen. Steaks mit Küchenpapier trockentupfen und im Mehl wenden (überschüssiges Mehl abklopfen).</p>",
+      "instructions": "2 EL Mehl mit Salz und Pfeffer vermischen. Steaks mit Küchenpapier trockentupfen und im Mehl wenden (überschüssiges Mehl abklopfen).",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55a77eb0f8b25e9b198b4567/step_55acf170c01f7.jpg",
+          "caption": "Steak in Mehl wenden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55704ae24dab71b7688b4569",
+        "555dc1a9fd2cb944758b4569",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305376"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer Pfanne 1 EL Öl erhitzen. Steaks darin von jeder Seite ca. 1-2 Min. scharf anbraten, dann im Backofen bis zum Anrichten warmhalten.",
+      "instructionsHTML": "<p>In einer Pfanne 1 EL Öl erhitzen. Steaks darin von jeder Seite ca. 1-2 Min. scharf anbraten, dann im Backofen bis zum Anrichten warmhalten.</p>",
+      "instructions": "In einer Pfanne 1 EL Öl erhitzen. Steaks darin von jeder Seite ca. 1-2 Min. scharf anbraten, dann im Backofen bis zum Anrichten warmhalten.",
+      "timers": [
+        {
+          "name": "Steak scharf anbraten",
+          "duration": "PT2M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "55704ae24dab71b7688b4569",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Pfanne mit 1 EL Butter erwärmen. Spinat zugeben und zerfallen lassen. Dann in einem sauberen Küchentuch die überschüssige Flüssigkeit herauswringen. Noch einmal in der Pfanne 1 TL Butter erhitzen. Knoblauch dazugeben und kurz glasig andünsten. Spinat dazugeben und kurz mitbraten, dann mit Sahne ablöschen. Mit Salz, Pfeffer und etwas Muskatnuss abschmecken und ca. 3 Min. weiterköcheln lassen.",
+      "instructionsHTML": "<p>Pfanne mit 1 EL Butter erwärmen. Spinat zugeben und zerfallen lassen. Dann in einem sauberen Küchentuch die überschüssige Flüssigkeit herauswringen. Noch einmal in der Pfanne 1 TL Butter erhitzen. Knoblauch dazugeben und kurz glasig andünsten. Spinat dazugeben und kurz mitbraten, dann mit Sahne ablöschen. Mit Salz, Pfeffer und etwas Muskatnuss abschmecken und ca. 3 Min. weiterköcheln lassen.</p>",
+      "instructions": "Pfanne mit 1 EL Butter erwärmen. Spinat zugeben und zerfallen lassen. Dann in einem sauberen Küchentuch die überschüssige Flüssigkeit herauswringen. Noch einmal in der Pfanne 1 TL Butter erhitzen. Knoblauch dazugeben und kurz glasig andünsten. Spinat dazugeben und kurz mitbraten, dann mit Sahne ablöschen. Mit Salz, Pfeffer und etwas Muskatnuss abschmecken und ca. 3 Min. weiterköcheln lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55a77eb0f8b25e9b198b4567/step_55acf170d2522.jpg",
+          "caption": "Pfanne auswischen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b268ffd2cb983608b4568",
+        "55534d6dfd2cb92b1a8b456c",
+        "556c0e3efd2cb9692b8b4568",
+        "5566f045fd2cb952018b456b",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573",
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "In einem kleinen Topf ½ EL Olivenöl erwärmen. Kirschtomaten hineingeben und ca. 3 Min. anbraten, aus dem Topf nehmen, kurz beiseite stellen. Wieder ½ EL Olivenöl in den Topf erhitzen und Schalotten darin ca. 3 Min. andünsten. Bohnen zugeben und mit einem Kartoffelstampfer pürieren. Geflügelbrühe, Kirschtomaten, getrocknete Tomaten, Petersilie, etwas Salz, Pfeffer und ein wenig Zitronenabrieb und -saft hinzufügen, alles gut vermischen und ca. 1 Min. miteinander köcheln.",
+      "instructionsHTML": "<p>In einem kleinen Topf ½ EL Olivenöl erwärmen. Kirschtomaten hineingeben und ca. 3 Min. anbraten, aus dem Topf nehmen, kurz beiseite stellen. Wieder ½ EL Olivenöl in den Topf erhitzen und Schalotten darin ca. 3 Min. andünsten. Bohnen zugeben und mit einem Kartoffelstampfer pürieren. Geflügelbrühe, Kirschtomaten, getrocknete Tomaten, Petersilie, etwas Salz, Pfeffer und ein wenig Zitronenabrieb und -saft hinzufügen, alles gut vermischen und ca. 1 Min. miteinander köcheln.</p>",
+      "instructions": "In einem kleinen Topf ½ EL Olivenöl erwärmen. Kirschtomaten hineingeben und ca. 3 Min. anbraten, aus dem Topf nehmen, kurz beiseite stellen. Wieder ½ EL Olivenöl in den Topf erhitzen und Schalotten darin ca. 3 Min. andünsten. Bohnen zugeben und mit einem Kartoffelstampfer pürieren. Geflügelbrühe, Kirschtomaten, getrocknete Tomaten, Petersilie, etwas Salz, Pfeffer und ein wenig Zitronenabrieb und -saft hinzufügen, alles gut vermischen und ca. 1 Min. miteinander köcheln.",
+      "timers": [
+        {
+          "name": "Kirschtomaten anbraten",
+          "duration": "PT3M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        },
+        {
+          "name": "Schalotten andüsten",
+          "duration": "PT3M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        },
+        {
+          "name": "Zutaten miteinander köcheln lassen",
+          "duration": "PT1M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55a77eb0f8b25e9b198b4567/step_55acf170e813c.jpg",
+          "caption": "Zutaten vermengen"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55a77eb0f8b25e9b198b4567/step_55acf171056c5.jpg",
+          "caption": "Zutaten mit einem Kartoffelstampfer vermengen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556da241fd2cb914098b4567",
+        "5566f93cfd2cb97e018b4568",
+        "554b1de2f8b25ef93e8b456b",
+        "554b2a87f8b25ef53e8b4573",
+        "554b34b64dab71aa058b4573",
+        "5568443bfd2cb985278b4569",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Bohnen-Tomaten-Püree auf Tellern verteilen, Schweinelachs-Steaks mit Rahmspinat darauf anrichten und genießen!",
+      "instructionsHTML": "<p>Bohnen-Tomaten-Püree auf Tellern verteilen, Schweinelachs-Steaks mit Rahmspinat darauf anrichten und genießen!</p>",
+      "instructions": "Bohnen-Tomaten-Püree auf Tellern verteilen, Schweinelachs-Steaks mit Rahmspinat darauf anrichten und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.2,
+  "ratingsCount": 1039,
+  "favoritesCount": 732,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/low-carb-schweinelachs-steaks-mit-bohnen-tomaten-puree-55a77eb0f8b25e9b198b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

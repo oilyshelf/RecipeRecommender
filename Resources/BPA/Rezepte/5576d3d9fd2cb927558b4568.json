@@ -1,0 +1,1173 @@
+{
+  "country": "DE",
+  "id": "5576d3d9fd2cb927558b4568",
+  "name": "Asiatische Mie-Nudel-Pfanne mit saftigem Steak,",
+  "seoName": null,
+  "category": null,
+  "slug": "asiatische-mie-nudel-pfanne-mit-saftigem-steak",
+  "headline": "Pak Choi, frischem Ingwer und geröstetem Sesam",
+  "description": "Das Schöne an asiatischen Gerichten ist, dass am Ende alles in einer Pfanne landet und man nur eine Gabel (oder wahlweise Stäbchen) zum Essen braucht. Mit den richtigen Gewürzen wie Sojasoße, Sesam und Ingwer und Pak Choi aus Asien gelingt so eine Pfanne zudem immer. Guten Appetit!",
+  "descriptionHTML": "<p>Das Schöne an asiatischen Gerichten ist, dass am Ende alles in einer Pfanne landet und man nur eine Gabel (oder wahlweise Stäbchen) zum Essen braucht. Mit den richtigen Gewürzen wie Sojasoße, Sesam und Ingwer und Pak Choi aus Asien gelingt so eine Pfanne zudem immer. Guten Appetit!</p>",
+  "descriptionMarkdown": "Das Schöne an asiatischen Gerichten ist, dass am Ende alles in einer Pfanne landet und man nur eine Gabel (oder wahlweise Stäbchen) zum Essen braucht. Mit den richtigen Gewürzen wie Sojasoße, Sesam und Ingwer und Pak Choi aus Asien gelingt so eine Pfanne zudem immer. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT35M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-06-09T11:54:01+00:00",
+  "updatedAt": "2017-05-09T07:11:45+00:00",
+  "link": "https://hellofresh.com/recipes/5576d3d9fd2cb927558b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/5576d3d9fd2cb927558b4568.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/5576d3d9fd2cb927558b4568.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2343.04,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 560,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 55,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 37,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b19befd2cb959598b4576",
+      "type": "rinderhüftsteak",
+      "name": "Rinderhüftsteak",
+      "slug": "rinderhuftsteak",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b19befd2cb959598b4576.png",
+      "usage": 94,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4e",
+        "type": "beef",
+        "name": "Rindfleisch",
+        "slug": "rindfleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4e-125de8b7.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 363,
+          "BE": 168,
+          "CA": 192,
+          "CH": 81,
+          "DE": 313,
+          "ER": 66,
+          "FR": 51,
+          "GB": 276,
+          "LU": 167,
+          "NL": 187,
+          "NZ": 103,
+          "ML": 494,
+          "US": 655
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b23dff8b25ef53e8b456f",
+      "type": "karotten",
+      "name": "Karotte",
+      "slug": "karotten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b23dff8b25ef53e8b456f.png",
+      "usage": 566,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb62",
+        "type": "carrot",
+        "name": "Karotte",
+        "slug": "karotte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb62-c4a1f62d.png",
+        "usageByCountry": {
+          "AT": 679,
+          "AU": 553,
+          "BE": 225,
+          "CA": 127,
+          "CH": 130,
+          "DE": 627,
+          "ER": 27,
+          "FR": 49,
+          "GB": 343,
+          "LU": 220,
+          "NL": 263,
+          "NZ": 175,
+          "ML": 243,
+          "US": 318
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5568719bfd2cb982298b4568",
+      "type": "chilischote",
+      "name": "Chilischote",
+      "slug": "chilischote",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5568719bfd2cb982298b4568.png",
+      "usage": 28,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc33",
+        "type": "spicy-pepper-vegetable",
+        "name": "Würziger Pfeffer (Gemüse)",
+        "slug": "wurziger-pfeffer-gemuse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc33-f05fb04f.png",
+        "usageByCountry": {
+          "AT": 167,
+          "AU": 19,
+          "BE": 6,
+          "CA": 18,
+          "CH": 23,
+          "DE": 141,
+          "ER": 23,
+          "FR": 1,
+          "GB": 189,
+          "LU": 5,
+          "NL": 328,
+          "NZ": 0,
+          "ML": 0,
+          "US": 142
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27e6fd2cb983608b4569",
+      "type": "fruhlingszwiebeln",
+      "name": "Frühlingszwiebel",
+      "slug": "fruhlingszwiebeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27e6fd2cb983608b4569.png",
+      "usage": 514,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc35",
+        "type": "spring-onion",
+        "name": "Frühlingszwiebel",
+        "slug": "fruhlingszwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc35-03c06826.png",
+        "usageByCountry": {
+          "AT": 575,
+          "AU": 0,
+          "BE": 15,
+          "CA": 0,
+          "CH": 113,
+          "DE": 514,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 421,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7f33fd2cb96c628b456a",
+      "type": "ingwer",
+      "name": "Ingwer",
+      "slug": "ingwer",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7f33fd2cb96c628b456a.png",
+      "usage": 241,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba7",
+        "type": "ginger",
+        "name": "Ingwer",
+        "slug": "ingwer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba7-565cc248.png",
+        "usageByCountry": {
+          "AT": 278,
+          "AU": 225,
+          "BE": 200,
+          "CA": 107,
+          "CH": 52,
+          "DE": 241,
+          "ER": 20,
+          "FR": 57,
+          "GB": 231,
+          "LU": 241,
+          "NL": 220,
+          "NZ": 65,
+          "ML": 25,
+          "US": 246
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7d36fd2cb9d8608b4570",
+      "type": "sojasoße",
+      "name": "Sojasoße",
+      "slug": "sojasosze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/554b7d36fd2cb9d8608b4570-f4ba216b.png",
+      "usage": 287,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f9",
+          "type": "soya",
+          "name": "Soja",
+          "slug": "soja",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+          "usage": 390
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc30",
+        "type": "soy-sauce",
+        "name": "Sojasauce",
+        "slug": "sojasauce",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc30-32ed361d.png",
+        "usageByCountry": {
+          "AT": 343,
+          "AU": 281,
+          "BE": 313,
+          "CA": 104,
+          "CH": 80,
+          "DE": 287,
+          "ER": 30,
+          "FR": 79,
+          "GB": 283,
+          "LU": 353,
+          "NL": 307,
+          "NZ": 116,
+          "ML": 6,
+          "US": 323
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d7577f8b25ee8718b4569",
+      "type": "pak choi",
+      "name": "Pak Choi",
+      "slug": "pak-choi",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d7577f8b25ee8718b4569.png",
+      "usage": 42,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb38",
+        "type": "asian-greens",
+        "name": "Asiatische Grüns",
+        "slug": "asiatische-gruns",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb38-12c78968.png",
+        "usageByCountry": {
+          "AT": 107,
+          "AU": 112,
+          "BE": 71,
+          "CA": 26,
+          "CH": 17,
+          "DE": 77,
+          "ER": 0,
+          "FR": 21,
+          "GB": 53,
+          "LU": 92,
+          "NL": 78,
+          "NZ": 26,
+          "ML": 0,
+          "US": 68
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7cfcfd2cb911618b4569",
+      "type": "sesam",
+      "name": "Sesam",
+      "slug": "sesam",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7cfcfd2cb911618b4569.png",
+      "usage": 129,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fe",
+          "type": "sesame",
+          "name": "Sesam",
+          "slug": "sesam",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+          "usage": 175
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc2c",
+        "type": "sesame-seeds",
+        "name": "Sesamsamen",
+        "slug": "sesamsamen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc2c-936d8226.png",
+        "usageByCountry": {
+          "AT": 151,
+          "AU": 141,
+          "BE": 43,
+          "CA": 35,
+          "CH": 29,
+          "DE": 131,
+          "ER": 0,
+          "FR": 20,
+          "GB": 51,
+          "LU": 74,
+          "NL": 55,
+          "NZ": 60,
+          "ML": 18,
+          "US": 124
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d642ffd2cb955078b4567",
+      "type": "mie-nudeln",
+      "name": "Mie-Nudeln",
+      "slug": "mie-nudeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d642ffd2cb955078b4567.png",
+      "usage": 21,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe4",
+        "type": "noodles",
+        "name": "Nudeln",
+        "slug": "nudeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe4-6d4a9c00.png",
+        "usageByCountry": {
+          "AT": 147,
+          "AU": 107,
+          "BE": 168,
+          "CA": 55,
+          "CH": 33,
+          "DE": 125,
+          "ER": 0,
+          "FR": 27,
+          "GB": 106,
+          "LU": 141,
+          "NL": 185,
+          "NZ": 13,
+          "ML": 121,
+          "US": 53
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3639f8b25eef3e8b4575",
+      "type": "gemusebruhe-home",
+      "name": "Gemüsebrühe*",
+      "slug": "gemusebruhe",
+      "description": null,
+      "internalName": "Gemüsebrühe home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3639f8b25eef3e8b4575.png",
+      "usage": 441,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22f4f8b25e42438b4567",
+      "type": "essig",
+      "name": "Essig*",
+      "slug": "essig",
+      "description": null,
+      "internalName": "Essig [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22f4f8b25e42438b4567.png",
+      "usage": 323,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052ff",
+          "type": "sulphites",
+          "name": "Schwefel",
+          "slug": "schwefel",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+          "usage": 178
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc4e",
+        "type": "vinegar",
+        "name": "Essig",
+        "slug": "essig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc4e-487a2c2e.png",
+        "usageByCountry": {
+          "AT": 946,
+          "AU": 556,
+          "BE": 739,
+          "CA": 272,
+          "CH": 185,
+          "DE": 877,
+          "ER": 16,
+          "FR": 209,
+          "GB": 406,
+          "LU": 884,
+          "NL": 855,
+          "NZ": 199,
+          "ML": 77,
+          "US": 710
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "type": "soya",
+      "name": "Soja",
+      "slug": "soja",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "usage": 390
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "type": "sesame",
+      "name": "Sesam",
+      "slug": "sesam",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "usage": 175
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "type": "sulphites",
+      "name": "Schwefel",
+      "slug": "schwefel",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "usage": 178
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "scharf",
+      "slug": "scharf",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-spicy%403x.png",
+      "numberOfRecipes": 2399,
+      "numberOfRecipesByCountry": {
+        "AT": 200,
+        "AU": 107,
+        "BE": 147,
+        "CA": 71,
+        "CH": 53,
+        "DE": 211,
+        "ER": 103,
+        "FR": 0,
+        "GB": 497,
+        "LU": 54,
+        "NL": 149,
+        "NZ": 0,
+        "ML": 0,
+        "US": 807
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiatisch",
+      "slug": "asiatisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg",
+      "usage": 2484
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b19befd2cb959598b4576",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "5568719bfd2cb982298b4568",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7f33fd2cb96c628b456a",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b7d36fd2cb9d8608b4570",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "id": "556d7577f8b25ee8718b4569",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7cfcfd2cb911618b4569",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "556d642ffd2cb955078b4567",
+          "amount": 125,
+          "unit": "g"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b3639f8b25eef3e8b4575",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22f4f8b25e42438b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b19befd2cb959598b4576",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "5568719bfd2cb982298b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7f33fd2cb96c628b456a",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "554b7d36fd2cb9d8608b4570",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "id": "556d7577f8b25ee8718b4569",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7cfcfd2cb911618b4569",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "556d642ffd2cb955078b4567",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b3639f8b25eef3e8b4575",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22f4f8b25e42438b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Rinderhüftsteaks aus dem Kühlschrank nehmen, damit sie Zimmertemperatur annehmen können. Falls die Stücke nicht gleich dick sind, mit dem Handballen ein wenig plattdrücken und angleichen.",
+      "instructionsHTML": "<p>Rinderhüftsteaks aus dem Kühlschrank nehmen, damit sie Zimmertemperatur annehmen können. Falls die Stücke nicht gleich dick sind, mit dem Handballen ein wenig plattdrücken und angleichen.</p>",
+      "instructions": "Rinderhüftsteaks aus dem Kühlschrank nehmen, damit sie Zimmertemperatur annehmen können. Falls die Stücke nicht gleich dick sind, mit dem Handballen ein wenig plattdrücken und angleichen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b19befd2cb959598b4576"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Karotten schälen, halbieren und in dünne Stifte schneiden. Chili waschen und in feine Ringe schneiden. Ingwer schälen und fein würfeln. Welke Blätter vom Pak Choi entfernen, 1 cm vom Strunk abschneiden, dann Stiel und Blätter voneinander trennen, waschen und abtropfen lassen. Den Stiel quer in ca. 1 cm dicke Stücke schneiden und die Blätter längs in ca. 1 cm dicke Streifen schneiden. 100 ml Brühe zubereiten. Frühlingszwiebeln putzen und in dünne Ringe schneiden.",
+      "instructionsHTML": "<p>Karotten schälen, halbieren und in dünne Stifte schneiden. Chili waschen und in feine Ringe schneiden. Ingwer schälen und fein würfeln. Welke Blätter vom Pak Choi entfernen, 1 cm vom Strunk abschneiden, dann Stiel und Blätter voneinander trennen, waschen und abtropfen lassen. Den Stiel quer in ca. 1 cm dicke Stücke schneiden und die Blätter längs in ca. 1 cm dicke Streifen schneiden. 100 ml Brühe zubereiten. Frühlingszwiebeln putzen und in dünne Ringe schneiden.</p>",
+      "instructions": "Karotten schälen, halbieren und in dünne Stifte schneiden. Chili waschen und in feine Ringe schneiden. Ingwer schälen und fein würfeln. Welke Blätter vom Pak Choi entfernen, 1 cm vom Strunk abschneiden, dann Stiel und Blätter voneinander trennen, waschen und abtropfen lassen. Den Stiel quer in ca. 1 cm dicke Stücke schneiden und die Blätter längs in ca. 1 cm dicke Streifen schneiden. 100 ml Brühe zubereiten. Frühlingszwiebeln putzen und in dünne Ringe schneiden.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b23dff8b25ef53e8b456f",
+        "5568719bfd2cb982298b4568",
+        "554b27e6fd2cb983608b4569",
+        "554b7f33fd2cb96c628b456a",
+        "554b3639f8b25eef3e8b4575"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Mie-Nudeln nach Packungsanleitung für ca. 5 Min. in Salzwasser garen. Anschließend abgießen und kurz abdampfen lassen.",
+      "instructionsHTML": "<p>Mie-Nudeln nach Packungsanleitung für ca. 5 Min. in Salzwasser garen. Anschließend abgießen und kurz abdampfen lassen.</p>",
+      "instructions": "Mie-Nudeln nach Packungsanleitung für ca. 5 Min. in Salzwasser garen. Anschließend abgießen und kurz abdampfen lassen.",
+      "timers": [
+        {
+          "name": "Nudeln garen",
+          "duration": "PT05M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556d642ffd2cb955078b4567",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Ofen auf 150 °C vorheizen. Sesam in einer großen Pfanne anbraten, bis er duftet. Dann zur Seite stellen. Pfanne mit 1 EL Öl erwärmen. Die Steaks in der Pfanne 1–2 Min. (für rare), 2–3 Min. (für medium), 3–4 Min. (für well done) je Seite anbraten. Anschließend aus der Pfanne nehmen und, in Alufolie gewickelt, in den Ofen geben.",
+      "instructionsHTML": "<p>Ofen auf 150 °C vorheizen. Sesam in einer großen Pfanne anbraten, bis er duftet. Dann zur Seite stellen. Pfanne mit 1 EL Öl erwärmen. Die Steaks in der Pfanne 1–2 Min. (für rare), 2–3 Min. (für medium), 3–4 Min. (für well done) je Seite anbraten. Anschließend aus der Pfanne nehmen und, in Alufolie gewickelt, in den Ofen geben.</p>",
+      "instructions": "Ofen auf 150 °C vorheizen. Sesam in einer großen Pfanne anbraten, bis er duftet. Dann zur Seite stellen. Pfanne mit 1 EL Öl erwärmen. Die Steaks in der Pfanne 1–2 Min. (für rare), 2–3 Min. (für medium), 3–4 Min. (für well done) je Seite anbraten. Anschließend aus der Pfanne nehmen und, in Alufolie gewickelt, in den Ofen geben.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b19befd2cb959598b4576",
+        "554b7cfcfd2cb911618b4569",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305374",
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Die Pfanne wieder mit 1 EL Öl auf den Herd stellen und weißen und hellgrünen Teil der Frühlingszwiebeln, Karotten und weißen Teil des Pak Choi für 3-5 Min. anbraten. Grünen Teil des Pak Choi und Brühe zugeben und alles zusammen weitere 3-5 Min. köcheln lassen.",
+      "instructionsHTML": "<p>Die Pfanne wieder mit 1 EL Öl auf den Herd stellen und weißen und hellgrünen Teil der Frühlingszwiebeln, Karotten und weißen Teil des Pak Choi für 3-5 Min. anbraten. Grünen Teil des Pak Choi und Brühe zugeben und alles zusammen weitere 3-5 Min. köcheln lassen.</p>",
+      "instructions": "Die Pfanne wieder mit 1 EL Öl auf den Herd stellen und weißen und hellgrünen Teil der Frühlingszwiebeln, Karotten und weißen Teil des Pak Choi für 3-5 Min. anbraten. Grünen Teil des Pak Choi und Brühe zugeben und alles zusammen weitere 3-5 Min. köcheln lassen.",
+      "timers": [
+        {
+          "name": "Pak Choi anbraten",
+          "duration": "PT05M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        },
+        {
+          "name": "Pak Choi mit Brühe",
+          "duration": "PT05M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b23dff8b25ef53e8b456f",
+        "554b27e6fd2cb983608b4569",
+        "556d7577f8b25ee8718b4569",
+        "554b1bf6f8b25eef3e8b4570",
+        "554b3639f8b25eef3e8b4575"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "1 EL Essig, Sojasoße, Chili, Ingwer, grünen Teil der Frühlingszwiebeln und eine Prise Zucker miteinander verrühren. Bis zum Anrichten ziehen lassen. Nudeln zur Pak-Choi-Pfanne geben und zusammen erwärmen.",
+      "instructionsHTML": "<p>1 EL Essig, Sojasoße, Chili, Ingwer, grünen Teil der Frühlingszwiebeln und eine Prise Zucker miteinander verrühren. Bis zum Anrichten ziehen lassen. Nudeln zur Pak-Choi-Pfanne geben und zusammen erwärmen.</p>",
+      "instructions": "1 EL Essig, Sojasoße, Chili, Ingwer, grünen Teil der Frühlingszwiebeln und eine Prise Zucker miteinander verrühren. Bis zum Anrichten ziehen lassen. Nudeln zur Pak-Choi-Pfanne geben und zusammen erwärmen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "5568719bfd2cb982298b4568",
+        "554b27e6fd2cb983608b4569",
+        "554b7f33fd2cb96c628b456a",
+        "554b7d36fd2cb9d8608b4570",
+        "556d7577f8b25ee8718b4569",
+        "556d642ffd2cb955078b4567",
+        "554b2319fd2cb9ba598b456d",
+        "554b22f4f8b25e42438b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Fleisch aus dem Ofen nehmen und in Streifen schneiden. Pak-Choi-Pfanne auf Tellern verteilen, Fleischstreifen darauf verteilen und mit Sesam und Chili-Ingwer-Frühlingszwiebel-Soße beträufelt genießen.",
+      "instructionsHTML": "<p>Fleisch aus dem Ofen nehmen und in Streifen schneiden. Pak-Choi-Pfanne auf Tellern verteilen, Fleischstreifen darauf verteilen und mit Sesam und Chili-Ingwer-Frühlingszwiebel-Soße beträufelt genießen.</p>",
+      "instructions": "Fleisch aus dem Ofen nehmen und in Streifen schneiden. Pak-Choi-Pfanne auf Tellern verteilen, Fleischstreifen darauf verteilen und mit Sesam und Chili-Ingwer-Frühlingszwiebel-Soße beträufelt genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.2,
+  "ratingsCount": 1167,
+  "favoritesCount": 599,
+  "active": true,
+  "highlighted": true,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/asiatische-mie-nudel-pfanne-mit-saftigem-steak-5576d3d9fd2cb927558b4568",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

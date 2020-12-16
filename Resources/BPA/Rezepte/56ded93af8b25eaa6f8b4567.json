@@ -1,0 +1,943 @@
+{
+  "country": "DE",
+  "id": "56ded93af8b25eaa6f8b4567",
+  "name": "Griechische Gyros-Spieße mit Kartoffel-Tomaten-Ragout",
+  "seoName": null,
+  "category": null,
+  "slug": "griechische-gyros-spiese-mit-kar",
+  "headline": "und Tsatsiki",
+  "description": "Tsatsiki ist der griechische Klassiker schlechthin und darf Dich heute schon auf den Sommer und die Grillsaison einstimmen. Passend dazu gibt es leckere Gyrosspieße, die eine originelle Abwandlung der üblichen Servierform sind. Guten Appetit!",
+  "descriptionHTML": "<p>Tsatsiki ist der griechische Klassiker schlechthin und darf Dich heute schon auf den Sommer und die Grillsaison einstimmen. Passend dazu gibt es leckere Gyrosspieße, die eine originelle Abwandlung der üblichen Servierform sind. Guten Appetit!</p>",
+  "descriptionMarkdown": "Tsatsiki ist der griechische Klassiker schlechthin und darf Dich heute schon auf den Sommer und die Grillsaison einstimmen. Passend dazu gibt es leckere Gyrosspieße, die eine originelle Abwandlung der üblichen Servierform sind. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT45M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-03-08T13:52:58+00:00",
+  "updatedAt": "2017-04-25T11:42:55+00:00",
+  "link": "https://hellofresh.com/recipes/56ded93af8b25eaa6f8b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/56ded93af8b25eaa6f8b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/56ded93af8b25eaa6f8b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2397,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 573,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 19,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 61,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b2b27f8b25ef53e8b4574",
+      "type": "holzspieße",
+      "name": "Holzspieße",
+      "slug": "holzspiesze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2b27f8b25ef53e8b4574.png",
+      "usage": 60,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc2d",
+        "type": "skewers",
+        "name": "Spieße",
+        "slug": "spiesze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc2d-f0aa9e09.png",
+        "usageByCountry": {
+          "AT": 98,
+          "AU": 13,
+          "BE": 3,
+          "CA": 18,
+          "CH": 22,
+          "DE": 81,
+          "ER": 0,
+          "FR": 0,
+          "GB": 30,
+          "LU": 2,
+          "NL": 3,
+          "NZ": 0,
+          "ML": 0,
+          "US": 31
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5638bf6a79a23c10638b4567",
+      "type": "schweinelachs",
+      "name": "Schweinelachs",
+      "slug": "schweinelachs",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5638bf6a79a23c10638b4567.png",
+      "usage": 26,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc12",
+        "type": "pork",
+        "name": "Schweinefleisch",
+        "slug": "schweinefleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc12-bdd443ff.png",
+        "usageByCountry": {
+          "AT": 486,
+          "AU": 290,
+          "BE": 179,
+          "CA": 134,
+          "CH": 113,
+          "DE": 455,
+          "ER": 54,
+          "FR": 58,
+          "GB": 613,
+          "LU": 212,
+          "NL": 191,
+          "NZ": 97,
+          "ML": 289,
+          "US": 624
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535376f8b25e8a038b4568",
+      "type": "bacon",
+      "name": "Bacon",
+      "slug": "bacon",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55535376f8b25e8a038b4568.png",
+      "usage": 116,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc12",
+        "type": "pork",
+        "name": "Schweinefleisch",
+        "slug": "schweinefleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc12-bdd443ff.png",
+        "usageByCountry": {
+          "AT": 486,
+          "AU": 290,
+          "BE": 179,
+          "CA": 134,
+          "CH": 113,
+          "DE": 455,
+          "ER": 54,
+          "FR": 58,
+          "GB": 613,
+          "LU": 212,
+          "NL": 191,
+          "NZ": 97,
+          "ML": 289,
+          "US": 624
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "56dedf1af8b25ed8718b4567",
+      "type": "gyros-gewürzmischung",
+      "name": "Gyros-Gewürzmischung",
+      "slug": "gyros-gewurzmischung",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/56dedf1af8b25ed8718b4567.png",
+      "usage": 1,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc32",
+        "type": "spice-mix",
+        "name": "Gewürzmischung",
+        "slug": "gewurzmischung",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc32-7154509f.png",
+        "usageByCountry": {
+          "AT": 594,
+          "AU": 114,
+          "BE": 15,
+          "CA": 34,
+          "CH": 92,
+          "DE": 475,
+          "ER": 36,
+          "FR": 10,
+          "GB": 42,
+          "LU": 10,
+          "NL": 25,
+          "NZ": 48,
+          "ML": 10,
+          "US": 366
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c2c89f8b25e9c658b4568",
+      "type": "gurke",
+      "name": "Gurke",
+      "slug": "gurke",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c2c89f8b25e9c658b4568.png",
+      "usage": 277,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb88",
+        "type": "cucumber",
+        "name": "Gurke",
+        "slug": "gurke",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb88-49b790ca.png",
+        "usageByCountry": {
+          "AT": 293,
+          "AU": 269,
+          "BE": 125,
+          "CA": 53,
+          "CH": 67,
+          "DE": 282,
+          "ER": 13,
+          "FR": 41,
+          "GB": 100,
+          "LU": 160,
+          "NL": 137,
+          "NZ": 128,
+          "ML": 1,
+          "US": 124
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55534596f8b25ea1038b4569",
+      "type": "schnittlauch",
+      "name": "Schnittlauch",
+      "slug": "schnittlauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55534596f8b25ea1038b4569.png",
+      "usage": 358,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb74",
+        "type": "chives",
+        "name": "Schnittlauch",
+        "slug": "schnittlauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb74-921bfcce.png",
+        "usageByCountry": {
+          "AT": 382,
+          "AU": 32,
+          "BE": 85,
+          "CA": 38,
+          "CH": 68,
+          "DE": 358,
+          "ER": 0,
+          "FR": 30,
+          "GB": 71,
+          "LU": 117,
+          "NL": 104,
+          "NZ": 20,
+          "ML": 0,
+          "US": 80
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535a9af8b25e78738b4568",
+      "type": "joghurt",
+      "name": "Joghurt",
+      "slug": "joghurt",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55535a9af8b25e78738b4568.png",
+      "usage": 234,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc57",
+        "type": "yoghurt",
+        "name": "Jo­ghurt",
+        "slug": "joghurt",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc57-825533d1.png",
+        "usageByCountry": {
+          "AT": 464,
+          "AU": 272,
+          "BE": 368,
+          "CA": 43,
+          "CH": 101,
+          "DE": 434,
+          "ER": 0,
+          "FR": 31,
+          "GB": 207,
+          "LU": 341,
+          "NL": 408,
+          "NZ": 78,
+          "ML": 8,
+          "US": 48
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Küchenpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536e",
+      "type": "grater",
+      "name": "Reibe"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a9",
+      "type": "greek",
+      "name": "Griechisch",
+      "slug": "griechisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a9-66a3ad00.jpg",
+      "usage": 413
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b2b27f8b25ef53e8b4574",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "5638bf6a79a23c10638b4567",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "55535376f8b25e8a038b4568",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "56dedf1af8b25ed8718b4567",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "id": "556c2c89f8b25e9c658b4568",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "55535a9af8b25e78738b4568",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Holzspieße in einer Schüssel mit kaltem Wasser einweichen, so brennen sie später im Ofen nicht an. Backofen auf 200 °C Ober-/Unterhitze vorheizen. Schweinelachs aus dem Kühlschrank holen, damit er Zimmertemperatur annehmen kann.",
+      "instructionsHTML": "<p>Holzspieße in einer Schüssel mit kaltem Wasser einweichen, so brennen sie später im Ofen nicht an. Backofen auf 200 °C Ober-/Unterhitze vorheizen. Schweinelachs aus dem Kühlschrank holen, damit er Zimmertemperatur annehmen kann.</p>",
+      "instructions": "Holzspieße in einer Schüssel mit kaltem Wasser einweichen, so brennen sie später im Ofen nicht an. Backofen auf 200 °C Ober-/Unterhitze vorheizen. Schweinelachs aus dem Kühlschrank holen, damit er Zimmertemperatur annehmen kann.",
+      "timers": [
+        {
+          "name": "Backofen vorheizen",
+          "duration": "PT20M",
+          "temperature": 200,
+          "temperatureUnit": "C",
+          "ovenMode": "PreHeating"
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56ded93af8b25eaa6f8b4567/step_56e0439829eaf.jpg",
+          "caption": "Holzspieße einweichen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2b27f8b25ef53e8b4574",
+        "5638bf6a79a23c10638b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305374",
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Kartoffeln schälen und in ca. 2 cm breite Spalten schneiden. Tomaten waschen, halbieren, Strunk entfernen und in je acht Spalten schneiden. Beides in einer Schüssel mit 1 EL Olivenöl, Salz und Pfeffer würzen und auf einem mit Backpapier belegten Backblech verteilen, etwas Platz für die Gyros-Spieße lassen. Dann im Ofen 20 – 25 Min. backen.",
+      "instructionsHTML": "<p>Kartoffeln schälen und in ca. 2 cm breite Spalten schneiden. Tomaten waschen, halbieren, Strunk entfernen und in je acht Spalten schneiden. Beides in einer Schüssel mit 1 EL Olivenöl, Salz und Pfeffer würzen und auf einem mit Backpapier belegten Backblech verteilen, etwas Platz für die Gyros-Spieße lassen. Dann im Ofen 20 – 25 Min. backen.</p>",
+      "instructions": "Kartoffeln schälen und in ca. 2 cm breite Spalten schneiden. Tomaten waschen, halbieren, Strunk entfernen und in je acht Spalten schneiden. Beides in einer Schüssel mit 1 EL Olivenöl, Salz und Pfeffer würzen und auf einem mit Backpapier belegten Backblech verteilen, etwas Platz für die Gyros-Spieße lassen. Dann im Ofen 20 – 25 Min. backen.",
+      "timers": [
+        {
+          "name": "Kartoffelspalten backen",
+          "duration": "PT20M",
+          "temperature": 200,
+          "temperatureUnit": "C",
+          "ovenMode": "HotAir"
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56ded93af8b25eaa6f8b4567/step_56e043984bb4d.jpg",
+          "caption": "Kartoffel-Tomatenragout vorbereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567",
+        "554b2621fd2cb99c598b4576",
+        "554b22cb4dab71c8058b4570",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305377",
+        "57e2674fb7e8697d4b305374",
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Schweinelachs mit Küchenpapier trocken tupfen und in ca. 2 cm große Stücke schneiden. Baconscheiben quer halbieren. Beides in einer Schüssel mit 1 TL Olivenöl und der Gewürzmischung vermischen. Bacon locker aufrollen und abwechselnd mit den Schweinelachs-Würfeln auf die Holzspieße stecken. Diese für die letzten 10 – 15 Minuten der Kartoffelgarzeit mit in den Ofen geben.",
+      "instructionsHTML": "<p>Schweinelachs mit Küchenpapier trocken tupfen und in ca. 2 cm große Stücke schneiden. Baconscheiben quer halbieren. Beides in einer Schüssel mit 1 TL Olivenöl und der Gewürzmischung vermischen. Bacon locker aufrollen und abwechselnd mit den Schweinelachs-Würfeln auf die Holzspieße stecken. Diese für die letzten 10 – 15 Minuten der Kartoffelgarzeit mit in den Ofen geben.</p>",
+      "instructions": "Schweinelachs mit Küchenpapier trocken tupfen und in ca. 2 cm große Stücke schneiden. Baconscheiben quer halbieren. Beides in einer Schüssel mit 1 TL Olivenöl und der Gewürzmischung vermischen. Bacon locker aufrollen und abwechselnd mit den Schweinelachs-Würfeln auf die Holzspieße stecken. Diese für die letzten 10 – 15 Minuten der Kartoffelgarzeit mit in den Ofen geben.",
+      "timers": [
+        {
+          "name": "Gyrosspieße mit Kartoffelspalten garen",
+          "duration": "PT10M",
+          "temperature": 200,
+          "temperatureUnit": "C",
+          "ovenMode": "HotAir"
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56ded93af8b25eaa6f8b4567/step_56e043985e0b1.jpg",
+          "caption": "Gyrosspieße vorbereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2b27f8b25ef53e8b4574",
+        "5638bf6a79a23c10638b4567",
+        "55535376f8b25e8a038b4568",
+        "56dedf1af8b25ed8718b4567",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305376",
+        "57e2674fb7e8697d4b305374",
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Für das Tsatsiki: Gurke waschen und grob raspeln. Knoblauch abziehen und fein hacken. Schnittlauch waschen und in feine Röllchen schneiden. In einer Schüssel Gurke, Knoblauch, Hälfte des Schnittlauchs und Joghurt verrühren, mit Salz und Pfeffer abschmecken.",
+      "instructionsHTML": "<p>Für das Tsatsiki: Gurke waschen und grob raspeln. Knoblauch abziehen und fein hacken. Schnittlauch waschen und in feine Röllchen schneiden. In einer Schüssel Gurke, Knoblauch, Hälfte des Schnittlauchs und Joghurt verrühren, mit Salz und Pfeffer abschmecken.</p>",
+      "instructions": "Für das Tsatsiki: Gurke waschen und grob raspeln. Knoblauch abziehen und fein hacken. Schnittlauch waschen und in feine Röllchen schneiden. In einer Schüssel Gurke, Knoblauch, Hälfte des Schnittlauchs und Joghurt verrühren, mit Salz und Pfeffer abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56ded93af8b25eaa6f8b4567/step_56e0439870642.jpg",
+          "caption": "Schnittlauch schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556c2c89f8b25e9c658b4568",
+        "554b268ffd2cb983608b4568",
+        "55534596f8b25ea1038b4569",
+        "55535a9af8b25e78738b4568",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536e",
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Kartoffel-Tomaten-Ragout auf Tellern verteilen, Gyros-Spieße dazu anrichten, mit restlichem Schnittlauch bestreuen und zusammen mit Tsatsiki genießen!",
+      "instructionsHTML": "<p>Kartoffel-Tomaten-Ragout auf Tellern verteilen, Gyros-Spieße dazu anrichten, mit restlichem Schnittlauch bestreuen und zusammen mit Tsatsiki genießen!</p>",
+      "instructions": "Kartoffel-Tomaten-Ragout auf Tellern verteilen, Gyros-Spieße dazu anrichten, mit restlichem Schnittlauch bestreuen und zusammen mit Tsatsiki genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567",
+        "554b2621fd2cb99c598b4576",
+        "55534596f8b25ea1038b4569"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.3,
+  "ratingsCount": 1527,
+  "favoritesCount": 1319,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/griechische-gyros-spiese-mit-kar-56ded93af8b25eaa6f8b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

@@ -1,0 +1,930 @@
+{
+  "country": "DE",
+  "id": "59316d8ad56afa25ec12c452",
+  "name": "Kokos-Curry-Hähnchenbrust",
+  "seoName": "Kokos-Curry-Hähnchenbrust in Papiertüte",
+  "category": null,
+  "slug": "kokos-curry-hahnchenbrust",
+  "headline": "„en papillote“ mit frischem Sommergemüse",
+  "description": "Gut eingepackt in eine Papillote schmort die zarte Hähnchenbrust vor sich hin und kuschelt dabei eng mit Karotten, Fenchel, Bohnen und einer leckeren Gewürzmischung aus Kokos und Curry. Viel Freude beim Auspacken! Guten Appetit bei diesem fettarmen, protein- und ballaststoffreichen Gericht.",
+  "descriptionHTML": "<p>Gut eingepackt in eine Papillote schmort die zarte Hähnchenbrust vor sich hin und kuschelt dabei eng mit Karotten, Fenchel, Bohnen und einer leckeren Gewürzmischung aus Kokos und Curry. Viel Freude beim Auspacken! Guten Appetit bei diesem fettarmen, protein- und ballaststoffreichen Gericht.</p>",
+  "descriptionMarkdown": "Gut eingepackt in eine Papillote schmort die zarte Hähnchenbrust vor sich hin und kuschelt dabei eng mit Karotten, Fenchel, Bohnen und einer leckeren Gewürzmischung aus Kokos und Curry. Viel Freude beim Auspacken! Guten Appetit bei diesem fettarmen, protein- und ballaststoffreichen Gericht.",
+  "seoDescription": "Hähnchenbrust in Papiertüte mit Karotten, Fenchel, Bohnen und einer leckeren Gewürzmischung aus Kokos und Curry. Fettarm und Proteinreich.",
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT35M",
+  "totalTime": null,
+  "servingSize": 700,
+  "createdAt": "2017-06-02T13:52:10+00:00",
+  "updatedAt": "2017-11-26T21:41:14+00:00",
+  "link": "https://hellofresh.com/recipes/59316d8ad56afa25ec12c452",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/kokos-curry-hahnchenbrust-a7e3e555.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/kokos-curry-hahnchenbrust-7daa0824.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2527,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 604,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 78,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 17,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 13,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 47,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 3,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b23dff8b25ef53e8b456f",
+      "type": "karotten",
+      "name": "Karotte",
+      "slug": "karotten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b23dff8b25ef53e8b456f.png",
+      "usage": 566,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb62",
+        "type": "carrot",
+        "name": "Karotte",
+        "slug": "karotte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb62-c4a1f62d.png",
+        "usageByCountry": {
+          "AT": 679,
+          "AU": 553,
+          "BE": 225,
+          "CA": 127,
+          "CH": 130,
+          "DE": 627,
+          "ER": 27,
+          "FR": 49,
+          "GB": 343,
+          "LU": 220,
+          "NL": 263,
+          "NZ": 175,
+          "ML": 243,
+          "US": 318
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d79de4dab7150498b456a",
+      "type": "fenchelknolle",
+      "name": "Fenchelknolle",
+      "slug": "fenchelknolle",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d79de4dab7150498b456a.png",
+      "usage": 35,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb97",
+        "type": "fennel",
+        "name": "Fenchel",
+        "slug": "fenchel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb97-746c7bc3.png",
+        "usageByCountry": {
+          "AT": 38,
+          "AU": 7,
+          "BE": 101,
+          "CA": 4,
+          "CH": 13,
+          "DE": 35,
+          "ER": 0,
+          "FR": 16,
+          "GB": 18,
+          "LU": 102,
+          "NL": 108,
+          "NZ": 0,
+          "ML": 0,
+          "US": 5
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2a87f8b25ef53e8b4573",
+      "type": "kirschtomaten",
+      "name": "Kirschtomaten",
+      "slug": "kirschtomaten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2a87f8b25ef53e8b4573.png",
+      "usage": 324,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "569fa0064dab7100288b4567",
+      "type": "buschbohnen",
+      "name": "Buschbohnen",
+      "slug": "buschbohnen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/569fa0064dab7100288b4567-9246563a.png",
+      "usage": 171,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbad",
+        "type": "green-beans",
+        "name": "Green Beans",
+        "slug": "green-beans",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbad-a709ebee.png",
+        "usageByCountry": {
+          "AT": 259,
+          "AU": 199,
+          "BE": 150,
+          "CA": 106,
+          "CH": 55,
+          "DE": 217,
+          "ER": 19,
+          "FR": 42,
+          "GB": 200,
+          "LU": 193,
+          "NL": 186,
+          "NZ": 59,
+          "ML": 464,
+          "US": 345
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1db1fd2cb99c598b4574",
+      "type": "hähnchenbrust",
+      "name": "Hähnchenbrust",
+      "slug": "hahnchenbrust",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1db1fd2cb99c598b4574.png",
+      "usage": 81,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6b",
+        "type": "chicken",
+        "name": "Hähnchen",
+        "slug": "hahnchen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6b-8f15f243.png",
+        "usageByCountry": {
+          "AT": 293,
+          "AU": 427,
+          "BE": 305,
+          "CA": 214,
+          "CH": 94,
+          "DE": 262,
+          "ER": 62,
+          "FR": 92,
+          "GB": 486,
+          "LU": 380,
+          "NL": 282,
+          "NZ": 125,
+          "ML": 653,
+          "US": 668
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "59316d14043c3c20527c4dd2",
+      "type": "gewurzmischung-kokos-curry",
+      "name": "Gewürzmischung \"Kokos-Curry\"",
+      "slug": "gewurzmischung-kokos-curry",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/59316d14043c3c20527c4dd2-adb048c8.png",
+      "usage": 2,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": null
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566ebc6fd2cb952018b4567",
+      "type": "ciabatta",
+      "name": "Ciabatta",
+      "slug": "ciabatta",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566ebc6fd2cb952018b4567.png",
+      "usage": 58,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305320",
+      "type": "high-fiber",
+      "name": "ballaststoffreich",
+      "slug": "ballaststoffreich",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 817,
+      "numberOfRecipesByCountry": {
+        "AT": 303,
+        "AU": 121,
+        "BE": 17,
+        "CA": 0,
+        "CH": 47,
+        "DE": 310,
+        "ER": 0,
+        "FR": 0,
+        "GB": 1,
+        "LU": 1,
+        "NL": 17,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305323",
+      "type": "low-fat",
+      "name": "fettarm",
+      "slug": "fettarm",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 67,
+      "numberOfRecipesByCountry": {
+        "AT": 22,
+        "AU": 14,
+        "BE": 3,
+        "CA": 0,
+        "CH": 3,
+        "DE": 25,
+        "ER": 0,
+        "FR": 0,
+        "GB": 0,
+        "LU": 0,
+        "NL": 0,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b30531a",
+      "type": "low-calorie",
+      "name": "leichter Genuss",
+      "slug": "leichter-genuss",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 4438,
+      "numberOfRecipesByCountry": {
+        "AT": 1377,
+        "AU": 144,
+        "BE": 299,
+        "CA": 0,
+        "CH": 139,
+        "DE": 1205,
+        "ER": 0,
+        "FR": 128,
+        "GB": 111,
+        "LU": 576,
+        "NL": 380,
+        "NZ": 79,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305321",
+      "type": "high-protein",
+      "name": "proteinreich",
+      "slug": "proteinreich",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 659,
+      "numberOfRecipesByCountry": {
+        "AT": 159,
+        "AU": 250,
+        "BE": 22,
+        "CA": 0,
+        "CH": 26,
+        "DE": 178,
+        "ER": 0,
+        "FR": 0,
+        "GB": 0,
+        "LU": 2,
+        "NL": 22,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b8",
+      "type": "mediterranean",
+      "name": "Mediterran",
+      "slug": "mediterran",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b8-f04aa19c.jpg",
+      "usage": 1179
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "556d79de4dab7150498b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2a87f8b25ef53e8b4573",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "569fa0064dab7100288b4567",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "554b1db1fd2cb99c598b4574",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "59316d14043c3c20527c4dd2",
+          "amount": 6,
+          "unit": "g"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "5566ebc6fd2cb952018b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "556d79de4dab7150498b456a",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2a87f8b25ef53e8b4573",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "569fa0064dab7100288b4567",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "554b1db1fd2cb99c598b4574",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "59316d14043c3c20527c4dd2",
+          "amount": 12,
+          "unit": "g"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "5566ebc6fd2cb952018b4567",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": null
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Wasche Gemüse, Kräuter und Fleisch ab und tupfe das Fleisch mit Küchenpapier trocken. Heize den Backofen auf **220 °C** Ober-/Unterhitze (200 °C Umluft) vor. Zum Kochen benötigst Du außerdem 1 Backblech und 2 Bögen Backpapier.\n\nEin Backblech mit 2 [4] Bögen Backpapier (nebeneinander) vorbereiten und in Reichweite platzieren.",
+      "instructionsHTML": "<p>Wasche Gemüse, Kräuter und Fleisch ab und tupfe das Fleisch mit Küchenpapier trocken. Heize den Backofen auf <strong>220 °C</strong> Ober-/Unterhitze (200 °C Umluft) vor. Zum Kochen benötigst Du außerdem 1 Backblech und 2 Bögen Backpapier.</p>\n<p>Ein Backblech mit 2 [4] Bögen Backpapier (nebeneinander) vorbereiten und in Reichweite platzieren.</p>",
+      "instructions": "Wasche Gemüse, Kräuter und Fleisch ab und tupfe das Fleisch mit Küchenpapier trocken. Heize den Backofen auf 220 °C Ober-/Unterhitze (200 °C Umluft) vor. Zum Kochen benötigst Du außerdem 1 Backblech und 2 Bögen Backpapier.\nEin Backblech mit 2 [4] Bögen Backpapier (nebeneinander) vorbereiten und in Reichweite platzieren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/59316d8ad56afa25ec12c452-0-0-8437557c.jpg",
+          "caption": "ZU BEGINN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "**Karotten** schälen, längs halbieren, schräg in 1 cm dünne Scheiben schneiden und gleichmäßig auf den Backpapierbögen verteilen. **Fenchel** vierteln, Strunk entfernen und jedes Viertel in drei Teile schneiden. **Kirschtomaten** halbieren. Enden der **Buschbohnen** abschneiden und halbieren. **Gemüse** auf den **Karottenscheiben** verteilen.",
+      "instructionsHTML": "<p><strong>Karotten</strong> schälen, längs halbieren, schräg in 1 cm dünne Scheiben schneiden und gleichmäßig auf den Backpapierbögen verteilen. <strong>Fenchel</strong> vierteln, Strunk entfernen und jedes Viertel in drei Teile schneiden. <strong>Kirschtomaten</strong> halbieren. Enden der <strong>Buschbohnen</strong> abschneiden und halbieren. <strong>Gemüse</strong> auf den <strong>Karottenscheiben</strong> verteilen.</p>",
+      "instructions": "Karotten schälen, längs halbieren, schräg in 1 cm dünne Scheiben schneiden und gleichmäßig auf den Backpapierbögen verteilen. Fenchel vierteln, Strunk entfernen und jedes Viertel in drei Teile schneiden. Kirschtomaten halbieren. Enden der Buschbohnen abschneiden und halbieren. Gemüse auf den Karottenscheiben verteilen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/59316d8ad56afa25ec12c452-1-0-14bead63.jpg",
+          "caption": "GEMÜSE VORBEREITEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "**Hähnchenbrust** leicht **salz**en und **pfeff**ern, mit der **Gewürzmischung** von allen Seiten bestreuen und auf das **Gemüse** legen. Je 1 TL **Butter** darübergeben. Von der **Zitrone** je eine Scheibe pro Person abschneiden und auf die **Hähnchenbrust** legen.",
+      "instructionsHTML": "<p><strong>Hähnchenbrust</strong> leicht <strong>salz</strong>en und <strong>pfeff</strong>ern, mit der <strong>Gewürzmischung</strong> von allen Seiten bestreuen und auf das <strong>Gemüse</strong> legen. Je 1 TL <strong>Butter</strong> darübergeben. Von der <strong>Zitrone</strong> je eine Scheibe pro Person abschneiden und auf die <strong>Hähnchenbrust</strong> legen.</p>",
+      "instructions": "Hähnchenbrust leicht salzen und pfeffern, mit der Gewürzmischung von allen Seiten bestreuen und auf das Gemüse legen. Je 1 TL Butter darübergeben. Von der Zitrone je eine Scheibe pro Person abschneiden und auf die Hähnchenbrust legen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/59316d8ad56afa25ec12c452-2-0-0aad5bdd.jpg",
+          "caption": "FÜR DAS HÄHNCHEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Backpapierbögen so über dem **Fleisch** und **Gemüse** zusammenfalten, dass es nach allen Seiten hin dicht abschließt. **Papilloten** auf der mittleren Schiene im Backofen ca. 25 Min. garen.",
+      "instructionsHTML": "<p>Backpapierbögen so über dem <strong>Fleisch</strong> und <strong>Gemüse</strong> zusammenfalten, dass es nach allen Seiten hin dicht abschließt. <strong>Papilloten</strong> auf der mittleren Schiene im Backofen ca. 25 Min. garen.</p>",
+      "instructions": "Backpapierbögen so über dem Fleisch und Gemüse zusammenfalten, dass es nach allen Seiten hin dicht abschließt. Papilloten auf der mittleren Schiene im Backofen ca. 25 Min. garen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/59316d8ad56afa25ec12c452-3-0-85cb795a.jpg",
+          "caption": "PAPILLOTEN FALTEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "**Ciabatta** auf ein Gitterrost legen und in den letzten 3 – 5 Min. der Papilloten-Garzeit im Backofen aufbacken.",
+      "instructionsHTML": "<p><strong>Ciabatta</strong> auf ein Gitterrost legen und in den letzten 3 – 5 Min. der Papilloten-Garzeit im Backofen aufbacken.</p>",
+      "instructions": "Ciabatta auf ein Gitterrost legen und in den letzten 3 – 5 Min. der Papilloten-Garzeit im Backofen aufbacken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/59316d8ad56afa25ec12c452-4-0-bd9f51df.jpg",
+          "caption": "CIABATTA BACKEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Zum Anrichten die Papilloten vorsichtig (Achtung: Wasserdampf!) öffnen und deren Inhalt jeweils auf einen Teller geben. **Ciabatta** in Scheiben schneiden und dazu reichen. \n\n**Tipp:** Alternativ können die noch geschlossenen Papilloten auf Teller gesetzt und so serviert werden",
+      "instructionsHTML": "<p>Zum Anrichten die Papilloten vorsichtig (Achtung: Wasserdampf!) öffnen und deren Inhalt jeweils auf einen Teller geben. <strong>Ciabatta</strong> in Scheiben schneiden und dazu reichen. </p>\n<p><strong>Tipp:</strong> Alternativ können die noch geschlossenen Papilloten auf Teller gesetzt und so serviert werden</p>",
+      "instructions": "Zum Anrichten die Papilloten vorsichtig (Achtung: Wasserdampf!) öffnen und deren Inhalt jeweils auf einen Teller geben. Ciabatta in Scheiben schneiden und dazu reichen. \nTipp: Alternativ können die noch geschlossenen Papilloten auf Teller gesetzt und so serviert werden",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/59316d8ad56afa25ec12c452-5-0-a5b2360d.jpg",
+          "caption": "ANRICHTEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.1,
+  "ratingsCount": 855,
+  "favoritesCount": null,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/kokos-curry-hahnchenbrust-59316d8ad56afa25ec12c452",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

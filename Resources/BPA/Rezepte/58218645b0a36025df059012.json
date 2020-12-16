@@ -1,0 +1,772 @@
+{
+  "country": "DE",
+  "id": "58218645b0a36025df059012",
+  "name": "Puten-Mango-Curry",
+  "seoName": null,
+  "category": null,
+  "slug": "puten-mango-curry",
+  "headline": "mit Koriander-Reis und Pak Choi",
+  "description": "Wir finden, es wird eindeutig Zeit für Exotik und Farbe auf Deinem Teller! Unser frisches Curry zaubert Dir heute im Nu die bunten Farben Asiens in die Küche. Dank der fruchtigen Süße der Mango punktet dieses Curry außerdem mit einer ganz besonderen aromatisch-exotischen Note. Lass es Dir schmecken!",
+  "descriptionHTML": "<p>Wir finden, es wird eindeutig Zeit für Exotik und Farbe auf Deinem Teller! Unser frisches Curry zaubert Dir heute im Nu die bunten Farben Asiens in die Küche. Dank der fruchtigen Süße der Mango punktet dieses Curry außerdem mit einer ganz besonderen aromatisch-exotischen Note. Lass es Dir schmecken!</p>",
+  "descriptionMarkdown": "Wir finden, es wird eindeutig Zeit für Exotik und Farbe auf Deinem Teller! Unser frisches Curry zaubert Dir heute im Nu die bunten Farben Asiens in die Küche. Dank der fruchtigen Süße der Mango punktet dieses Curry außerdem mit einer ganz besonderen aromatisch-exotischen Note. Lass es Dir schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-11-08T08:01:07+00:00",
+  "updatedAt": "2017-05-05T13:02:42+00:00",
+  "link": "https://hellofresh.com/recipes/58218645b0a36025df059012",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/puten-mango-curry-28d5a54c.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/puten-mango-curry-e342917a.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2720,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 650,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 97,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 41,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b3534f8b25ef53e8b4575",
+      "type": "basmatireis",
+      "name": "Basmatireis",
+      "slug": "basmatireis",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3534f8b25ef53e8b4575.png",
+      "usage": 194,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1c",
+        "type": "rice",
+        "name": "Reis",
+        "slug": "reis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1c-0b4adebd.png",
+        "usageByCountry": {
+          "AT": 540,
+          "AU": 405,
+          "BE": 265,
+          "CA": 169,
+          "CH": 114,
+          "DE": 505,
+          "ER": 39,
+          "FR": 79,
+          "GB": 480,
+          "LU": 361,
+          "NL": 319,
+          "NZ": 107,
+          "ML": 328,
+          "US": 527
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c4c88fd2cb9f9488b4567",
+      "type": "mango",
+      "name": "Mango",
+      "slug": "mango",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c4c88fd2cb9f9488b4567.png",
+      "usage": 40,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbce",
+        "type": "mango",
+        "name": "Mango",
+        "slug": "mango",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbce-5d255655.png",
+        "usageByCountry": {
+          "AT": 45,
+          "AU": 5,
+          "BE": 36,
+          "CA": 6,
+          "CH": 9,
+          "DE": 40,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 26,
+          "NL": 53,
+          "NZ": 0,
+          "ML": 0,
+          "US": 11
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d7577f8b25ee8718b4569",
+      "type": "pak choi",
+      "name": "Pak Choi",
+      "slug": "pak-choi",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d7577f8b25ee8718b4569.png",
+      "usage": 42,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb38",
+        "type": "asian-greens",
+        "name": "Asiatische Grüns",
+        "slug": "asiatische-gruns",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb38-12c78968.png",
+        "usageByCountry": {
+          "AT": 107,
+          "AU": 112,
+          "BE": 71,
+          "CA": 26,
+          "CH": 17,
+          "DE": 77,
+          "ER": 0,
+          "FR": 21,
+          "GB": 53,
+          "LU": 92,
+          "NL": 78,
+          "NZ": 26,
+          "ML": 0,
+          "US": 68
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27e6fd2cb983608b4569",
+      "type": "fruhlingszwiebeln",
+      "name": "Frühlingszwiebel",
+      "slug": "fruhlingszwiebeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27e6fd2cb983608b4569.png",
+      "usage": 514,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc35",
+        "type": "spring-onion",
+        "name": "Frühlingszwiebel",
+        "slug": "fruhlingszwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc35-03c06826.png",
+        "usageByCountry": {
+          "AT": 575,
+          "AU": 0,
+          "BE": 15,
+          "CA": 0,
+          "CH": 113,
+          "DE": 514,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 421,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1e654dab71a6058b4571",
+      "type": "koriander",
+      "name": "Koriander",
+      "slug": "koriander",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1e654dab71a6058b4571.png",
+      "usage": 240,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb79",
+        "type": "cilantro-coriander",
+        "name": "Cilantro / Koriander",
+        "slug": "cilantro-koriander",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb79-7a34459a.png",
+        "usageByCountry": {
+          "AT": 253,
+          "AU": 387,
+          "BE": 166,
+          "CA": 173,
+          "CH": 75,
+          "DE": 240,
+          "ER": 3,
+          "FR": 66,
+          "GB": 542,
+          "LU": 305,
+          "NL": 193,
+          "NZ": 102,
+          "ML": 8,
+          "US": 432
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b6070f8b25e49448b4568",
+      "type": "putenbrust",
+      "name": "Putenbrust",
+      "slug": "putenbrust",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b6070f8b25e49448b4568.png",
+      "usage": 125,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc47",
+        "type": "turkey",
+        "name": "Truthahn",
+        "slug": "truthahn",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc47-151890c5.png",
+        "usageByCountry": {
+          "AT": 171,
+          "AU": 0,
+          "BE": 20,
+          "CA": 24,
+          "CH": 46,
+          "DE": 171,
+          "ER": 0,
+          "FR": 2,
+          "GB": 33,
+          "LU": 11,
+          "NL": 23,
+          "NZ": 0,
+          "ML": 26,
+          "US": 42
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556854b0fd2cb90e288b4567",
+      "type": "madras curry",
+      "name": "Madras Curry",
+      "slug": "madras-curry",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556854b0fd2cb90e288b4567.png",
+      "usage": 11,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb8a",
+        "type": "curry",
+        "name": "Curry",
+        "slug": "curry",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb8a-43199cbe.png",
+        "usageByCountry": {
+          "AT": 166,
+          "AU": 61,
+          "BE": 155,
+          "CA": 16,
+          "CH": 36,
+          "DE": 148,
+          "ER": 0,
+          "FR": 35,
+          "GB": 159,
+          "LU": 163,
+          "NL": 177,
+          "NZ": 14,
+          "ML": 0,
+          "US": 21
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c0e3efd2cb9692b8b4568",
+      "type": "sahne",
+      "name": "Sahne",
+      "slug": "sahne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c0e3efd2cb9692b8b4568.png",
+      "usage": 176,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5568201ff8b25e0d3a8b4567",
+      "type": "huhnerbruhe",
+      "name": "Hühnerbrühe*",
+      "slug": "huhnerbruhe",
+      "description": null,
+      "internalName": "Hühnerbrühe [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5568201ff8b25e0d3a8b4567.png",
+      "usage": 65,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [],
+  "tags": [],
+  "cuisines": [],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b3534f8b25ef53e8b4575",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "556c4c88fd2cb9f9488b4567",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "556d7577f8b25ee8718b4569",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1e654dab71a6058b4571",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b6070f8b25e49448b4568",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "556854b0fd2cb90e288b4567",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "556c0e3efd2cb9692b8b4568",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "5568201ff8b25e0d3a8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. 350 ml Wasser im Wasserkocher erhitzen\n\nBasmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. In einen großen Topf 300 ml kochendes Wasser füllen, salzen, dann Reis einrühren. Einmal aufkochen lassen und Deckel aufsetzen. Bei niedriger Hitze ca. 15 Min. köcheln lassen, danach vom Herd nehmen und mindestens 10 Min. quellen lassen.",
+      "instructionsHTML": "<p>Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. 350 ml Wasser im Wasserkocher erhitzen</p>\n<p>Basmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. In einen großen Topf 300 ml kochendes Wasser füllen, salzen, dann Reis einrühren. Einmal aufkochen lassen und Deckel aufsetzen. Bei niedriger Hitze ca. 15 Min. köcheln lassen, danach vom Herd nehmen und mindestens 10 Min. quellen lassen.</p>",
+      "instructions": "Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. 350 ml Wasser im Wasserkocher erhitzen\nBasmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. In einen großen Topf 300 ml kochendes Wasser füllen, salzen, dann Reis einrühren. Einmal aufkochen lassen und Deckel aufsetzen. Bei niedriger Hitze ca. 15 Min. köcheln lassen, danach vom Herd nehmen und mindestens 10 Min. quellen lassen.",
+      "timers": [
+        {
+          "name": "Reis köcheln lassen",
+          "duration": "PT15M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b3534f8b25ef53e8b4575",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Mango schälen, Fruchtfleisch vom Kern schneiden und in ca. 1 cm große Würfel schneiden. Pak Choi in Streifen schneiden. Weißen und grünen Teil der Frühlingszwiebel getrennt voneinander in Ringe schneiden. Koriander mit Stielen fein hacken. Putenbrust mit Küchenpapier trockentupfen und in 1 cm breite Streifen schneiden. 50 ml heiße Hühnerbrühe vorbereiten.",
+      "instructionsHTML": "<p>Mango schälen, Fruchtfleisch vom Kern schneiden und in ca. 1 cm große Würfel schneiden. Pak Choi in Streifen schneiden. Weißen und grünen Teil der Frühlingszwiebel getrennt voneinander in Ringe schneiden. Koriander mit Stielen fein hacken. Putenbrust mit Küchenpapier trockentupfen und in 1 cm breite Streifen schneiden. 50 ml heiße Hühnerbrühe vorbereiten.</p>",
+      "instructions": "Mango schälen, Fruchtfleisch vom Kern schneiden und in ca. 1 cm große Würfel schneiden. Pak Choi in Streifen schneiden. Weißen und grünen Teil der Frühlingszwiebel getrennt voneinander in Ringe schneiden. Koriander mit Stielen fein hacken. Putenbrust mit Küchenpapier trockentupfen und in 1 cm breite Streifen schneiden. 50 ml heiße Hühnerbrühe vorbereiten.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58218643b0a36025df059011-1-0-5eac6b3e.jpg",
+          "caption": "Mango würfeln"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58218643b0a36025df059011-1-1-5f46681a.jpg",
+          "caption": "Frühlingszwiebel in Ringe schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556c4c88fd2cb9f9488b4567",
+        "554b27e6fd2cb983608b4569",
+        "554b1e654dab71a6058b4571",
+        "5568201ff8b25e0d3a8b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einer großen Pfanne 1 EL Öl erhitzen, Putenstreifen darin  2 – 3 Min. anbraten. Danach aus der Pfanne nehmen. Nun in der großen Pfanne bei mittlerer Hitze weiße Frühlingszwiebelringe, Pak-Choi-Streifen, Mangowürfel und Currypulver dazugeben und 1 – 2 Min. ohne Fettzugabe braten. Mit Sahne und vorbereiteter Hühnerbrühe ablöschen. Putenstreifen zufügen, Deckel aufsetzen und ca. 10 Min. weiterköcheln lassen.",
+      "instructionsHTML": "<p>In einer großen Pfanne 1 EL Öl erhitzen, Putenstreifen darin  2 – 3 Min. anbraten. Danach aus der Pfanne nehmen. Nun in der großen Pfanne bei mittlerer Hitze weiße Frühlingszwiebelringe, Pak-Choi-Streifen, Mangowürfel und Currypulver dazugeben und 1 – 2 Min. ohne Fettzugabe braten. Mit Sahne und vorbereiteter Hühnerbrühe ablöschen. Putenstreifen zufügen, Deckel aufsetzen und ca. 10 Min. weiterköcheln lassen.</p>",
+      "instructions": "In einer großen Pfanne 1 EL Öl erhitzen, Putenstreifen darin 2 – 3 Min. anbraten. Danach aus der Pfanne nehmen. Nun in der großen Pfanne bei mittlerer Hitze weiße Frühlingszwiebelringe, Pak-Choi-Streifen, Mangowürfel und Currypulver dazugeben und 1 – 2 Min. ohne Fettzugabe braten. Mit Sahne und vorbereiteter Hühnerbrühe ablöschen. Putenstreifen zufügen, Deckel aufsetzen und ca. 10 Min. weiterköcheln lassen.",
+      "timers": [
+        {
+          "name": "Curry einköcheln lasen",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58218643b0a36025df059011-2-0-b9a61c07.jpg",
+          "caption": "Frühlingszwiebelringe, Pak Choi-Viertel, Mangowürfel anbraten"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58218643b0a36025df059011-2-1-ed51f8e4.jpg",
+          "caption": "Putenstreifen dazugeben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556854b0fd2cb90e288b4567",
+        "556c0e3efd2cb9692b8b4568"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Basmatireis nach der Quellzeit mit einer Gabel etwas auflockern, gehackten Koriander unterheben und auf Teller verteilen. Puten-Mango-Curry dazu anrichten, mit grünen Frühlingszwiebelringen bestreuen und genießen.",
+      "instructionsHTML": "<p>Basmatireis nach der Quellzeit mit einer Gabel etwas auflockern, gehackten Koriander unterheben und auf Teller verteilen. Puten-Mango-Curry dazu anrichten, mit grünen Frühlingszwiebelringen bestreuen und genießen.</p>",
+      "instructions": "Basmatireis nach der Quellzeit mit einer Gabel etwas auflockern, gehackten Koriander unterheben und auf Teller verteilen. Puten-Mango-Curry dazu anrichten, mit grünen Frühlingszwiebelringen bestreuen und genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.3,
+  "ratingsCount": 1033,
+  "favoritesCount": 850,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/puten-mango-curry-58218645b0a36025df059012",
+  "clonedFrom": null,
+  "canonical": "5821b4fad36aaa109e7d68b2",
+  "canonicalLink": "https://www.hellofresh.de/recipes/puten-mango-curry-5821b4fad36aaa109e7d68b2"
+}

@@ -1,0 +1,995 @@
+{
+  "country": "DE",
+  "id": "5b7d406630006c6ba17231c2",
+  "name": "Cremiges Kürbis-Dessert",
+  "seoName": "Cremiges Kürbis-Dessert",
+  "category": null,
+  "slug": "cremiges-kurbis-dessert",
+  "headline": "mit Keksen, Walnüssen und Karamellsoße",
+  "description": "Unsere Idee des Monats lässt Dich das schlechte Wetter sofort vergessen: Ein selbst gemachtes Dessert ist der perfekte Nachtisch um den Herbst stilvoll einzuleiten. Knusprige Kekse, saisonaler Hokkaido-Kürbis und eine süße Karamellsoße für große Genussmomente: Lehn Dich zurück und genieße!",
+  "descriptionHTML": "<p>Unsere Idee des Monats lässt Dich das schlechte Wetter sofort vergessen: Ein selbst gemachtes Dessert ist der perfekte Nachtisch um den Herbst stilvoll einzuleiten. Knusprige Kekse, saisonaler Hokkaido-Kürbis und eine süße Karamellsoße für große Genussmomente: Lehn Dich zurück und genieße!</p>",
+  "descriptionMarkdown": "Unsere Idee des Monats lässt Dich das schlechte Wetter sofort vergessen: Ein selbst gemachtes Dessert ist der perfekte Nachtisch um den Herbst stilvoll einzuleiten. Knusprige Kekse, saisonaler Hokkaido-Kürbis und eine süße Karamellsoße für große Genussmomente: Lehn Dich zurück und genieße!",
+  "seoDescription": "Hier kommt ein Rezept für alle Kürbis-Liebhaber: Cremiges Kürbis-Dessert Schwing den Backlöffel mit Hokkaido-Kürbis, Frischkäse & Walnusskernen!",
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT180M",
+  "totalTime": null,
+  "servingSize": 500,
+  "createdAt": "2018-08-22T10:52:23+00:00",
+  "updatedAt": "2018-11-08T18:14:40+00:00",
+  "link": "https://hellofresh.com/recipes/5b7d406630006c6ba17231c2",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/cheesecake-kurbis-kasekuchen-dessert-8de2b48d.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/cremiges-kurbis-dessert-5b7d406630006c6ba17231c2-7b7c664d.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3406,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 814,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 27,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 74,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 37,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 13,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 1,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "556c0e3efd2cb9692b8b4568",
+      "type": "sahne",
+      "name": "Sahne",
+      "slug": "sahne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c0e3efd2cb9692b8b4568.png",
+      "usage": 176,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "58c7c997c6243b33c67e8cb2",
+      "type": "milch",
+      "name": "Milch",
+      "slug": "milch",
+      "description": null,
+      "internalName": "Milch [shipped]",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/58c7c997c6243b33c67e8cb2-7baaeea6.png",
+      "usage": 65,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbd9",
+        "type": "milk",
+        "name": "Milch",
+        "slug": "milch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbd9-a1323e62.png",
+        "usageByCountry": {
+          "AT": 194,
+          "AU": 281,
+          "BE": 254,
+          "CA": 57,
+          "CH": 28,
+          "DE": 178,
+          "ER": 11,
+          "FR": 54,
+          "GB": 28,
+          "LU": 288,
+          "NL": 288,
+          "NZ": 102,
+          "ML": 11,
+          "US": 176
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55cb734f4dab71420d8b4568",
+      "type": "hokkaido-kurbis",
+      "name": "Kürbis (Hokkaido)",
+      "slug": "hokkaido-kurbis",
+      "description": null,
+      "internalName": "Hokkaido-Kürbis",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/55cb734f4dab71420d8b4568-10fc6d69.png",
+      "usage": 56,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc15",
+        "type": "pumpkin",
+        "name": "Kürbis",
+        "slug": "kurbis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc15-a697c3c3.png",
+        "usageByCountry": {
+          "AT": 70,
+          "AU": 136,
+          "BE": 9,
+          "CA": 0,
+          "CH": 9,
+          "DE": 62,
+          "ER": 0,
+          "FR": 4,
+          "GB": 0,
+          "LU": 10,
+          "NL": 9,
+          "NZ": 35,
+          "ML": 1,
+          "US": 1
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7144fd2cb911618b4567",
+      "type": "walnüsse",
+      "name": "Walnüsse",
+      "slug": "walnusse",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7144fd2cb911618b4567.png",
+      "usage": 162,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        },
+        {
+          "id": "57962a07b7e8697d4b3052fb",
+          "type": "nuts",
+          "name": "Schalenfrüchte",
+          "slug": "schalenfruchte",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+          "usage": 300
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5b06d75bae08b569bb745492",
+      "type": "gewürzmischung",
+      "name": "Gewürzmischung",
+      "slug": "gewurzmischung",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/5b06d75bae08b569bb745492-c8388c9d.png",
+      "usage": 306,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc32",
+        "type": "spice-mix",
+        "name": "Gewürzmischung",
+        "slug": "gewurzmischung",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc32-7154509f.png",
+        "usageByCountry": {
+          "AT": 594,
+          "AU": 114,
+          "BE": 15,
+          "CA": 34,
+          "CH": 92,
+          "DE": 475,
+          "ER": 36,
+          "FR": 10,
+          "GB": 42,
+          "LU": 10,
+          "NL": 25,
+          "NZ": 48,
+          "ML": 10,
+          "US": 366
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5582cd024dab71bf498b4567",
+      "type": "speisestarke",
+      "name": "Kartoffelstärke",
+      "slug": "speisestarke",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5582cd024dab71bf498b4567.png",
+      "usage": 114,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba0",
+        "type": "flour",
+        "name": "Mehl",
+        "slug": "mehl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba0-03891dce.png",
+        "usageByCountry": {
+          "AT": 391,
+          "AU": 201,
+          "BE": 10,
+          "CA": 106,
+          "CH": 74,
+          "DE": 383,
+          "ER": 19,
+          "FR": 0,
+          "GB": 141,
+          "LU": 5,
+          "NL": 14,
+          "NZ": 74,
+          "ML": 9,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55534647f8b25e8a038b4567",
+      "type": "frischkäse",
+      "name": "Frischkäse",
+      "slug": "frischkase",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55534647f8b25e8a038b4567.png",
+      "usage": 75,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5b28e64430006c04f83556c2",
+      "type": "zucker-shipped",
+      "name": "Zucker",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker {shipped}",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/5b28e64430006c04f83556c2-0e68965f.png",
+      "usage": 3,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "569f9ab2f8b25e866a8b4567",
+      "type": "karamellgebäck",
+      "name": "Karamell-Kekse",
+      "slug": "karamellgeback",
+      "description": null,
+      "internalName": "Karamellgebäck",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/569f9ab2f8b25e866a8b4567-9f125abc.png",
+      "usage": 3,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbfe",
+        "type": "pastry",
+        "name": "Gebäck",
+        "slug": "geback",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbfe-22c343f5.png",
+        "usageByCountry": {
+          "AT": 59,
+          "AU": 29,
+          "BE": 17,
+          "CA": 18,
+          "CH": 7,
+          "DE": 60,
+          "ER": 0,
+          "FR": 2,
+          "GB": 16,
+          "LU": 3,
+          "NL": 24,
+          "NZ": 0,
+          "ML": 0,
+          "US": 16
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "type": "nuts",
+      "name": "Schalenfrüchte",
+      "slug": "schalenfruchte",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "usage": 300
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a4",
+      "type": "american",
+      "name": "Amerikanisch",
+      "slug": "amerikanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a4-aafc03e6.jpg",
+      "usage": 3895
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": "ideedesmonats",
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "556c0e3efd2cb9692b8b4568",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "id": "58c7c997c6243b33c67e8cb2",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "id": "55cb734f4dab71420d8b4568",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "554b7144fd2cb911618b4567",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "5b06d75bae08b569bb745492",
+          "amount": 3,
+          "unit": "g"
+        },
+        {
+          "id": "5582cd024dab71bf498b4567",
+          "amount": 12,
+          "unit": "g"
+        },
+        {
+          "id": "55534647f8b25e8a038b4567",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "5b28e64430006c04f83556c2",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "569f9ab2f8b25e866a8b4567",
+          "amount": 125,
+          "unit": "g"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "yields": 3,
+      "ingredients": [
+        {
+          "id": "556c0e3efd2cb9692b8b4568",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "id": "58c7c997c6243b33c67e8cb2",
+          "amount": 300,
+          "unit": "ml"
+        },
+        {
+          "id": "55cb734f4dab71420d8b4568",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "id": "554b7144fd2cb911618b4567",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "5b06d75bae08b569bb745492",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "id": "5582cd024dab71bf498b4567",
+          "amount": 18,
+          "unit": "g"
+        },
+        {
+          "id": "55534647f8b25e8a038b4567",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 0.75,
+          "unit": "Stück"
+        },
+        {
+          "id": "5b28e64430006c04f83556c2",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "569f9ab2f8b25e866a8b4567",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "556c0e3efd2cb9692b8b4568",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "id": "58c7c997c6243b33c67e8cb2",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "id": "55cb734f4dab71420d8b4568",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "id": "554b7144fd2cb911618b4567",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "id": "5b06d75bae08b569bb745492",
+          "amount": 6,
+          "unit": "g"
+        },
+        {
+          "id": "5582cd024dab71bf498b4567",
+          "amount": 24,
+          "unit": "g"
+        },
+        {
+          "id": "55534647f8b25e8a038b4567",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "5b28e64430006c04f83556c2",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "569f9ab2f8b25e866a8b4567",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": null
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "**Wasche den Kürbis und die Zitrone ab. Erhitze reichlich Wasser im Wasserkocher. Zum Kochen benötigst Du 1 großen Topf, ein hohes Rührgefäß, eine Gemüsereibe, ein Sieb, einen Handmixer und 1 kleinen Topf.**\n\nUngeschälten **Kürbis** halbieren, Kerne entfernen und **Kürbishälften** grob würfeln.\n\nIn einen großen Topf reichlich heißes Wasser füllen und **Kürbiswürfel** darin ca. 15 Min. garen, bis sie weich sind.",
+      "instructionsHTML": "<p><strong>Wasche den Kürbis und die Zitrone ab. Erhitze reichlich Wasser im Wasserkocher. Zum Kochen benötigst Du 1 großen Topf, ein hohes Rührgefäß, eine Gemüsereibe, ein Sieb, einen Handmixer und 1 kleinen Topf.</strong></p>\n<p>Ungeschälten <strong>Kürbis</strong> halbieren, Kerne entfernen und <strong>Kürbishälften</strong> grob würfeln.</p>\n<p>In einen großen Topf reichlich heißes Wasser füllen und <strong>Kürbiswürfel</strong> darin ca. 15 Min. garen, bis sie weich sind.</p>",
+      "instructions": "Wasche den Kürbis und die Zitrone ab. Erhitze reichlich Wasser im Wasserkocher. Zum Kochen benötigst Du 1 großen Topf, ein hohes Rührgefäß, eine Gemüsereibe, ein Sieb, einen Handmixer und 1 kleinen Topf.\nUngeschälten Kürbis halbieren, Kerne entfernen und Kürbishälften grob würfeln.\nIn einen großen Topf reichlich heißes Wasser füllen und Kürbiswürfel darin ca. 15 Min. garen, bis sie weich sind.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5b7d406630006c6ba17231c2/step-dc27ce51.jpg",
+          "caption": "Kürbis garen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55cb734f4dab71420d8b4568"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "In einem hohen Rührgefäß **Schlagsahne** (5 EL [8 EL|10 EL] **Sahne** für die Karamellsoße abnehmen) 4 – 5 Min. aufschlagen, bis sie steif ist.  \n\nIn einer großen Schüssel **Frischkäse** und ein *Drittel* des **Zuckers** mithilfe eines Handmixers zu einer glatten Masse verrühren und aufgeschlagene **Sahne** nach und nach unterheben. \n\n**Zitronenschale** abreiben und 1/2 EL zur **Crème** geben und **Crème** abgedeckt kalt stellen.",
+      "instructionsHTML": "<p>In einem hohen Rührgefäß <strong>Schlagsahne</strong> (5 EL [8 EL|10 EL] <strong>Sahne</strong> für die Karamellsoße abnehmen) 4 – 5 Min. aufschlagen, bis sie steif ist.  </p>\n<p>In einer großen Schüssel <strong>Frischkäse</strong> und ein <em>Drittel</em> des <strong>Zuckers</strong> mithilfe eines Handmixers zu einer glatten Masse verrühren und aufgeschlagene <strong>Sahne</strong> nach und nach unterheben. </p>\n<p><strong>Zitronenschale</strong> abreiben und 1/2 EL zur <strong>Crème</strong> geben und <strong>Crème</strong> abgedeckt kalt stellen.</p>",
+      "instructions": "In einem hohen Rührgefäß Schlagsahne (5 EL [8 EL|10 EL] Sahne für die Karamellsoße abnehmen) 4 – 5 Min. aufschlagen, bis sie steif ist.  \nIn einer großen Schüssel Frischkäse und ein Drittel des Zuckers mithilfe eines Handmixers zu einer glatten Masse verrühren und aufgeschlagene Sahne nach und nach unterheben. \nZitronenschale abreiben und 1/2 EL zur Crème geben und Crème abgedeckt kalt stellen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5b7d406630006c6ba17231c2/step-ec817c22.jpg",
+          "caption": "Crème vorbereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55534647f8b25e8a038b4567",
+        "556c0e3efd2cb9692b8b4568",
+        "554b1de2f8b25ef93e8b456b",
+        "5b28e64430006c04f83556c2"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Gegarten **Kürbis** in ein Sieb abgießen und **Kürbiswürfel** zurück in den Topf geben. \n\nWeitere *1/3* des **Zucker** zugeben und zu einer feinen Masse pürieren. \n\nIn einer kleinen Schüssel **Stärke** mit der *Hälfte* der **Milch** glattrühren. \n\n**Stärke-Milch-Mischung**, restliche **Milch** und **Gewürzmischung** zum **Kürbis** geben, aufkochen lassen und 1 – 2 Min. unter Rühren köcheln lassen. \n\nAnschließend **Kürbispüree** abkühlen lassen.",
+      "instructionsHTML": "<p>Gegarten <strong>Kürbis</strong> in ein Sieb abgießen und <strong>Kürbiswürfel</strong> zurück in den Topf geben. </p>\n<p>Weitere <em>1/3</em> des <strong>Zucker</strong> zugeben und zu einer feinen Masse pürieren. </p>\n<p>In einer kleinen Schüssel <strong>Stärke</strong> mit der <em>Hälfte</em> der <strong>Milch</strong> glattrühren. </p>\n<p><strong>Stärke-Milch-Mischung</strong>, restliche <strong>Milch</strong> und <strong>Gewürzmischung</strong> zum <strong>Kürbis</strong> geben, aufkochen lassen und 1 – 2 Min. unter Rühren köcheln lassen. </p>\n<p>Anschließend <strong>Kürbispüree</strong> abkühlen lassen.</p>",
+      "instructions": "Gegarten Kürbis in ein Sieb abgießen und Kürbiswürfel zurück in den Topf geben. \nWeitere 1/3 des Zucker zugeben und zu einer feinen Masse pürieren. \nIn einer kleinen Schüssel Stärke mit der Hälfte der Milch glattrühren. \nStärke-Milch-Mischung, restliche Milch und Gewürzmischung zum Kürbis geben, aufkochen lassen und 1 – 2 Min. unter Rühren köcheln lassen. \nAnschließend Kürbispüree abkühlen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5b7d406630006c6ba17231c2/step-605d7cb4.jpg",
+          "caption": "Kürbispüree herstellen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5b06d75bae08b569bb745492",
+        "58c7c997c6243b33c67e8cb2",
+        "5582cd024dab71bf498b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "**Karamellgebäck** und **Frischkäsecrème** jeweils dritteln und **Kürbispüree** halbieren. \n\nIn einer Auflaufform schichtweise **Frischkäsecrème**, **Karamellgebäck**, **Kürbispüree** und **Walnüsse** schichten, dabei mit **Frischkäsecrème** abschließen.\n\n**Dessert** nun mindestens 2 Stunden kühl stellen.",
+      "instructionsHTML": "<p><strong>Karamellgebäck</strong> und <strong>Frischkäsecrème</strong> jeweils dritteln und <strong>Kürbispüree</strong> halbieren. </p>\n<p>In einer Auflaufform schichtweise <strong>Frischkäsecrème</strong>, <strong>Karamellgebäck</strong>, <strong>Kürbispüree</strong> und <strong>Walnüsse</strong> schichten, dabei mit <strong>Frischkäsecrème</strong> abschließen.</p>\n<p><strong>Dessert</strong> nun mindestens 2 Stunden kühl stellen.</p>",
+      "instructions": "Karamellgebäck und Frischkäsecrème jeweils dritteln und Kürbispüree halbieren. \nIn einer Auflaufform schichtweise Frischkäsecrème, Karamellgebäck, Kürbispüree und Walnüsse schichten, dabei mit Frischkäsecrème abschließen.\nDessert nun mindestens 2 Stunden kühl stellen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5b7d406630006c6ba17231c2/step-15599419.jpg",
+          "caption": "Dessert schichten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "569f9ab2f8b25e866a8b4567",
+        "554b7144fd2cb911618b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einen kleinen Topf restlichen **Zucker** und 1 EL [11/2 EL|2 EL] Wasser bei hoher Hitze aufkochen lassen und so lange köcheln lassen, bis der **Zucker** karamellisiert.\n\nTopf vom Herd nehmen und **Butter**\\* unterrühren. \n\nMit restlicher **Sahne** und einige Tropfen **Zitronensaft** ablöschen. \n\n**Tipp:** *Wenn sich ein Klumpen gebildet hat, alles vorsichtig erwärmen, bis eine Karamellsoße entseht. *",
+      "instructionsHTML": "<p>In einen kleinen Topf restlichen <strong>Zucker</strong> und 1 EL [11/2 EL|2 EL] Wasser bei hoher Hitze aufkochen lassen und so lange köcheln lassen, bis der <strong>Zucker</strong> karamellisiert.</p>\n<p>Topf vom Herd nehmen und <strong>Butter</strong>* unterrühren. </p>\n<p>Mit restlicher <strong>Sahne</strong> und einige Tropfen <strong>Zitronensaft</strong> ablöschen. </p>\n<p><strong>Tipp:</strong> <em>Wenn sich ein Klumpen gebildet hat, alles vorsichtig erwärmen, bis eine Karamellsoße entseht. </em></p>",
+      "instructions": "In einen kleinen Topf restlichen Zucker und 1 EL [11/2 EL|2 EL] Wasser bei hoher Hitze aufkochen lassen und so lange köcheln lassen, bis der Zucker karamellisiert.\nTopf vom Herd nehmen und Butter* unterrühren. \nMit restlicher Sahne und einige Tropfen Zitronensaft ablöschen. \nTipp: Wenn sich ein Klumpen gebildet hat, alles vorsichtig erwärmen, bis eine Karamellsoße entseht. ",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "**Kürbis-Dessert** aus dem Kühlschrank nehmen, portionieren und zusammen mit der **Karamellsoße** genießen.\n\n**Guten Appetit**",
+      "instructionsHTML": "<p><strong>Kürbis-Dessert</strong> aus dem Kühlschrank nehmen, portionieren und zusammen mit der <strong>Karamellsoße</strong> genießen.</p>\n<p><strong>Guten Appetit</strong></p>",
+      "instructions": "Kürbis-Dessert aus dem Kühlschrank nehmen, portionieren und zusammen mit der Karamellsoße genießen.\nGuten Appetit",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 2.6,
+  "ratingsCount": 329,
+  "favoritesCount": 834,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/cremiges-kurbis-dessert-5b7d406630006c6ba17231c2",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

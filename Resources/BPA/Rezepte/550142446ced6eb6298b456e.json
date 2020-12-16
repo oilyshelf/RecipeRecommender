@@ -1,0 +1,913 @@
+{
+  "country": "DE",
+  "id": "550142446ced6eb6298b456e",
+  "name": "Bunter Frühlingsteller: Bistro-Steak",
+  "seoName": null,
+  "category": null,
+  "slug": "bunter-fruhlingsteller-bistro-steak",
+  "headline": "mit delikater Kerbel-Schalotten-Soße und Ofengemüse",
+  "description": "Rote Bete? Nein, violette Kartoffeln. Diese Seltenheit hat es diese Woche in Eure Box geschafft. Sie ist nicht nur eine echte Schönheit auf dem Teller, sondern auch ein außergewöhnliches Geschmackserlebnis, das wir Euch nicht vorenthalten wollten. Guten Appetit!",
+  "descriptionHTML": "<p>Rote Bete? Nein, violette Kartoffeln. Diese Seltenheit hat es diese Woche in Eure Box geschafft. Sie ist nicht nur eine echte Schönheit auf dem Teller, sondern auch ein außergewöhnliches Geschmackserlebnis, das wir Euch nicht vorenthalten wollten. Guten Appetit!</p>",
+  "descriptionMarkdown": "Rote Bete? Nein, violette Kartoffeln. Diese Seltenheit hat es diese Woche in Eure Box geschafft. Sie ist nicht nur eine echte Schönheit auf dem Teller, sondern auch ein außergewöhnliches Geschmackserlebnis, das wir Euch nicht vorenthalten wollten. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-03-12T07:37:40+00:00",
+  "updatedAt": "2016-09-20T08:19:06+00:00",
+  "link": "https://hellofresh.com/recipes/550142446ced6eb6298b456e",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/550142446ced6eb6298b456e.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/550142446ced6eb6298b456e.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2531.32,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 605,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 26,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 53,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 33,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b19befd2cb959598b4576",
+      "type": "rinderhüftsteak",
+      "name": "Rinderhüftsteak",
+      "slug": "rinderhuftsteak",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b19befd2cb959598b4576.png",
+      "usage": 94,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4e",
+        "type": "beef",
+        "name": "Rindfleisch",
+        "slug": "rindfleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4e-125de8b7.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 363,
+          "BE": 168,
+          "CA": 192,
+          "CH": 81,
+          "DE": 313,
+          "ER": 66,
+          "FR": 51,
+          "GB": 276,
+          "LU": 167,
+          "NL": 187,
+          "NZ": 103,
+          "ML": 494,
+          "US": 655
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d6890fd2cb987078b4567",
+      "type": "vitelotte kartoffeln",
+      "name": "Vitelotte Kartoffeln",
+      "slug": "vitelotte-kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d6890fd2cb987078b4567.png",
+      "usage": 3,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b23dff8b25ef53e8b456f",
+      "type": "karotten",
+      "name": "Karotte",
+      "slug": "karotten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b23dff8b25ef53e8b456f.png",
+      "usage": 566,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb62",
+        "type": "carrot",
+        "name": "Karotte",
+        "slug": "karotte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb62-c4a1f62d.png",
+        "usageByCountry": {
+          "AT": 679,
+          "AU": 553,
+          "BE": 225,
+          "CA": 127,
+          "CH": 130,
+          "DE": 627,
+          "ER": 27,
+          "FR": 49,
+          "GB": 343,
+          "LU": 220,
+          "NL": 263,
+          "NZ": 175,
+          "ML": 243,
+          "US": 318
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566f93cfd2cb97e018b4568",
+      "type": "schalotte",
+      "name": "Schalotte",
+      "slug": "schalotte",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566f93cfd2cb97e018b4568.png",
+      "usage": 156,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c22794dab71423c8b4568",
+      "type": "kerbel",
+      "name": "Kerbel",
+      "slug": "kerbel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/556c22794dab71423c8b4568-ff801a1a.png",
+      "usage": 48,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1f134dab71aa058b456e",
+      "type": "crème fraîche",
+      "name": "Crème fraîche",
+      "slug": "creme-fraiche",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1f134dab71aa058b456e.png",
+      "usage": 305,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb86",
+        "type": "creme-fraiche",
+        "name": "Crème Fraîche",
+        "slug": "creme-fraiche",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb86-533fc64c.png",
+        "usageByCountry": {
+          "AT": 321,
+          "AU": 0,
+          "BE": 119,
+          "CA": 0,
+          "CH": 81,
+          "DE": 305,
+          "ER": 0,
+          "FR": 21,
+          "GB": 328,
+          "LU": 127,
+          "NL": 144,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b780e4dab71db0d8b4568",
+      "type": "brühe",
+      "name": "Brühe",
+      "slug": "bruhe",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b780e4dab71db0d8b4568.png",
+      "usage": 31,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535e24f8b25e78738b4569",
+      "type": "senf",
+      "name": "Senf",
+      "slug": "senf",
+      "description": null,
+      "internalName": "Senf home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55535e24f8b25e78738b4569.png",
+      "usage": 102,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fd",
+          "type": "mustard",
+          "name": "Senf",
+          "slug": "senf",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+          "usage": 158
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbdf",
+        "type": "mustard",
+        "name": "Senf",
+        "slug": "senf",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbdf-bd28b3fe.png",
+        "usageByCountry": {
+          "AT": 411,
+          "AU": 149,
+          "BE": 262,
+          "CA": 135,
+          "CH": 75,
+          "DE": 361,
+          "ER": 7,
+          "FR": 68,
+          "GB": 159,
+          "LU": 354,
+          "NL": 295,
+          "NZ": 42,
+          "ML": 1,
+          "US": 175
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "type": "mustard",
+      "name": "Senf",
+      "slug": "senf",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "usage": 158
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305366",
+      "type": "aluminumfoil",
+      "name": "Alufolie"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305384",
+      "type": "whisk",
+      "name": "Schneebesen"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b19befd2cb959598b4576",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556d6890fd2cb987078b4567",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 3,
+          "unit": "Einheit"
+        },
+        {
+          "id": "5566f93cfd2cb97e018b4568",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 0.5,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556c22794dab71423c8b4568",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b1f134dab71aa058b456e",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b780e4dab71db0d8b4568",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55535e24f8b25e78738b4569",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b19befd2cb959598b4576",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556d6890fd2cb987078b4567",
+          "amount": 1000,
+          "unit": "g"
+        },
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 6,
+          "unit": "Einheit"
+        },
+        {
+          "id": "5566f93cfd2cb97e018b4568",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556c22794dab71423c8b4568",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b1f134dab71aa058b456e",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b780e4dab71db0d8b4568",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55535e24f8b25e78738b4569",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Ofen auf 200 °C Ober-/Unterhitze vorheizen. Steaks und 2 EL Butter aus dem Kühlschrank nehmen, damit diese Zimmertemperatur annehmen können. Tipp: Wenn die Steaks unterschiedlich dick sind, diese mit dem Handballen oder dem Boden eines großen Topfs in etwa gleich dicke Stücke drücken.",
+      "instructionsHTML": "<p>Ofen auf 200 °C Ober-/Unterhitze vorheizen. Steaks und 2 EL Butter aus dem Kühlschrank nehmen, damit diese Zimmertemperatur annehmen können. Tipp: Wenn die Steaks unterschiedlich dick sind, diese mit dem Handballen oder dem Boden eines großen Topfs in etwa gleich dicke Stücke drücken.</p>",
+      "instructions": "Ofen auf 200 °C Ober-/Unterhitze vorheizen. Steaks und 2 EL Butter aus dem Kühlschrank nehmen, damit diese Zimmertemperatur annehmen können. Tipp: Wenn die Steaks unterschiedlich dick sind, diese mit dem Handballen oder dem Boden eines großen Topfs in etwa gleich dicke Stücke drücken.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b19befd2cb959598b4576"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Ofengemüse zubereiten: Kartoffeln und Karotten gut waschen, schälen und in ca. 2 cm große Würfel schneiden. Beides in einer Schüssel mit 1 EL Öl, etwas Salz und Pfeffer gut mischen, auf einem, mit einem Backpapier belegten, Backblech verteilen und ca. 20–25 Min. auf der mittleren Schiene des Ofens garen, bis sie bräunlich und knusprig sind, ab und zu mit einem Pfannenwender vorsichtig wenden.",
+      "instructionsHTML": "<p>Ofengemüse zubereiten: Kartoffeln und Karotten gut waschen, schälen und in ca. 2 cm große Würfel schneiden. Beides in einer Schüssel mit 1 EL Öl, etwas Salz und Pfeffer gut mischen, auf einem, mit einem Backpapier belegten, Backblech verteilen und ca. 20–25 Min. auf der mittleren Schiene des Ofens garen, bis sie bräunlich und knusprig sind, ab und zu mit einem Pfannenwender vorsichtig wenden.</p>",
+      "instructions": "Ofengemüse zubereiten: Kartoffeln und Karotten gut waschen, schälen und in ca. 2 cm große Würfel schneiden. Beides in einer Schüssel mit 1 EL Öl, etwas Salz und Pfeffer gut mischen, auf einem, mit einem Backpapier belegten, Backblech verteilen und ca. 20–25 Min. auf der mittleren Schiene des Ofens garen, bis sie bräunlich und knusprig sind, ab und zu mit einem Pfannenwender vorsichtig wenden.",
+      "timers": [
+        {
+          "name": "Ofengemüse zubereiten",
+          "duration": "PT25M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/550142446ced6eb6298b456e/step_556d6b4b4bf34.jpg",
+          "caption": "Ofengemüse zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556d6890fd2cb987078b4567",
+        "554b23dff8b25ef53e8b456f",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305377"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Schalotte abziehen und fein hacken. Zitrone entsaften. Kerbelkraut waschen, trocken schütteln und fein hacken. 100 ml Brühe zubereiten.",
+      "instructionsHTML": "<p>Schalotte abziehen und fein hacken. Zitrone entsaften. Kerbelkraut waschen, trocken schütteln und fein hacken. 100 ml Brühe zubereiten.</p>",
+      "instructions": "Schalotte abziehen und fein hacken. Zitrone entsaften. Kerbelkraut waschen, trocken schütteln und fein hacken. 100 ml Brühe zubereiten.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/550142446ced6eb6298b456e/step_556d6b4b5f2d2.jpg",
+          "caption": "Kerbelkraut schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5566f93cfd2cb97e018b4568",
+        "554b1de2f8b25ef93e8b456b",
+        "556c22794dab71423c8b4568",
+        "554b780e4dab71db0d8b4568"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer Pfanne 1⁄2 EL Olivenöl erhitzen. Steaks nach Geschmack mit Salz und Pfeffer bestreuen und in der heißen Pfanne je Seite ca. 1–2 Min. für rare, 2-3 Min. für medium und ca. 3–4 Min. für well done scharf anbraten. Bis zum Anrichten in Alufolie gewickelt ruhen lassen.",
+      "instructionsHTML": "<p>In einer Pfanne 1⁄2 EL Olivenöl erhitzen. Steaks nach Geschmack mit Salz und Pfeffer bestreuen und in der heißen Pfanne je Seite ca. 1–2 Min. für rare, 2-3 Min. für medium und ca. 3–4 Min. für well done scharf anbraten. Bis zum Anrichten in Alufolie gewickelt ruhen lassen.</p>",
+      "instructions": "In einer Pfanne 1⁄2 EL Olivenöl erhitzen. Steaks nach Geschmack mit Salz und Pfeffer bestreuen und in der heißen Pfanne je Seite ca. 1–2 Min. für rare, 2-3 Min. für medium und ca. 3–4 Min. für well done scharf anbraten. Bis zum Anrichten in Alufolie gewickelt ruhen lassen.",
+      "timers": [
+        {
+          "name": "Steak braten",
+          "duration": "PT04M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/550142446ced6eb6298b456e/step_556d6b4b73117.jpg",
+          "caption": "Steak braten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b19befd2cb959598b4576",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305366",
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Für die Soße: Brühe mit Schalotten zum Bratensatz in die Pfanne geben, ca. 2-3 Min. leicht köcheln lassen. Crème fraîche zugeben und unter ständigem Rühren mit einem Schneebesen zu einer dünnflüssigen Soße verarbeiten. 1 TL Senf, 1 EL Zitronensaft einrühren und Kerbelkraut vor- sichtig unterheben.",
+      "instructionsHTML": "<p>Für die Soße: Brühe mit Schalotten zum Bratensatz in die Pfanne geben, ca. 2-3 Min. leicht köcheln lassen. Crème fraîche zugeben und unter ständigem Rühren mit einem Schneebesen zu einer dünnflüssigen Soße verarbeiten. 1 TL Senf, 1 EL Zitronensaft einrühren und Kerbelkraut vor- sichtig unterheben.</p>",
+      "instructions": "Für die Soße: Brühe mit Schalotten zum Bratensatz in die Pfanne geben, ca. 2-3 Min. leicht köcheln lassen. Crème fraîche zugeben und unter ständigem Rühren mit einem Schneebesen zu einer dünnflüssigen Soße verarbeiten. 1 TL Senf, 1 EL Zitronensaft einrühren und Kerbelkraut vor- sichtig unterheben.",
+      "timers": [
+        {
+          "name": "Soßenzubereitung",
+          "duration": "PT03M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/550142446ced6eb6298b456e/step_556d6b4b869ac.jpg",
+          "caption": "Soßenzubereitung"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5566f93cfd2cb97e018b4568",
+        "554b1de2f8b25ef93e8b456b",
+        "556c22794dab71423c8b4568",
+        "554b1f134dab71aa058b456e",
+        "554b780e4dab71db0d8b4568",
+        "55535e24f8b25e78738b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305384"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Kartoffeln und Karotten neben dem Steak auf flachen Tellern verteilen, mit der Soße begießen und genießen!",
+      "instructionsHTML": "<p>Kartoffeln und Karotten neben dem Steak auf flachen Tellern verteilen, mit der Soße begießen und genießen!</p>",
+      "instructions": "Kartoffeln und Karotten neben dem Steak auf flachen Tellern verteilen, mit der Soße begießen und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b19befd2cb959598b4576",
+        "556d6890fd2cb987078b4567",
+        "554b23dff8b25ef53e8b456f",
+        "5566f93cfd2cb97e018b4568",
+        "554b1de2f8b25ef93e8b456b",
+        "556c22794dab71423c8b4568",
+        "554b1f134dab71aa058b456e",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573",
+        "554b780e4dab71db0d8b4568",
+        "55535e24f8b25e78738b4569"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3,
+  "ratingsCount": 1110,
+  "favoritesCount": 190,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/bunter-fruhlingsteller-bistro-steak-550142446ced6eb6298b456e",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

@@ -1,0 +1,988 @@
+{
+  "country": "DE",
+  "id": "593e53b04f78db67652d8be2",
+  "name": "Tandoori-Tikka-Gemüse-Curry",
+  "seoName": null,
+  "category": null,
+  "slug": "tandoori-tikka-gemuse-curry",
+  "headline": "mit Kokosmilch und knusprigem Naan-Brot",
+  "description": "Heute entführen wir Dich in die bunte und fröhliche indische Küche! Viel frisches Gemüse, Süßkartoffel und die typisch indischen Gewürze machen dieses Curry zu einer ganz besonderen kulinarischen Geschmacksreise! Das leckere Naan-Brot macht die Indienreise komplett.",
+  "descriptionHTML": "<p>Heute entführen wir Dich in die bunte und fröhliche indische Küche! Viel frisches Gemüse, Süßkartoffel und die typisch indischen Gewürze machen dieses Curry zu einer ganz besonderen kulinarischen Geschmacksreise! Das leckere Naan-Brot macht die Indienreise komplett.</p>",
+  "descriptionMarkdown": "Heute entführen wir Dich in die bunte und fröhliche indische Küche! Viel frisches Gemüse, Süßkartoffel und die typisch indischen Gewürze machen dieses Curry zu einer ganz besonderen kulinarischen Geschmacksreise! Das leckere Naan-Brot macht die Indienreise komplett.",
+  "seoDescription": "",
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT35M",
+  "totalTime": null,
+  "servingSize": 800,
+  "createdAt": "2017-06-12T08:41:20+00:00",
+  "updatedAt": "2017-11-26T21:40:25+00:00",
+  "link": "https://hellofresh.com/recipes/593e53b04f78db67652d8be2",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/tandoori-tikka-gemuse-curry-01286190.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/tandoori-tikka-gemuse-curry-385ca431.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 4159,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 994,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 47,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 118,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 32,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 21,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 4,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b1a294dab71a6058b4570",
+      "type": "suszkartoffeln",
+      "name": "Süßkartoffel",
+      "slug": "suszkartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1a294dab71a6058b4570.png",
+      "usage": 226,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2aa14dab71aa058b4570",
+      "type": "zucchini",
+      "name": "Zucchini",
+      "slug": "zucchini",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2aa14dab71aa058b4570-0ba23f81.png",
+      "usage": 435,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc58",
+        "type": "zucchini",
+        "name": "Zucchini",
+        "slug": "zucchini",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc58-4066951c.png",
+        "usageByCountry": {
+          "AT": 449,
+          "AU": 407,
+          "BE": 0,
+          "CA": 103,
+          "CH": 74,
+          "DE": 439,
+          "ER": 23,
+          "FR": 0,
+          "GB": 0,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 110,
+          "ML": 163,
+          "US": 443
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7e84fd2cb911618b456a",
+      "type": "rote paprika",
+      "name": "rote Paprika",
+      "slug": "rote-paprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7e84fd2cb911618b456a.png",
+      "usage": 229,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf7",
+        "type": "paprika",
+        "name": "Paprika",
+        "slug": "paprika",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf7-e6b2d1a6.png",
+        "usageByCountry": {
+          "AT": 581,
+          "AU": 50,
+          "BE": 613,
+          "CA": 64,
+          "CH": 21,
+          "DE": 536,
+          "ER": 7,
+          "FR": 166,
+          "GB": 539,
+          "LU": 769,
+          "NL": 388,
+          "NZ": 6,
+          "ML": 38,
+          "US": 79
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55def9c679a23ce7708b4567",
+      "type": "tandoori-paste",
+      "name": "Tandoori-Paste",
+      "slug": "tandoori-paste",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55def9c679a23ce7708b4567-da035823.png",
+      "usage": 5,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbb8",
+        "type": "indian-sauce",
+        "name": "Indische Sauce",
+        "slug": "indische-sauce",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbb8-6228c258.png",
+        "usageByCountry": {
+          "AT": 5,
+          "AU": 0,
+          "BE": 0,
+          "CA": 2,
+          "CH": 2,
+          "DE": 5,
+          "ER": 0,
+          "FR": 0,
+          "GB": 2,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5568324ffd2cb9d8268b456a",
+      "type": "tomatenstücke",
+      "name": "stückige Tomaten",
+      "slug": "tomatenstucke",
+      "description": null,
+      "internalName": "Tomatenstücke",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5568324ffd2cb9d8268b456a.png",
+      "usage": 209,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dbbe8fd2cb9c9768b4567",
+      "type": "kokosmilch",
+      "name": "Kokosmilch",
+      "slug": "kokosmilch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dbbe8fd2cb9c9768b4567.png",
+      "usage": 322,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb7e",
+        "type": "coconut-milk",
+        "name": "Kokosmilch",
+        "slug": "kokosmilch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb7e-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 374,
+          "AU": 60,
+          "BE": 137,
+          "CA": 27,
+          "CH": 66,
+          "DE": 322,
+          "ER": 0,
+          "FR": 30,
+          "GB": 115,
+          "LU": 157,
+          "NL": 160,
+          "NZ": 24,
+          "ML": 0,
+          "US": 22
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556db2a04dab71104b8b4568",
+      "type": "naan-brot",
+      "name": "Naan-Brot",
+      "slug": "naan-brot",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556db2a04dab71104b8b4568.png",
+      "usage": 66,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34b64dab71aa058b4573",
+      "type": "petersilie",
+      "name": "Petersilie",
+      "slug": "petersilie",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34b64dab71aa058b4573.png",
+      "usage": 861,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    }
+  ],
+  "utensils": [],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305320",
+      "type": "high-fiber",
+      "name": "ballaststoffreich",
+      "slug": "ballaststoffreich",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 817,
+      "numberOfRecipesByCountry": {
+        "AT": 303,
+        "AU": 121,
+        "BE": 17,
+        "CA": 0,
+        "CH": 47,
+        "DE": 310,
+        "ER": 0,
+        "FR": 0,
+        "GB": 1,
+        "LU": 1,
+        "NL": 17,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "58aeb949c9fd0851d339ede2",
+      "type": "discovery",
+      "name": "Neuentdeckung",
+      "slug": "neuentdeckung",
+      "iconLink": null,
+      "numberOfRecipes": 2647,
+      "numberOfRecipesByCountry": {
+        "AT": 1045,
+        "AU": 0,
+        "BE": 131,
+        "CA": 0,
+        "CH": 105,
+        "DE": 897,
+        "ER": 0,
+        "FR": 0,
+        "GB": 4,
+        "LU": 133,
+        "NL": 139,
+        "NZ": 0,
+        "ML": 193,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053aa",
+      "type": "indian",
+      "name": "Indisch",
+      "slug": "indisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053aa-835d45ad.jpg",
+      "usage": 635
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b1a294dab71a6058b4570",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2aa14dab71aa058b4570",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7e84fd2cb911618b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55def9c679a23ce7708b4567",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "5568324ffd2cb9d8268b456a",
+          "amount": 0.5,
+          "unit": "Dose"
+        },
+        {
+          "id": "555dbbe8fd2cb9c9768b4567",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "id": "556db2a04dab71104b8b4568",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b1a294dab71a6058b4570",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2aa14dab71aa058b4570",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7e84fd2cb911618b456a",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "55def9c679a23ce7708b4567",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "5568324ffd2cb9d8268b456a",
+          "amount": 1,
+          "unit": "Dose"
+        },
+        {
+          "id": "555dbbe8fd2cb9c9768b4567",
+          "amount": 500,
+          "unit": "ml"
+        },
+        {
+          "id": "556db2a04dab71104b8b4568",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": null
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "**Wasche Obst, Gemüse** und **Kräuter** ab. Erhitze reichlich Wasser im Wasserkocher. Heize den Backofen auf **200 °C** Ober-/Unterhitze (180 °C Umluft) vor. Zum Kochen benötigst Du außerdem 1 große Pfanne (mit Deckel), Backpapier und ein Backblech.\n\n**Süßkartoffel** schälen und in ca. 2 cm große Würfel schneiden. Enden der abschneiden und **Zucchini** in ca. 1 cm dicke Scheiben schneiden. **Paprika** halbieren, Kerngehäuse entfernen und **Paprikahälften** in dünne Spalten schneiden. **Zwiebel** abziehen und fein hacken.",
+      "instructionsHTML": "<p><strong>Wasche Obst, Gemüse</strong> und <strong>Kräuter</strong> ab. Erhitze reichlich Wasser im Wasserkocher. Heize den Backofen auf <strong>200 °C</strong> Ober-/Unterhitze (180 °C Umluft) vor. Zum Kochen benötigst Du außerdem 1 große Pfanne (mit Deckel), Backpapier und ein Backblech.</p>\n<p><strong>Süßkartoffel</strong> schälen und in ca. 2 cm große Würfel schneiden. Enden der abschneiden und <strong>Zucchini</strong> in ca. 1 cm dicke Scheiben schneiden. <strong>Paprika</strong> halbieren, Kerngehäuse entfernen und <strong>Paprikahälften</strong> in dünne Spalten schneiden. <strong>Zwiebel</strong> abziehen und fein hacken.</p>",
+      "instructions": "Wasche Obst, Gemüse und Kräuter ab. Erhitze reichlich Wasser im Wasserkocher. Heize den Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vor. Zum Kochen benötigst Du außerdem 1 große Pfanne (mit Deckel), Backpapier und ein Backblech.\nSüßkartoffel schälen und in ca. 2 cm große Würfel schneiden. Enden der abschneiden und Zucchini in ca. 1 cm dicke Scheiben schneiden. Paprika halbieren, Kerngehäuse entfernen und Paprikahälften in dünne Spalten schneiden. Zwiebel abziehen und fein hacken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/593e53b04f78db67652d8be2-0-0-749a33c5.jpg",
+          "caption": "GEMÜSE SCHNEIDEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "In einer großen Pfanne ½ EL [1 EL] **Öl** erhitzen. Gehackte **Zwiebel** darin ca. 2 Min. glasig dünsten. **Süßkartoffelwürfel** zugeben und 2 – 3 Min. scharf anbraten. **Zucchinischeiben** und **Paprikaspalten** zufügen und 2 – 3 Min. weiterbraten.",
+      "instructionsHTML": "<p>In einer großen Pfanne ½ EL [1 EL] <strong>Öl</strong> erhitzen. Gehackte <strong>Zwiebel</strong> darin ca. 2 Min. glasig dünsten. <strong>Süßkartoffelwürfel</strong> zugeben und 2 – 3 Min. scharf anbraten. <strong>Zucchinischeiben</strong> und <strong>Paprikaspalten</strong> zufügen und 2 – 3 Min. weiterbraten.</p>",
+      "instructions": "In einer großen Pfanne ½ EL [1 EL] Öl erhitzen. Gehackte Zwiebel darin ca. 2 Min. glasig dünsten. Süßkartoffelwürfel zugeben und 2 – 3 Min. scharf anbraten. Zucchinischeiben und Paprikaspalten zufügen und 2 – 3 Min. weiterbraten.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/593e53b04f78db67652d8be2-1-0-56a7bcfb.jpg",
+          "caption": "GEMÜSE BRATEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "**Tandoori-Tikka-Paste** zufügen und ca. 1 Min. unter Wenden weiterbraten, bis alles fein duftet. Mit **gehackten Tomaten** und **Kokosmilch** ablöschen und 10 – 15 Min. abgedeckt einköcheln lassen. Mit **Salz** und 1 [2] Prise **Zucker** abschmecken.",
+      "instructionsHTML": "<p><strong>Tandoori-Tikka-Paste</strong> zufügen und ca. 1 Min. unter Wenden weiterbraten, bis alles fein duftet. Mit <strong>gehackten Tomaten</strong> und <strong>Kokosmilch</strong> ablöschen und 10 – 15 Min. abgedeckt einköcheln lassen. Mit <strong>Salz</strong> und 1 [2] Prise <strong>Zucker</strong> abschmecken.</p>",
+      "instructions": "Tandoori-Tikka-Paste zufügen und ca. 1 Min. unter Wenden weiterbraten, bis alles fein duftet. Mit gehackten Tomaten und Kokosmilch ablöschen und 10 – 15 Min. abgedeckt einköcheln lassen. Mit Salz und 1 [2] Prise Zucker abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/593e53b04f78db67652d8be2-2-0-81b161d4.jpg",
+          "caption": "PASTE ZUFÜGEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "**Naan-Brote** auf einem mit Backpapier belegten Backblech auf der mittleren Schiene im Backofen ca. 5 Min. aufbacken. **Korianderblätter** abzupfen und grob hacken.",
+      "instructionsHTML": "<p><strong>Naan-Brote</strong> auf einem mit Backpapier belegten Backblech auf der mittleren Schiene im Backofen ca. 5 Min. aufbacken. <strong>Korianderblätter</strong> abzupfen und grob hacken.</p>",
+      "instructions": "Naan-Brote auf einem mit Backpapier belegten Backblech auf der mittleren Schiene im Backofen ca. 5 Min. aufbacken. Korianderblätter abzupfen und grob hacken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/593e53b04f78db67652d8be2-3-0-201f5b14.jpg",
+          "caption": "NAAN-brot AUFBACKEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "**Zitrone** halbieren. **Curry** mit etwas **Zitronensaft** und eventuell mehr **Salz** abschmecken.",
+      "instructionsHTML": "<p><strong>Zitrone</strong> halbieren. <strong>Curry</strong> mit etwas <strong>Zitronensaft</strong> und eventuell mehr <strong>Salz</strong> abschmecken.</p>",
+      "instructions": "Zitrone halbieren. Curry mit etwas Zitronensaft und eventuell mehr Salz abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/593e53b04f78db67652d8be2-4-0-ba02eade.jpg",
+          "caption": "curry VERFEINERN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "**Tandoori-Tikka-Curry** auf Schüsseln verteilen. Nach Belieben mit gehackten **Koriander** bestreuen und zusammen mit einem Stück **Naan-Brot** genießen.",
+      "instructionsHTML": "<p><strong>Tandoori-Tikka-Curry</strong> auf Schüsseln verteilen. Nach Belieben mit gehackten <strong>Koriander</strong> bestreuen und zusammen mit einem Stück <strong>Naan-Brot</strong> genießen.</p>",
+      "instructions": "Tandoori-Tikka-Curry auf Schüsseln verteilen. Nach Belieben mit gehackten Koriander bestreuen und zusammen mit einem Stück Naan-Brot genießen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/593e53b04f78db67652d8be2-5-0-c60b18c0.jpg",
+          "caption": "ANRICHTEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.4,
+  "ratingsCount": 985,
+  "favoritesCount": 404,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/tandoori-tikka-gemuse-curry-593e53b04f78db67652d8be2",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

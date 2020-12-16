@@ -1,0 +1,1071 @@
+{
+  "country": "DE",
+  "id": "5859085c2e69d7704b738fe2",
+  "name": "Gemüse-Tajine",
+  "seoName": null,
+  "category": null,
+  "slug": "gemuse-tajine",
+  "headline": "mit Aprikosen-Mandel-Couscous",
+  "description": "Wenn es draußen kalt und grau ist, träumen wir uns gerne mal in den warmen und bunten Orient. Um ein bisschen von diesem Traum in Deinen Alltag zu bringen, zaubern wir Dir heute diese leckere Gemüse-Tajine auf den Teller. Lass es Dir schmecken!",
+  "descriptionHTML": "<p>Wenn es draußen kalt und grau ist, träumen wir uns gerne mal in den warmen und bunten Orient. Um ein bisschen von diesem Traum in Deinen Alltag zu bringen, zaubern wir Dir heute diese leckere Gemüse-Tajine auf den Teller. Lass es Dir schmecken!</p>",
+  "descriptionMarkdown": "Wenn es draußen kalt und grau ist, träumen wir uns gerne mal in den warmen und bunten Orient. Um ein bisschen von diesem Traum in Deinen Alltag zu bringen, zaubern wir Dir heute diese leckere Gemüse-Tajine auf den Teller. Lass es Dir schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 600,
+  "createdAt": "2016-12-20T10:30:50+00:00",
+  "updatedAt": "2017-04-27T16:54:35+00:00",
+  "link": "https://hellofresh.com/recipes/5859085c2e69d7704b738fe2",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/gemuse-tajine-9a28d542.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/gemuse-tajine-90ed0764.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2697,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 640,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 119,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 14,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 19,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 1,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "55953f68fd2cb90f238b4567",
+      "type": "getrocknete aprikosen",
+      "name": "getrocknete Aprikosen",
+      "slug": "getrocknete-aprikosen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55953f68fd2cb90f238b4567-12e0d6f3.png",
+      "usage": 17,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb90",
+        "type": "dried-fruit",
+        "name": "Trockenfrüchte",
+        "slug": "trockenfruchte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb90-8edcc2cc.png",
+        "usageByCountry": {
+          "AT": 91,
+          "AU": 6,
+          "BE": 182,
+          "CA": 11,
+          "CH": 30,
+          "DE": 85,
+          "ER": 0,
+          "FR": 14,
+          "GB": 54,
+          "LU": 152,
+          "NL": 206,
+          "NZ": 0,
+          "ML": 8,
+          "US": 51
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555358b3f8b25e89038b456b",
+      "type": "couscous",
+      "name": "Couscous",
+      "slug": "couscous",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555358b3f8b25e89038b456b.png",
+      "usage": 80,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb84",
+        "type": "couscous",
+        "name": "Couscous",
+        "slug": "couscous",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb84-0e0812fe.png",
+        "usageByCountry": {
+          "AT": 75,
+          "AU": 72,
+          "BE": 148,
+          "CA": 55,
+          "CH": 22,
+          "DE": 80,
+          "ER": 8,
+          "FR": 44,
+          "GB": 90,
+          "LU": 177,
+          "NL": 185,
+          "NZ": 17,
+          "ML": 2,
+          "US": 188
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27e6fd2cb983608b4569",
+      "type": "fruhlingszwiebeln",
+      "name": "Frühlingszwiebel",
+      "slug": "fruhlingszwiebeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27e6fd2cb983608b4569.png",
+      "usage": 514,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc35",
+        "type": "spring-onion",
+        "name": "Frühlingszwiebel",
+        "slug": "fruhlingszwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc35-03c06826.png",
+        "usageByCountry": {
+          "AT": 575,
+          "AU": 0,
+          "BE": 15,
+          "CA": 0,
+          "CH": 113,
+          "DE": 514,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 421,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556827b94dab71b7178b456d",
+      "type": "apfel",
+      "name": "Apfel",
+      "slug": "apfel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556827b94dab71b7178b456d.png",
+      "usage": 91,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb35",
+        "type": "apple",
+        "name": "Apfel",
+        "slug": "apfel",
+        "description": null,
+        "priority": 0,
+        "iconLink": null,
+        "usageByCountry": {
+          "AT": 100,
+          "AU": 37,
+          "BE": 144,
+          "CA": 40,
+          "CH": 23,
+          "DE": 96,
+          "ER": 5,
+          "FR": 15,
+          "GB": 57,
+          "LU": 109,
+          "NL": 211,
+          "NZ": 10,
+          "ML": 6,
+          "US": 89
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1a294dab71a6058b4570",
+      "type": "suszkartoffeln",
+      "name": "Süßkartoffel",
+      "slug": "suszkartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1a294dab71a6058b4570.png",
+      "usage": 226,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b23dff8b25ef53e8b456f",
+      "type": "karotten",
+      "name": "Karotte",
+      "slug": "karotten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b23dff8b25ef53e8b456f.png",
+      "usage": 566,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb62",
+        "type": "carrot",
+        "name": "Karotte",
+        "slug": "karotte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb62-c4a1f62d.png",
+        "usageByCountry": {
+          "AT": 679,
+          "AU": 553,
+          "BE": 225,
+          "CA": 127,
+          "CH": 130,
+          "DE": 627,
+          "ER": 27,
+          "FR": 49,
+          "GB": 343,
+          "LU": 220,
+          "NL": 263,
+          "NZ": 175,
+          "ML": 243,
+          "US": 318
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "56782fac4dab7121768b4567",
+      "type": "eiertomaten",
+      "name": "Eiertomaten",
+      "slug": "eiertomaten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/56782fac4dab7121768b4567-f8f5a781.png",
+      "usage": 26,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "58049d8cc726284a004a9972",
+      "type": "gewurzmischung-baharat",
+      "name": "Gewürzmischung  „Baharat“",
+      "slug": "gewurzmischung-baharat",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/58049d99c726284acb0e80e1-d49da67d.png",
+      "usage": 24,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbb9",
+        "type": "indian-spices",
+        "name": "Indische Gewürze",
+        "slug": "indische-gewurze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbb9-f423af47.png",
+        "usageByCountry": {
+          "AT": 88,
+          "AU": 38,
+          "BE": 1,
+          "CA": 38,
+          "CH": 18,
+          "DE": 89,
+          "ER": 0,
+          "FR": 2,
+          "GB": 73,
+          "LU": 4,
+          "NL": 6,
+          "NZ": 9,
+          "ML": 0,
+          "US": 5
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556da3d4f8b25ebf728b4568",
+      "type": "erbsen",
+      "name": "Erbsen",
+      "slug": "erbsen",
+      "description": null,
+      "internalName": "Erbsen, Dose",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556da3d4f8b25ebf728b4568.png",
+      "usage": 14,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc04",
+        "type": "peas",
+        "name": "Erbsen",
+        "slug": "erbsen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc04-05c80c53.png",
+        "usageByCountry": {
+          "AT": 25,
+          "AU": 0,
+          "BE": 0,
+          "CA": 50,
+          "CH": 4,
+          "DE": 25,
+          "ER": 2,
+          "FR": 0,
+          "GB": 55,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 0,
+          "ML": 108,
+          "US": 65
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b26d2f8b25ef53e8b4572",
+      "type": "mandeln",
+      "name": "Mandeln",
+      "slug": "mandeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b26d2f8b25ef53e8b4572.png",
+      "usage": 63,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fb",
+          "type": "nuts",
+          "name": "Schalenfrüchte",
+          "slug": "schalenfruchte",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+          "usage": 300
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3639f8b25eef3e8b4575",
+      "type": "gemusebruhe-home",
+      "name": "Gemüsebrühe*",
+      "slug": "gemusebruhe",
+      "description": null,
+      "internalName": "Gemüsebrühe home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3639f8b25eef3e8b4575.png",
+      "usage": 441,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "type": "nuts",
+      "name": "Schalenfrüchte",
+      "slug": "schalenfruchte",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "usage": 300
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Große Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305320",
+      "type": "high-fiber",
+      "name": "ballaststoffreich",
+      "slug": "ballaststoffreich",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 817,
+      "numberOfRecipesByCountry": {
+        "AT": 303,
+        "AU": 121,
+        "BE": 17,
+        "CA": 0,
+        "CH": 47,
+        "DE": 310,
+        "ER": 0,
+        "FR": 0,
+        "GB": 1,
+        "LU": 1,
+        "NL": 17,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305323",
+      "type": "low-fat",
+      "name": "fettarm",
+      "slug": "fettarm",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 67,
+      "numberOfRecipesByCountry": {
+        "AT": 22,
+        "AU": 14,
+        "BE": 3,
+        "CA": 0,
+        "CH": 3,
+        "DE": 25,
+        "ER": 0,
+        "FR": 0,
+        "GB": 0,
+        "LU": 0,
+        "NL": 0,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b30531a",
+      "type": "low-calorie",
+      "name": "leichter Genuss",
+      "slug": "leichter-genuss",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 4438,
+      "numberOfRecipesByCountry": {
+        "AT": 1377,
+        "AU": 144,
+        "BE": 299,
+        "CA": 0,
+        "CH": 139,
+        "DE": 1205,
+        "ER": 0,
+        "FR": 128,
+        "GB": 111,
+        "LU": 576,
+        "NL": 380,
+        "NZ": 79,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305311",
+      "type": "vegan",
+      "name": "Vegan",
+      "slug": "vegan",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200https://s3-eu-west-1.amazonaws.com/hf-recipes/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 229,
+      "numberOfRecipesByCountry": {
+        "AT": 61,
+        "AU": 16,
+        "BE": 1,
+        "CA": 1,
+        "CH": 6,
+        "DE": 59,
+        "ER": 0,
+        "FR": 0,
+        "GB": 40,
+        "LU": 0,
+        "NL": 0,
+        "NZ": 0,
+        "ML": 0,
+        "US": 45
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053c5",
+      "type": "oriental",
+      "name": "Orientalisch",
+      "slug": "orientalisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053c5-47ee2bee.jpg",
+      "usage": 259
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "55953f68fd2cb90f238b4567",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "555358b3f8b25e89038b456b",
+          "amount": 125,
+          "unit": "g"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556827b94dab71b7178b456d",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1a294dab71a6058b4570",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "56782fac4dab7121768b4567",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "58049d8cc726284a004a9972",
+          "amount": 3,
+          "unit": "g"
+        },
+        {
+          "id": "556da3d4f8b25ebf728b4568",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b26d2f8b25ef53e8b4572",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b3639f8b25eef3e8b4575",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Obst und Gemüse waschen. Alle Zutaten und Utensilien bereitstellen.  300 ml Wasser im Wasserkocher erhitzen\n\n300 ml heiße Gemüsebrühe vorbereiten. Aprikosen in kleine Stücke schneiden und zusammen mit Couscous in eine große Schüssel geben. Mit vorbereiteter Gemüsebrühe übergießen und mit einem Deckel verschließen, 12 – 15 Min quellen lassen.",
+      "instructionsHTML": "<p>Vorbereitung: Obst und Gemüse waschen. Alle Zutaten und Utensilien bereitstellen.  300 ml Wasser im Wasserkocher erhitzen</p>\n<p>300 ml heiße Gemüsebrühe vorbereiten. Aprikosen in kleine Stücke schneiden und zusammen mit Couscous in eine große Schüssel geben. Mit vorbereiteter Gemüsebrühe übergießen und mit einem Deckel verschließen, 12 – 15 Min quellen lassen.</p>",
+      "instructions": "Vorbereitung: Obst und Gemüse waschen. Alle Zutaten und Utensilien bereitstellen. 300 ml Wasser im Wasserkocher erhitzen\n300 ml heiße Gemüsebrühe vorbereiten. Aprikosen in kleine Stücke schneiden und zusammen mit Couscous in eine große Schüssel geben. Mit vorbereiteter Gemüsebrühe übergießen und mit einem Deckel verschließen, 12 – 15 Min quellen lassen.",
+      "timers": [
+        {
+          "name": "Couscous quellen lassen",
+          "duration": "PT12M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5859085c2e69d7704b738fe2-0-0-8f6f4a36.jpg",
+          "caption": "Aprikosen in kleine Stücke schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555358b3f8b25e89038b456b",
+        "55953f68fd2cb90f238b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "In der Zwischenzeit: Grünen und weißen Teil der Frühlingszwiebel getrennt voneinander in dünne Streifen schneiden. Apfel vierteln, Kerngehäuse entfernen und in ca. 2 cm große Würfel schneiden. Süßkartoffel und Karotte schälen, beides in ca. 1 cm große Würfel schneiden. Tomaten halbieren, Strunk entfernen und grob würfeln.",
+      "instructionsHTML": "<p>In der Zwischenzeit: Grünen und weißen Teil der Frühlingszwiebel getrennt voneinander in dünne Streifen schneiden. Apfel vierteln, Kerngehäuse entfernen und in ca. 2 cm große Würfel schneiden. Süßkartoffel und Karotte schälen, beides in ca. 1 cm große Würfel schneiden. Tomaten halbieren, Strunk entfernen und grob würfeln.</p>",
+      "instructions": "In der Zwischenzeit: Grünen und weißen Teil der Frühlingszwiebel getrennt voneinander in dünne Streifen schneiden. Apfel vierteln, Kerngehäuse entfernen und in ca. 2 cm große Würfel schneiden. Süßkartoffel und Karotte schälen, beides in ca. 1 cm große Würfel schneiden. Tomaten halbieren, Strunk entfernen und grob würfeln.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5859085c2e69d7704b738fe2-1-0-f63070de.jpg",
+          "caption": "Apfel vierteln, Kerngehäuse entfernen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556827b94dab71b7178b456d",
+        "56782fac4dab7121768b4567",
+        "554b27e6fd2cb983608b4569",
+        "554b23dff8b25ef53e8b456f",
+        "554b1a294dab71a6058b4570"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einer großen Pfanne 1 EL Öl erwärmen, weiße Frühlingszwiebelstreifen, Gewürzmischung, Apfel-, Süßkartoffel- und Karottenwürfel darin 3 – 4 Min. scharf anbraten. Tomatenwürfel zufügen und bei geschlossenem Deckel ca. 15 Min. weiterköcheln lassen.",
+      "instructionsHTML": "<p>In einer großen Pfanne 1 EL Öl erwärmen, weiße Frühlingszwiebelstreifen, Gewürzmischung, Apfel-, Süßkartoffel- und Karottenwürfel darin 3 – 4 Min. scharf anbraten. Tomatenwürfel zufügen und bei geschlossenem Deckel ca. 15 Min. weiterköcheln lassen.</p>",
+      "instructions": "In einer großen Pfanne 1 EL Öl erwärmen, weiße Frühlingszwiebelstreifen, Gewürzmischung, Apfel-, Süßkartoffel- und Karottenwürfel darin 3 – 4 Min. scharf anbraten. Tomatenwürfel zufügen und bei geschlossenem Deckel ca. 15 Min. weiterköcheln lassen.",
+      "timers": [
+        {
+          "name": "Köcheln lassen",
+          "duration": "PT15M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5859085c2e69d7704b738fe2-2-0-b4f4e953.jpg",
+          "caption": "Tomatenwürfel zufügen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "58049d8cc726284a004a9972"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Ca. 5 Min. vor Ende der Kochzeit Erbsen dazugeben, mit Salz und Pfeffer abschmecken.",
+      "instructionsHTML": "<p>Ca. 5 Min. vor Ende der Kochzeit Erbsen dazugeben, mit Salz und Pfeffer abschmecken.</p>",
+      "instructions": "Ca. 5 Min. vor Ende der Kochzeit Erbsen dazugeben, mit Salz und Pfeffer abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5859085c2e69d7704b738fe2-3-0-856c1686.jpg",
+          "caption": "Erbsen dazugeben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556da3d4f8b25ebf728b4568",
+        "55b0a135fd2cb9121e8b4567",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Aprikosen-Couscous mit einer Gabel etwas auflockern, Mandeln unterheben und auf Teller verteilen. Gemüse-Tajine dazu anrichten, mit grünen Frühlingszwiebelstreifen bestreuen und genießen.",
+      "instructionsHTML": "<p>Aprikosen-Couscous mit einer Gabel etwas auflockern, Mandeln unterheben und auf Teller verteilen. Gemüse-Tajine dazu anrichten, mit grünen Frühlingszwiebelstreifen bestreuen und genießen.</p>",
+      "instructions": "Aprikosen-Couscous mit einer Gabel etwas auflockern, Mandeln unterheben und auf Teller verteilen. Gemüse-Tajine dazu anrichten, mit grünen Frühlingszwiebelstreifen bestreuen und genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 2.9,
+  "ratingsCount": 181,
+  "favoritesCount": 396,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/gemuse-tajine-5859085c2e69d7704b738fe2",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

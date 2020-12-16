@@ -1,0 +1,804 @@
+{
+  "country": "DE",
+  "id": "57f4db90d36aaa20db60e342",
+  "name": "Glasiertes Schweinefilet",
+  "seoName": null,
+  "category": null,
+  "slug": "glasiertes-schweinefilet",
+  "headline": "mit Süßkartoffel-Wedges und lauwarmem Rosenkohl-Apfel-Salat",
+  "description": "Durch den braunen Zucker und die Gewürzmischung erhält das Schweinefilet eine schöne Glasur und das Fleisch bleibt super-saftig. In Kombination mit Rosenkohl, Cranberrys und Apfel wird dieses Gericht zu einem außergewöhnlichen, leichten und gesunden Essen. Guten Appetit!",
+  "descriptionHTML": "<p>Durch den braunen Zucker und die Gewürzmischung erhält das Schweinefilet eine schöne Glasur und das Fleisch bleibt super-saftig. In Kombination mit Rosenkohl, Cranberrys und Apfel wird dieses Gericht zu einem außergewöhnlichen, leichten und gesunden Essen. Guten Appetit!</p>",
+  "descriptionMarkdown": "Durch den braunen Zucker und die Gewürzmischung erhält das Schweinefilet eine schöne Glasur und das Fleisch bleibt super-saftig. In Kombination mit Rosenkohl, Cranberrys und Apfel wird dieses Gericht zu einem außergewöhnlichen, leichten und gesunden Essen. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-10-05T10:53:03+00:00",
+  "updatedAt": "2017-05-07T08:51:41+00:00",
+  "link": "https://hellofresh.com/recipes/57f4db90d36aaa20db60e342",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/glasiertes-schweinefilet-1c1807a2.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/glasiertes-schweinefilet-39f7d09d.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2234,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 534,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 15,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 61,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 35,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "565eaf7cf8b25e9c168b4567",
+      "type": "rosenkohl",
+      "name": "Rosenkohl",
+      "slug": "rosenkohl",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/565eaf7cf8b25e9c168b4567-90363f48.png",
+      "usage": 21,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb58",
+        "type": "brussels-sprouts",
+        "name": "Rosenkohl",
+        "slug": "rosenkohl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb58-115a743e.png",
+        "usageByCountry": {
+          "AT": 25,
+          "AU": 6,
+          "BE": 1,
+          "CA": 22,
+          "CH": 4,
+          "DE": 23,
+          "ER": 0,
+          "FR": 0,
+          "GB": 11,
+          "LU": 1,
+          "NL": 4,
+          "NZ": 0,
+          "ML": 0,
+          "US": 57
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1a294dab71a6058b4570",
+      "type": "suszkartoffeln",
+      "name": "Süßkartoffel",
+      "slug": "suszkartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1a294dab71a6058b4570.png",
+      "usage": 226,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556da93e4dab71744a8b4568",
+      "type": "cajun, gewürzmischung",
+      "name": "Cajun, Gewürzmischung",
+      "slug": "cajun-gewurzmischung",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556da93e4dab71744a8b4568.png",
+      "usage": 21,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5d",
+        "type": "cajun-spices",
+        "name": "Cajun Gewürze",
+        "slug": "cajun-gewurze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5d-d6bfeefd.png",
+        "usageByCountry": {
+          "AT": 50,
+          "AU": 23,
+          "BE": 0,
+          "CA": 17,
+          "CH": 4,
+          "DE": 31,
+          "ER": 3,
+          "FR": 0,
+          "GB": 24,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 0,
+          "ML": 0,
+          "US": 16
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b6b664dab71160d8b4569",
+      "type": "schweinefilet",
+      "name": "Schweinefilet",
+      "slug": "schweinefilet",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b6b664dab71160d8b4569.png",
+      "usage": 128,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc12",
+        "type": "pork",
+        "name": "Schweinefleisch",
+        "slug": "schweinefleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc12-bdd443ff.png",
+        "usageByCountry": {
+          "AT": 486,
+          "AU": 290,
+          "BE": 179,
+          "CA": 134,
+          "CH": 113,
+          "DE": 455,
+          "ER": 54,
+          "FR": 58,
+          "GB": 613,
+          "LU": 212,
+          "NL": 191,
+          "NZ": 97,
+          "ML": 289,
+          "US": 624
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556827b94dab71b7178b456d",
+      "type": "apfel",
+      "name": "Apfel",
+      "slug": "apfel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556827b94dab71b7178b456d.png",
+      "usage": 91,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb35",
+        "type": "apple",
+        "name": "Apfel",
+        "slug": "apfel",
+        "description": null,
+        "priority": 0,
+        "iconLink": null,
+        "usageByCountry": {
+          "AT": 100,
+          "AU": 37,
+          "BE": 144,
+          "CA": 40,
+          "CH": 23,
+          "DE": 96,
+          "ER": 5,
+          "FR": 15,
+          "GB": 57,
+          "LU": 109,
+          "NL": 211,
+          "NZ": 10,
+          "ML": 6,
+          "US": 89
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d792df8b25e27728b4568",
+      "type": "cranberrys",
+      "name": "getrocknete Cranberrys",
+      "slug": "cranberrys",
+      "description": null,
+      "internalName": "getrocknete Cranberries",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/556d792df8b25e27728b4568-b6a8b2c6.png",
+      "usage": 48,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb90",
+        "type": "dried-fruit",
+        "name": "Trockenfrüchte",
+        "slug": "trockenfruchte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb90-8edcc2cc.png",
+        "usageByCountry": {
+          "AT": 91,
+          "AU": 6,
+          "BE": 182,
+          "CA": 11,
+          "CH": 30,
+          "DE": 85,
+          "ER": 0,
+          "FR": 14,
+          "GB": 54,
+          "LU": 152,
+          "NL": 206,
+          "NZ": 0,
+          "ML": 8,
+          "US": 51
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536e",
+      "type": "grater",
+      "name": "Reibe"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b30531a",
+      "type": "low-calorie",
+      "name": "leichter Genuss",
+      "slug": "leichter-genuss",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 4438,
+      "numberOfRecipesByCountry": {
+        "AT": 1377,
+        "AU": 144,
+        "BE": 299,
+        "CA": 0,
+        "CH": 139,
+        "DE": 1205,
+        "ER": 0,
+        "FR": 128,
+        "GB": 111,
+        "LU": 576,
+        "NL": 380,
+        "NZ": 79,
+        "ML": 0,
+        "US": 0
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "565eaf7cf8b25e9c168b4567",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "554b1a294dab71a6058b4570",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556da93e4dab71744a8b4568",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b6b664dab71160d8b4569",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "556827b94dab71b7178b456d",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "556d792df8b25e27728b4568",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Obst und Gemüse waschen. Alle Zutaten und Utensilien bereitstellen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.\n\nDie äußeren Blätter vom Rosenkohl entfernen, Röschen halbieren und Hälften in dünne Streifen schneiden. Ungeschälte Süßkartoffel längs halbieren und in Spalten schneiden. Auf einem mit Backpapier belegten Backblech verteilen (etwas Platz für das Fleisch lassen), mit 1 TL Olivenöl beträufeln und mit Salz und Pfeffer würzen. Dann auf der mittleren Schiene im Backofen 25 – 30 Min. backen, bis die Wedges weich und gebräunt sind.",
+      "instructionsHTML": "<p>Vorbereitung: Obst und Gemüse waschen. Alle Zutaten und Utensilien bereitstellen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.</p>\n<p>Die äußeren Blätter vom Rosenkohl entfernen, Röschen halbieren und Hälften in dünne Streifen schneiden. Ungeschälte Süßkartoffel längs halbieren und in Spalten schneiden. Auf einem mit Backpapier belegten Backblech verteilen (etwas Platz für das Fleisch lassen), mit 1 TL Olivenöl beträufeln und mit Salz und Pfeffer würzen. Dann auf der mittleren Schiene im Backofen 25 – 30 Min. backen, bis die Wedges weich und gebräunt sind.</p>",
+      "instructions": "Vorbereitung: Obst und Gemüse waschen. Alle Zutaten und Utensilien bereitstellen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.\nDie äußeren Blätter vom Rosenkohl entfernen, Röschen halbieren und Hälften in dünne Streifen schneiden. Ungeschälte Süßkartoffel längs halbieren und in Spalten schneiden. Auf einem mit Backpapier belegten Backblech verteilen (etwas Platz für das Fleisch lassen), mit 1 TL Olivenöl beträufeln und mit Salz und Pfeffer würzen. Dann auf der mittleren Schiene im Backofen 25 – 30 Min. backen, bis die Wedges weich und gebräunt sind.",
+      "timers": [
+        {
+          "name": "Backofen vorheizen",
+          "duration": "PT20M",
+          "temperature": 180,
+          "temperatureUnit": "C",
+          "ovenMode": "PreHeating"
+        },
+        {
+          "name": "Wedges backen",
+          "duration": "PT25M",
+          "temperature": 180,
+          "temperatureUnit": "C",
+          "ovenMode": "HotAir"
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57f4db90d36aaa20db60e342-0-0-281cf577.jpg",
+          "caption": "Süßkartoffel halbieren und in Spalten schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "565eaf7cf8b25e9c168b4567",
+        "554b1a294dab71a6058b4570",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b305377"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "In dieser Zeit: Gewürzmischung in eine kleine Schüssel geben. Schweinefilets salzen und pfeffern, anschließend in der Gewürzmischung wenden. In den letzten 15 – 20 Min. der Backzeit neben die Wedges legen und bis zum gewünschten Garzustand garen.",
+      "instructionsHTML": "<p>In dieser Zeit: Gewürzmischung in eine kleine Schüssel geben. Schweinefilets salzen und pfeffern, anschließend in der Gewürzmischung wenden. In den letzten 15 – 20 Min. der Backzeit neben die Wedges legen und bis zum gewünschten Garzustand garen.</p>",
+      "instructions": "In dieser Zeit: Gewürzmischung in eine kleine Schüssel geben. Schweinefilets salzen und pfeffern, anschließend in der Gewürzmischung wenden. In den letzten 15 – 20 Min. der Backzeit neben die Wedges legen und bis zum gewünschten Garzustand garen.",
+      "timers": [
+        {
+          "name": "Schweinefilet mitbacken",
+          "duration": "PT15M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57f4db90d36aaa20db60e342-1-0-6f8c8709.jpg",
+          "caption": "Schweinefilets in der Gewürzmischung wenden"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57f4db90d36aaa20db60e342-1-1-ded30d67.jpg",
+          "caption": "Neben die Wedges legen und garen."
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556da93e4dab71744a8b4568",
+        "554b6b664dab71160d8b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Währenddessen: Apfel halbieren, entkernen und 1/2 cm groß würfeln. Schale der Zitrone abreiben, danach Saft auspressen.",
+      "instructionsHTML": "<p>Währenddessen: Apfel halbieren, entkernen und 1/2 cm groß würfeln. Schale der Zitrone abreiben, danach Saft auspressen.</p>",
+      "instructions": "Währenddessen: Apfel halbieren, entkernen und 1/2 cm groß würfeln. Schale der Zitrone abreiben, danach Saft auspressen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556827b94dab71b7178b456d",
+        "554b1de2f8b25ef93e8b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536e"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer großen Pfanne 1 TL Olivenöl erhitzen, zerkleinerten Rosenkohl und Apfelwürfel zugeben und 5 – 6 Min. anbraten, bis der Rosenkohl leicht gebräunt ist. Cranberrys zufügen, je nach Geschmack ein wenig Zitronenschale und ½ EL Zitronensaft unterrühren. Mit Salz und Pfeffer abschmecken.",
+      "instructionsHTML": "<p>In einer großen Pfanne 1 TL Olivenöl erhitzen, zerkleinerten Rosenkohl und Apfelwürfel zugeben und 5 – 6 Min. anbraten, bis der Rosenkohl leicht gebräunt ist. Cranberrys zufügen, je nach Geschmack ein wenig Zitronenschale und ½ EL Zitronensaft unterrühren. Mit Salz und Pfeffer abschmecken.</p>",
+      "instructions": "In einer großen Pfanne 1 TL Olivenöl erhitzen, zerkleinerten Rosenkohl und Apfelwürfel zugeben und 5 – 6 Min. anbraten, bis der Rosenkohl leicht gebräunt ist. Cranberrys zufügen, je nach Geschmack ein wenig Zitronenschale und ½ EL Zitronensaft unterrühren. Mit Salz und Pfeffer abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57f4db90d36aaa20db60e342-3-0-68238127.jpg",
+          "caption": "Cranberrys zufügen"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57f4db90d36aaa20db60e342-3-1-56cce1fc.jpg",
+          "caption": "Rosenkohl anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556d792df8b25e27728b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Glasierte Schweinefilets in Scheiben schneiden und auf Teller verteilen. Süßkartoffel-Wedges dazu anrichten und mit lauwarmem Rosenkohl-Apfel-Salat genießen.",
+      "instructionsHTML": "<p>Glasierte Schweinefilets in Scheiben schneiden und auf Teller verteilen. Süßkartoffel-Wedges dazu anrichten und mit lauwarmem Rosenkohl-Apfel-Salat genießen.</p>",
+      "instructions": "Glasierte Schweinefilets in Scheiben schneiden und auf Teller verteilen. Süßkartoffel-Wedges dazu anrichten und mit lauwarmem Rosenkohl-Apfel-Salat genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3,
+  "ratingsCount": 758,
+  "favoritesCount": 563,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/glasiertes-schweinefilet-57f4db90d36aaa20db60e342",
+  "clonedFrom": null,
+  "canonical": "57fcd78f4cdfb52858274582",
+  "canonicalLink": "https://www.hellofresh.de/recipes/glasiertes-schweinefilet-57fcd78f4cdfb52858274582"
+}

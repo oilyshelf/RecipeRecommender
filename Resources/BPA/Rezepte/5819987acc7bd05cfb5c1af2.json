@@ -1,0 +1,725 @@
+{
+  "country": "DE",
+  "id": "5819987acc7bd05cfb5c1af2",
+  "name": "Blitzschnelle Feta-Mezzelune",
+  "seoName": null,
+  "category": null,
+  "slug": "feta-mezzelune-mit-curly-kale-so",
+  "headline": "mit cremiger Curly-Kale-Soße",
+  "description": "Mezzelune kommen eigentlich aus Österreich und heißen dort „Schlutzkrapfen“. Sie ähneln Ravioli aus Italien oder Maultaschen aus dem Schwabenländle. Wir servieren Euch diese Tiroler Köstlichkeit mit leckerem Grünkohl. Guten Appetit!",
+  "descriptionHTML": "<p>Mezzelune kommen eigentlich aus Österreich und heißen dort „Schlutzkrapfen“. Sie ähneln Ravioli aus Italien oder Maultaschen aus dem Schwabenländle. Wir servieren Euch diese Tiroler Köstlichkeit mit leckerem Grünkohl. Guten Appetit!</p>",
+  "descriptionMarkdown": "Mezzelune kommen eigentlich aus Österreich und heißen dort „Schlutzkrapfen“. Sie ähneln Ravioli aus Italien oder Maultaschen aus dem Schwabenländle. Wir servieren Euch diese Tiroler Köstlichkeit mit leckerem Grünkohl. Guten Appetit!",
+  "seoDescription": "",
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT20M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-11-02T07:40:42+00:00",
+  "updatedAt": "2017-05-05T11:01:36+00:00",
+  "link": "https://hellofresh.com/recipes/5819987acc7bd05cfb5c1af2",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/feta-mezzelune-mit-curly-kale-so-017c644b.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/feta-mezzelune-mit-curly-kale-so-5243c98e.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2619,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 626,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 41,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 41,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "556dc0c74dab71564b8b4567",
+      "type": "kardamomkapseln",
+      "name": "Kardamomkapseln",
+      "slug": "kardamomkapseln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556dc0c74dab71564b8b4567.png",
+      "usage": 10,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb61",
+        "type": "cardamom",
+        "name": "Kardamom",
+        "slug": "kardamom",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb61-df928a2e.png",
+        "usageByCountry": {
+          "AT": 13,
+          "AU": 0,
+          "BE": 18,
+          "CA": 0,
+          "CH": 4,
+          "DE": 10,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 9,
+          "NL": 20,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "565eb678fd2cb91f718b4567",
+      "type": "mezzelune",
+      "name": "Mezzelune",
+      "slug": "mezzelune",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/565eb678fd2cb91f718b4567.png",
+      "usage": 10,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbfd",
+        "type": "pasta",
+        "name": "Pasta",
+        "slug": "pasta",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbfd-6aeaecc6.png",
+        "usageByCountry": {
+          "AT": 442,
+          "AU": 193,
+          "BE": 394,
+          "CA": 103,
+          "CH": 92,
+          "DE": 427,
+          "ER": 30,
+          "FR": 113,
+          "GB": 276,
+          "LU": 485,
+          "NL": 454,
+          "NZ": 48,
+          "ML": 420,
+          "US": 506
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535721f8b25e8a038b4569",
+      "type": "braune champignons",
+      "name": "braune Champignons",
+      "slug": "braune-champignons",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55535721f8b25e8a038b4569-22f6a90e.png",
+      "usage": 399,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbde",
+        "type": "mushrooms",
+        "name": "Pilze",
+        "slug": "pilze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbde-4d22942c.png",
+        "usageByCountry": {
+          "AT": 558,
+          "AU": 96,
+          "BE": 230,
+          "CA": 75,
+          "CH": 86,
+          "DE": 484,
+          "ER": 1,
+          "FR": 60,
+          "GB": 207,
+          "LU": 251,
+          "NL": 280,
+          "NZ": 21,
+          "ML": 17,
+          "US": 209
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "565eb652fd2cb903718b4567",
+      "type": "curly-kale",
+      "name": "Curly Kale",
+      "slug": "curly-kale",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/565eb652fd2cb903718b4567-62c32fbd.png",
+      "usage": 8,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbbd",
+        "type": "kale",
+        "name": "Grünkohl",
+        "slug": "grunkohl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbbd-44e5a9fc.png",
+        "usageByCountry": {
+          "AT": 11,
+          "AU": 24,
+          "BE": 6,
+          "CA": 29,
+          "CH": 3,
+          "DE": 12,
+          "ER": 16,
+          "FR": 0,
+          "GB": 33,
+          "LU": 4,
+          "NL": 6,
+          "NZ": 0,
+          "ML": 60,
+          "US": 104
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1f134dab71aa058b456e",
+      "type": "crème fraîche",
+      "name": "Crème fraîche",
+      "slug": "creme-fraiche",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1f134dab71aa058b456e.png",
+      "usage": 305,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb86",
+        "type": "creme-fraiche",
+        "name": "Crème Fraîche",
+        "slug": "creme-fraiche",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb86-533fc64c.png",
+        "usageByCountry": {
+          "AT": 321,
+          "AU": 0,
+          "BE": 119,
+          "CA": 0,
+          "CH": 81,
+          "DE": 305,
+          "ER": 0,
+          "FR": 21,
+          "GB": 328,
+          "LU": 127,
+          "NL": 144,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    }
+  ],
+  "utensils": [],
+  "tags": [],
+  "cuisines": [],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "556dc0c74dab71564b8b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "565eb678fd2cb91f718b4567",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55535721f8b25e8a038b4569",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "565eb652fd2cb903718b4567",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b1f134dab71aa058b456e",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Gemüse waschen. Alle Zutaten und Utensilien bereitstellen. Reichlich Wasser im Wasserkocher erhitzen.\n\nIn einen großen Topf reichlich heißes Wasser füllen, salzen und einmal aufkochen. Kardamom-Kapsel mithilfe eines Topfbodens leicht andrücken und ins Wasser geben. Wenn das Wasser kocht, Hitze reduzieren und Mezzelune darin ca. 7 Min. ziehen lassen.",
+      "instructionsHTML": "<p>Vorbereitung: Gemüse waschen. Alle Zutaten und Utensilien bereitstellen. Reichlich Wasser im Wasserkocher erhitzen.</p>\n<p>In einen großen Topf reichlich heißes Wasser füllen, salzen und einmal aufkochen. Kardamom-Kapsel mithilfe eines Topfbodens leicht andrücken und ins Wasser geben. Wenn das Wasser kocht, Hitze reduzieren und Mezzelune darin ca. 7 Min. ziehen lassen.</p>",
+      "instructions": "Vorbereitung: Gemüse waschen. Alle Zutaten und Utensilien bereitstellen. Reichlich Wasser im Wasserkocher erhitzen.\nIn einen großen Topf reichlich heißes Wasser füllen, salzen und einmal aufkochen. Kardamom-Kapsel mithilfe eines Topfbodens leicht andrücken und ins Wasser geben. Wenn das Wasser kocht, Hitze reduzieren und Mezzelune darin ca. 7 Min. ziehen lassen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556dc0c74dab71564b8b4567",
+        "565eb678fd2cb91f718b4567",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Rote Zwiebel abziehen, halbieren und in dünne Streifen schneiden. Braune Champignons je nach Größe halbieren oder vierteln. Curly Kale in einem Sieb abtropfen lassen.",
+      "instructionsHTML": "<p>Rote Zwiebel abziehen, halbieren und in dünne Streifen schneiden. Braune Champignons je nach Größe halbieren oder vierteln. Curly Kale in einem Sieb abtropfen lassen.</p>",
+      "instructions": "Rote Zwiebel abziehen, halbieren und in dünne Streifen schneiden. Braune Champignons je nach Größe halbieren oder vierteln. Curly Kale in einem Sieb abtropfen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5819987acc7bd05cfb5c1af2-1-0-bb185e61.jpg",
+          "caption": "Champignons vierteln"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2abcf8b25eef3e8b4573",
+        "55535721f8b25e8a038b4569",
+        "565eb652fd2cb903718b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Eine große Pfanne ohne Fettzugabe erhitzen, geviertelte Champignons darin ca. 2 Min. anbraten. Zwiebelstreifen zugeben und ca. 2 Min. mitbraten. Dann je 1 TL Öl und Butter sowie Curly Kale zufügen und ca. 3 Min. unter Wenden alles zusammen erwärmen. Mit Salz und Pfe\u001fffer abschmecken, dann Crème fraîche vorsichtig einrühren",
+      "instructionsHTML": "<p>Eine große Pfanne ohne Fettzugabe erhitzen, geviertelte Champignons darin ca. 2 Min. anbraten. Zwiebelstreifen zugeben und ca. 2 Min. mitbraten. Dann je 1 TL Öl und Butter sowie Curly Kale zufügen und ca. 3 Min. unter Wenden alles zusammen erwärmen. Mit Salz und Pfe\u001fffer abschmecken, dann Crème fraîche vorsichtig einrühren</p>",
+      "instructions": "Eine große Pfanne ohne Fettzugabe erhitzen, geviertelte Champignons darin ca. 2 Min. anbraten. Zwiebelstreifen zugeben und ca. 2 Min. mitbraten. Dann je 1 TL Öl und Butter sowie Curly Kale zufügen und ca. 3 Min. unter Wenden alles zusammen erwärmen. Mit Salz und Pfe\u001fffer abschmecken, dann Crème fraîche vorsichtig einrühren",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5819987acc7bd05cfb5c1af2-2-0-1b0bebb1.jpg",
+          "caption": "Zwiebelstreifen mitbraten"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5819987acc7bd05cfb5c1af2-2-1-79aa79e1.jpg",
+          "caption": "Curly Kale zufügen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b22cb4dab71c8058b4570",
+        "554b2288f8b25ef93e8b456c",
+        "554b1f134dab71aa058b456e"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Nach der Ziehzeit Mezzelune in ein Sieb abgießen, dabei ca. 100 ml Kochwasser auffangen. Kardamom-Kapsel entfernen.",
+      "instructionsHTML": "<p>Nach der Ziehzeit Mezzelune in ein Sieb abgießen, dabei ca. 100 ml Kochwasser auffangen. Kardamom-Kapsel entfernen.</p>",
+      "instructions": "Nach der Ziehzeit Mezzelune in ein Sieb abgießen, dabei ca. 100 ml Kochwasser auffangen. Kardamom-Kapsel entfernen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Mezzelune und Nudelwasser mit Curly-Kale-Soße in der Pfanne gut vermischen und noch einmal gut durchwärmen, dabei nicht mehr zum Kochen bringen. Feta-Mezzelune mit cremiger Curly-Kale-Soße auf Teller verteilen.\n\nTritt einen Schritt zurück. Sieht gut aus, oder? Lass es Dir schmecken!",
+      "instructionsHTML": "<p>Mezzelune und Nudelwasser mit Curly-Kale-Soße in der Pfanne gut vermischen und noch einmal gut durchwärmen, dabei nicht mehr zum Kochen bringen. Feta-Mezzelune mit cremiger Curly-Kale-Soße auf Teller verteilen.</p>\n<p>Tritt einen Schritt zurück. Sieht gut aus, oder? Lass es Dir schmecken!</p>",
+      "instructions": "Mezzelune und Nudelwasser mit Curly-Kale-Soße in der Pfanne gut vermischen und noch einmal gut durchwärmen, dabei nicht mehr zum Kochen bringen. Feta-Mezzelune mit cremiger Curly-Kale-Soße auf Teller verteilen.\nTritt einen Schritt zurück. Sieht gut aus, oder? Lass es Dir schmecken!",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/5819987acc7bd05cfb5c1af2-4-0-06263279.jpg",
+          "caption": "Mezzelune zugeben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.3,
+  "ratingsCount": 255,
+  "favoritesCount": 388,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/feta-mezzelune-mit-curly-kale-so-5819987acc7bd05cfb5c1af2",
+  "clonedFrom": null,
+  "canonical": "5819a6b8c7262828d1583182",
+  "canonicalLink": "https://www.hellofresh.de/recipes/feta-mezzelune-mit-curly-kale-so-5819a6b8c7262828d1583182"
+}

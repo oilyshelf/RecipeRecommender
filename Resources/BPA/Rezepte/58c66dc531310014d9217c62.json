@@ -1,0 +1,881 @@
+{
+  "country": "DE",
+  "id": "58c66dc531310014d9217c62",
+  "name": "Käsespätzlepfanne mit Bacon,",
+  "seoName": null,
+  "category": null,
+  "slug": "kasespatzlepfanne-mit-bacon-n",
+  "headline": "Wirsing und Schnittlauch",
+  "description": "Ein Klassiker für alle Liebhaber der herzhaften Küche: Käsespätzle! Wir haben das altbewährte Gericht mit herrlich würzigem Bergkäse zubereitet – der sorgt für ein ganz besonderes Geschmackserlebnis. Leckerer Bacon und frischer Wirsing runden unsere Käsespätzle perfekt ab. Guten Appetit!",
+  "descriptionHTML": "<p>Ein Klassiker für alle Liebhaber der herzhaften Küche: Käsespätzle! Wir haben das altbewährte Gericht mit herrlich würzigem Bergkäse zubereitet – der sorgt für ein ganz besonderes Geschmackserlebnis. Leckerer Bacon und frischer Wirsing runden unsere Käsespätzle perfekt ab. Guten Appetit!</p>",
+  "descriptionMarkdown": "Ein Klassiker für alle Liebhaber der herzhaften Küche: Käsespätzle! Wir haben das altbewährte Gericht mit herrlich würzigem Bergkäse zubereitet – der sorgt für ein ganz besonderes Geschmackserlebnis. Leckerer Bacon und frischer Wirsing runden unsere Käsespätzle perfekt ab. Guten Appetit!",
+  "seoDescription": "",
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT25M",
+  "totalTime": null,
+  "servingSize": 450,
+  "createdAt": "2017-03-13T10:00:37+00:00",
+  "updatedAt": "2017-07-02T21:18:07+00:00",
+  "link": "https://hellofresh.com/recipes/58c66dc531310014d9217c62",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/kasespatzlepfanne-mit-bacon-n-e384c55e.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/kasespatzlepfanne-mit-bacon-n-b35b6a9f.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3096,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 740,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 23,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 41,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 27,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 7,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "556843744dab71cb1c8b4568",
+      "type": "wirsing",
+      "name": "Wirsing",
+      "slug": "wirsing",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556843744dab71cb1c8b4568.png",
+      "usage": 18,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535376f8b25e8a038b4568",
+      "type": "bacon",
+      "name": "Bacon",
+      "slug": "bacon",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55535376f8b25e8a038b4568.png",
+      "usage": 116,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc12",
+        "type": "pork",
+        "name": "Schweinefleisch",
+        "slug": "schweinefleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc12-bdd443ff.png",
+        "usageByCountry": {
+          "AT": 486,
+          "AU": 290,
+          "BE": 179,
+          "CA": 134,
+          "CH": 113,
+          "DE": 455,
+          "ER": 54,
+          "FR": 58,
+          "GB": 613,
+          "LU": 212,
+          "NL": 191,
+          "NZ": 97,
+          "ML": 289,
+          "US": 624
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c0e3efd2cb9692b8b4568",
+      "type": "sahne",
+      "name": "Sahne",
+      "slug": "sahne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c0e3efd2cb9692b8b4568.png",
+      "usage": 176,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566f0eefd2cb95e018b4569",
+      "type": "spätzle",
+      "name": "Spätzle",
+      "slug": "spatzle",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566f0eefd2cb95e018b4569.png",
+      "usage": 33,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f6",
+          "type": "egg",
+          "name": "Ei",
+          "slug": "ei",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+          "usage": 365
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbfd",
+        "type": "pasta",
+        "name": "Pasta",
+        "slug": "pasta",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbfd-6aeaecc6.png",
+        "usageByCountry": {
+          "AT": 442,
+          "AU": 193,
+          "BE": 394,
+          "CA": 103,
+          "CH": 92,
+          "DE": 427,
+          "ER": 30,
+          "FR": 113,
+          "GB": 276,
+          "LU": 485,
+          "NL": 454,
+          "NZ": 48,
+          "ML": 420,
+          "US": 506
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55534596f8b25ea1038b4569",
+      "type": "schnittlauch",
+      "name": "Schnittlauch",
+      "slug": "schnittlauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55534596f8b25ea1038b4569.png",
+      "usage": 358,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb74",
+        "type": "chives",
+        "name": "Schnittlauch",
+        "slug": "schnittlauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb74-921bfcce.png",
+        "usageByCountry": {
+          "AT": 382,
+          "AU": 32,
+          "BE": 85,
+          "CA": 38,
+          "CH": 68,
+          "DE": 358,
+          "ER": 0,
+          "FR": 30,
+          "GB": 71,
+          "LU": 117,
+          "NL": 104,
+          "NZ": 20,
+          "ML": 0,
+          "US": 80
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "558bfee9f8b25e9e078b4567",
+      "type": "bergkäse",
+      "name": "Bergkäse",
+      "slug": "bergkase",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/558bfee9f8b25e9e078b4567-4e90a291.png",
+      "usage": 38,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "type": "egg",
+      "name": "Ei",
+      "slug": "ei",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "usage": 365
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    }
+  ],
+  "utensils": [],
+  "tags": [
+    {
+      "id": "58aeb949c9fd0851d339ede2",
+      "type": "discovery",
+      "name": "Neuentdeckung",
+      "slug": "neuentdeckung",
+      "iconLink": null,
+      "numberOfRecipes": 2647,
+      "numberOfRecipesByCountry": {
+        "AT": 1045,
+        "AU": 0,
+        "BE": 131,
+        "CA": 0,
+        "CH": 105,
+        "DE": 897,
+        "ER": 0,
+        "FR": 0,
+        "GB": 4,
+        "LU": 133,
+        "NL": 139,
+        "NZ": 0,
+        "ML": 193,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b30530e",
+      "type": "under-30-minutes",
+      "name": "Zeit sparen",
+      "slug": "zeit-sparen",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/HF_Icon_App_LessThan30min.png",
+      "numberOfRecipes": 4370,
+      "numberOfRecipesByCountry": {
+        "AT": 1140,
+        "AU": 141,
+        "BE": 540,
+        "CA": 0,
+        "CH": 201,
+        "DE": 989,
+        "ER": 0,
+        "FR": 128,
+        "GB": 0,
+        "LU": 581,
+        "NL": 644,
+        "NZ": 0,
+        "ML": 0,
+        "US": 6
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b5",
+      "type": "german",
+      "name": "Deutsch",
+      "slug": "deutsch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b5-91d543c1.jpg",
+      "usage": 497
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "556843744dab71cb1c8b4568",
+          "amount": 0.25,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55535376f8b25e8a038b4568",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "id": "556c0e3efd2cb9692b8b4568",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "id": "5566f0eefd2cb95e018b4569",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "558bfee9f8b25e9e078b4567",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "556843744dab71cb1c8b4568",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "55535376f8b25e8a038b4568",
+          "amount": 160,
+          "unit": "g"
+        },
+        {
+          "id": "556c0e3efd2cb9692b8b4568",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "id": "5566f0eefd2cb95e018b4569",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "558bfee9f8b25e9e078b4567",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Wasche Gemüse und Kräuter ab. Zum Kochen benötigst Du außerdem 2 große Pfannen und eine Gemüsereibe. \nEntdecke die Käsespätzlepfanne mit Bacon und Wirsing.\n\nStrunk vom Wirsing entfernen, dann in ca. 2 cm große Rauten schneiden. Zwiebel abziehen und fein würfeln. Bacon in Streifen schneiden.",
+      "instructionsHTML": "<p>Wasche Gemüse und Kräuter ab. Zum Kochen benötigst Du außerdem 2 große Pfannen und eine Gemüsereibe.\nEntdecke die Käsespätzlepfanne mit Bacon und Wirsing.</p>\n<p>Strunk vom Wirsing entfernen, dann in ca. 2 cm große Rauten schneiden. Zwiebel abziehen und fein würfeln. Bacon in Streifen schneiden.</p>",
+      "instructions": "Wasche Gemüse und Kräuter ab. Zum Kochen benötigst Du außerdem 2 große Pfannen und eine Gemüsereibe.\nEntdecke die Käsespätzlepfanne mit Bacon und Wirsing.\nStrunk vom Wirsing entfernen, dann in ca. 2 cm große Rauten schneiden. Zwiebel abziehen und fein würfeln. Bacon in Streifen schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58c66dc531310014d9217c62-0-0-86e35b0b.jpg",
+          "caption": "Wirsing schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55535376f8b25e8a038b4568",
+        "556843744dab71cb1c8b4568",
+        "554b34554dab71a6058b4576"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "In einer großen Pfanne 1 EL [2 EL] Öl bei mittlerer Stufe erhitzen, Zwiebelwürfel und Baconstreifen darin 2 – 3 Min. anbraten. Wirsingrauten 1 – 2 Min. mitbraten. Dann mit Sahne und 50 ml [100 ml] heißem Wasser ablöschen und 10 – 15 Min. bei mittlerer Stufe weiterköcheln lassen. Mit Salz und Pfeffer würzen.",
+      "instructionsHTML": "<p>In einer großen Pfanne 1 EL [2 EL] Öl bei mittlerer Stufe erhitzen, Zwiebelwürfel und Baconstreifen darin 2 – 3 Min. anbraten. Wirsingrauten 1 – 2 Min. mitbraten. Dann mit Sahne und 50 ml [100 ml] heißem Wasser ablöschen und 10 – 15 Min. bei mittlerer Stufe weiterköcheln lassen. Mit Salz und Pfeffer würzen.</p>",
+      "instructions": "In einer großen Pfanne 1 EL [2 EL] Öl bei mittlerer Stufe erhitzen, Zwiebelwürfel und Baconstreifen darin 2 – 3 Min. anbraten. Wirsingrauten 1 – 2 Min. mitbraten. Dann mit Sahne und 50 ml [100 ml] heißem Wasser ablöschen und 10 – 15 Min. bei mittlerer Stufe weiterköcheln lassen. Mit Salz und Pfeffer würzen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58c66dc531310014d9217c62-1-0-c0cbac45.jpg",
+          "caption": "Wirsing und Bacon anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55b0a135fd2cb9121e8b4567",
+        "556c0e3efd2cb9692b8b4568",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Währenddessen: In einer zweiten großen Pfanne ½ EL [1 EL] Öl erhitzen, Spätzle darin\n5 – 7 Min. unter Wenden anbraten. Danach Pfanne vom Herd nehmen.",
+      "instructionsHTML": "<p>Währenddessen: In einer zweiten großen Pfanne ½ EL [1 EL] Öl erhitzen, Spätzle darin\n5 – 7 Min. unter Wenden anbraten. Danach Pfanne vom Herd nehmen.</p>",
+      "instructions": "Währenddessen: In einer zweiten großen Pfanne ½ EL [1 EL] Öl erhitzen, Spätzle darin\n5 – 7 Min. unter Wenden anbraten. Danach Pfanne vom Herd nehmen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58c66dc531310014d9217c62-2-0-40b9f542.jpg",
+          "caption": "Spätzle anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5566f0eefd2cb95e018b4569"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Schnittlauch in feine Röllchen schneiden und Bergkäse grob reiben.",
+      "instructionsHTML": "<p>Schnittlauch in feine Röllchen schneiden und Bergkäse grob reiben.</p>",
+      "instructions": "Schnittlauch in feine Röllchen schneiden und Bergkäse grob reiben.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58c66dc531310014d9217c62-3-0-eae48b77.jpg",
+          "caption": "Bergkäse reiben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "558bfee9f8b25e9e078b4567",
+        "55534596f8b25ea1038b4569"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Gebratene Spätzle unter das Bacon-Wirsing-Gemüse heben, Bergkäse darüber streuen, noch einmal in der Pfanne wenden.",
+      "instructionsHTML": "<p>Gebratene Spätzle unter das Bacon-Wirsing-Gemüse heben, Bergkäse darüber streuen, noch einmal in der Pfanne wenden.</p>",
+      "instructions": "Gebratene Spätzle unter das Bacon-Wirsing-Gemüse heben, Bergkäse darüber streuen, noch einmal in der Pfanne wenden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58c66dc531310014d9217c62-4-0-71be3ac8.jpg",
+          "caption": "Käse unterrühren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Dann auf Teller verteilen, mit Schnittlauchröllchen bestreuen und genießen.",
+      "instructionsHTML": "<p>Dann auf Teller verteilen, mit Schnittlauchröllchen bestreuen und genießen.</p>",
+      "instructions": "Dann auf Teller verteilen, mit Schnittlauchröllchen bestreuen und genießen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58c66dc531310014d9217c62-5-0-ad52dd1d.jpg",
+          "caption": "Teller anrichten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.7,
+  "ratingsCount": 730,
+  "favoritesCount": 607,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/kasespatzlepfanne-mit-bacon-n-58c66dc531310014d9217c62",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

@@ -1,0 +1,908 @@
+{
+  "country": "DE",
+  "id": "57b2c94f77d68d73098b4568",
+  "name": "Schweinefilet mit leckerem Kürbiskern-Sultaninen-Topping,",
+  "seoName": null,
+  "category": null,
+  "slug": "schweinefilet-mit-leckerem-kurbi",
+  "headline": "dazu Kürbis- und Kartoffelspalten aus dem Ofen",
+  "description": "Bald ist Herbst... und weil niemand den Sommer loslassen möchte, gibt es diese Woche ein sommerliches, leicht herbstlich angehauchtes Kürbisgericht aus dem Backofen. Kirschtomaten und Frühlingszwiebeln verleihen dem Ofengemüse ein Gefühl von Spätsommer. Guten Appetit!",
+  "descriptionHTML": "<p>Bald ist Herbst... und weil niemand den Sommer loslassen möchte, gibt es diese Woche ein sommerliches, leicht herbstlich angehauchtes Kürbisgericht aus dem Backofen. Kirschtomaten und Frühlingszwiebeln verleihen dem Ofengemüse ein Gefühl von Spätsommer. Guten Appetit!</p>",
+  "descriptionMarkdown": "Bald ist Herbst... und weil niemand den Sommer loslassen möchte, gibt es diese Woche ein sommerliches, leicht herbstlich angehauchtes Kürbisgericht aus dem Backofen. Kirschtomaten und Frühlingszwiebeln verleihen dem Ofengemüse ein Gefühl von Spätsommer. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT40M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-08-16T08:05:35+00:00",
+  "updatedAt": "2017-04-21T10:05:39+00:00",
+  "link": "https://hellofresh.com/recipes/57b2c94f77d68d73098b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/schweinefilet-mit-leckerem-kurbiskern-sultaninen-topping-50717d2d.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/schweinefilet-mit-leckerem-kurbi-6e6be50b.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2690.312,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 643,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 22,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 69,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 38,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 84,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "55cb734f4dab71420d8b4568",
+      "type": "hokkaido-kurbis",
+      "name": "Kürbis (Hokkaido)",
+      "slug": "hokkaido-kurbis",
+      "description": null,
+      "internalName": "Hokkaido-Kürbis",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/55cb734f4dab71420d8b4568-10fc6d69.png",
+      "usage": 56,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc15",
+        "type": "pumpkin",
+        "name": "Kürbis",
+        "slug": "kurbis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc15-a697c3c3.png",
+        "usageByCountry": {
+          "AT": 70,
+          "AU": 136,
+          "BE": 9,
+          "CA": 0,
+          "CH": 9,
+          "DE": 62,
+          "ER": 0,
+          "FR": 4,
+          "GB": 0,
+          "LU": 10,
+          "NL": 9,
+          "NZ": 35,
+          "ML": 1,
+          "US": 1
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556da5f2f8b25e2d738b4569",
+      "type": "chiliflocken, mild",
+      "name": "milde Chiliflocken",
+      "slug": "chiliflocken-mild",
+      "description": null,
+      "internalName": "Chiliflocken, mild",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556da5f2f8b25e2d738b4569.png",
+      "usage": 29,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6e",
+        "type": "chili-spice",
+        "name": "Chili (Gewürz)",
+        "slug": "chili-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6e-57ddbd04.png",
+        "usageByCountry": {
+          "AT": 67,
+          "AU": 111,
+          "BE": 0,
+          "CA": 73,
+          "CH": 26,
+          "DE": 71,
+          "ER": 42,
+          "FR": 0,
+          "GB": 115,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 51,
+          "ML": 81,
+          "US": 426
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b6b664dab71160d8b4569",
+      "type": "schweinefilet",
+      "name": "Schweinefilet",
+      "slug": "schweinefilet",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b6b664dab71160d8b4569.png",
+      "usage": 128,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc12",
+        "type": "pork",
+        "name": "Schweinefleisch",
+        "slug": "schweinefleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc12-bdd443ff.png",
+        "usageByCountry": {
+          "AT": 486,
+          "AU": 290,
+          "BE": 179,
+          "CA": 134,
+          "CH": 113,
+          "DE": 455,
+          "ER": 54,
+          "FR": 58,
+          "GB": 613,
+          "LU": 212,
+          "NL": 191,
+          "NZ": 97,
+          "ML": 289,
+          "US": 624
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27e6fd2cb983608b4569",
+      "type": "fruhlingszwiebeln",
+      "name": "Frühlingszwiebel",
+      "slug": "fruhlingszwiebeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27e6fd2cb983608b4569.png",
+      "usage": 514,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc35",
+        "type": "spring-onion",
+        "name": "Frühlingszwiebel",
+        "slug": "fruhlingszwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc35-03c06826.png",
+        "usageByCountry": {
+          "AT": 575,
+          "AU": 0,
+          "BE": 15,
+          "CA": 0,
+          "CH": 113,
+          "DE": 514,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 421,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2a87f8b25ef53e8b4573",
+      "type": "kirschtomaten",
+      "name": "Kirschtomaten",
+      "slug": "kirschtomaten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2a87f8b25ef53e8b4573.png",
+      "usage": 324,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1a5b4dab71c8058b456d",
+      "type": "rosmarin",
+      "name": "Rosmarin",
+      "slug": "rosmarin",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1a5b4dab71c8058b456d.png",
+      "usage": 183,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1f",
+        "type": "rosemary",
+        "name": "Rosmarin",
+        "slug": "rosmarin",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1f-4ba602ae.png",
+        "usageByCountry": {
+          "AT": 225,
+          "AU": 75,
+          "BE": 121,
+          "CA": 52,
+          "CH": 43,
+          "DE": 221,
+          "ER": 2,
+          "FR": 29,
+          "GB": 104,
+          "LU": 131,
+          "NL": 145,
+          "NZ": 19,
+          "ML": 0,
+          "US": 126
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dab5c4dab71621b8b4567",
+      "type": "kurbiskerne",
+      "name": "Kürbiskerne",
+      "slug": "kurbiskerne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dab5c4dab71621b8b4567.png",
+      "usage": 121,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc2a",
+        "type": "seeds",
+        "name": "Saat",
+        "slug": "saat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc2a-b47cd032.png",
+        "usageByCountry": {
+          "AT": 170,
+          "AU": 54,
+          "BE": 143,
+          "CA": 19,
+          "CH": 30,
+          "DE": 147,
+          "ER": 0,
+          "FR": 39,
+          "GB": 81,
+          "LU": 175,
+          "NL": 177,
+          "NZ": 26,
+          "ML": 0,
+          "US": 67
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305381",
+      "type": "spoon",
+      "name": "Löffel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "scharf",
+      "slug": "scharf",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-spicy%403x.png",
+      "numberOfRecipes": 2399,
+      "numberOfRecipesByCountry": {
+        "AT": 200,
+        "AU": 107,
+        "BE": 147,
+        "CA": 71,
+        "CH": 53,
+        "DE": 211,
+        "ER": 103,
+        "FR": 0,
+        "GB": 497,
+        "LU": 54,
+        "NL": 149,
+        "NZ": 0,
+        "ML": 0,
+        "US": 807
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "55cb734f4dab71420d8b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 3,
+          "unit": "Stück"
+        },
+        {
+          "id": "556da5f2f8b25e2d738b4569",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "554b6b664dab71160d8b4569",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2a87f8b25ef53e8b4573",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b1a5b4dab71c8058b456d",
+          "amount": 1,
+          "unit": "Zweig"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555dab5c4dab71621b8b4567",
+          "amount": 20,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Kürbis halbieren und mithilfe eines Löffels die Kerne herauslö\u001fseln. Ungeschälte Karto\u001fffeln und Kürbishäl\u001e en in ca. 1 cm breite Spalten\nschneiden. Auf ein mit Backpapier belegtes Backblech geben (etwas Platz für das Fleisch lassen), mit 1 EL Olivenöl beträufeln und je einer Prise Salz und Pfeffer und den Chiliflocken (nach Geschmack) bestreuen. Im Backofen für ca. 25 Min. backen, bis das Gemüse goldbraun und gar ist.",
+      "instructionsHTML": "<p>Kürbis halbieren und mithilfe eines Löffels die Kerne herauslö\u001fseln. Ungeschälte Karto\u001fffeln und Kürbishäl\u001e en in ca. 1 cm breite Spalten\nschneiden. Auf ein mit Backpapier belegtes Backblech geben (etwas Platz für das Fleisch lassen), mit 1 EL Olivenöl beträufeln und je einer Prise Salz und Pfeffer und den Chiliflocken (nach Geschmack) bestreuen. Im Backofen für ca. 25 Min. backen, bis das Gemüse goldbraun und gar ist.</p>",
+      "instructions": "Kürbis halbieren und mithilfe eines Löffels die Kerne herauslö\u001fseln. Ungeschälte Karto\u001fffeln und Kürbishäl\u001e en in ca. 1 cm breite Spalten\nschneiden. Auf ein mit Backpapier belegtes Backblech geben (etwas Platz für das Fleisch lassen), mit 1 EL Olivenöl beträufeln und je einer Prise Salz und Pfeffer und den Chiliflocken (nach Geschmack) bestreuen. Im Backofen für ca. 25 Min. backen, bis das Gemüse goldbraun und gar ist.",
+      "timers": [
+        {
+          "name": "Kürbis backen",
+          "duration": "PT25M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/57b2c94f77d68d73098b4568/step_57b2fab15f356.jpg",
+          "caption": "Kürbis vorbereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55cb734f4dab71420d8b4568",
+        "554b25fcfd2cb973608b4567",
+        "556da5f2f8b25e2d738b4569",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305377",
+        "57e2674fb7e8697d4b305381",
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Schweinefilets mittig zu runden Medaillons scheinden. In einer großen Pfanne 1 TL Öl bei starker Hitze erwärmen und die Medaillons darin 1 Min. von jeder Seite anbraten. Mit Salz und Pfeffer würzen. Dann die Pfanne zur Seite stellen.",
+      "instructionsHTML": "<p>Schweinefilets mittig zu runden Medaillons scheinden. In einer großen Pfanne 1 TL Öl bei starker Hitze erwärmen und die Medaillons darin 1 Min. von jeder Seite anbraten. Mit Salz und Pfeffer würzen. Dann die Pfanne zur Seite stellen.</p>",
+      "instructions": "Schweinefilets mittig zu runden Medaillons scheinden. In einer großen Pfanne 1 TL Öl bei starker Hitze erwärmen und die Medaillons darin 1 Min. von jeder Seite anbraten. Mit Salz und Pfeffer würzen. Dann die Pfanne zur Seite stellen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/57b2c94f77d68d73098b4568/step_57b2fab17527b.jpg",
+          "caption": "Schweinemedaillons vorbereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b6b664dab71160d8b4569",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Die Frühlingszwiebeln schräg in Streifen schneiden. Die Kirschtomaten halbieren und beides nach ca. 15 Min. Backzeit zusammen mit dem Fleisch neben die Kürbis- und Kartoffelspalten auf das Backblech in den Backofen geben und weiterbacken.",
+      "instructionsHTML": "<p>Die Frühlingszwiebeln schräg in Streifen schneiden. Die Kirschtomaten halbieren und beides nach ca. 15 Min. Backzeit zusammen mit dem Fleisch neben die Kürbis- und Kartoffelspalten auf das Backblech in den Backofen geben und weiterbacken.</p>",
+      "instructions": "Die Frühlingszwiebeln schräg in Streifen schneiden. Die Kirschtomaten halbieren und beides nach ca. 15 Min. Backzeit zusammen mit dem Fleisch neben die Kürbis- und Kartoffelspalten auf das Backblech in den Backofen geben und weiterbacken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/57b2c94f77d68d73098b4568/step_57b2fab18dc58.jpg",
+          "caption": "Frühlingszwiebeln schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b27e6fd2cb983608b4569",
+        "554b2a87f8b25ef53e8b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Währenddessen Rosmarin abzupfen. Pfanne nicht auswischen, darin 1 TL Butter bei mittlerer Hitze erwärmen und die Kürbiskerne/Sultaninen und Rosmarinnadeln darin ca. 2-3 Min. unter anschwitzen..",
+      "instructionsHTML": "<p>Währenddessen Rosmarin abzupfen. Pfanne nicht auswischen, darin 1 TL Butter bei mittlerer Hitze erwärmen und die Kürbiskerne/Sultaninen und Rosmarinnadeln darin ca. 2-3 Min. unter anschwitzen..</p>",
+      "instructions": "Währenddessen Rosmarin abzupfen. Pfanne nicht auswischen, darin 1 TL Butter bei mittlerer Hitze erwärmen und die Kürbiskerne/Sultaninen und Rosmarinnadeln darin ca. 2-3 Min. unter anschwitzen..",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/57b2c94f77d68d73098b4568/step_57b2fab1a6eee.jpg",
+          "caption": "Rosmarin anschwitzen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1a5b4dab71c8058b456d",
+        "554b2288f8b25ef93e8b456c",
+        "555dab5c4dab71621b8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Die fertige Gemüse-Fleisch-Mischung aus dem Backofen nehmen, auf Tellern verteilen, mit dem Topping bestreuen und genießen.",
+      "instructionsHTML": "<p>Die fertige Gemüse-Fleisch-Mischung aus dem Backofen nehmen, auf Tellern verteilen, mit dem Topping bestreuen und genießen.</p>",
+      "instructions": "Die fertige Gemüse-Fleisch-Mischung aus dem Backofen nehmen, auf Tellern verteilen, mit dem Topping bestreuen und genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.4,
+  "ratingsCount": 1033,
+  "favoritesCount": 471,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/schweinefilet-mit-leckerem-kurbi-57b2c94f77d68d73098b4568",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

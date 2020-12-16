@@ -1,0 +1,1146 @@
+{
+  "country": "DE",
+  "id": "56b1be97fd2cb9d2468b4567",
+  "name": "Gruß aus Marokko: Linsen-Gemüse-Tajine",
+  "seoName": null,
+  "category": null,
+  "slug": "grus-aus-marokko-linsen-gemuse-t",
+  "headline": "mit Schwarzkümmel-Pita",
+  "description": "Diese leckere, marokkanische Gemüse-Tajine zaubert Dir heute Würze und Farbe auf den Teller. Viel frisches Gemüse und aromatische Gewürze und Kräuter machen dieses nordafrikanische Geschmackerlebnis perfekt! Lass es Dir schmecken!",
+  "descriptionHTML": "<p>Diese leckere, marokkanische Gemüse-Tajine zaubert Dir heute Würze und Farbe auf den Teller. Viel frisches Gemüse und aromatische Gewürze und Kräuter machen dieses nordafrikanische Geschmackerlebnis perfekt! Lass es Dir schmecken!</p>",
+  "descriptionMarkdown": "Diese leckere, marokkanische Gemüse-Tajine zaubert Dir heute Würze und Farbe auf den Teller. Viel frisches Gemüse und aromatische Gewürze und Kräuter machen dieses nordafrikanische Geschmackerlebnis perfekt! Lass es Dir schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT25M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-02-03T08:47:19+00:00",
+  "updatedAt": "2017-04-25T18:05:29+00:00",
+  "link": "https://hellofresh.com/recipes/56b1be97fd2cb9d2468b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/56b1be97fd2cb9d2468b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/56b1be97fd2cb9d2468b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3222,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 770,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 16,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 112,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 14,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b383efd2cb983608b456b",
+      "type": "minze",
+      "name": "Minze",
+      "slug": "minze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b383efd2cb983608b456b.png",
+      "usage": 143,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbdb",
+        "type": "mint",
+        "name": "Minze",
+        "slug": "minze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbdb-560eacae.png",
+        "usageByCountry": {
+          "AT": 146,
+          "AU": 164,
+          "BE": 116,
+          "CA": 37,
+          "CH": 33,
+          "DE": 144,
+          "ER": 0,
+          "FR": 39,
+          "GB": 172,
+          "LU": 133,
+          "NL": 137,
+          "NZ": 35,
+          "ML": 0,
+          "US": 90
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b6183fd2cb9d0608b456c",
+      "type": "pita-brote",
+      "name": "Pita-Brote",
+      "slug": "pita-brote",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b6183fd2cb9d0608b456c.png",
+      "usage": 41,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d7274f8b25ee4718b4569",
+      "type": "schwarzkümmel",
+      "name": "Schwarzkümmel",
+      "slug": "schwarzkummel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d7274f8b25ee4718b4569.png",
+      "usage": 35,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb98",
+        "type": "fennel-seeds",
+        "name": "Fenchelsamen",
+        "slug": "fenchelsamen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb98-895d60db.png",
+        "usageByCountry": {
+          "AT": 66,
+          "AU": 10,
+          "BE": 7,
+          "CA": 3,
+          "CH": 2,
+          "DE": 44,
+          "ER": 0,
+          "FR": 4,
+          "GB": 16,
+          "LU": 15,
+          "NL": 11,
+          "NZ": 6,
+          "ML": 0,
+          "US": 2
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5568858ff8b25e9f418b4569",
+      "type": "rote linsen",
+      "name": "Rote Linsen",
+      "slug": "rote-linsen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5568858ff8b25e9f418b4569.png",
+      "usage": 38,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc7",
+        "type": "lentils",
+        "name": "Linsen",
+        "slug": "linsen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc7-e62e92da.png",
+        "usageByCountry": {
+          "AT": 111,
+          "AU": 77,
+          "BE": 63,
+          "CA": 27,
+          "CH": 29,
+          "DE": 114,
+          "ER": 0,
+          "FR": 18,
+          "GB": 155,
+          "LU": 128,
+          "NL": 67,
+          "NZ": 7,
+          "ML": 0,
+          "US": 14
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2aa14dab71aa058b4570",
+      "type": "zucchini",
+      "name": "Zucchini",
+      "slug": "zucchini",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2aa14dab71aa058b4570-0ba23f81.png",
+      "usage": 435,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc58",
+        "type": "zucchini",
+        "name": "Zucchini",
+        "slug": "zucchini",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc58-4066951c.png",
+        "usageByCountry": {
+          "AT": 449,
+          "AU": 407,
+          "BE": 0,
+          "CA": 103,
+          "CH": 74,
+          "DE": 439,
+          "ER": 23,
+          "FR": 0,
+          "GB": 0,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 110,
+          "ML": 163,
+          "US": 443
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27e6fd2cb983608b4569",
+      "type": "fruhlingszwiebeln",
+      "name": "Frühlingszwiebel",
+      "slug": "fruhlingszwiebeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27e6fd2cb983608b4569.png",
+      "usage": 514,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc35",
+        "type": "spring-onion",
+        "name": "Frühlingszwiebel",
+        "slug": "fruhlingszwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc35-03c06826.png",
+        "usageByCountry": {
+          "AT": 575,
+          "AU": 0,
+          "BE": 15,
+          "CA": 0,
+          "CH": 113,
+          "DE": 514,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 421,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55fab6f04dab711d428b4567",
+      "type": "harissa",
+      "name": "Harissa",
+      "slug": "harissa",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55fab6f04dab711d428b4567.png",
+      "usage": 25,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6f",
+        "type": "chili-sauce",
+        "name": "Chilisoße",
+        "slug": "chilisosze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6f-c927cff8.png",
+        "usageByCountry": {
+          "AT": 108,
+          "AU": 71,
+          "BE": 70,
+          "CA": 48,
+          "CH": 20,
+          "DE": 106,
+          "ER": 12,
+          "FR": 23,
+          "GB": 81,
+          "LU": 123,
+          "NL": 96,
+          "NZ": 29,
+          "ML": 73,
+          "US": 127
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535a9af8b25e78738b4568",
+      "type": "joghurt",
+      "name": "Joghurt",
+      "slug": "joghurt",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55535a9af8b25e78738b4568.png",
+      "usage": 234,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc57",
+        "type": "yoghurt",
+        "name": "Jo­ghurt",
+        "slug": "joghurt",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc57-825533d1.png",
+        "usageByCountry": {
+          "AT": 464,
+          "AU": 272,
+          "BE": 368,
+          "CA": 43,
+          "CH": 101,
+          "DE": 434,
+          "ER": 0,
+          "FR": 31,
+          "GB": 207,
+          "LU": 341,
+          "NL": 408,
+          "NZ": 78,
+          "ML": 8,
+          "US": 48
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3639f8b25eef3e8b4575",
+      "type": "gemusebruhe-home",
+      "name": "Gemüsebrühe*",
+      "slug": "gemusebruhe",
+      "description": null,
+      "internalName": "Gemüsebrühe home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3639f8b25eef3e8b4575.png",
+      "usage": 441,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b3053a1",
+      "type": "smallpot",
+      "name": "Kleiner Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539f",
+      "type": "soupbowl",
+      "name": "TiefeTeller"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "scharf",
+      "slug": "scharf",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-spicy%403x.png",
+      "numberOfRecipes": 2399,
+      "numberOfRecipesByCountry": {
+        "AT": 200,
+        "AU": 107,
+        "BE": 147,
+        "CA": 71,
+        "CH": 53,
+        "DE": 211,
+        "ER": 103,
+        "FR": 0,
+        "GB": 497,
+        "LU": 54,
+        "NL": 149,
+        "NZ": 0,
+        "ML": 0,
+        "US": 807
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a3",
+      "type": "african",
+      "name": "Afrikanisch",
+      "slug": "afrikanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a3-3f3a3d24.jpg",
+      "usage": 176
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b383efd2cb983608b456b",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b6183fd2cb9d0608b456c",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "556d7274f8b25ee4718b4569",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "5568858ff8b25e9f418b4569",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2aa14dab71aa058b4570",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "55fab6f04dab711d428b4567",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "id": "55535a9af8b25e78738b4568",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b3639f8b25eef3e8b4575",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "In einem kleinen Topf 600 ml Gemüsebrühe zubereiten. Zwiebel und Knoblauch abziehen und klein schneiden. Rote Linsen in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. Fleischtomaten waschen, halbieren, Strunk entfernen und grob würfeln. Zucchini waschen, Enden entfernen und grob würfeln. Welkes Grün von den Frühlingszwiebeln entfernen, waschen und in feine Ringe schneiden. Dunkelgrüne Ringe extra beiseitelegen.",
+      "instructionsHTML": "<p>In einem kleinen Topf 600 ml Gemüsebrühe zubereiten. Zwiebel und Knoblauch abziehen und klein schneiden. Rote Linsen in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. Fleischtomaten waschen, halbieren, Strunk entfernen und grob würfeln. Zucchini waschen, Enden entfernen und grob würfeln. Welkes Grün von den Frühlingszwiebeln entfernen, waschen und in feine Ringe schneiden. Dunkelgrüne Ringe extra beiseitelegen.</p>",
+      "instructions": "In einem kleinen Topf 600 ml Gemüsebrühe zubereiten. Zwiebel und Knoblauch abziehen und klein schneiden. Rote Linsen in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. Fleischtomaten waschen, halbieren, Strunk entfernen und grob würfeln. Zucchini waschen, Enden entfernen und grob würfeln. Welkes Grün von den Frühlingszwiebeln entfernen, waschen und in feine Ringe schneiden. Dunkelgrüne Ringe extra beiseitelegen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56b1be97fd2cb9d2468b4567/step_56b2439497879.jpg",
+          "caption": "Frühlingszwiebel schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b34554dab71a6058b4576",
+        "554b268ffd2cb983608b4568",
+        "5568858ff8b25e9f418b4569",
+        "554b2621fd2cb99c598b4576",
+        "554b2aa14dab71aa058b4570",
+        "554b27e6fd2cb983608b4569",
+        "554b3639f8b25eef3e8b4575"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a1",
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "In einer großen Pfanne 1 EL Öl bei mittlerer Hitze erwärmen, Knoblauch und Zwiebel 1–2 Min. darin andünsten. Harissa zufügen und ca. 1 Min. mitbraten, bis es fein duftet. Tomaten, Zucchini, weißer und hellgrüner Teil der Frühlingszwiebeln und Linsen zugeben, alles gut vermischen und mit Gemüsebrühe ablöschen. Mit ein wenig Salz und Pfeffer abschmecken. Deckel aufsetzen und 20–25 Min. garen, bis die Linsen schön weich sind. Nach der Hälfte der Garzeit einmal umrühren.",
+      "instructionsHTML": "<p>In einer großen Pfanne 1 EL Öl bei mittlerer Hitze erwärmen, Knoblauch und Zwiebel 1–2 Min. darin andünsten. Harissa zufügen und ca. 1 Min. mitbraten, bis es fein duftet. Tomaten, Zucchini, weißer und hellgrüner Teil der Frühlingszwiebeln und Linsen zugeben, alles gut vermischen und mit Gemüsebrühe ablöschen. Mit ein wenig Salz und Pfeffer abschmecken. Deckel aufsetzen und 20–25 Min. garen, bis die Linsen schön weich sind. Nach der Hälfte der Garzeit einmal umrühren.</p>",
+      "instructions": "In einer großen Pfanne 1 EL Öl bei mittlerer Hitze erwärmen, Knoblauch und Zwiebel 1–2 Min. darin andünsten. Harissa zufügen und ca. 1 Min. mitbraten, bis es fein duftet. Tomaten, Zucchini, weißer und hellgrüner Teil der Frühlingszwiebeln und Linsen zugeben, alles gut vermischen und mit Gemüsebrühe ablöschen. Mit ein wenig Salz und Pfeffer abschmecken. Deckel aufsetzen und 20–25 Min. garen, bis die Linsen schön weich sind. Nach der Hälfte der Garzeit einmal umrühren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56b1be97fd2cb9d2468b4567/step_56b24394bb413.jpg",
+          "caption": "Zwiebel andünsten"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56b1be97fd2cb9d2468b4567/step_56b24394d116d.jpg",
+          "caption": "Mit Gemüsebrühe ablöschen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55fab6f04dab711d428b4567",
+        "554b3639f8b25eef3e8b4575",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Backofen auf 200 °C Ober-/Unterhitze vorheizen. Minze waschen, trocken schütteln, Blätter abzupfen und in Streifen schneiden. Pita-Brote mit ca. 1 EL Butter bestreichen und mit Schwarzkümmel bestreuen. Dann im vorgeheizten Backofen 10–15 Min. überbacken, danach kurz abkühlen lassen.",
+      "instructionsHTML": "<p>Backofen auf 200 °C Ober-/Unterhitze vorheizen. Minze waschen, trocken schütteln, Blätter abzupfen und in Streifen schneiden. Pita-Brote mit ca. 1 EL Butter bestreichen und mit Schwarzkümmel bestreuen. Dann im vorgeheizten Backofen 10–15 Min. überbacken, danach kurz abkühlen lassen.</p>",
+      "instructions": "Backofen auf 200 °C Ober-/Unterhitze vorheizen. Minze waschen, trocken schütteln, Blätter abzupfen und in Streifen schneiden. Pita-Brote mit ca. 1 EL Butter bestreichen und mit Schwarzkümmel bestreuen. Dann im vorgeheizten Backofen 10–15 Min. überbacken, danach kurz abkühlen lassen.",
+      "timers": [
+        {
+          "name": "Backofen vorheizen",
+          "duration": "PT20M",
+          "temperature": 200,
+          "temperatureUnit": "C",
+          "ovenMode": "PreHeating"
+        },
+        {
+          "name": "Pita-Brote überbacken",
+          "duration": "PT10M",
+          "temperature": 200,
+          "temperatureUnit": "C",
+          "ovenMode": "TopBottomHeating"
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56b1be97fd2cb9d2468b4567/step_56b243950cf35.jpg",
+          "caption": "Minze schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b383efd2cb983608b456b",
+        "554b6183fd2cb9d0608b456c",
+        "554b2288f8b25ef93e8b456c",
+        "556d7274f8b25ee4718b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Linsen-Gemüse-Tajine auf tiefen Teller verteilen, einen großen Klecks Joghurt darauf geben, mit Minze und mit grünem Teil der Frühlingszwiebeln bestreuen und zusammen mit knusprigen Schwarzkümmel-Pita-Broten genießen!",
+      "instructionsHTML": "<p>Linsen-Gemüse-Tajine auf tiefen Teller verteilen, einen großen Klecks Joghurt darauf geben, mit Minze und mit grünem Teil der Frühlingszwiebeln bestreuen und zusammen mit knusprigen Schwarzkümmel-Pita-Broten genießen!</p>",
+      "instructions": "Linsen-Gemüse-Tajine auf tiefen Teller verteilen, einen großen Klecks Joghurt darauf geben, mit Minze und mit grünem Teil der Frühlingszwiebeln bestreuen und zusammen mit knusprigen Schwarzkümmel-Pita-Broten genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "55535a9af8b25e78738b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539f"
+      ]
+    }
+  ],
+  "averageRating": 3.4,
+  "ratingsCount": 512,
+  "favoritesCount": 855,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/grus-aus-marokko-linsen-gemuse-t-56b1be97fd2cb9d2468b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

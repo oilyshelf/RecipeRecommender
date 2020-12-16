@@ -1,0 +1,1159 @@
+{
+  "country": "DE",
+  "id": "560bb38579a23cbc198b4567",
+  "name": "Cremiger Pesto Rosso-Kartoffelauflauf",
+  "seoName": null,
+  "category": null,
+  "slug": "cremiger-pesto-rosso-kartoffelauflauf",
+  "headline": "mit Rucola-Salat",
+  "description": "Pesto rosso passt zwar auch bestens zu Nudeln, veredelt aber auch einen Karto\u001fffelauflauf zu einem echten Genuss-Essen. Zumal wenn das Pesto selbst gemacht ist - und die Wunderkrä\u001efte der Tomate stecken allemal drin. Lass es Dir schmecken!",
+  "descriptionHTML": "<p>Pesto rosso passt zwar auch bestens zu Nudeln, veredelt aber auch einen Karto\u001fffelauflauf zu einem echten Genuss-Essen. Zumal wenn das Pesto selbst gemacht ist - und die Wunderkrä\u001efte der Tomate stecken allemal drin. Lass es Dir schmecken!</p>",
+  "descriptionMarkdown": "Pesto rosso passt zwar auch bestens zu Nudeln, veredelt aber auch einen Karto\u001fffelauflauf zu einem echten Genuss-Essen. Zumal wenn das Pesto selbst gemacht ist - und die Wunderkrä\u001efte der Tomate stecken allemal drin. Lass es Dir schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT40M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-09-30T10:03:49+00:00",
+  "updatedAt": "2017-03-30T08:24:19+00:00",
+  "link": "https://hellofresh.com/recipes/560bb38579a23cbc198b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/560bb38579a23cbc198b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/560bb38579a23cbc198b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2690.312,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 643,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 38,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 51,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2645fd2cb983608b4567",
+      "type": "frischer oregano",
+      "name": "frischer Oregano",
+      "slug": "frischer-oregano",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2645fd2cb983608b4567.png",
+      "usage": 120,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf0",
+        "type": "oregano",
+        "name": "Oregano",
+        "slug": "oregano",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf0-6e86fa56.png",
+        "usageByCountry": {
+          "AT": 189,
+          "AU": 88,
+          "BE": 199,
+          "CA": 43,
+          "CH": 36,
+          "DE": 166,
+          "ER": 6,
+          "FR": 31,
+          "GB": 89,
+          "LU": 160,
+          "NL": 225,
+          "NZ": 24,
+          "ML": 0,
+          "US": 155
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b26d2f8b25ef53e8b4572",
+      "type": "mandeln",
+      "name": "Mandeln",
+      "slug": "mandeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b26d2f8b25ef53e8b4572.png",
+      "usage": 63,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fb",
+          "type": "nuts",
+          "name": "Schalenfrüchte",
+          "slug": "schalenfruchte",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+          "usage": 300
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27104dab71a9058b456c",
+      "type": "getrocknete tomaten",
+      "name": "getrocknete Tomaten",
+      "slug": "getrocknete-tomaten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27104dab71a9058b456c.png",
+      "usage": 142,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b276afd2cb973608b4568",
+      "type": "pecorino d.o.p.",
+      "name": "Pecorino D.O.P.",
+      "slug": "pecorino-d-o-p",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b276afd2cb973608b4568.png",
+      "usage": 16,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1f134dab71aa058b456e",
+      "type": "crème fraîche",
+      "name": "Crème fraîche",
+      "slug": "creme-fraiche",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1f134dab71aa058b456e.png",
+      "usage": 305,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb86",
+        "type": "creme-fraiche",
+        "name": "Crème Fraîche",
+        "slug": "creme-fraiche",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb86-533fc64c.png",
+        "usageByCountry": {
+          "AT": 321,
+          "AU": 0,
+          "BE": 119,
+          "CA": 0,
+          "CH": 81,
+          "DE": 305,
+          "ER": 0,
+          "FR": 21,
+          "GB": 328,
+          "LU": 127,
+          "NL": 144,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27944dab71c8058b4571",
+      "type": "geriebener mozzarella",
+      "name": "geriebener Mozzarella",
+      "slug": "geriebener-mozzarella",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27944dab71c8058b4571.png",
+      "usage": 39,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27b5f8b25e42438b4568",
+      "type": "rucola",
+      "name": "Rucola",
+      "slug": "rucola",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27b5f8b25e42438b4568.png",
+      "usage": 266,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27e6fd2cb983608b4569",
+      "type": "fruhlingszwiebeln",
+      "name": "Frühlingszwiebel",
+      "slug": "fruhlingszwiebeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27e6fd2cb983608b4569.png",
+      "usage": 514,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc35",
+        "type": "spring-onion",
+        "name": "Frühlingszwiebel",
+        "slug": "fruhlingszwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc35-03c06826.png",
+        "usageByCountry": {
+          "AT": 575,
+          "AU": 0,
+          "BE": 15,
+          "CA": 0,
+          "CH": 113,
+          "DE": 514,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 421,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22f4f8b25e42438b4567",
+      "type": "essig",
+      "name": "Essig*",
+      "slug": "essig",
+      "description": null,
+      "internalName": "Essig [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22f4f8b25e42438b4567.png",
+      "usage": 323,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052ff",
+          "type": "sulphites",
+          "name": "Schwefel",
+          "slug": "schwefel",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+          "usage": 178
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc4e",
+        "type": "vinegar",
+        "name": "Essig",
+        "slug": "essig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc4e-487a2c2e.png",
+        "usageByCountry": {
+          "AT": 946,
+          "AU": 556,
+          "BE": 739,
+          "CA": 272,
+          "CH": 185,
+          "DE": 877,
+          "ER": 16,
+          "FR": 209,
+          "GB": 406,
+          "LU": 884,
+          "NL": 855,
+          "NZ": 199,
+          "ML": 77,
+          "US": 710
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "type": "nuts",
+      "name": "Schalenfrüchte",
+      "slug": "schalenfruchte",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "usage": 300
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "type": "sulphites",
+      "name": "Schwefel",
+      "slug": "schwefel",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "usage": 178
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Pürierstab"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Auflaufform"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2645fd2cb983608b4567",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b26d2f8b25ef53e8b4572",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "id": "554b27104dab71a9058b456c",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "554b276afd2cb973608b4568",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "554b1f134dab71aa058b456e",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "554b27944dab71c8058b4571",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "554b27b5f8b25e42438b4568",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22f4f8b25e42438b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "1. Backofen auf 220°C Ober-/Unterhitze vorheizen.",
+      "instructionsHTML": "<ol>\n<li>Backofen auf 220°C Ober-/Unterhitze vorheizen.</li>\n</ol>",
+      "instructions": "\nBackofen auf 220°C Ober-/Unterhitze vorheizen.\n",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Kartoffeln waschen, schälen und in feine Scheiben schneiden. Anschließend in einem großen Topf mit reichlich Salzwasser einmal aufkochen lassen, dann ca. 3 Min. weiterköcheln lassen. Abgießen, abtropfen lassen und gründlich trocken tupfen. Tomaten waschen und in ca. 2–4 cm große Stücke schneiden. Oregano waschen, trocken schütteln und klein schneiden.",
+      "instructionsHTML": "<p>Kartoffeln waschen, schälen und in feine Scheiben schneiden. Anschließend in einem großen Topf mit reichlich Salzwasser einmal aufkochen lassen, dann ca. 3 Min. weiterköcheln lassen. Abgießen, abtropfen lassen und gründlich trocken tupfen. Tomaten waschen und in ca. 2–4 cm große Stücke schneiden. Oregano waschen, trocken schütteln und klein schneiden.</p>",
+      "instructions": "Kartoffeln waschen, schälen und in feine Scheiben schneiden. Anschließend in einem großen Topf mit reichlich Salzwasser einmal aufkochen lassen, dann ca. 3 Min. weiterköcheln lassen. Abgießen, abtropfen lassen und gründlich trocken tupfen. Tomaten waschen und in ca. 2–4 cm große Stücke schneiden. Oregano waschen, trocken schütteln und klein schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/560bb38579a23cbc198b4567/step_560cf29d1ee29.jpg",
+          "caption": "Kartoffeln schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2621fd2cb99c598b4576",
+        "554b2645fd2cb983608b4567",
+        "554b25fcfd2cb973608b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Knoblauch abziehen, ⅛ (¼) davon mit den Mandeln mithilfe eines Pürierstabs oder in einem Mixer grob zerkleinern. 2 EL Olivenöl und getrocknete Tomaten zugeben, weiter pürieren/mixen. Pecorino hinzufügen, mit etwas Salz (Vorsicht: Die getrockneten Tomaten sind schon sehr salzig!), Pfeffer und 1 Prise Zucker würzen und weiter mixen, bis eine gleichmäßige Masse entstanden ist. Pesto Rosso mit Crème fraîche verrühren. Diese Crème vorsichtig mit den Kartoffeln und Tomaten vermischen.",
+      "instructionsHTML": "<p>Knoblauch abziehen, ⅛ (¼) davon mit den Mandeln mithilfe eines Pürierstabs oder in einem Mixer grob zerkleinern. 2 EL Olivenöl und getrocknete Tomaten zugeben, weiter pürieren/mixen. Pecorino hinzufügen, mit etwas Salz (Vorsicht: Die getrockneten Tomaten sind schon sehr salzig!), Pfeffer und 1 Prise Zucker würzen und weiter mixen, bis eine gleichmäßige Masse entstanden ist. Pesto Rosso mit Crème fraîche verrühren. Diese Crème vorsichtig mit den Kartoffeln und Tomaten vermischen.</p>",
+      "instructions": "Knoblauch abziehen, ⅛ (¼) davon mit den Mandeln mithilfe eines Pürierstabs oder in einem Mixer grob zerkleinern. 2 EL Olivenöl und getrocknete Tomaten zugeben, weiter pürieren/mixen. Pecorino hinzufügen, mit etwas Salz (Vorsicht: Die getrockneten Tomaten sind schon sehr salzig!), Pfeffer und 1 Prise Zucker würzen und weiter mixen, bis eine gleichmäßige Masse entstanden ist. Pesto Rosso mit Crème fraîche verrühren. Diese Crème vorsichtig mit den Kartoffeln und Tomaten vermischen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/560bb38579a23cbc198b4567/step_560cf29d3bf99.jpg",
+          "caption": "Knoblauch und Mandeln zerkleinern"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b268ffd2cb983608b4568",
+        "554b26d2f8b25ef53e8b4572"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a0",
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Die Hälfte der Kartoffel-Tomaten-Mischung in einer leicht gefetteten, feuerfesten Auflaufform verteilen, mit der Hälfte des Mozzarellas bedecken. Diesen Vorgang mit der restlichen Kartoffel-Tomaten-Mischung und dem Mozzarella wiederholen. Den Auflauf für ca. 25 Min. auf der mittleren Schiene des Ofens backen, bis der Mozzarella bräunlich und zerlaufen ist.",
+      "instructionsHTML": "<p>Die Hälfte der Kartoffel-Tomaten-Mischung in einer leicht gefetteten, feuerfesten Auflaufform verteilen, mit der Hälfte des Mozzarellas bedecken. Diesen Vorgang mit der restlichen Kartoffel-Tomaten-Mischung und dem Mozzarella wiederholen. Den Auflauf für ca. 25 Min. auf der mittleren Schiene des Ofens backen, bis der Mozzarella bräunlich und zerlaufen ist.</p>",
+      "instructions": "Die Hälfte der Kartoffel-Tomaten-Mischung in einer leicht gefetteten, feuerfesten Auflaufform verteilen, mit der Hälfte des Mozzarellas bedecken. Diesen Vorgang mit der restlichen Kartoffel-Tomaten-Mischung und dem Mozzarella wiederholen. Den Auflauf für ca. 25 Min. auf der mittleren Schiene des Ofens backen, bis der Mozzarella bräunlich und zerlaufen ist.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b27944dab71c8058b4571"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305367",
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Rucola waschen, abtropfen lassen, evtl. ein wenig kleiner schneiden. Frühlingszwiebel waschen, welkes Grün entfernen und in feine Röllchen schneiden. 2 ½ EL Olivenöl mit 1 EL Essig, 1 Prise Zucker und etwas Salz und Pfeffer verrühren. Dieses anschließend mit Frühlingszwiebeln und Rucola vermischen und bis zum Anrichten ziehen lassen.",
+      "instructionsHTML": "<p>Rucola waschen, abtropfen lassen, evtl. ein wenig kleiner schneiden. Frühlingszwiebel waschen, welkes Grün entfernen und in feine Röllchen schneiden. 2 ½ EL Olivenöl mit 1 EL Essig, 1 Prise Zucker und etwas Salz und Pfeffer verrühren. Dieses anschließend mit Frühlingszwiebeln und Rucola vermischen und bis zum Anrichten ziehen lassen.</p>",
+      "instructions": "Rucola waschen, abtropfen lassen, evtl. ein wenig kleiner schneiden. Frühlingszwiebel waschen, welkes Grün entfernen und in feine Röllchen schneiden. 2 ½ EL Olivenöl mit 1 EL Essig, 1 Prise Zucker und etwas Salz und Pfeffer verrühren. Dieses anschließend mit Frühlingszwiebeln und Rucola vermischen und bis zum Anrichten ziehen lassen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b27b5f8b25e42438b4568",
+        "554b27e6fd2cb983608b4569",
+        "554b22cb4dab71c8058b4570",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b2319fd2cb9ba598b456d",
+        "554b22f4f8b25e42438b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Kartoffelauflauf nach der Garzeit noch ein paar Min. mit einem Küchentuch bedeckt ruhen lassen. Dann auf Tellern verteilen, mit frischem Oregano bestreuen und genießen!",
+      "instructionsHTML": "<p>Kartoffelauflauf nach der Garzeit noch ein paar Min. mit einem Küchentuch bedeckt ruhen lassen. Dann auf Tellern verteilen, mit frischem Oregano bestreuen und genießen!</p>",
+      "instructions": "Kartoffelauflauf nach der Garzeit noch ein paar Min. mit einem Küchentuch bedeckt ruhen lassen. Dann auf Tellern verteilen, mit frischem Oregano bestreuen und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b2645fd2cb983608b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.5,
+  "ratingsCount": 442,
+  "favoritesCount": 1118,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/cremiger-pesto-rosso-kartoffelauflauf-560bb38579a23cbc198b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

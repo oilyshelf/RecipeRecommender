@@ -1,0 +1,1162 @@
+{
+  "country": "DE",
+  "id": "57cdae4bb5793f135f8b4568",
+  "name": "Kürbis mit Camembert aus dem Backofen",
+  "seoName": null,
+  "category": null,
+  "slug": "kurbis-mit-camembert-aus-dem-bac",
+  "headline": "frischem Thymian und Kürbiskernen und Mehrkornbrötchen",
+  "description": "Heute haben wir ein Deiner Seele schmeichelndes Gericht: Es ist einfach zuzubereiten und macht Dich satt und glücklich. So bist Du bestens gewappnet für die kürzer und grauer werdenden Herbsttage. Guten Appetit!",
+  "descriptionHTML": "<p>Heute haben wir ein Deiner Seele schmeichelndes Gericht: Es ist einfach zuzubereiten und macht Dich satt und glücklich. So bist Du bestens gewappnet für die kürzer und grauer werdenden Herbsttage. Guten Appetit!</p>",
+  "descriptionMarkdown": "Heute haben wir ein Deiner Seele schmeichelndes Gericht: Es ist einfach zuzubereiten und macht Dich satt und glücklich. So bist Du bestens gewappnet für die kürzer und grauer werdenden Herbsttage. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT40M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-09-05T17:41:31+00:00",
+  "updatedAt": "2017-04-20T09:41:27+00:00",
+  "link": "https://hellofresh.com/recipes/57cdae4bb5793f135f8b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/kurbis-mit-camembert-aus-dem-bac-0d454e6a.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/kurbis-mit-camembert-aus-dem-bac-29f377aa.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2958,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 707,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 31,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 77,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 28,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 37,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "55cb734f4dab71420d8b4568",
+      "type": "hokkaido-kurbis",
+      "name": "Kürbis (Hokkaido)",
+      "slug": "hokkaido-kurbis",
+      "description": null,
+      "internalName": "Hokkaido-Kürbis",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/55cb734f4dab71420d8b4568-10fc6d69.png",
+      "usage": 56,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc15",
+        "type": "pumpkin",
+        "name": "Kürbis",
+        "slug": "kurbis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc15-a697c3c3.png",
+        "usageByCountry": {
+          "AT": 70,
+          "AU": 136,
+          "BE": 9,
+          "CA": 0,
+          "CH": 9,
+          "DE": 62,
+          "ER": 0,
+          "FR": 4,
+          "GB": 0,
+          "LU": 10,
+          "NL": 9,
+          "NZ": 35,
+          "ML": 1,
+          "US": 1
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da357fd2cb943758b4567",
+      "type": "thymian",
+      "name": "Thymian",
+      "slug": "thymian",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da357fd2cb943758b4567.png",
+      "usage": 245,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc43",
+        "type": "thyme",
+        "name": "Thymian",
+        "slug": "thymian",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc43-d0cc4199.png",
+        "usageByCountry": {
+          "AT": 252,
+          "AU": 94,
+          "BE": 243,
+          "CA": 96,
+          "CH": 34,
+          "DE": 252,
+          "ER": 0,
+          "FR": 73,
+          "GB": 187,
+          "LU": 346,
+          "NL": 288,
+          "NZ": 38,
+          "ML": 213,
+          "US": 322
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556da5f2f8b25e2d738b4569",
+      "type": "chiliflocken, mild",
+      "name": "milde Chiliflocken",
+      "slug": "chiliflocken-mild",
+      "description": null,
+      "internalName": "Chiliflocken, mild",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556da5f2f8b25e2d738b4569.png",
+      "usage": 29,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6e",
+        "type": "chili-spice",
+        "name": "Chili (Gewürz)",
+        "slug": "chili-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6e-57ddbd04.png",
+        "usageByCountry": {
+          "AT": 67,
+          "AU": 111,
+          "BE": 0,
+          "CA": 73,
+          "CH": 26,
+          "DE": 71,
+          "ER": 42,
+          "FR": 0,
+          "GB": 115,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 51,
+          "ML": 81,
+          "US": 426
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5638c6faf8b25e7d598b4567",
+      "type": "camembert",
+      "name": "Camembert",
+      "slug": "camembert",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/5638c6faf8b25e7d598b4567-cdb8832d.png",
+      "usage": 18,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dab5c4dab71621b8b4567",
+      "type": "kurbiskerne",
+      "name": "Kürbiskerne",
+      "slug": "kurbiskerne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dab5c4dab71621b8b4567.png",
+      "usage": 121,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc2a",
+        "type": "seeds",
+        "name": "Saat",
+        "slug": "saat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc2a-b47cd032.png",
+        "usageByCountry": {
+          "AT": 170,
+          "AU": 54,
+          "BE": 143,
+          "CA": 19,
+          "CH": 30,
+          "DE": 147,
+          "ER": 0,
+          "FR": 39,
+          "GB": 81,
+          "LU": 175,
+          "NL": 177,
+          "NZ": 26,
+          "ML": 0,
+          "US": 67
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555d9563f8b25e406a8b4567",
+      "type": "salatmischung",
+      "name": "Salatmischung",
+      "slug": "salatmischung",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555d9563f8b25e406a8b4567.png",
+      "usage": 97,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5579901b4dab71e3468b4567",
+      "type": "balsamico-creme-shipped",
+      "name": "Balsamico-Crème",
+      "slug": "balsamico-creme-shipped",
+      "description": null,
+      "internalName": "Balsamico-Creme (shipped)",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5579901b4dab71e3468b4567.png",
+      "usage": 146,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        },
+        {
+          "id": "57962a07b7e8697d4b3052ff",
+          "type": "sulphites",
+          "name": "Schwefel",
+          "slug": "schwefel",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+          "usage": 178
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc4e",
+        "type": "vinegar",
+        "name": "Essig",
+        "slug": "essig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc4e-487a2c2e.png",
+        "usageByCountry": {
+          "AT": 946,
+          "AU": 556,
+          "BE": 739,
+          "CA": 272,
+          "CH": 185,
+          "DE": 877,
+          "ER": 16,
+          "FR": 209,
+          "GB": 406,
+          "LU": 884,
+          "NL": 855,
+          "NZ": 199,
+          "ML": 77,
+          "US": 710
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22f4f8b25e42438b4567",
+      "type": "essig",
+      "name": "Essig*",
+      "slug": "essig",
+      "description": null,
+      "internalName": "Essig [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22f4f8b25e42438b4567.png",
+      "usage": 323,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052ff",
+          "type": "sulphites",
+          "name": "Schwefel",
+          "slug": "schwefel",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+          "usage": 178
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc4e",
+        "type": "vinegar",
+        "name": "Essig",
+        "slug": "essig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc4e-487a2c2e.png",
+        "usageByCountry": {
+          "AT": 946,
+          "AU": 556,
+          "BE": 739,
+          "CA": 272,
+          "CH": 185,
+          "DE": 877,
+          "ER": 16,
+          "FR": 209,
+          "GB": 406,
+          "LU": 884,
+          "NL": 855,
+          "NZ": 199,
+          "ML": 77,
+          "US": 710
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535e24f8b25e78738b4569",
+      "type": "senf",
+      "name": "Senf",
+      "slug": "senf",
+      "description": null,
+      "internalName": "Senf home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55535e24f8b25e78738b4569.png",
+      "usage": 102,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fd",
+          "type": "mustard",
+          "name": "Senf",
+          "slug": "senf",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+          "usage": 158
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbdf",
+        "type": "mustard",
+        "name": "Senf",
+        "slug": "senf",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbdf-bd28b3fe.png",
+        "usageByCountry": {
+          "AT": 411,
+          "AU": 149,
+          "BE": 262,
+          "CA": 135,
+          "CH": 75,
+          "DE": 361,
+          "ER": 7,
+          "FR": 68,
+          "GB": 159,
+          "LU": 354,
+          "NL": 295,
+          "NZ": 42,
+          "ML": 1,
+          "US": 175
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7d614dab71160d8b456b",
+      "type": "honig-home",
+      "name": "Honig*",
+      "slug": "honig",
+      "description": null,
+      "internalName": "Honig [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7d614dab71160d8b456b.png",
+      "usage": 203,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbb3",
+        "type": "honey",
+        "name": "Honig",
+        "slug": "honig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbb3-efe0c124.png",
+        "usageByCountry": {
+          "AT": 360,
+          "AU": 274,
+          "BE": 368,
+          "CA": 136,
+          "CH": 83,
+          "DE": 326,
+          "ER": 12,
+          "FR": 77,
+          "GB": 224,
+          "LU": 363,
+          "NL": 442,
+          "NZ": 139,
+          "ML": 1,
+          "US": 303
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "57cdaf0f3933dcca508b4568",
+      "type": "mehrkornbrotchen",
+      "name": "Mehrkornbrötchen",
+      "slug": "mehrkornbrotchen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/57cdaf0f3933dcca508b4567-16672fd8.png",
+      "usage": 4,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "type": "sulphites",
+      "name": "Schwefel",
+      "slug": "schwefel",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "usage": 178
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "type": "mustard",
+      "name": "Senf",
+      "slug": "senf",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "usage": 158
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305381",
+      "type": "spoon",
+      "name": "Löffel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Große Schüssel"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "scharf",
+      "slug": "scharf",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-spicy%403x.png",
+      "numberOfRecipes": 2399,
+      "numberOfRecipesByCountry": {
+        "AT": 200,
+        "AU": 107,
+        "BE": 147,
+        "CA": 71,
+        "CH": 53,
+        "DE": 211,
+        "ER": 103,
+        "FR": 0,
+        "GB": 497,
+        "LU": 54,
+        "NL": 149,
+        "NZ": 0,
+        "ML": 0,
+        "US": 807
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305320",
+      "type": "high-fiber",
+      "name": "ballaststoffreich",
+      "slug": "ballaststoffreich",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 817,
+      "numberOfRecipesByCountry": {
+        "AT": 303,
+        "AU": 121,
+        "BE": 17,
+        "CA": 0,
+        "CH": 47,
+        "DE": 310,
+        "ER": 0,
+        "FR": 0,
+        "GB": 1,
+        "LU": 1,
+        "NL": 17,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "55cb734f4dab71420d8b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "555da357fd2cb943758b4567",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "556da5f2f8b25e2d738b4569",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "5638c6faf8b25e7d598b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "555dab5c4dab71621b8b4567",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "555d9563f8b25e406a8b4567",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "5579901b4dab71e3468b4567",
+          "amount": 6,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22f4f8b25e42438b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55535e24f8b25e78738b4569",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b7d614dab71160d8b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "57cdaf0f3933dcca508b4568",
+          "amount": 2,
+          "unit": "Stück"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung:Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Backofen auf 180 °C Ober-/Unterhitze (160 °C Umluft) vorheizen. \n\nDen Strunk und den Rest der Wurzel auf der gegenüberliegenden Seite des Kürbis so abschneiden, dass zwei kleine gerade Standflächen entstehen. Kürbis halbieren, Kerne mit einem Lö\u001effel entfernen und so viel Kürbisfleisch entfernen, dass der Camembert gut Platz hat.",
+      "instructionsHTML": "<p>Vorbereitung:Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Backofen auf 180 °C Ober-/Unterhitze (160 °C Umluft) vorheizen. </p>\n<p>Den Strunk und den Rest der Wurzel auf der gegenüberliegenden Seite des Kürbis so abschneiden, dass zwei kleine gerade Standflächen entstehen. Kürbis halbieren, Kerne mit einem Lö\u001effel entfernen und so viel Kürbisfleisch entfernen, dass der Camembert gut Platz hat.</p>",
+      "instructions": "Vorbereitung:Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Backofen auf 180 °C Ober-/Unterhitze (160 °C Umluft) vorheizen. \nDen Strunk und den Rest der Wurzel auf der gegenüberliegenden Seite des Kürbis so abschneiden, dass zwei kleine gerade Standflächen entstehen. Kürbis halbieren, Kerne mit einem Lö\u001effel entfernen und so viel Kürbisfleisch entfernen, dass der Camembert gut Platz hat.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57cdae4bb5793f135f8b4568-0-0-46d3facd.jpg",
+          "caption": "Kerne mit einem Löffel entfernen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55cb734f4dab71420d8b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305381",
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Kürbishälften salzen. Mit der Schnittfläche auf einem mit Backpapier belegten Backblech legen und für ca. 15 Min. im Backofen backen.",
+      "instructionsHTML": "<p>Kürbishälften salzen. Mit der Schnittfläche auf einem mit Backpapier belegten Backblech legen und für ca. 15 Min. im Backofen backen.</p>",
+      "instructions": "Kürbishälften salzen. Mit der Schnittfläche auf einem mit Backpapier belegten Backblech legen und für ca. 15 Min. im Backofen backen.",
+      "timers": [
+        {
+          "name": "Kürbis backen",
+          "duration": "PT15M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305377"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In der Zwischenzeit: Thymian trocken schütteln und Blättchen abzupfen.",
+      "instructionsHTML": "<p>In der Zwischenzeit: Thymian trocken schütteln und Blättchen abzupfen.</p>",
+      "instructions": "In der Zwischenzeit: Thymian trocken schütteln und Blättchen abzupfen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "555da357fd2cb943758b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer große Schüssel 1 EL Olivenöl, ½ EL Essig, 1 TL Senf, ½ TL Honig, Salz und Pfeffer zu deinem Dressing verrühren.",
+      "instructionsHTML": "<p>In einer große Schüssel 1 EL Olivenöl, ½ EL Essig, 1 TL Senf, ½ TL Honig, Salz und Pfeffer zu deinem Dressing verrühren.</p>",
+      "instructions": "In einer große Schüssel 1 EL Olivenöl, ½ EL Essig, 1 TL Senf, ½ TL Honig, Salz und Pfeffer zu deinem Dressing verrühren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57cdae4bb5793f135f8b4568-3-0-79477824.jpg",
+          "caption": "Dressing herstellen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1c284dab71a9058b456b",
+        "554b22cb4dab71c8058b4570",
+        "554b22f4f8b25e42438b4567",
+        "55535e24f8b25e78738b4569",
+        "554b7d614dab71160d8b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Nach der Backzeit: Kürbishäl\u001fften aus dem Backofen nehmen und vorsichtig wenden, mit Thymian (einige Blätter für die Dekoration beiseitelegen) und Chiliflocken (nach Geschmack) bestreuen. Camembert längs halbieren und in die Kürbishäl\u001fften setzen. Im Backofen ca. 15 Min. weiterbacken. Ca. 5 Min. vor Ende der Backzeit Kürbiskerne und Mehrkorn-Steinofenbrötchen mit auf das Backblech geben und rösten bzw. aufbacken.",
+      "instructionsHTML": "<p>Nach der Backzeit: Kürbishäl\u001fften aus dem Backofen nehmen und vorsichtig wenden, mit Thymian (einige Blätter für die Dekoration beiseitelegen) und Chiliflocken (nach Geschmack) bestreuen. Camembert längs halbieren und in die Kürbishäl\u001fften setzen. Im Backofen ca. 15 Min. weiterbacken. Ca. 5 Min. vor Ende der Backzeit Kürbiskerne und Mehrkorn-Steinofenbrötchen mit auf das Backblech geben und rösten bzw. aufbacken.</p>",
+      "instructions": "Nach der Backzeit: Kürbishäl\u001fften aus dem Backofen nehmen und vorsichtig wenden, mit Thymian (einige Blätter für die Dekoration beiseitelegen) und Chiliflocken (nach Geschmack) bestreuen. Camembert längs halbieren und in die Kürbishäl\u001fften setzen. Im Backofen ca. 15 Min. weiterbacken. Ca. 5 Min. vor Ende der Backzeit Kürbiskerne und Mehrkorn-Steinofenbrötchen mit auf das Backblech geben und rösten bzw. aufbacken.",
+      "timers": [
+        {
+          "name": "weiterbacken",
+          "duration": "PT15M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57cdae4bb5793f135f8b4568-4-0-d44b3c98.jpg",
+          "caption": "Camembert in die Kürbishälften setzen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556da5f2f8b25e2d738b4569",
+        "5638c6faf8b25e7d598b4567",
+        "555dab5c4dab71621b8b4567",
+        "57cdaf0f3933dcca508b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "In der großen Schüssel Salatmix unter das Dressing heben.",
+      "instructionsHTML": "<p>In der großen Schüssel Salatmix unter das Dressing heben.</p>",
+      "instructions": "In der großen Schüssel Salatmix unter das Dressing heben.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57cdae4bb5793f135f8b4568-5-0-9105b7e1.jpg",
+          "caption": "Salatmix unter das Dressing heben."
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555d9563f8b25e406a8b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Ofen-Kürbis auf Teller verteilen, mit Kürbiskernen und restlichem Thymian bestreuen, mit Balsamico-Creme beträufeln, zusammen mit den Mehrkornbrötchen und Salat genießen.",
+      "instructionsHTML": "<p>Ofen-Kürbis auf Teller verteilen, mit Kürbiskernen und restlichem Thymian bestreuen, mit Balsamico-Creme beträufeln, zusammen mit den Mehrkornbrötchen und Salat genießen.</p>",
+      "instructions": "Ofen-Kürbis auf Teller verteilen, mit Kürbiskernen und restlichem Thymian bestreuen, mit Balsamico-Creme beträufeln, zusammen mit den Mehrkornbrötchen und Salat genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.2,
+  "ratingsCount": 194,
+  "favoritesCount": 450,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/kurbis-mit-camembert-aus-dem-bac-57cdae4bb5793f135f8b4568",
+  "clonedFrom": null,
+  "canonical": "57cdae4bb5793f135f8b4568",
+  "canonicalLink": "https://www.hellofresh.de/recipes/kurbis-mit-camembert-aus-dem-bac-57cdae4bb5793f135f8b4568"
+}

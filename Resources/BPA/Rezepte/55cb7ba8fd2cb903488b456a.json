@@ -1,0 +1,851 @@
+{
+  "country": "DE",
+  "id": "55cb7ba8fd2cb903488b456a",
+  "name": "Scharfe Rigatoni-Pflaumen-Pfanne",
+  "seoName": null,
+  "category": null,
+  "slug": "scharfe-rigatoni-pflaumen-pfanne",
+  "headline": "mit frischem Thymian und Parmesan",
+  "description": "Die Sonne strahlt und die Pflaumen werden reif. Heute servieren wir die Pflaumen einmal süßlich-pikant zu unserer Wunderwaffe: Nudeln. Marco Polo sei Dank (der die Nudeln ja angeblich aus China mitgebracht hat, erzähl das aber bloß keinem Italiener). Buon appetito!",
+  "descriptionHTML": "<p>Die Sonne strahlt und die Pflaumen werden reif. Heute servieren wir die Pflaumen einmal süßlich-pikant zu unserer Wunderwaffe: Nudeln. Marco Polo sei Dank (der die Nudeln ja angeblich aus China mitgebracht hat, erzähl das aber bloß keinem Italiener). Buon appetito!</p>",
+  "descriptionMarkdown": "Die Sonne strahlt und die Pflaumen werden reif. Heute servieren wir die Pflaumen einmal süßlich-pikant zu unserer Wunderwaffe: Nudeln. Marco Polo sei Dank (der die Nudeln ja angeblich aus China mitgebracht hat, erzähl das aber bloß keinem Italiener). Buon appetito!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-08-12T17:00:23+00:00",
+  "updatedAt": "2017-05-06T09:32:29+00:00",
+  "link": "https://hellofresh.com/recipes/55cb7ba8fd2cb903488b456a",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/55cb7ba8fd2cb903488b456a.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/55cb7ba8fd2cb903488b456a.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2811.648,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 672,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 17,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 102,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da357fd2cb943758b4567",
+      "type": "thymian",
+      "name": "Thymian",
+      "slug": "thymian",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da357fd2cb943758b4567.png",
+      "usage": 245,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc43",
+        "type": "thyme",
+        "name": "Thymian",
+        "slug": "thymian",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc43-d0cc4199.png",
+        "usageByCountry": {
+          "AT": 252,
+          "AU": 94,
+          "BE": 243,
+          "CA": 96,
+          "CH": 34,
+          "DE": 252,
+          "ER": 0,
+          "FR": 73,
+          "GB": 187,
+          "LU": 346,
+          "NL": 288,
+          "NZ": 38,
+          "ML": 213,
+          "US": 322
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27e6fd2cb983608b4569",
+      "type": "fruhlingszwiebeln",
+      "name": "Frühlingszwiebel",
+      "slug": "fruhlingszwiebeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27e6fd2cb983608b4569.png",
+      "usage": 514,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc35",
+        "type": "spring-onion",
+        "name": "Frühlingszwiebel",
+        "slug": "fruhlingszwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc35-03c06826.png",
+        "usageByCountry": {
+          "AT": 575,
+          "AU": 0,
+          "BE": 15,
+          "CA": 0,
+          "CH": 113,
+          "DE": 514,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 421,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55cb7a5e4dab71b40d8b4567",
+      "type": "pflaumen",
+      "name": "Pflaumen",
+      "slug": "pflaumen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55cb7a5e4dab71b40d8b4567-ba851acb.png",
+      "usage": 11,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc0f",
+        "type": "plum",
+        "name": "Pflaume",
+        "slug": "pflaume",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc0f-14c2f58a.png",
+        "usageByCountry": {
+          "AT": 16,
+          "AU": 0,
+          "BE": 0,
+          "CA": 2,
+          "CH": 3,
+          "DE": 11,
+          "ER": 0,
+          "FR": 0,
+          "GB": 1,
+          "LU": 0,
+          "NL": 12,
+          "NZ": 0,
+          "ML": 0,
+          "US": 3
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b200f4dab71aa058b456f",
+      "type": "parmesan d.o.p.",
+      "name": "Parmesan D.O.P.",
+      "slug": "parmesan-d-o-p",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b200f4dab71aa058b456f.png",
+      "usage": 168,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556da5f2f8b25e2d738b4569",
+      "type": "chiliflocken, mild",
+      "name": "milde Chiliflocken",
+      "slug": "chiliflocken-mild",
+      "description": null,
+      "internalName": "Chiliflocken, mild",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556da5f2f8b25e2d738b4569.png",
+      "usage": 29,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6e",
+        "type": "chili-spice",
+        "name": "Chili (Gewürz)",
+        "slug": "chili-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6e-57ddbd04.png",
+        "usageByCountry": {
+          "AT": 67,
+          "AU": 111,
+          "BE": 0,
+          "CA": 73,
+          "CH": 26,
+          "DE": 71,
+          "ER": 42,
+          "FR": 0,
+          "GB": 115,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 51,
+          "ML": 81,
+          "US": 426
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "557982614dab71ad458b4568",
+      "type": "rigatoni",
+      "name": "Rigatoni",
+      "slug": "rigatoni",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/557982614dab71ad458b4568.png",
+      "usage": 3,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbfd",
+        "type": "pasta",
+        "name": "Pasta",
+        "slug": "pasta",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbfd-6aeaecc6.png",
+        "usageByCountry": {
+          "AT": 442,
+          "AU": 193,
+          "BE": 394,
+          "CA": 103,
+          "CH": 92,
+          "DE": 427,
+          "ER": 30,
+          "FR": 113,
+          "GB": 276,
+          "LU": 485,
+          "NL": 454,
+          "NZ": 48,
+          "ML": 420,
+          "US": 506
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "555da357fd2cb943758b4567",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "55cb7a5e4dab71b40d8b4567",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b200f4dab71aa058b456f",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "id": "556da5f2f8b25e2d738b4569",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "557982614dab71ad458b4568",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Backofen auf 220 °C Ober-/Unterhitze vorheizen.",
+      "instructionsHTML": "<p>Backofen auf 220 °C Ober-/Unterhitze vorheizen.</p>",
+      "instructions": "Backofen auf 220 °C Ober-/Unterhitze vorheizen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Knoblauch abziehen und fein hacken. Thymian waschen, trockenschütteln, Blätter abstreifen, diese grob hacken. Welkes Grün von den Frühlingszwiebeln entfernen, waschen und in feine Ringe schneiden. Pflaumen waschen, halbieren, entkernen und vierteln. Zwiebel abziehen und achteln. Parmesan fein reiben.",
+      "instructionsHTML": "<p>Knoblauch abziehen und fein hacken. Thymian waschen, trockenschütteln, Blätter abstreifen, diese grob hacken. Welkes Grün von den Frühlingszwiebeln entfernen, waschen und in feine Ringe schneiden. Pflaumen waschen, halbieren, entkernen und vierteln. Zwiebel abziehen und achteln. Parmesan fein reiben.</p>",
+      "instructions": "Knoblauch abziehen und fein hacken. Thymian waschen, trockenschütteln, Blätter abstreifen, diese grob hacken. Welkes Grün von den Frühlingszwiebeln entfernen, waschen und in feine Ringe schneiden. Pflaumen waschen, halbieren, entkernen und vierteln. Zwiebel abziehen und achteln. Parmesan fein reiben.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55cb7ba8fd2cb903488b456a/step_55cb7c0d3999f.jpg",
+          "caption": "Zutaten schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b268ffd2cb983608b4568",
+        "555da357fd2cb943758b4567",
+        "554b27e6fd2cb983608b4569",
+        "55cb7a5e4dab71b40d8b4567",
+        "554b2abcf8b25eef3e8b4573",
+        "554b200f4dab71aa058b456f"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Ein tiefes Backblech mit Backpapier auslegen. Knoblauch, Thymian, weiße und hellgrüne Frühlingszwiebelröllchen, Pflaumen und Zwiebeln darauf verteilen. Alles gut miteinander mischen, dann 2 EL Olivenöl, je nach gewünschter Schärfe Chiliflocken, Salz und Pfeffer untermischen und mit ⅔ des Parmesans bestreuen, ca. 20 Min. im Ofen backen.",
+      "instructionsHTML": "<p>Ein tiefes Backblech mit Backpapier auslegen. Knoblauch, Thymian, weiße und hellgrüne Frühlingszwiebelröllchen, Pflaumen und Zwiebeln darauf verteilen. Alles gut miteinander mischen, dann 2 EL Olivenöl, je nach gewünschter Schärfe Chiliflocken, Salz und Pfeffer untermischen und mit ⅔ des Parmesans bestreuen, ca. 20 Min. im Ofen backen.</p>",
+      "instructions": "Ein tiefes Backblech mit Backpapier auslegen. Knoblauch, Thymian, weiße und hellgrüne Frühlingszwiebelröllchen, Pflaumen und Zwiebeln darauf verteilen. Alles gut miteinander mischen, dann 2 EL Olivenöl, je nach gewünschter Schärfe Chiliflocken, Salz und Pfeffer untermischen und mit ⅔ des Parmesans bestreuen, ca. 20 Min. im Ofen backen.",
+      "timers": [
+        {
+          "name": "Im Ofen backen",
+          "duration": "PT20M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55cb7ba8fd2cb903488b456a/step_55cb7c0d5bb2c.jpg",
+          "caption": "Pflaumen in den Ofen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b268ffd2cb983608b4568",
+        "555da357fd2cb943758b4567",
+        "554b27e6fd2cb983608b4569",
+        "55cb7a5e4dab71b40d8b4567",
+        "554b2abcf8b25eef3e8b4573",
+        "556da5f2f8b25e2d738b4569",
+        "554b22cb4dab71c8058b4570",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einem großen Topf Rigatoni in reichlich gesalzenem Wasser nach Packungsanleitung in 8–10 Min. bissfest garen. Danach in ein Sieb abgießen und gleich wieder zurück in den Topf geben.",
+      "instructionsHTML": "<p>In einem großen Topf Rigatoni in reichlich gesalzenem Wasser nach Packungsanleitung in 8–10 Min. bissfest garen. Danach in ein Sieb abgießen und gleich wieder zurück in den Topf geben.</p>",
+      "instructions": "In einem großen Topf Rigatoni in reichlich gesalzenem Wasser nach Packungsanleitung in 8–10 Min. bissfest garen. Danach in ein Sieb abgießen und gleich wieder zurück in den Topf geben.",
+      "timers": [
+        {
+          "name": "Rigatoni kochen",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55cb7ba8fd2cb903488b456a/step_55cb7c0d77b23.jpg",
+          "caption": "Rigatoni garen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "557982614dab71ad458b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Pflaumen und Zwiebeln nach der Garzeit aus dem Ofen nehmen und zusammen mit der entstandenen Flüssigkeit unter die Rigatoni mischen.",
+      "instructionsHTML": "<p>Pflaumen und Zwiebeln nach der Garzeit aus dem Ofen nehmen und zusammen mit der entstandenen Flüssigkeit unter die Rigatoni mischen.</p>",
+      "instructions": "Pflaumen und Zwiebeln nach der Garzeit aus dem Ofen nehmen und zusammen mit der entstandenen Flüssigkeit unter die Rigatoni mischen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55cb7ba8fd2cb903488b456a/step_55cb7c0d8e648.jpg",
+          "caption": "Zutaten mischen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Rigatoni-Pflaumen-Pfanne nebst anderen Zutaten auf Tellern verteilen, mit restlichem Parmesan und grünem Teil der Frühlingszwiebeln bestreuen und genießen!",
+      "instructionsHTML": "<p>Rigatoni-Pflaumen-Pfanne nebst anderen Zutaten auf Tellern verteilen, mit restlichem Parmesan und grünem Teil der Frühlingszwiebeln bestreuen und genießen!</p>",
+      "instructions": "Rigatoni-Pflaumen-Pfanne nebst anderen Zutaten auf Tellern verteilen, mit restlichem Parmesan und grünem Teil der Frühlingszwiebeln bestreuen und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 2.9,
+  "ratingsCount": 1370,
+  "favoritesCount": 451,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/scharfe-rigatoni-pflaumen-pfanne-55cb7ba8fd2cb903488b456a",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

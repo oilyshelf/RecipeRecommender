@@ -1,0 +1,835 @@
+{
+  "country": "DE",
+  "id": "55dc480ef8b25e5e158b4568",
+  "name": "Herbstliche Ofenkürbis-Penne-Pfanne",
+  "seoName": null,
+  "category": null,
+  "slug": "herbstliche-ofenkurbis-penne-pfanne",
+  "headline": "mit Walnüssen und Feta",
+  "description": "Der Herbst rückt näher und mit ihm lauter leckeres Gemüse, mit dem der Sommer sich verabschiedet. So wie der Kürbis, der viel zu lecker ist, um zu Halloween ausgehöhlt zu werden. Beim Hokkaido kann man die Schale nämlich auch mitessen, zudem schmeckt er aus dem Backofen und mit der stets einsatzbereiten Wunderwaffe Nudeln extrem lecker. Guten Appetit!",
+  "descriptionHTML": "<p>Der Herbst rückt näher und mit ihm lauter leckeres Gemüse, mit dem der Sommer sich verabschiedet. So wie der Kürbis, der viel zu lecker ist, um zu Halloween ausgehöhlt zu werden. Beim Hokkaido kann man die Schale nämlich auch mitessen, zudem schmeckt er aus dem Backofen und mit der stets einsatzbereiten Wunderwaffe Nudeln extrem lecker. Guten Appetit!</p>",
+  "descriptionMarkdown": "Der Herbst rückt näher und mit ihm lauter leckeres Gemüse, mit dem der Sommer sich verabschiedet. So wie der Kürbis, der viel zu lecker ist, um zu Halloween ausgehöhlt zu werden. Beim Hokkaido kann man die Schale nämlich auch mitessen, zudem schmeckt er aus dem Backofen und mit der stets einsatzbereiten Wunderwaffe Nudeln extrem lecker. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT35M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-08-25T10:48:46+00:00",
+  "updatedAt": "2017-03-28T07:24:00+00:00",
+  "link": "https://hellofresh.com/recipes/55dc480ef8b25e5e158b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/55dc480ef8b25e5e158b4568.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/55dc480ef8b25e5e158b4568.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3681.92,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 880,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 117,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 32,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55cb734f4dab71420d8b4568",
+      "type": "hokkaido-kurbis",
+      "name": "Kürbis (Hokkaido)",
+      "slug": "hokkaido-kurbis",
+      "description": null,
+      "internalName": "Hokkaido-Kürbis",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/55cb734f4dab71420d8b4568-10fc6d69.png",
+      "usage": 56,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc15",
+        "type": "pumpkin",
+        "name": "Kürbis",
+        "slug": "kurbis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc15-a697c3c3.png",
+        "usageByCountry": {
+          "AT": 70,
+          "AU": 136,
+          "BE": 9,
+          "CA": 0,
+          "CH": 9,
+          "DE": 62,
+          "ER": 0,
+          "FR": 4,
+          "GB": 0,
+          "LU": 10,
+          "NL": 9,
+          "NZ": 35,
+          "ML": 1,
+          "US": 1
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "567921d6f8b25e43768b4567",
+      "type": "balsamico-essig-home",
+      "name": "Balsamicoessig*",
+      "slug": "balsamico-essig",
+      "description": null,
+      "internalName": "Balsamico-Essig (home)",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/567921d6f8b25e43768b4567.png",
+      "usage": 97,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052ff",
+          "type": "sulphites",
+          "name": "Schwefel",
+          "slug": "schwefel",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+          "usage": 178
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc4e",
+        "type": "vinegar",
+        "name": "Essig",
+        "slug": "essig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc4e-487a2c2e.png",
+        "usageByCountry": {
+          "AT": 946,
+          "AU": 556,
+          "BE": 739,
+          "CA": 272,
+          "CH": 185,
+          "DE": 877,
+          "ER": 16,
+          "FR": 209,
+          "GB": 406,
+          "LU": 884,
+          "NL": 855,
+          "NZ": 199,
+          "ML": 77,
+          "US": 710
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "557982614dab71ad458b4568",
+      "type": "rigatoni",
+      "name": "Rigatoni",
+      "slug": "rigatoni",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/557982614dab71ad458b4568.png",
+      "usage": 3,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbfd",
+        "type": "pasta",
+        "name": "Pasta",
+        "slug": "pasta",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbfd-6aeaecc6.png",
+        "usageByCountry": {
+          "AT": 442,
+          "AU": 193,
+          "BE": 394,
+          "CA": 103,
+          "CH": 92,
+          "DE": 427,
+          "ER": 30,
+          "FR": 113,
+          "GB": 276,
+          "LU": 485,
+          "NL": 454,
+          "NZ": 48,
+          "ML": 420,
+          "US": 506
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da9924dab714b1b8b4567",
+      "type": "feta",
+      "name": "Feta",
+      "slug": "feta",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da9924dab714b1b8b4567.png",
+      "usage": 113,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34b64dab71aa058b4573",
+      "type": "petersilie",
+      "name": "Petersilie",
+      "slug": "petersilie",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34b64dab71aa058b4573.png",
+      "usage": 861,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7144fd2cb911618b4567",
+      "type": "walnüsse",
+      "name": "Walnüsse",
+      "slug": "walnusse",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7144fd2cb911618b4567.png",
+      "usage": 162,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        },
+        {
+          "id": "57962a07b7e8697d4b3052fb",
+          "type": "nuts",
+          "name": "Schalenfrüchte",
+          "slug": "schalenfruchte",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+          "usage": 300
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "type": "sulphites",
+      "name": "Schwefel",
+      "slug": "schwefel",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "usage": 178
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "type": "nuts",
+      "name": "Schalenfrüchte",
+      "slug": "schalenfruchte",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "usage": 300
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55cb734f4dab71420d8b4568",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "567921d6f8b25e43768b4567",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "id": "557982614dab71ad458b4568",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "555da9924dab714b1b8b4567",
+          "amount": 125,
+          "unit": "g"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b7144fd2cb911618b4567",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Backofen auf 200 °C Ober-/Unterhitze vorheizen.",
+      "instructionsHTML": "<p>Backofen auf 200 °C Ober-/Unterhitze vorheizen.</p>",
+      "instructions": "Backofen auf 200 °C Ober-/Unterhitze vorheizen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Zwiebeln abziehen und achteln. Hokkaido-Kürbis waschen, halbieren, mit einem Löffel entkernen und in ca. 1 cm große Würfel schneiden. Zwiebeln und Kürbis auf einem mit Backpapier belegten Backblech verteilen, mit Balsamico-Essig und 1½ EL Olivenöl beträufeln, mit ein wenig Salz und Pfeffer würzen und im Ofen 25–30 Min. weich und bräunlich backen. Kürbis und Zwiebeln in dieser Zeit zweimal wenden, damit diese gleichmäßig garen.",
+      "instructionsHTML": "<p>Zwiebeln abziehen und achteln. Hokkaido-Kürbis waschen, halbieren, mit einem Löffel entkernen und in ca. 1 cm große Würfel schneiden. Zwiebeln und Kürbis auf einem mit Backpapier belegten Backblech verteilen, mit Balsamico-Essig und 1½ EL Olivenöl beträufeln, mit ein wenig Salz und Pfeffer würzen und im Ofen 25–30 Min. weich und bräunlich backen. Kürbis und Zwiebeln in dieser Zeit zweimal wenden, damit diese gleichmäßig garen.</p>",
+      "instructions": "Zwiebeln abziehen und achteln. Hokkaido-Kürbis waschen, halbieren, mit einem Löffel entkernen und in ca. 1 cm große Würfel schneiden. Zwiebeln und Kürbis auf einem mit Backpapier belegten Backblech verteilen, mit Balsamico-Essig und 1½ EL Olivenöl beträufeln, mit ein wenig Salz und Pfeffer würzen und im Ofen 25–30 Min. weich und bräunlich backen. Kürbis und Zwiebeln in dieser Zeit zweimal wenden, damit diese gleichmäßig garen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55dc480ef8b25e5e158b4568/step_55f2ab7696b15.jpg",
+          "caption": "Kürbis in den Ofen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2abcf8b25eef3e8b4573",
+        "55cb734f4dab71420d8b4568",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b22cb4dab71c8058b4570",
+        "567921d6f8b25e43768b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305377"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einem großen Topf Rigatoni nach Packungsanleitung in reichlich Salzwasser bissfest garen. Feta grob zerkleinern. Petersilie waschen, trocken schütteln, Blätter abzupfen und klein schneiden.",
+      "instructionsHTML": "<p>In einem großen Topf Rigatoni nach Packungsanleitung in reichlich Salzwasser bissfest garen. Feta grob zerkleinern. Petersilie waschen, trocken schütteln, Blätter abzupfen und klein schneiden.</p>",
+      "instructions": "In einem großen Topf Rigatoni nach Packungsanleitung in reichlich Salzwasser bissfest garen. Feta grob zerkleinern. Petersilie waschen, trocken schütteln, Blätter abzupfen und klein schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55dc480ef8b25e5e158b4568/step_55f2ab76afee1.jpg",
+          "caption": "Penne garen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "557982614dab71ad458b4568",
+        "555da9924dab714b1b8b4567",
+        "554b34b64dab71aa058b4573",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer kleinen Pfanne Walnüsse ohne Fettzugabe rösten, bis sie duften (Vorsicht: Walnüsse werden schnell bitter, wenn sie verbrennen!). Dann aus der Pfanne nehmen, kurz abkühlen lassen und grob zerkleinern.",
+      "instructionsHTML": "<p>In einer kleinen Pfanne Walnüsse ohne Fettzugabe rösten, bis sie duften (Vorsicht: Walnüsse werden schnell bitter, wenn sie verbrennen!). Dann aus der Pfanne nehmen, kurz abkühlen lassen und grob zerkleinern.</p>",
+      "instructions": "In einer kleinen Pfanne Walnüsse ohne Fettzugabe rösten, bis sie duften (Vorsicht: Walnüsse werden schnell bitter, wenn sie verbrennen!). Dann aus der Pfanne nehmen, kurz abkühlen lassen und grob zerkleinern.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b7144fd2cb911618b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Rigatoni nach der Garzeit durch ein Sieb abgießen, dabei etwas Nudelwasser auffangen. Dann zurück in den Topf geben und mit Ofenkürbis und -zwiebeln, Feta, Walnüssen und 2–3 EL Nudelwasser gründlich vermischen.",
+      "instructionsHTML": "<p>Rigatoni nach der Garzeit durch ein Sieb abgießen, dabei etwas Nudelwasser auffangen. Dann zurück in den Topf geben und mit Ofenkürbis und -zwiebeln, Feta, Walnüssen und 2–3 EL Nudelwasser gründlich vermischen.</p>",
+      "instructions": "Rigatoni nach der Garzeit durch ein Sieb abgießen, dabei etwas Nudelwasser auffangen. Dann zurück in den Topf geben und mit Ofenkürbis und -zwiebeln, Feta, Walnüssen und 2–3 EL Nudelwasser gründlich vermischen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55dc480ef8b25e5e158b4568/step_55f2ab76c18c4.jpg",
+          "caption": "Zutaten mischen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Ofenkürbis-Penne-Pfanne auf tiefen Tellern verteilen, mit ein wenig Petersilie garnieren und genießen!",
+      "instructionsHTML": "<p>Ofenkürbis-Penne-Pfanne auf tiefen Tellern verteilen, mit ein wenig Petersilie garnieren und genießen!</p>",
+      "instructions": "Ofenkürbis-Penne-Pfanne auf tiefen Tellern verteilen, mit ein wenig Petersilie garnieren und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 2.9,
+  "ratingsCount": 234,
+  "favoritesCount": 383,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/herbstliche-ofenkurbis-penne-pfanne-55dc480ef8b25e5e158b4568",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

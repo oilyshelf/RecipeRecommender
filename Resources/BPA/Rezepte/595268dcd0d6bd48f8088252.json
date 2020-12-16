@@ -1,0 +1,1022 @@
+{
+  "country": "DE",
+  "id": "595268dcd0d6bd48f8088252",
+  "name": "Gegrillte Salatherzen",
+  "seoName": null,
+  "category": null,
+  "slug": "gegrillte-salatherzen",
+  "headline": "mit Wurzelgemüse, Walnüssen und kernigem Frischkäse",
+  "description": "Süß und Salzig – das harmoniert perfekt! Rote Bete vereint sich mit Süßkartoffeln und cremigem Cottage Cheese zu einem unvergesslichen Geschmackserlebnis! Abgerundet wird diese bunte Komposition durch frische Petersilie und knackige Walnüsse. Der perfekte leichte und ballaststoffreiche Genuss!",
+  "descriptionHTML": "<p>Süß und Salzig – das harmoniert perfekt! Rote Bete vereint sich mit Süßkartoffeln und cremigem Cottage Cheese zu einem unvergesslichen Geschmackserlebnis! Abgerundet wird diese bunte Komposition durch frische Petersilie und knackige Walnüsse. Der perfekte leichte und ballaststoffreiche Genuss!</p>",
+  "descriptionMarkdown": "Süß und Salzig – das harmoniert perfekt! Rote Bete vereint sich mit Süßkartoffeln und cremigem Cottage Cheese zu einem unvergesslichen Geschmackserlebnis! Abgerundet wird diese bunte Komposition durch frische Petersilie und knackige Walnüsse. Der perfekte leichte und ballaststoffreiche Genuss!",
+  "seoDescription": "",
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT40M",
+  "totalTime": "PT20M",
+  "servingSize": 750,
+  "createdAt": "2017-06-27T14:17:00+00:00",
+  "updatedAt": "2017-08-08T11:52:41+00:00",
+  "link": "https://hellofresh.com/recipes/595268dcd0d6bd48f8088252",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/595268dcd0d6bd48f8088252-63ea36cf.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/gegrillte-salatherzen-0223bf47.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2703,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 646,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 94,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 16,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 26,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 2,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b1a294dab71a6058b4570",
+      "type": "suszkartoffeln",
+      "name": "Süßkartoffel",
+      "slug": "suszkartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1a294dab71a6058b4570.png",
+      "usage": 226,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dbfadf8b25e246a8b4569",
+      "type": "rote bete",
+      "name": "rote Bete",
+      "slug": "rote-bete",
+      "description": null,
+      "internalName": "rote Bete [RAW]",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/555dbfadf8b25e246a8b4569-dba13df7.png",
+      "usage": 40,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb50",
+        "type": "beetroot",
+        "name": "Rote Beete",
+        "slug": "rote-beete",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb50-bd433463.png",
+        "usageByCountry": {
+          "AT": 61,
+          "AU": 54,
+          "BE": 44,
+          "CA": 9,
+          "CH": 4,
+          "DE": 50,
+          "ER": 0,
+          "FR": 6,
+          "GB": 19,
+          "LU": 45,
+          "NL": 46,
+          "NZ": 27,
+          "ML": 1,
+          "US": 9
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7144fd2cb911618b4567",
+      "type": "walnüsse",
+      "name": "Walnüsse",
+      "slug": "walnusse",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7144fd2cb911618b4567.png",
+      "usage": 162,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        },
+        {
+          "id": "57962a07b7e8697d4b3052fb",
+          "type": "nuts",
+          "name": "Schalenfrüchte",
+          "slug": "schalenfruchte",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+          "usage": 300
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "58c7cba4c6243b2f3111f242",
+      "type": "balsamico-essig-shipped",
+      "name": "Balsamico-Essig",
+      "slug": "balsamico-essig",
+      "description": null,
+      "internalName": "Balsamico-Essig (shipped)",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/58c7cba4c6243b2f3111f242-31d6c6d1.png",
+      "usage": 100,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052ff",
+          "type": "sulphites",
+          "name": "Schwefel",
+          "slug": "schwefel",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+          "usage": 178
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc4e",
+        "type": "vinegar",
+        "name": "Essig",
+        "slug": "essig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc4e-487a2c2e.png",
+        "usageByCountry": {
+          "AT": 946,
+          "AU": 556,
+          "BE": 739,
+          "CA": 272,
+          "CH": 185,
+          "DE": 877,
+          "ER": 16,
+          "FR": 209,
+          "GB": 406,
+          "LU": 884,
+          "NL": 855,
+          "NZ": 199,
+          "ML": 77,
+          "US": 710
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "58e4c8913bddb5352d160223",
+      "type": "senf-mittelscharf",
+      "name": "mittelscharfer Senf",
+      "slug": "senf-mittelscharf",
+      "description": null,
+      "internalName": "mittelscharfer Senf",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/58e4c8913bddb5352d160223-91f77ae5.png",
+      "usage": 158,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fd",
+          "type": "mustard",
+          "name": "Senf",
+          "slug": "senf",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+          "usage": 158
+        },
+        {
+          "id": "57962a07b7e8697d4b3052ff",
+          "type": "sulphites",
+          "name": "Schwefel",
+          "slug": "schwefel",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+          "usage": 178
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbdf",
+        "type": "mustard",
+        "name": "Senf",
+        "slug": "senf",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbdf-bd28b3fe.png",
+        "usageByCountry": {
+          "AT": 411,
+          "AU": 149,
+          "BE": 262,
+          "CA": 135,
+          "CH": 75,
+          "DE": 361,
+          "ER": 7,
+          "FR": 68,
+          "GB": 159,
+          "LU": 354,
+          "NL": 295,
+          "NZ": 42,
+          "ML": 1,
+          "US": 175
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "57c58da477d68db64f8b4568",
+      "type": "little-gem",
+      "name": "Little Gem",
+      "slug": "little-gem",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/57c58da477d68db64f8b4568-8d08f093.png",
+      "usage": 6,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbba",
+        "type": "jelly-jam",
+        "name": "Marmelade",
+        "slug": "marmelade",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbba-ddb485f4.png",
+        "usageByCountry": {
+          "AT": 36,
+          "AU": 0,
+          "BE": 68,
+          "CA": 31,
+          "CH": 7,
+          "DE": 39,
+          "ER": 7,
+          "FR": 18,
+          "GB": 66,
+          "LU": 71,
+          "NL": 33,
+          "NZ": 0,
+          "ML": 120,
+          "US": 120
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34b64dab71aa058b4573",
+      "type": "petersilie",
+      "name": "Petersilie",
+      "slug": "petersilie",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34b64dab71aa058b4573.png",
+      "usage": 861,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556ef93cfd2cb9d0158b4567",
+      "type": "körniger frischkäse",
+      "name": "Körniger Frischkäse",
+      "slug": "korniger-frischkase",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556ef93cfd2cb9d0158b4567.png",
+      "usage": 8,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "58d19fcb51d3f16d0b364a72",
+      "type": "honig",
+      "name": "Honig",
+      "slug": "honig",
+      "description": null,
+      "internalName": "Honig shipped",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/58d19fcb51d3f16d0b364a72-9aaf26c1.png",
+      "usage": 113,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbb3",
+        "type": "honey",
+        "name": "Honig",
+        "slug": "honig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbb3-efe0c124.png",
+        "usageByCountry": {
+          "AT": 360,
+          "AU": 274,
+          "BE": 368,
+          "CA": 136,
+          "CH": 83,
+          "DE": 326,
+          "ER": 12,
+          "FR": 77,
+          "GB": 224,
+          "LU": 363,
+          "NL": 442,
+          "NZ": 139,
+          "ML": 1,
+          "US": 303
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "56b20c6b4dab7188178b4567",
+      "type": "senfsamen",
+      "name": "Senfsamen",
+      "slug": "senfsamen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/56b20c6b4dab7188178b4567.png",
+      "usage": 8,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fd",
+          "type": "mustard",
+          "name": "Senf",
+          "slug": "senf",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+          "usage": 158
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe1",
+        "type": "mustards-seeds",
+        "name": "Senfsamen",
+        "slug": "senfsamen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe1-50aabfbd.png",
+        "usageByCountry": {
+          "AT": 8,
+          "AU": 0,
+          "BE": 0,
+          "CA": 2,
+          "CH": 1,
+          "DE": 8,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "type": "nuts",
+      "name": "Schalenfrüchte",
+      "slug": "schalenfruchte",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "usage": 300
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "type": "sulphites",
+      "name": "Schwefel",
+      "slug": "schwefel",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "usage": 178
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "type": "mustard",
+      "name": "Senf",
+      "slug": "senf",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "usage": 158
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b30531a",
+      "type": "low-calorie",
+      "name": "leichter Genuss",
+      "slug": "leichter-genuss",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 4438,
+      "numberOfRecipesByCountry": {
+        "AT": 1377,
+        "AU": 144,
+        "BE": 299,
+        "CA": 0,
+        "CH": 139,
+        "DE": 1205,
+        "ER": 0,
+        "FR": 128,
+        "GB": 111,
+        "LU": 576,
+        "NL": 380,
+        "NZ": 79,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305320",
+      "type": "high-fiber",
+      "name": "ballaststoffreich",
+      "slug": "ballaststoffreich",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 817,
+      "numberOfRecipesByCountry": {
+        "AT": 303,
+        "AU": 121,
+        "BE": 17,
+        "CA": 0,
+        "CH": 47,
+        "DE": 310,
+        "ER": 0,
+        "FR": 0,
+        "GB": 1,
+        "LU": 1,
+        "NL": 17,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d172533a58fe2e42242755",
+      "type": "thermomix-kocht",
+      "name": "Thermomix kocht",
+      "slug": "thermomix-kocht",
+      "iconLink": null,
+      "numberOfRecipes": 896,
+      "numberOfRecipesByCountry": {
+        "AT": 456,
+        "AU": 0,
+        "BE": 0,
+        "CA": 0,
+        "CH": 0,
+        "DE": 440,
+        "ER": 0,
+        "FR": 0,
+        "GB": 0,
+        "LU": 0,
+        "NL": 0,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": "thermomix",
+  "label": {
+    "text": "Thermomix",
+    "handle": "thermomix",
+    "backgroundColor": "#009747",
+    "foregroundColor": "#ffffff"
+  },
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b1a294dab71a6058b4570",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "555dbfadf8b25e246a8b4569",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7144fd2cb911618b4567",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "58c7cba4c6243b2f3111f242",
+          "amount": 12,
+          "unit": "ml"
+        },
+        {
+          "id": "58e4c8913bddb5352d160223",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "id": "57c58da477d68db64f8b4568",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "556ef93cfd2cb9d0158b4567",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "58d19fcb51d3f16d0b364a72",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "id": "56b20c6b4dab7188178b4567",
+          "amount": 2,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b1a294dab71a6058b4570",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "555dbfadf8b25e246a8b4569",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7144fd2cb911618b4567",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "id": "58c7cba4c6243b2f3111f242",
+          "amount": 24,
+          "unit": "ml"
+        },
+        {
+          "id": "58e4c8913bddb5352d160223",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "id": "57c58da477d68db64f8b4568",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "556ef93cfd2cb9d0158b4567",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "58d19fcb51d3f16d0b364a72",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "id": "56b20c6b4dab7188178b4567",
+          "amount": 4,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Wasche Gemüse und Kräuter ab und tupfe die Kräuter mit Küchenpapier trocken. Neben dem Thermomix® benötigst Du 2 kleine Schüsseln, 1 große Schüssel und 1 große Pfanne. \n\nPetersilie mitsamt den. Stielen in ca. 3 cm lange Stücke schneiden, in den Mixtopf geben und 3 Sek./Stufe 8 zerkleinern. Dann in eine kleine Schüssel umfüllen.",
+      "instructionsHTML": "<p>Wasche Gemüse und Kräuter ab und tupfe die Kräuter mit Küchenpapier trocken. Neben dem Thermomix® benötigst Du 2 kleine Schüsseln, 1 große Schüssel und 1 große Pfanne. </p>\n<p>Petersilie mitsamt den. Stielen in ca. 3 cm lange Stücke schneiden, in den Mixtopf geben und 3 Sek./Stufe 8 zerkleinern. Dann in eine kleine Schüssel umfüllen.</p>",
+      "instructions": "Wasche Gemüse und Kräuter ab und tupfe die Kräuter mit Küchenpapier trocken. Neben dem Thermomix® benötigst Du 2 kleine Schüsseln, 1 große Schüssel und 1 große Pfanne. \nPetersilie mitsamt den. Stielen in ca. 3 cm lange Stücke schneiden, in den Mixtopf geben und 3 Sek./Stufe 8 zerkleinern. Dann in eine kleine Schüssel umfüllen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/595268dcd0d6bd48f8088252-0-0-ff552708.jpg",
+          "caption": "PETERSILIE ZERKLEINERN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Süßkartoffel und rote Bete schälen und in ca. 1,5 cm große Stücke schneiden. Rühraufsatz in den Varoma-Behälter geben, damit genügend Garschlitze frei bleiben. Bete- und Süßkartoffelstücke darauf verteilen und Varoma verschließen. 500 g Wasser in den Mixtopf geben. Varoma aufsetzen und 23 Min./Varoma/Stufe 1 garen. In dieser Zeit mit dem Rezept fortfahren.",
+      "instructionsHTML": "<p>Süßkartoffel und rote Bete schälen und in ca. 1,5 cm große Stücke schneiden. Rühraufsatz in den Varoma-Behälter geben, damit genügend Garschlitze frei bleiben. Bete- und Süßkartoffelstücke darauf verteilen und Varoma verschließen. 500 g Wasser in den Mixtopf geben. Varoma aufsetzen und 23 Min./Varoma/Stufe 1 garen. In dieser Zeit mit dem Rezept fortfahren.</p>",
+      "instructions": "Süßkartoffel und rote Bete schälen und in ca. 1,5 cm große Stücke schneiden. Rühraufsatz in den Varoma-Behälter geben, damit genügend Garschlitze frei bleiben. Bete- und Süßkartoffelstücke darauf verteilen und Varoma verschließen. 500 g Wasser in den Mixtopf geben. Varoma aufsetzen und 23 Min./Varoma/Stufe 1 garen. In dieser Zeit mit dem Rezept fortfahren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/595268dcd0d6bd48f8088252-1-0-4bc005c0.jpg",
+          "caption": "GEMÜSE DÄMPFEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Walnüsse, Senfsaat und ½ des Honigs in einer kleinen Schüssel verrühren. Varoma nach der Garzeit abnehmen und vorsichtig öffnen. Gemüse einmal vorsichtig wenden, dann Honig-Nuss-Mischung darüber verteilen. Varoma wieder verschließen, aufsetzen und weitere 6 Min./Varoma/Stufe 1 fertig garen. In dieser Zeit kannst Du mit der Zubereitung fortfahren.",
+      "instructionsHTML": "<p>Walnüsse, Senfsaat und ½ des Honigs in einer kleinen Schüssel verrühren. Varoma nach der Garzeit abnehmen und vorsichtig öffnen. Gemüse einmal vorsichtig wenden, dann Honig-Nuss-Mischung darüber verteilen. Varoma wieder verschließen, aufsetzen und weitere 6 Min./Varoma/Stufe 1 fertig garen. In dieser Zeit kannst Du mit der Zubereitung fortfahren.</p>",
+      "instructions": "Walnüsse, Senfsaat und ½ des Honigs in einer kleinen Schüssel verrühren. Varoma nach der Garzeit abnehmen und vorsichtig öffnen. Gemüse einmal vorsichtig wenden, dann Honig-Nuss-Mischung darüber verteilen. Varoma wieder verschließen, aufsetzen und weitere 6 Min./Varoma/Stufe 1 fertig garen. In dieser Zeit kannst Du mit der Zubereitung fortfahren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/595268dcd0d6bd48f8088252-2-0-fb3df971.jpg",
+          "caption": "WALNÜSSE & HONIG zugeben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer großen Schüssel 1 EL [2 EL] Olivenöl, 1 TL [1 EL] Honig, mittelscharfen Senf, Balsamico-Essig, eine Prise Zucker, etwas Salz und Pfeffer zu einem Dressing verrühren. Kernigen Frischkäse in die kleine Schüssel zur gehackten Petersilie geben und mit Salz und Pfeffer verrühren.",
+      "instructionsHTML": "<p>In einer großen Schüssel 1 EL [2 EL] Olivenöl, 1 TL [1 EL] Honig, mittelscharfen Senf, Balsamico-Essig, eine Prise Zucker, etwas Salz und Pfeffer zu einem Dressing verrühren. Kernigen Frischkäse in die kleine Schüssel zur gehackten Petersilie geben und mit Salz und Pfeffer verrühren.</p>",
+      "instructions": "In einer großen Schüssel 1 EL [2 EL] Olivenöl, 1 TL [1 EL] Honig, mittelscharfen Senf, Balsamico-Essig, eine Prise Zucker, etwas Salz und Pfeffer zu einem Dressing verrühren. Kernigen Frischkäse in die kleine Schüssel zur gehackten Petersilie geben und mit Salz und Pfeffer verrühren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/595268dcd0d6bd48f8088252-3-0-e68ed5d5.jpg",
+          "caption": "DRESSING ZUBEREITEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Salatherz der Länge nach vierteln. Salatviertel bei hoher Hitze für 1 Min. von jeder Seite anbraten und anschließend in der Schüssel mit dem Dressing vermengen.",
+      "instructionsHTML": "<p>Salatherz der Länge nach vierteln. Salatviertel bei hoher Hitze für 1 Min. von jeder Seite anbraten und anschließend in der Schüssel mit dem Dressing vermengen.</p>",
+      "instructions": "Salatherz der Länge nach vierteln. Salatviertel bei hoher Hitze für 1 Min. von jeder Seite anbraten und anschließend in der Schüssel mit dem Dressing vermengen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/595268dcd0d6bd48f8088252-4-0-ea5e98f2.jpg",
+          "caption": "SALATHERZ ANBRATEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Varoma abnehmen. Salatherzviertel auf Teller verteilen und Varoma-Nuss-Gemüse dazugeben. Frischkäse-Petersilien-Mischung darüber verteilen und alles zusammen genießen.",
+      "instructionsHTML": "<p>Varoma abnehmen. Salatherzviertel auf Teller verteilen und Varoma-Nuss-Gemüse dazugeben. Frischkäse-Petersilien-Mischung darüber verteilen und alles zusammen genießen.</p>",
+      "instructions": "Varoma abnehmen. Salatherzviertel auf Teller verteilen und Varoma-Nuss-Gemüse dazugeben. Frischkäse-Petersilien-Mischung darüber verteilen und alles zusammen genießen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/595268dcd0d6bd48f8088252-5-0-5dee2e5c.jpg",
+          "caption": "ANRICHTEN"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.2,
+  "ratingsCount": 32,
+  "favoritesCount": 0,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/gegrillte-salatherzen-595268dcd0d6bd48f8088252",
+  "clonedFrom": "593e5caec6243b739533af03",
+  "canonical": null,
+  "canonicalLink": null
+}

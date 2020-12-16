@@ -1,0 +1,1124 @@
+{
+  "country": "DE",
+  "id": "54db206e6ced6e5b1f8b456a",
+  "name": "Hähnchen-Satay-Spieße",
+  "seoName": null,
+  "category": null,
+  "slug": "hahnchen-satay-spiesze",
+  "headline": "mit Knoblauch-Bohnen und Jasminreis",
+  "description": "Hähnchenfleisch mit Erdnusssoße, lecker! Wir haben uns bei diesem Gericht für das saftige Fleisch der Oberkeule entschieden und nicht für das Filet, das am Spieß sonst im- mer sehr leicht trocken schmeckt. Lasst euch diese asiatische Gaumenfreude auf der Zuge zergehen!",
+  "descriptionHTML": "<p>Hähnchenfleisch mit Erdnusssoße, lecker! Wir haben uns bei diesem Gericht für das saftige Fleisch der Oberkeule entschieden und nicht für das Filet, das am Spieß sonst im- mer sehr leicht trocken schmeckt. Lasst euch diese asiatische Gaumenfreude auf der Zuge zergehen!</p>",
+  "descriptionMarkdown": "Hähnchenfleisch mit Erdnusssoße, lecker! Wir haben uns bei diesem Gericht für das saftige Fleisch der Oberkeule entschieden und nicht für das Filet, das am Spieß sonst im- mer sehr leicht trocken schmeckt. Lasst euch diese asiatische Gaumenfreude auf der Zuge zergehen!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT25M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-02-11T09:27:10+00:00",
+  "updatedAt": "2017-03-30T08:39:37+00:00",
+  "link": "https://hellofresh.com/recipes/54db206e6ced6e5b1f8b456a",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/54db206e6ced6e5b1f8b456a.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/54db206e6ced6e5b1f8b456a.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3681.92,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 880,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 38,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 78,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 39,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "5568190bf8b25ee4348b456a",
+      "type": "hähnchenoberkeule",
+      "name": "Hähnchenoberkeule",
+      "slug": "hahnchenoberkeule",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5568190bf8b25ee4348b456a.png",
+      "usage": 6,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6b",
+        "type": "chicken",
+        "name": "Hähnchen",
+        "slug": "hahnchen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6b-8f15f243.png",
+        "usageByCountry": {
+          "AT": 293,
+          "AU": 427,
+          "BE": 305,
+          "CA": 214,
+          "CH": 94,
+          "DE": 262,
+          "ER": 62,
+          "FR": 92,
+          "GB": 486,
+          "LU": 380,
+          "NL": 282,
+          "NZ": 125,
+          "ML": 653,
+          "US": 668
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2b27f8b25ef53e8b4574",
+      "type": "holzspieße",
+      "name": "Holzspieße",
+      "slug": "holzspiesze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2b27f8b25ef53e8b4574.png",
+      "usage": 60,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc2d",
+        "type": "skewers",
+        "name": "Spieße",
+        "slug": "spiesze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc2d-f0aa9e09.png",
+        "usageByCountry": {
+          "AT": 98,
+          "AU": 13,
+          "BE": 3,
+          "CA": 18,
+          "CH": 22,
+          "DE": 81,
+          "ER": 0,
+          "FR": 0,
+          "GB": 30,
+          "LU": 2,
+          "NL": 3,
+          "NZ": 0,
+          "ML": 0,
+          "US": 31
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1a804dab71aa058b456d",
+      "type": "grüne bohnen",
+      "name": "grüne Bohnen",
+      "slug": "grune-bohnen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1a804dab71aa058b456d.png",
+      "usage": 44,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbad",
+        "type": "green-beans",
+        "name": "Green Beans",
+        "slug": "green-beans",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbad-a709ebee.png",
+        "usageByCountry": {
+          "AT": 259,
+          "AU": 199,
+          "BE": 150,
+          "CA": 106,
+          "CH": 55,
+          "DE": 217,
+          "ER": 19,
+          "FR": 42,
+          "GB": 200,
+          "LU": 193,
+          "NL": 186,
+          "NZ": 59,
+          "ML": 464,
+          "US": 345
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1f6efd2cb99c598b4575",
+      "type": "jasminreis",
+      "name": "Jasminreis",
+      "slug": "jasminreis",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1f6efd2cb99c598b4575.png",
+      "usage": 172,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1c",
+        "type": "rice",
+        "name": "Reis",
+        "slug": "reis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1c-0b4adebd.png",
+        "usageByCountry": {
+          "AT": 540,
+          "AU": 405,
+          "BE": 265,
+          "CA": 169,
+          "CH": 114,
+          "DE": 505,
+          "ER": 39,
+          "FR": 79,
+          "GB": 480,
+          "LU": 361,
+          "NL": 319,
+          "NZ": 107,
+          "ML": 328,
+          "US": 527
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555343affd2cb990798b4568",
+      "type": "erdnussbutter",
+      "name": "Erdnussbutter",
+      "slug": "erdnussbutter",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555343affd2cb990798b4568.png",
+      "usage": 67,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f8",
+          "type": "peanuts",
+          "name": "Erdnüsse",
+          "slug": "erdnusse",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+          "usage": 120
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc01",
+        "type": "peanut-butter",
+        "name": "Erdnussbutter",
+        "slug": "erdnussbutter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc01-0ad0cf66.png",
+        "usageByCountry": {
+          "AT": 73,
+          "AU": 0,
+          "BE": 38,
+          "CA": 15,
+          "CH": 17,
+          "DE": 67,
+          "ER": 1,
+          "FR": 7,
+          "GB": 6,
+          "LU": 35,
+          "NL": 46,
+          "NZ": 0,
+          "ML": 0,
+          "US": 24
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555357a3f8b25e89038b456a",
+      "type": "limette",
+      "name": "Limette",
+      "slug": "limette",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555357a3f8b25e89038b456a.png",
+      "usage": 350,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc8",
+        "type": "lime",
+        "name": "Limette",
+        "slug": "limette",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc8-7cbce945.png",
+        "usageByCountry": {
+          "AT": 383,
+          "AU": 227,
+          "BE": 132,
+          "CA": 137,
+          "CH": 82,
+          "DE": 351,
+          "ER": 61,
+          "FR": 68,
+          "GB": 407,
+          "LU": 224,
+          "NL": 155,
+          "NZ": 63,
+          "ML": 87,
+          "US": 604
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c1a254dab71af3b8b4567",
+      "type": "sweet-chili-sosze",
+      "name": "Sweet-Chili-Soße",
+      "slug": "sweet-chili-sosze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c1a254dab71af3b8b4567.png",
+      "usage": 48,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6f",
+        "type": "chili-sauce",
+        "name": "Chilisoße",
+        "slug": "chilisosze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6f-c927cff8.png",
+        "usageByCountry": {
+          "AT": 108,
+          "AU": 71,
+          "BE": 70,
+          "CA": 48,
+          "CH": 20,
+          "DE": 106,
+          "ER": 12,
+          "FR": 23,
+          "GB": 81,
+          "LU": 123,
+          "NL": 96,
+          "NZ": 29,
+          "ML": 73,
+          "US": 127
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7d36fd2cb9d8608b4570",
+      "type": "sojasoße",
+      "name": "Sojasoße",
+      "slug": "sojasosze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/554b7d36fd2cb9d8608b4570-f4ba216b.png",
+      "usage": 287,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f9",
+          "type": "soya",
+          "name": "Soja",
+          "slug": "soja",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+          "usage": 390
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc30",
+        "type": "soy-sauce",
+        "name": "Sojasauce",
+        "slug": "sojasauce",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc30-32ed361d.png",
+        "usageByCountry": {
+          "AT": 343,
+          "AU": 281,
+          "BE": 313,
+          "CA": 104,
+          "CH": 80,
+          "DE": 287,
+          "ER": 30,
+          "FR": 79,
+          "GB": 283,
+          "LU": 353,
+          "NL": 307,
+          "NZ": 116,
+          "ML": 6,
+          "US": 323
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5568422afd2cb984278b4568",
+      "type": "wasser",
+      "name": "Wasser*",
+      "slug": "wasser",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/5568422afd2cb984278b4568-968d4de8.png",
+      "usage": 249,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc51",
+        "type": "water",
+        "name": "Wasser",
+        "slug": "wasser",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc51-471f721a.png",
+        "usageByCountry": {
+          "AT": 285,
+          "AU": 1002,
+          "BE": 2,
+          "CA": 1,
+          "CH": 19,
+          "DE": 250,
+          "ER": 0,
+          "FR": 0,
+          "GB": 930,
+          "LU": 1,
+          "NL": 3,
+          "NZ": 287,
+          "ML": 0,
+          "US": 1
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f8",
+      "type": "peanuts",
+      "name": "Erdnüsse",
+      "slug": "erdnusse",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+      "usage": 120
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "type": "soya",
+      "name": "Soja",
+      "slug": "soja",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "usage": 390
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Kleine Schale"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiatisch",
+      "slug": "asiatisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg",
+      "usage": 2484
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053a6",
+      "type": "chinese",
+      "name": "Chinesisch",
+      "slug": "chinesisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a6-846a76df.jpg",
+      "usage": 142
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053ad",
+      "type": "japanese",
+      "name": "Japanisch",
+      "slug": "japanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ad-3f36131f.jpg",
+      "usage": 240
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053ae",
+      "type": "korean",
+      "name": "Koreanisch",
+      "slug": "koreanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ae-01d27069.jpg",
+      "usage": 171
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053b3",
+      "type": "thai",
+      "name": "Thailändisch",
+      "slug": "thailandisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b3-3b2b2add.jpg",
+      "usage": 477
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053ba",
+      "type": "vietnamise",
+      "name": "Vietnamesisch",
+      "slug": "vietnamesisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ba-93abc4f8.jpg",
+      "usage": 62
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "5568190bf8b25ee4348b456a",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b2b27f8b25ef53e8b4574",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1a804dab71aa058b456d",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1f6efd2cb99c598b4575",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "555343affd2cb990798b4568",
+          "amount": 45,
+          "unit": "g"
+        },
+        {
+          "id": "555357a3f8b25e89038b456a",
+          "amount": 0.5,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556c1a254dab71af3b8b4567",
+          "amount": 40,
+          "unit": "ml"
+        },
+        {
+          "id": "554b7d36fd2cb9d8608b4570",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": 1,
+          "unit": "Teelöffel"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": 1,
+          "unit": "Esslöffel"
+        },
+        {
+          "id": "5568422afd2cb984278b4568",
+          "amount": 2,
+          "unit": "Esslöffel"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "5568190bf8b25ee4348b456a",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "554b2b27f8b25ef53e8b4574",
+          "amount": 8,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1a804dab71aa058b456d",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.25,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1f6efd2cb99c598b4575",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "555343affd2cb990798b4568",
+          "amount": 90,
+          "unit": "g"
+        },
+        {
+          "id": "555357a3f8b25e89038b456a",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556c1a254dab71af3b8b4567",
+          "amount": 80,
+          "unit": "ml"
+        },
+        {
+          "id": "554b7d36fd2cb9d8608b4570",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": 2,
+          "unit": "Teelöffel"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": 2,
+          "unit": "Esslöffel"
+        },
+        {
+          "id": "5568422afd2cb984278b4568",
+          "amount": 4,
+          "unit": "Esslöffel"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Hähnchenschenkelragout aus dem Kühlschrank nehmen, damit diese Zimmertemperatur erreichen können. Holzspieße in etwas Wasser einweichen, damit sie später nicht verbrennen. Bohnen waschen und beide Enden abschneiden. Knoblauch abziehen und fein hacken.",
+      "instructionsHTML": "<p>Hähnchenschenkelragout aus dem Kühlschrank nehmen, damit diese Zimmertemperatur erreichen können. Holzspieße in etwas Wasser einweichen, damit sie später nicht verbrennen. Bohnen waschen und beide Enden abschneiden. Knoblauch abziehen und fein hacken.</p>",
+      "instructions": "Hähnchenschenkelragout aus dem Kühlschrank nehmen, damit diese Zimmertemperatur erreichen können. Holzspieße in etwas Wasser einweichen, damit sie später nicht verbrennen. Bohnen waschen und beide Enden abschneiden. Knoblauch abziehen und fein hacken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54db206e6ced6e5b1f8b456a/step_556c1d4185ab3.jpg",
+          "caption": "Holzspieße in Wasser einweichen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5568190bf8b25ee4348b456a",
+        "554b2b27f8b25ef53e8b4574",
+        "554b1a804dab71aa058b456d"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Reis in einem Sieb solange mit kaltem Wasser abbrausen, bis das Wasser klar durch den Reis fließt. 300 ml Wasser mit etwas Salz zum Kochen bringen und den Reis einrühren. Einmal aufkochen lassen, abdecken, Hitze herunterstufen und auf niedriger Hitze ca. 10 Min. kochen. Anschließend von der Herdplatte nehmen und mindestens 10 Min. bedeckt stehen lassen.",
+      "instructionsHTML": "<p>Reis in einem Sieb solange mit kaltem Wasser abbrausen, bis das Wasser klar durch den Reis fließt. 300 ml Wasser mit etwas Salz zum Kochen bringen und den Reis einrühren. Einmal aufkochen lassen, abdecken, Hitze herunterstufen und auf niedriger Hitze ca. 10 Min. kochen. Anschließend von der Herdplatte nehmen und mindestens 10 Min. bedeckt stehen lassen.</p>",
+      "instructions": "Reis in einem Sieb solange mit kaltem Wasser abbrausen, bis das Wasser klar durch den Reis fließt. 300 ml Wasser mit etwas Salz zum Kochen bringen und den Reis einrühren. Einmal aufkochen lassen, abdecken, Hitze herunterstufen und auf niedriger Hitze ca. 10 Min. kochen. Anschließend von der Herdplatte nehmen und mindestens 10 Min. bedeckt stehen lassen.",
+      "timers": [
+        {
+          "name": "Reis kochen",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b1f6efd2cb99c598b4575",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Hähnchen mit etwas Limettenabrieb, Olivenöl und etwas Salz und Pfeffer in einer Schüssel vermengen. Anschließend vorsichtig auf die Spieße stecken.",
+      "instructionsHTML": "<p>Hähnchen mit etwas Limettenabrieb, Olivenöl und etwas Salz und Pfeffer in einer Schüssel vermengen. Anschließend vorsichtig auf die Spieße stecken.</p>",
+      "instructions": "Hähnchen mit etwas Limettenabrieb, Olivenöl und etwas Salz und Pfeffer in einer Schüssel vermengen. Anschließend vorsichtig auf die Spieße stecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54db206e6ced6e5b1f8b456a/step_556c1d4198b17.jpg",
+          "caption": "Das vorbereitete Hähnchenfleisch auf die Spieße stecken"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5568190bf8b25ee4348b456a",
+        "554b2b27f8b25ef53e8b4574",
+        "555357a3f8b25e89038b456a",
+        "554b22cb4dab71c8058b4570",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Ofen auf 200 °C Grillfunktion vorheizen. Für die Sataysoße: Erdnussbutter mit Sweet Chili Soße, Sojasoße, dem Saft einer halben Limette und warmen Wasser in einer kleinen Schüssel vermengen.",
+      "instructionsHTML": "<p>Ofen auf 200 °C Grillfunktion vorheizen. Für die Sataysoße: Erdnussbutter mit Sweet Chili Soße, Sojasoße, dem Saft einer halben Limette und warmen Wasser in einer kleinen Schüssel vermengen.</p>",
+      "instructions": "Ofen auf 200 °C Grillfunktion vorheizen. Für die Sataysoße: Erdnussbutter mit Sweet Chili Soße, Sojasoße, dem Saft einer halben Limette und warmen Wasser in einer kleinen Schüssel vermengen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54db206e6ced6e5b1f8b456a/step_556c1d41ae685.jpg",
+          "caption": "Die Zubereitung der Sataya-Soße"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555343affd2cb990798b4568",
+        "556c1a254dab71af3b8b4567",
+        "554b7d36fd2cb9d8608b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Spieße auf einem mit Alufolie belegten Backblech verteilen und ca. 10 Min. auf dem höchsten Einschub des Ofens garen, dabei die Spieße ein paar Mal wenden, damit das Fleisch gleichmäßig gart.",
+      "instructionsHTML": "<p>Spieße auf einem mit Alufolie belegten Backblech verteilen und ca. 10 Min. auf dem höchsten Einschub des Ofens garen, dabei die Spieße ein paar Mal wenden, damit das Fleisch gleichmäßig gart.</p>",
+      "instructions": "Spieße auf einem mit Alufolie belegten Backblech verteilen und ca. 10 Min. auf dem höchsten Einschub des Ofens garen, dabei die Spieße ein paar Mal wenden, damit das Fleisch gleichmäßig gart.",
+      "timers": [
+        {
+          "name": "Spieße garen",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305368"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Bohnen in einem Topf mit etwas Salzwasser bedecken und ca. 5 Min. garen. Dann abgießen und mit kaltem Wasser abschrecken. Öl in einer großen beschichteten Pfanne erwärmen, Bohnen mit Knoblauch zugeben und ca. 3 weitere Min. garen.",
+      "instructionsHTML": "<p>Bohnen in einem Topf mit etwas Salzwasser bedecken und ca. 5 Min. garen. Dann abgießen und mit kaltem Wasser abschrecken. Öl in einer großen beschichteten Pfanne erwärmen, Bohnen mit Knoblauch zugeben und ca. 3 weitere Min. garen.</p>",
+      "instructions": "Bohnen in einem Topf mit etwas Salzwasser bedecken und ca. 5 Min. garen. Dann abgießen und mit kaltem Wasser abschrecken. Öl in einer großen beschichteten Pfanne erwärmen, Bohnen mit Knoblauch zugeben und ca. 3 weitere Min. garen.",
+      "timers": [
+        {
+          "name": "Bohnen garen",
+          "duration": "PT5M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54db206e6ced6e5b1f8b456a/step_556c1d41c3a75.jpg",
+          "caption": "Die Bohnen in der Pfanne anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1a804dab71aa058b456d",
+        "554b268ffd2cb983608b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Reis nach Ziehzeit mit einer Gabel auflockern und auf flachen Tellern verteilen. Spieße und Bohnen auf dem Reis anrichten, Fleisch mit etwas Sataysoße bedecken und genießen.",
+      "instructionsHTML": "<p>Reis nach Ziehzeit mit einer Gabel auflockern und auf flachen Tellern verteilen. Spieße und Bohnen auf dem Reis anrichten, Fleisch mit etwas Sataysoße bedecken und genießen.</p>",
+      "instructions": "Reis nach Ziehzeit mit einer Gabel auflockern und auf flachen Tellern verteilen. Spieße und Bohnen auf dem Reis anrichten, Fleisch mit etwas Sataysoße bedecken und genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "5568190bf8b25ee4348b456a",
+        "554b1a804dab71aa058b456d",
+        "554b1f6efd2cb99c598b4575"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.4,
+  "ratingsCount": 2230,
+  "favoritesCount": 929,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/hahnchen-satay-spiesze-54db206e6ced6e5b1f8b456a",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

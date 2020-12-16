@@ -1,0 +1,975 @@
+{
+  "country": "DE",
+  "id": "54f8307d6ced6e51468b4568",
+  "name": "Rote Kartoffeln mit Kräuterquark,",
+  "seoName": null,
+  "category": null,
+  "slug": "rote-kartoffeln-mit-krauterquark",
+  "headline": "Meerrettich-Sahne und Räucherlachs",
+  "description": "Rote Kartoffeln mit Schale sind nicht nur eine leckere Abwechslung, sie haben im Vergleich zu ihren herkömmlichen Verwandten einen viel höheren Phenolgehalt, der uns vor Krebs schützen soll und unsere Cholesterin- und Blutzuckerwerte senkt. Allerdings müssen sie länger gekocht werden!",
+  "descriptionHTML": "<p>Rote Kartoffeln mit Schale sind nicht nur eine leckere Abwechslung, sie haben im Vergleich zu ihren herkömmlichen Verwandten einen viel höheren Phenolgehalt, der uns vor Krebs schützen soll und unsere Cholesterin- und Blutzuckerwerte senkt. Allerdings müssen sie länger gekocht werden!</p>",
+  "descriptionMarkdown": "Rote Kartoffeln mit Schale sind nicht nur eine leckere Abwechslung, sie haben im Vergleich zu ihren herkömmlichen Verwandten einen viel höheren Phenolgehalt, der uns vor Krebs schützen soll und unsere Cholesterin- und Blutzuckerwerte senkt. Allerdings müssen sie länger gekocht werden!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-03-05T10:31:25+00:00",
+  "updatedAt": "2017-03-03T23:41:20+00:00",
+  "link": "https://hellofresh.com/recipes/54f8307d6ced6e51468b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/54f8307d6ced6e51468b4568.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/54f8307d6ced6e51468b4568.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2255.176,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 539,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 19,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 49,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "556d5e8dfd2cb931078b456a",
+      "type": "rote kartoffeln",
+      "name": "rote Kartoffeln",
+      "slug": "rote-kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/556d5e8dfd2cb931078b456a-57427d75.png",
+      "usage": 11,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da357fd2cb943758b4567",
+      "type": "thymian",
+      "name": "Thymian",
+      "slug": "thymian",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da357fd2cb943758b4567.png",
+      "usage": 245,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc43",
+        "type": "thyme",
+        "name": "Thymian",
+        "slug": "thymian",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc43-d0cc4199.png",
+        "usageByCountry": {
+          "AT": 252,
+          "AU": 94,
+          "BE": 243,
+          "CA": 96,
+          "CH": 34,
+          "DE": 252,
+          "ER": 0,
+          "FR": 73,
+          "GB": 187,
+          "LU": 346,
+          "NL": 288,
+          "NZ": 38,
+          "ML": 213,
+          "US": 322
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55534596f8b25ea1038b4569",
+      "type": "schnittlauch",
+      "name": "Schnittlauch",
+      "slug": "schnittlauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55534596f8b25ea1038b4569.png",
+      "usage": 358,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb74",
+        "type": "chives",
+        "name": "Schnittlauch",
+        "slug": "schnittlauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb74-921bfcce.png",
+        "usageByCountry": {
+          "AT": 382,
+          "AU": 32,
+          "BE": 85,
+          "CA": 38,
+          "CH": 68,
+          "DE": 358,
+          "ER": 0,
+          "FR": 30,
+          "GB": 71,
+          "LU": 117,
+          "NL": 104,
+          "NZ": 20,
+          "ML": 0,
+          "US": 80
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d5febfd2cb937078b4569",
+      "type": "meerrettich",
+      "name": "Meerrettich",
+      "slug": "meerrettich",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d5febfd2cb937078b4569.png",
+      "usage": 4,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc19",
+        "type": "radish",
+        "name": "Rettich",
+        "slug": "rettich",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc19-7a28dd12.png",
+        "usageByCountry": {
+          "AT": 99,
+          "AU": 5,
+          "BE": 65,
+          "CA": 21,
+          "CH": 19,
+          "DE": 82,
+          "ER": 2,
+          "FR": 7,
+          "GB": 18,
+          "LU": 39,
+          "NL": 64,
+          "NZ": 1,
+          "ML": 0,
+          "US": 56
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7480fd2cb911618b4568",
+      "type": "schmand",
+      "name": "Schmand",
+      "slug": "schmand",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b7480fd2cb911618b4568-52e9ad6e.png",
+      "usage": 248,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d60474dab71ef488b4569",
+      "type": "magerquark",
+      "name": "Magerquark",
+      "slug": "magerquark",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d60474dab71ef488b4569.png",
+      "usage": 3,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c2c89f8b25e9c658b4568",
+      "type": "gurke",
+      "name": "Gurke",
+      "slug": "gurke",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c2c89f8b25e9c658b4568.png",
+      "usage": 277,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb88",
+        "type": "cucumber",
+        "name": "Gurke",
+        "slug": "gurke",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb88-49b790ca.png",
+        "usageByCountry": {
+          "AT": 293,
+          "AU": 269,
+          "BE": 125,
+          "CA": 53,
+          "CH": 67,
+          "DE": 282,
+          "ER": 13,
+          "FR": 41,
+          "GB": 100,
+          "LU": 160,
+          "NL": 137,
+          "NZ": 128,
+          "ML": 1,
+          "US": 124
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d60a3f8b25ea8718b4567",
+      "type": "räucherlachs",
+      "name": "Räucherlachs",
+      "slug": "raucherlachs",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d60a3f8b25ea8718b4567.png",
+      "usage": 11,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f7",
+          "type": "fish",
+          "name": "Fisch",
+          "slug": "fisch",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+          "usage": 299
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb9c",
+        "type": "fish",
+        "name": "Fisch",
+        "slug": "fisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb9c-8b041158.png",
+        "usageByCountry": {
+          "AT": 72,
+          "AU": 96,
+          "BE": 373,
+          "CA": 37,
+          "CH": 15,
+          "DE": 65,
+          "ER": 2,
+          "FR": 83,
+          "GB": 179,
+          "LU": 509,
+          "NL": 463,
+          "NZ": 17,
+          "ML": 246,
+          "US": 137
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f7",
+      "type": "fish",
+      "name": "Fisch",
+      "slug": "fisch",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "usage": 299
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a4",
+      "type": "american",
+      "name": "Amerikanisch",
+      "slug": "amerikanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a4-aafc03e6.jpg",
+      "usage": 3895
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053a8",
+      "type": "french",
+      "name": "Französisch",
+      "slug": "franzosisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a8-7a553175.jpg",
+      "usage": 894
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italienisch",
+      "slug": "italienisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg",
+      "usage": 4262
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053b8",
+      "type": "mediterranean",
+      "name": "Mediterran",
+      "slug": "mediterran",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b8-f04aa19c.jpg",
+      "usage": 1179
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053b0",
+      "type": "russian",
+      "name": "Russisch",
+      "slug": "russisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b0-b6855b74.jpg",
+      "usage": 21
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053c1",
+      "type": "nordic",
+      "name": "Skandinavisch",
+      "slug": "skandinavisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053c1-96039e31.jpg",
+      "usage": 148
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "556d5e8dfd2cb931078b456a",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555da357fd2cb943758b4567",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "id": "556d5febfd2cb937078b4569",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b7480fd2cb911618b4568",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "556d60474dab71ef488b4569",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "556c2c89f8b25e9c658b4568",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556d60a3f8b25ea8718b4567",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "556d5e8dfd2cb931078b456a",
+          "amount": 1000,
+          "unit": "g"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.25,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555da357fd2cb943758b4567",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "id": "556d5febfd2cb937078b4569",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b7480fd2cb911618b4568",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "556d60474dab71ef488b4569",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "556c2c89f8b25e9c658b4568",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556d60a3f8b25ea8718b4567",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Kartoffeln waschen, in ca. 1 cm dicke Scheiben schneiden – nicht schälen - und in reichlich Salzwasser 15-20 Min. kochen. Mit einer Gabel anstechen, wenn die Gabel sich leicht herausziehen lässt, sind die Kartoffeln gar.",
+      "instructionsHTML": "<p>Kartoffeln waschen, in ca. 1 cm dicke Scheiben schneiden – nicht schälen - und in reichlich Salzwasser 15-20 Min. kochen. Mit einer Gabel anstechen, wenn die Gabel sich leicht herausziehen lässt, sind die Kartoffeln gar.</p>",
+      "instructions": "Kartoffeln waschen, in ca. 1 cm dicke Scheiben schneiden – nicht schälen - und in reichlich Salzwasser 15-20 Min. kochen. Mit einer Gabel anstechen, wenn die Gabel sich leicht herausziehen lässt, sind die Kartoffeln gar.",
+      "timers": [
+        {
+          "name": "Kartoffel kochen",
+          "duration": "PT20M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556d5e8dfd2cb931078b456a"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Knoblauch abziehen und fein hacken. Thymian und Schnittlauch waschen und trocken schütteln. Die Nadeln vom Thymian abstreifen und mit dem Schnittlauch fein hacken. Meerrettich schälen und fein reiben. Gurke waschen und in dünne Scheiben schneiden oder hobeln.",
+      "instructionsHTML": "<p>Knoblauch abziehen und fein hacken. Thymian und Schnittlauch waschen und trocken schütteln. Die Nadeln vom Thymian abstreifen und mit dem Schnittlauch fein hacken. Meerrettich schälen und fein reiben. Gurke waschen und in dünne Scheiben schneiden oder hobeln.</p>",
+      "instructions": "Knoblauch abziehen und fein hacken. Thymian und Schnittlauch waschen und trocken schütteln. Die Nadeln vom Thymian abstreifen und mit dem Schnittlauch fein hacken. Meerrettich schälen und fein reiben. Gurke waschen und in dünne Scheiben schneiden oder hobeln.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54f8307d6ced6e51468b4568/step_556efc73dfa6d.jpg",
+          "caption": "Die Nadeln von Thymian abziehen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b268ffd2cb983608b4568",
+        "555da357fd2cb943758b4567",
+        "55534596f8b25ea1038b4569",
+        "556d5febfd2cb937078b4569",
+        "556c2c89f8b25e9c658b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einer kleinen Schüssel Schmand mit Meerrettich (Vorsicht, frischer Meerrettich ist scharf – lieber etwas weniger verwenden und erst probieren!) und mit Salz und Pfeffer vermischen.",
+      "instructionsHTML": "<p>In einer kleinen Schüssel Schmand mit Meerrettich (Vorsicht, frischer Meerrettich ist scharf – lieber etwas weniger verwenden und erst probieren!) und mit Salz und Pfeffer vermischen.</p>",
+      "instructions": "In einer kleinen Schüssel Schmand mit Meerrettich (Vorsicht, frischer Meerrettich ist scharf – lieber etwas weniger verwenden und erst probieren!) und mit Salz und Pfeffer vermischen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54f8307d6ced6e51468b4568/step_556efc73f2009.jpg",
+          "caption": "Den Meerrettich reiben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556d5febfd2cb937078b4569",
+        "554b7480fd2cb911618b4568",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer zweiten Schüssel den Quark mit den frischen Kräutern, Knoblauch und 1 TL Olivenöl und Salz und Pfeffer gut verrühren.",
+      "instructionsHTML": "<p>In einer zweiten Schüssel den Quark mit den frischen Kräutern, Knoblauch und 1 TL Olivenöl und Salz und Pfeffer gut verrühren.</p>",
+      "instructions": "In einer zweiten Schüssel den Quark mit den frischen Kräutern, Knoblauch und 1 TL Olivenöl und Salz und Pfeffer gut verrühren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54f8307d6ced6e51468b4568/step_556efc741482f.jpg",
+          "caption": "Den Quark mit frischen Kräutern verrühren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555da357fd2cb943758b4567",
+        "55534596f8b25ea1038b4569",
+        "556d60474dab71ef488b4569",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Kartoffeln nach dem Garen abgießen und mit kaltem Wasser abschrecken. Anschließend Kartoffeln, Gurke und Kräuterquark ￼mischen und wenn nötig mit Salz und Pfeffer abschmecken.",
+      "instructionsHTML": "<p>Kartoffeln nach dem Garen abgießen und mit kaltem Wasser abschrecken. Anschließend Kartoffeln, Gurke und Kräuterquark ￼mischen und wenn nötig mit Salz und Pfeffer abschmecken.</p>",
+      "instructions": "Kartoffeln nach dem Garen abgießen und mit kaltem Wasser abschrecken. Anschließend Kartoffeln, Gurke und Kräuterquark ￼mischen und wenn nötig mit Salz und Pfeffer abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54f8307d6ced6e51468b4568/step_556efc742947d.jpg",
+          "caption": "Kartoffeln mit dem Quark und Gurke zusammenrühren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Räucherlachs mit Kräuterquark-Kartoffeln auf Tellern verteilen und mit einem Klecks Meerrettich-Schmand genießen.",
+      "instructionsHTML": "<p>Räucherlachs mit Kräuterquark-Kartoffeln auf Tellern verteilen und mit einem Klecks Meerrettich-Schmand genießen.</p>",
+      "instructions": "Räucherlachs mit Kräuterquark-Kartoffeln auf Tellern verteilen und mit einem Klecks Meerrettich-Schmand genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 2.8,
+  "ratingsCount": 233,
+  "favoritesCount": 106,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/rote-kartoffeln-mit-krauterquark-54f8307d6ced6e51468b4568",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

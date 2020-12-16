@@ -1,0 +1,1019 @@
+{
+  "country": "DE",
+  "id": "5732fde1f8b25eda6e8b4568",
+  "name": "Lachs-Brokkoli-Gratin",
+  "seoName": null,
+  "category": null,
+  "slug": "tm-lachs-brokkoli-gratin",
+  "headline": "in cremiger Kräuter-Soße (Thermomix)",
+  "description": "Darauf haben wir alle gewartet: Endlich gibt es frischen Fisch auf Deinen Teller! Das muss natürlich mit einem echten Klassiker gefeiert werden. Genieße daher Dein Lachsfilet mit leckerem Brokkoli in einer cremigen Kräuter-Soße, die Dich durch eine interessante Kerbel-Note überraschen wird.",
+  "descriptionHTML": "<p>Darauf haben wir alle gewartet: Endlich gibt es frischen Fisch auf Deinen Teller! Das muss natürlich mit einem echten Klassiker gefeiert werden. Genieße daher Dein Lachsfilet mit leckerem Brokkoli in einer cremigen Kräuter-Soße, die Dich durch eine interessante Kerbel-Note überraschen wird.</p>",
+  "descriptionMarkdown": "Darauf haben wir alle gewartet: Endlich gibt es frischen Fisch auf Deinen Teller! Das muss natürlich mit einem echten Klassiker gefeiert werden. Genieße daher Dein Lachsfilet mit leckerem Brokkoli in einer cremigen Kräuter-Soße, die Dich durch eine interessante Kerbel-Note überraschen wird.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 3,
+  "prepTime": "PT30M",
+  "totalTime": "PT45M",
+  "servingSize": 0,
+  "createdAt": "2016-05-11T09:39:45+00:00",
+  "updatedAt": "2017-04-13T09:34:48+00:00",
+  "link": "https://hellofresh.com/recipes/5732fde1f8b25eda6e8b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/lachs-brokkoli-gratin-8b4568.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/lachs-brokkoli-gratin-98c7abec.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2724,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 651,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 35,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 37,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 32.5,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b7b9efd2cb9d0608b456f",
+      "type": "brokkoli",
+      "name": "Brokkoli",
+      "slug": "brokkoli",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7b9efd2cb9d0608b456f.png",
+      "usage": 107,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb56",
+        "type": "broccoli",
+        "name": "Brokkoli",
+        "slug": "brokkoli",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb56-a0e5977e.png",
+        "usageByCountry": {
+          "AT": 149,
+          "AU": 177,
+          "BE": 137,
+          "CA": 77,
+          "CH": 35,
+          "DE": 150,
+          "ER": 18,
+          "FR": 47,
+          "GB": 224,
+          "LU": 219,
+          "NL": 178,
+          "NZ": 44,
+          "ML": 176,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55798848f8b25eac578b4567",
+      "type": "drillinge",
+      "name": "Kartoffeln (Drillinge)",
+      "slug": "drillinge",
+      "description": null,
+      "internalName": "Drillinge",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55798848f8b25eac578b4567-2960afa7.png",
+      "usage": 275,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "56bdcfaa4dab71ac4b8b4567",
+      "type": "zitrone, bio",
+      "name": "Zitrone, bio",
+      "slug": "zitrone-bio",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/56bdcfaa4dab71ac4b8b4567.png",
+      "usage": 25,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "562748ae4dab71c51d8b4568",
+      "type": "lachsfilet",
+      "name": "Lachsfilet",
+      "slug": "lachsfilet",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/562748ae4dab71c51d8b4568.png",
+      "usage": 14,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f7",
+          "type": "fish",
+          "name": "Fisch",
+          "slug": "fisch",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+          "usage": 299
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb9c",
+        "type": "fish",
+        "name": "Fisch",
+        "slug": "fisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb9c-8b041158.png",
+        "usageByCountry": {
+          "AT": 72,
+          "AU": 96,
+          "BE": 373,
+          "CA": 37,
+          "CH": 15,
+          "DE": 65,
+          "ER": 2,
+          "FR": 83,
+          "GB": 179,
+          "LU": 509,
+          "NL": 463,
+          "NZ": 17,
+          "ML": 246,
+          "US": 137
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dbfe6f8b25e406a8b4569",
+      "type": "dill",
+      "name": "Dill",
+      "slug": "dill",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dbfe6f8b25e406a8b4569.png",
+      "usage": 65,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb8d",
+        "type": "dill",
+        "name": "Dill",
+        "slug": "dill",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb8d-ba6242c3.png",
+        "usageByCountry": {
+          "AT": 58,
+          "AU": 26,
+          "BE": 58,
+          "CA": 22,
+          "CH": 9,
+          "DE": 65,
+          "ER": 0,
+          "FR": 15,
+          "GB": 31,
+          "LU": 78,
+          "NL": 69,
+          "NZ": 6,
+          "ML": 117,
+          "US": 58
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c22794dab71423c8b4568",
+      "type": "kerbel",
+      "name": "Kerbel",
+      "slug": "kerbel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/556c22794dab71423c8b4568-ff801a1a.png",
+      "usage": 48,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1f134dab71aa058b456e",
+      "type": "crème fraîche",
+      "name": "Crème fraîche",
+      "slug": "creme-fraiche",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1f134dab71aa058b456e.png",
+      "usage": 305,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb86",
+        "type": "creme-fraiche",
+        "name": "Crème Fraîche",
+        "slug": "creme-fraiche",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb86-533fc64c.png",
+        "usageByCountry": {
+          "AT": 321,
+          "AU": 0,
+          "BE": 119,
+          "CA": 0,
+          "CH": 81,
+          "DE": 305,
+          "ER": 0,
+          "FR": 21,
+          "GB": 328,
+          "LU": 127,
+          "NL": 144,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c48704dab710b3d8b4568",
+      "type": "gratinkase",
+      "name": "Gratinkäse",
+      "slug": "gratinkase",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c48704dab710b3d8b4568.png",
+      "usage": 44,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f7",
+      "type": "fish",
+      "name": "Fisch",
+      "slug": "fisch",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "usage": 299
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a2",
+      "type": "thermomix",
+      "name": "Thermomix"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Küchenpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Auflaufform"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305315",
+      "type": "gluten-free",
+      "name": "glutenfrei",
+      "slug": "glutenfrei",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-gluten%403x.png",
+      "numberOfRecipes": 2,
+      "numberOfRecipesByCountry": {
+        "AT": 210,
+        "AU": 209,
+        "BE": 573,
+        "CA": 39,
+        "CH": 41,
+        "DE": 206,
+        "ER": 0,
+        "FR": 154,
+        "GB": 2,
+        "LU": 745,
+        "NL": 677,
+        "NZ": 0,
+        "ML": 141,
+        "US": 663
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305314",
+      "type": "eat-me-first",
+      "name": "Zuerst essen",
+      "slug": "zuerst-essen",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/eat-me-first%403x.png",
+      "numberOfRecipes": 3099,
+      "numberOfRecipesByCountry": {
+        "AT": 61,
+        "AU": 71,
+        "BE": 588,
+        "CA": 62,
+        "CH": 16,
+        "DE": 54,
+        "ER": 0,
+        "FR": 281,
+        "GB": 37,
+        "LU": 1066,
+        "NL": 748,
+        "NZ": 0,
+        "ML": 12,
+        "US": 103
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305328",
+      "type": "thermomix",
+      "name": "Thermomix",
+      "slug": "thermomix",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200https://s3-eu-west-1.amazonaws.com/hf-recipes/tags/icon-thermomix.png",
+      "numberOfRecipes": 1034,
+      "numberOfRecipesByCountry": {
+        "AT": 568,
+        "AU": 0,
+        "BE": 0,
+        "CA": 0,
+        "CH": 3,
+        "DE": 463,
+        "ER": 0,
+        "FR": 0,
+        "GB": 0,
+        "LU": 0,
+        "NL": 0,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": "thermomix",
+  "label": {
+    "text": "Thermomix",
+    "handle": "thermomix",
+    "backgroundColor": "#009747",
+    "foregroundColor": "#ffffff"
+  },
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b7b9efd2cb9d0608b456f",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55798848f8b25eac578b4567",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "56bdcfaa4dab71ac4b8b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "562748ae4dab71c51d8b4568",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "555dbfe6f8b25e406a8b4569",
+          "amount": 3,
+          "unit": "Zweig"
+        },
+        {
+          "id": "556c22794dab71423c8b4568",
+          "amount": 1,
+          "unit": "Bund"
+        },
+        {
+          "id": "554b1f134dab71aa058b456e",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "556c48704dab710b3d8b4568",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Gemüse\nund Kräuter waschen und putzen. Backofen auf 200 °C Ober-/Unterhitze\n(180 °C Umluft) vorheizen.\n\nBrokkoliröschen in den Varoma-Behälter geben.",
+      "instructionsHTML": "<p>Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Gemüse\nund Kräuter waschen und putzen. Backofen auf 200 °C Ober-/Unterhitze\n(180 °C Umluft) vorheizen.</p>\n<p>Brokkoliröschen in den Varoma-Behälter geben.</p>",
+      "instructions": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Gemüse\nund Kräuter waschen und putzen. Backofen auf 200 °C Ober-/Unterhitze\n(180 °C Umluft) vorheizen.\nBrokkoliröschen in den Varoma-Behälter geben.",
+      "timers": [
+        {
+          "name": "Backofen vorheizen",
+          "duration": "PT20M",
+          "temperature": 200,
+          "temperatureUnit": "C",
+          "ovenMode": "PreHeating"
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5732fde1f8b25eda6e8b4568/step_576424cd6dd33.jpg",
+          "caption": "Brokkoli verteilen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b7b9efd2cb9d0608b456f"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305374",
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Dill und Kerbel in den Mixtopf geben, 3 Sek./Stufe 8 zerkleinern und\nmit dem Spatel nach unten schieben.",
+      "instructionsHTML": "<p>Dill und Kerbel in den Mixtopf geben, 3 Sek./Stufe 8 zerkleinern und\nmit dem Spatel nach unten schieben.</p>",
+      "instructions": "Dill und Kerbel in den Mixtopf geben, 3 Sek./Stufe 8 zerkleinern und\nmit dem Spatel nach unten schieben.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "555dbfe6f8b25e406a8b4569",
+        "556c22794dab71423c8b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Zitrone halbieren, eine Hälfte auspressen, die andere in Spalten\nschneiden. Crème fraîche, 10 g Wasser und die Hälfte des Zitronensafts\nzugeben und 5 Sek./Stufe 5 vermischen, sodass eine flüssig-cremige\nSoße entsteht. Mit Salz, Pfeffer und Zucker abschmecken und umfüllen.",
+      "instructionsHTML": "<p>Zitrone halbieren, eine Hälfte auspressen, die andere in Spalten\nschneiden. Crème fraîche, 10 g Wasser und die Hälfte des Zitronensafts\nzugeben und 5 Sek./Stufe 5 vermischen, sodass eine flüssig-cremige\nSoße entsteht. Mit Salz, Pfeffer und Zucker abschmecken und umfüllen.</p>",
+      "instructions": "Zitrone halbieren, eine Hälfte auspressen, die andere in Spalten\nschneiden. Crème fraîche, 10 g Wasser und die Hälfte des Zitronensafts\nzugeben und 5 Sek./Stufe 5 vermischen, sodass eine flüssig-cremige\nSoße entsteht. Mit Salz, Pfeffer und Zucker abschmecken und umfüllen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5732fde1f8b25eda6e8b4568/step_576424cda1636.jpg",
+          "caption": "Soße umfüllen und verrühren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "56bdcfaa4dab71ac4b8b4567",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b2319fd2cb9ba598b456d",
+        "554b1f134dab71aa058b456e"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "500 g Wasser in den Mixtopf geben, Gareinsatz einhängen,\nKartoffelscheiben hineingeben und 12 Min./Varoma/Stufe 1 garen.\nWährenddessen Lachsfilets kurz abspülen, mit Küchenpapier trockentupfen,\nHaut abschneiden und Filets mit dem Rest Zitronensaft, Salz und\nPfeffer würzen. Dann Lachsfilets in dünne Scheiben schneiden.",
+      "instructionsHTML": "<p>500 g Wasser in den Mixtopf geben, Gareinsatz einhängen,\nKartoffelscheiben hineingeben und 12 Min./Varoma/Stufe 1 garen.\nWährenddessen Lachsfilets kurz abspülen, mit Küchenpapier trockentupfen,\nHaut abschneiden und Filets mit dem Rest Zitronensaft, Salz und\nPfeffer würzen. Dann Lachsfilets in dünne Scheiben schneiden.</p>",
+      "instructions": "500 g Wasser in den Mixtopf geben, Gareinsatz einhängen,\nKartoffelscheiben hineingeben und 12 Min./Varoma/Stufe 1 garen.\nWährenddessen Lachsfilets kurz abspülen, mit Küchenpapier trockentupfen,\nHaut abschneiden und Filets mit dem Rest Zitronensaft, Salz und\nPfeffer würzen. Dann Lachsfilets in dünne Scheiben schneiden.",
+      "timers": [
+        {
+          "name": "Garzeit Varoma",
+          "duration": "PT12M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5732fde1f8b25eda6e8b4568/step_576424cdca5be.jpg",
+          "caption": "Kartoffel garen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55798848f8b25eac578b4567",
+        "56bdcfaa4dab71ac4b8b4567",
+        "562748ae4dab71c51d8b4568",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305376",
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Varoma aufsetzen und 8 Min./Varoma/Stufe 1 garen. In\ndieser Zeit eine Auflaufform mit Butter einfetten. Varoma abnehmen,\nGareinsatz mithilfe des Spatels herausnehmen und Mixtopf leeren.",
+      "instructionsHTML": "<p>Varoma aufsetzen und 8 Min./Varoma/Stufe 1 garen. In\ndieser Zeit eine Auflaufform mit Butter einfetten. Varoma abnehmen,\nGareinsatz mithilfe des Spatels herausnehmen und Mixtopf leeren.</p>",
+      "instructions": "Varoma aufsetzen und 8 Min./Varoma/Stufe 1 garen. In\ndieser Zeit eine Auflaufform mit Butter einfetten. Varoma abnehmen,\nGareinsatz mithilfe des Spatels herausnehmen und Mixtopf leeren.",
+      "timers": [
+        {
+          "name": "Garzeit Varoma",
+          "duration": "PT08M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305367",
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Gegarte Kartoffelscheiben in der Auflaufform verteilen, mit Salz und\nPfeffer würzen. Lachs- und Brokkoliröschen darüber geben. Soße auf\ndem Gratin verteilen, Gratinkäse darüber streuen und im Backofen 25 –\n30 Min. backen, bis der Käse goldbraun zerlaufen ist.",
+      "instructionsHTML": "<p>Gegarte Kartoffelscheiben in der Auflaufform verteilen, mit Salz und\nPfeffer würzen. Lachs- und Brokkoliröschen darüber geben. Soße auf\ndem Gratin verteilen, Gratinkäse darüber streuen und im Backofen 25 –\n30 Min. backen, bis der Käse goldbraun zerlaufen ist.</p>",
+      "instructions": "Gegarte Kartoffelscheiben in der Auflaufform verteilen, mit Salz und\nPfeffer würzen. Lachs- und Brokkoliröschen darüber geben. Soße auf\ndem Gratin verteilen, Gratinkäse darüber streuen und im Backofen 25 –\n30 Min. backen, bis der Käse goldbraun zerlaufen ist.",
+      "timers": [
+        {
+          "name": "Gratin backen",
+          "duration": "PT25M",
+          "temperature": 200,
+          "temperatureUnit": "C",
+          "ovenMode": "TopBottomHeating"
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5732fde1f8b25eda6e8b4568/step_576424cdde416.jpg",
+          "caption": "Lachsstücke verteilen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b7b9efd2cb9d0608b456f",
+        "55798848f8b25eac578b4567",
+        "562748ae4dab71c51d8b4568",
+        "556c48704dab710b3d8b4568",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305367",
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Lachs-Brokkoli-Gratin auf Tellern verteilen, mit Zitronenspalten garnieren\nund genießen!",
+      "instructionsHTML": "<p>Lachs-Brokkoli-Gratin auf Tellern verteilen, mit Zitronenspalten garnieren\nund genießen!</p>",
+      "instructions": "Lachs-Brokkoli-Gratin auf Tellern verteilen, mit Zitronenspalten garnieren\nund genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.4,
+  "ratingsCount": 55,
+  "favoritesCount": 543,
+  "active": true,
+  "highlighted": true,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/tm-lachs-brokkoli-gratin-5732fde1f8b25eda6e8b4568",
+  "clonedFrom": null,
+  "canonical": "5732f1adfd2cb97e798b4567",
+  "canonicalLink": "https://www.hellofresh.de/recipes/lachs-brokkoli-gratin-5732f1adfd2cb97e798b4567"
+}

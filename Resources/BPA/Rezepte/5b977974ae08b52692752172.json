@@ -1,0 +1,1207 @@
+{
+  "country": "DE",
+  "id": "5b977974ae08b52692752172",
+  "name": "Veggie Burger mit Bohnenpatty",
+  "seoName": "Veggie Burger mit Bohnenpatty",
+  "category": null,
+  "slug": "veggie-burger-mit-bohnenpatty",
+  "headline": "Zwiebel-Kirsch-Chutney und Gorgonzola",
+  "description": "Das Beste an diesem Burger? Absolut die Geschmackskombi aus süß, salzig und cremig! Gleich danach kommen aber die stolzen Gehalte an Proteinen und Ballaststoffen. Geliefert werden diese vor allem durch die schwarzen Bohnen im Burgerpatty. Achte darauf, das Patty wirklich bei mittlerer Hitze für jeweils 5 Min. anzubraten – ansonsten verbrennt es und ist innen nicht gar. Und dann heißt es nur noch: Die außergewöhnlich leckere Geschmackskombi genießen!",
+  "descriptionHTML": "<p>Das Beste an diesem Burger? Absolut die Geschmackskombi aus süß, salzig und cremig! Gleich danach kommen aber die stolzen Gehalte an <strong>Proteinen</strong> und <strong>Ballaststoffen</strong>. Geliefert werden diese vor allem durch die schwarzen Bohnen im Burgerpatty. Achte darauf, das Patty wirklich bei mittlerer Hitze für jeweils 5 Min. anzubraten – ansonsten verbrennt es und ist innen nicht gar. Und dann heißt es nur noch: Die außergewöhnlich leckere Geschmackskombi genießen!</p>",
+  "descriptionMarkdown": "Das Beste an diesem Burger? Absolut die Geschmackskombi aus süß, salzig und cremig! Gleich danach kommen aber die stolzen Gehalte an **Proteinen** und **Ballaststoffen**. Geliefert werden diese vor allem durch die schwarzen Bohnen im Burgerpatty. Achte darauf, das Patty wirklich bei mittlerer Hitze für jeweils 5 Min. anzubraten – ansonsten verbrennt es und ist innen nicht gar. Und dann heißt es nur noch: Die außergewöhnlich leckere Geschmackskombi genießen!",
+  "seoDescription": "Lecker essen für Genießer: Veggie Burger mit Bohnenpatty. Koch Dich mit Kartoffeln, schwarzen Bohnen, Gorgonzola und Kirschchutney glücklich!",
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 700,
+  "createdAt": "2018-09-11T08:14:45+00:00",
+  "updatedAt": "2018-11-12T07:37:05+00:00",
+  "link": "https://hellofresh.com/recipes/5b977974ae08b52692752172",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/veggie-burger-mit-bohnenpatty-6db40737.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/veggie-burger-mit-bohnenpatty-5b977974ae08b52692752172-4c12e930.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 4000,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 956,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 27,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 16,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 126,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 21,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 47,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 3,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "56a8dc124dab71187c8b4567",
+      "type": "gorgonzola",
+      "name": "Gorgonzola",
+      "slug": "gorgonzola",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/56a8dc124dab71187c8b4567-46a9eb5e.png",
+      "usage": 7,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5a86a7bf30006c052373c3a2",
+      "type": "ei-shipped",
+      "name": "Ei",
+      "slug": "ei-shipped",
+      "description": null,
+      "internalName": "Ei [shipped]",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/5a86a7bf30006c052373c3a2-a6b6f336.png",
+      "usage": 58,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f6",
+          "type": "egg",
+          "name": "Ei",
+          "slug": "ei",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+          "usage": 365
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb94",
+        "type": "eggs",
+        "name": "Eier",
+        "slug": "eier",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb94-b612d37c.png",
+        "usageByCountry": {
+          "AT": 134,
+          "AU": 232,
+          "BE": 347,
+          "CA": 0,
+          "CH": 28,
+          "DE": 117,
+          "ER": 0,
+          "FR": 62,
+          "GB": 0,
+          "LU": 384,
+          "NL": 415,
+          "NZ": 111,
+          "ML": 48,
+          "US": 62
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556da145f8b25e2d738b4567",
+      "type": "schwarze bohnen",
+      "name": "schwarze Bohnen",
+      "slug": "schwarze-bohnen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556da145f8b25e2d738b4567.png",
+      "usage": 83,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4c",
+        "type": "beans",
+        "name": "Bohnen",
+        "slug": "bohnen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4c-15ab1383.png",
+        "usageByCountry": {
+          "AT": 255,
+          "AU": 115,
+          "BE": 77,
+          "CA": 78,
+          "CH": 43,
+          "DE": 231,
+          "ER": 3,
+          "FR": 28,
+          "GB": 241,
+          "LU": 95,
+          "NL": 51,
+          "NZ": 28,
+          "ML": 153,
+          "US": 198
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27b5f8b25e42438b4568",
+      "type": "rucola",
+      "name": "Rucola",
+      "slug": "rucola",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27b5f8b25e42438b4568.png",
+      "usage": 266,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7f33fd2cb96c628b456a",
+      "type": "ingwer",
+      "name": "Ingwer",
+      "slug": "ingwer",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7f33fd2cb96c628b456a.png",
+      "usage": 241,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba7",
+        "type": "ginger",
+        "name": "Ingwer",
+        "slug": "ingwer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba7-565cc248.png",
+        "usageByCountry": {
+          "AT": 278,
+          "AU": 225,
+          "BE": 200,
+          "CA": 107,
+          "CH": 52,
+          "DE": 241,
+          "ER": 20,
+          "FR": 57,
+          "GB": 231,
+          "LU": 241,
+          "NL": 220,
+          "NZ": 65,
+          "ML": 25,
+          "US": 246
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55798848f8b25eac578b4567",
+      "type": "drillinge",
+      "name": "Kartoffeln (Drillinge)",
+      "slug": "drillinge",
+      "description": null,
+      "internalName": "Drillinge",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55798848f8b25eac578b4567-2960afa7.png",
+      "usage": 275,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b6c03fd2cb9d0608b456d",
+      "type": "semmelbrösel",
+      "name": "Semmelbrösel",
+      "slug": "semmelbrosel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b6c03fd2cb9d0608b456d.png",
+      "usage": 140,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb55",
+        "type": "breadcrumbs",
+        "name": "Semmelbrösel",
+        "slug": "semmelbrosel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb55-7b32397f.png",
+        "usageByCountry": {
+          "AT": 166,
+          "AU": 84,
+          "BE": 1,
+          "CA": 13,
+          "CH": 12,
+          "DE": 140,
+          "ER": 0,
+          "FR": 0,
+          "GB": 1,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 43,
+          "ML": 5,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5804d8e4cc7bd0349c3f9792",
+      "type": "burgerbrotchen",
+      "name": "Burgerbrötchen",
+      "slug": "burgerbrotchen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5804d8e4cc7bd0349c3f9791-0bfbb31e.png",
+      "usage": 93,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        },
+        {
+          "id": "57962a07b7e8697d4b3052fe",
+          "type": "sesame",
+          "name": "Sesam",
+          "slug": "sesam",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+          "usage": 175
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556862ae4dab71a91d8b4567",
+      "type": "gemahlener kumin",
+      "name": "gemahlener Kumin",
+      "slug": "gemahlener-kumin",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556862ae4dab71a91d8b4567.png",
+      "usage": 63,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb89",
+        "type": "cumin",
+        "name": "Kreuzkümmel",
+        "slug": "kreuzkummel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb89-bc3144f6.png",
+        "usageByCountry": {
+          "AT": 97,
+          "AU": 47,
+          "BE": 91,
+          "CA": 18,
+          "CH": 18,
+          "DE": 90,
+          "ER": 4,
+          "FR": 19,
+          "GB": 89,
+          "LU": 131,
+          "NL": 120,
+          "NZ": 0,
+          "ML": 69,
+          "US": 128
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5b2910d7ae08b53f21471762",
+      "type": "himbeerpuree",
+      "name": "Süße Dessertsauce mit Himbeeren",
+      "slug": "himbeerpuree",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/5b2910d7ae08b53f21471762-b3fda9b4.png",
+      "usage": 5,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba3",
+        "type": "fruit-spread",
+        "name": "Fruchtaufstrich",
+        "slug": "fruchtaufstrich",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba3-7a5d04b9.png",
+        "usageByCountry": {
+          "AT": 16,
+          "AU": 3,
+          "BE": 11,
+          "CA": 0,
+          "CH": 0,
+          "DE": 7,
+          "ER": 0,
+          "FR": 0,
+          "GB": 1,
+          "LU": 11,
+          "NL": 12,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "type": "egg",
+      "name": "Ei",
+      "slug": "ei",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "usage": 365
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "type": "sesame",
+      "name": "Sesam",
+      "slug": "sesam",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "usage": 175
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "56a8dc124dab71187c8b4567",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "5a86a7bf30006c052373c3a2",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556da145f8b25e2d738b4567",
+          "amount": 1,
+          "unit": "Packung"
+        },
+        {
+          "id": "554b27b5f8b25e42438b4568",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "554b7f33fd2cb96c628b456a",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "55798848f8b25eac578b4567",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "554b6c03fd2cb9d0608b456d",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "5804d8e4cc7bd0349c3f9792",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "556862ae4dab71a91d8b4567",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "nach Geschmack"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "nach Geschmack"
+        },
+        {
+          "id": "5b2910d7ae08b53f21471762",
+          "amount": 100,
+          "unit": "ml"
+        }
+      ]
+    },
+    {
+      "yields": 3,
+      "ingredients": [
+        {
+          "id": "56a8dc124dab71187c8b4567",
+          "amount": 225,
+          "unit": "g"
+        },
+        {
+          "id": "5a86a7bf30006c052373c3a2",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556da145f8b25e2d738b4567",
+          "amount": 1.5,
+          "unit": "Packung"
+        },
+        {
+          "id": "554b27b5f8b25e42438b4568",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "554b7f33fd2cb96c628b456a",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "id": "55798848f8b25eac578b4567",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "id": "554b6c03fd2cb9d0608b456d",
+          "amount": 38,
+          "unit": "g"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "5804d8e4cc7bd0349c3f9792",
+          "amount": 3,
+          "unit": "Stück"
+        },
+        {
+          "id": "556862ae4dab71a91d8b4567",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "nach Geschmack"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "nach Geschmack"
+        },
+        {
+          "id": "5b2910d7ae08b53f21471762",
+          "amount": 150,
+          "unit": "ml"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "56a8dc124dab71187c8b4567",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "5a86a7bf30006c052373c3a2",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "556da145f8b25e2d738b4567",
+          "amount": 2,
+          "unit": "Packung"
+        },
+        {
+          "id": "554b27b5f8b25e42438b4568",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b7f33fd2cb96c628b456a",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "id": "55798848f8b25eac578b4567",
+          "amount": 1000,
+          "unit": "g"
+        },
+        {
+          "id": "554b6c03fd2cb9d0608b456d",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "5804d8e4cc7bd0349c3f9792",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "556862ae4dab71a91d8b4567",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "nach Geschmack"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "nach Geschmack"
+        },
+        {
+          "id": "5b2910d7ae08b53f21471762",
+          "amount": 150,
+          "unit": "ml"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "**Wasche den Rucola ab. Heize den Backofen auf 220 °C Ober-/Unterhitze (200 °C Umluft) vor. Zum Kochen benötigst Du Backpapier, ein Backblech, ein Sieb, eine Gemüsereibe, 1 kleiner Topf (mit Deckel), Küchenpapier, 1 große Schüssel und 1 große Pfanne.**\n\nUngeschälte **Kartoffeln** je nach Größe längs vierteln und auf ein mit Backpapier belegtes Backblech geben (etwas Platz für die Brötchen lassen). \n\nMit **Salz**\\*, **Pfeffer**\\* und **Olivenöl**\\* vermischen und im Backofen 25 – 30 Min. backen.",
+      "instructionsHTML": "<p><strong>Wasche den Rucola ab. Heize den Backofen auf 220 °C Ober-/Unterhitze (200 °C Umluft) vor. Zum Kochen benötigst Du Backpapier, ein Backblech, ein Sieb, eine Gemüsereibe, 1 kleiner Topf (mit Deckel), Küchenpapier, 1 große Schüssel und 1 große Pfanne.</strong></p>\n<p>Ungeschälte <strong>Kartoffeln</strong> je nach Größe längs vierteln und auf ein mit Backpapier belegtes Backblech geben (etwas Platz für die Brötchen lassen). </p>\n<p>Mit <strong>Salz</strong>*, <strong>Pfeffer</strong>* und <strong>Olivenöl</strong>* vermischen und im Backofen 25 – 30 Min. backen.</p>",
+      "instructions": "Wasche den Rucola ab. Heize den Backofen auf 220 °C Ober-/Unterhitze (200 °C Umluft) vor. Zum Kochen benötigst Du Backpapier, ein Backblech, ein Sieb, eine Gemüsereibe, 1 kleiner Topf (mit Deckel), Küchenpapier, 1 große Schüssel und 1 große Pfanne.\nUngeschälte Kartoffeln je nach Größe längs vierteln und auf ein mit Backpapier belegtes Backblech geben (etwas Platz für die Brötchen lassen). \nMit Salz*, Pfeffer* und Olivenöl* vermischen und im Backofen 25 – 30 Min. backen.",
+      "timers": [
+        {
+          "name": "Backofen vorheizen",
+          "duration": "PT20M",
+          "temperature": 220,
+          "temperatureUnit": "C",
+          "ovenMode": "TopBottomHeating"
+        },
+        {
+          "name": "Kartoffeln backen",
+          "duration": "PT25M",
+          "temperature": 220,
+          "temperatureUnit": "C",
+          "ovenMode": "TopBottomHeating"
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5b977974ae08b52692752172/step-95cc78e7.jpg",
+          "caption": "Kartoffeln backen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55798848f8b25eac578b4567",
+        "554b22cb4dab71c8058b4570",
+        "55b0a135fd2cb9121e8b4567",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "**Ingwer** schälen und reiben. \n\n**Zwiebel** abziehen und in feine Streifen schneiden. \n\nIn einem kleinen Topf **Öl**\\* bei mittlerer Hitze erwärmen. \n\n**Zwiebelstreifen** und **Ingwer** zugeben und abgedeckt ca. 10 MIn. bei mittlerer Hitze schmoren. \n\n**Dessertsauce** zugeben, weitere 5 Min. köcheln lassen und mit **Salz**\\* und **Pfeffer**\\* abschmecken.",
+      "instructionsHTML": "<p><strong>Ingwer</strong> schälen und reiben. </p>\n<p><strong>Zwiebel</strong> abziehen und in feine Streifen schneiden. </p>\n<p>In einem kleinen Topf <strong>Öl</strong>* bei mittlerer Hitze erwärmen. </p>\n<p><strong>Zwiebelstreifen</strong> und <strong>Ingwer</strong> zugeben und abgedeckt ca. 10 MIn. bei mittlerer Hitze schmoren. </p>\n<p><strong>Dessertsauce</strong> zugeben, weitere 5 Min. köcheln lassen und mit <strong>Salz</strong>* und <strong>Pfeffer</strong>* abschmecken.</p>",
+      "instructions": "Ingwer schälen und reiben. \nZwiebel abziehen und in feine Streifen schneiden. \nIn einem kleinen Topf Öl* bei mittlerer Hitze erwärmen. \nZwiebelstreifen und Ingwer zugeben und abgedeckt ca. 10 MIn. bei mittlerer Hitze schmoren. \nDessertsauce zugeben, weitere 5 Min. köcheln lassen und mit Salz* und Pfeffer* abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5b977974ae08b52692752172/step-9ea20cd3.jpg",
+          "caption": "Für das Chutney"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b7f33fd2cb96c628b456a",
+        "5b2910d7ae08b53f21471762"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "**Schwarze Bohnen** durch ein Sieb abgießen, mit kaltem Wasser abspülen, bis es klar hindurchläuft. \n\n**Bohnen** mit Küchenpapier trocken tupfen und in eine große Schüssel geben. \n\n**Semmelbrösel** und **Kumin** zugeben, mithilfe einer Gabel zerstampfen und mit **Salz**\\* und **Pfeffer**\\* abschmecken. \n\n**Ei** zugeben und alles zu einer homogenen Masse kneten. Daraus 2 [3|4] **Pattys** formen und kalt stellen.",
+      "instructionsHTML": "<p><strong>Schwarze Bohnen</strong> durch ein Sieb abgießen, mit kaltem Wasser abspülen, bis es klar hindurchläuft. </p>\n<p><strong>Bohnen</strong> mit Küchenpapier trocken tupfen und in eine große Schüssel geben. </p>\n<p><strong>Semmelbrösel</strong> und <strong>Kumin</strong> zugeben, mithilfe einer Gabel zerstampfen und mit <strong>Salz</strong>* und <strong>Pfeffer</strong>* abschmecken. </p>\n<p><strong>Ei</strong> zugeben und alles zu einer homogenen Masse kneten. Daraus 2 [3|4] <strong>Pattys</strong> formen und kalt stellen.</p>",
+      "instructions": "Schwarze Bohnen durch ein Sieb abgießen, mit kaltem Wasser abspülen, bis es klar hindurchläuft. \nBohnen mit Küchenpapier trocken tupfen und in eine große Schüssel geben. \nSemmelbrösel und Kumin zugeben, mithilfe einer Gabel zerstampfen und mit Salz* und Pfeffer* abschmecken. \nEi zugeben und alles zu einer homogenen Masse kneten. Daraus 2 [3|4] Pattys formen und kalt stellen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5b977974ae08b52692752172/step-fe1e7324.jpg",
+          "caption": "BohnenPattys formen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5a86a7bf30006c052373c3a2",
+        "556da145f8b25e2d738b4567",
+        "554b6c03fd2cb9d0608b456d"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer großen Pfanne **Öl**\\* bei mittlerer Hitze erwärmen. \n\n**Bohnenpattys** darin je Seite 5 Min. braten.\n\n**Tipp:** * Hab etwas Geduld, wenn Du den Patty zu früh wendest, kann er zerbröseln!*",
+      "instructionsHTML": "<p>In einer großen Pfanne <strong>Öl</strong>* bei mittlerer Hitze erwärmen. </p>\n<p><strong>Bohnenpattys</strong> darin je Seite 5 Min. braten.</p>\n<p><strong>Tipp:</strong> <em> Hab etwas Geduld, wenn Du den Patty zu früh wendest, kann er zerbröseln!</em></p>",
+      "instructions": "In einer großen Pfanne Öl* bei mittlerer Hitze erwärmen. \nBohnenpattys darin je Seite 5 Min. braten.\nTipp: Hab etwas Geduld, wenn Du den Patty zu früh wendest, kann er zerbröseln!",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5b977974ae08b52692752172/step-78a8d3f7.jpg",
+          "caption": "Patties braten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "**Burgerbrötchen** halbieren und für 2 – 3 Min. zu den **Kartoffeln** in den Ofen geben.",
+      "instructionsHTML": "<p><strong>Burgerbrötchen</strong> halbieren und für 2 – 3 Min. zu den <strong>Kartoffeln</strong> in den Ofen geben.</p>",
+      "instructions": "Burgerbrötchen halbieren und für 2 – 3 Min. zu den Kartoffeln in den Ofen geben.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5b977974ae08b52692752172/step-455dbc9c.jpg",
+          "caption": "Anrichten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "**Brötchen** mit **Rucola** und **Bohnenpatty** belegen. Mit **Kirschchutney** toppen. \n\nNach Geschmack **Gorgonzola** darüberbröseln und zusammen klappen.\n\nZusammen mit **Kartoffelspalten** genießen.\n\n**Guten Appetit**",
+      "instructionsHTML": "<p><strong>Brötchen</strong> mit <strong>Rucola</strong> und <strong>Bohnenpatty</strong> belegen. Mit <strong>Kirschchutney</strong> toppen. </p>\n<p>Nach Geschmack <strong>Gorgonzola</strong> darüberbröseln und zusammen klappen.</p>\n<p>Zusammen mit <strong>Kartoffelspalten</strong> genießen.</p>\n<p><strong>Guten Appetit</strong></p>",
+      "instructions": "Brötchen mit Rucola und Bohnenpatty belegen. Mit Kirschchutney toppen. \nNach Geschmack Gorgonzola darüberbröseln und zusammen klappen.\nZusammen mit Kartoffelspalten genießen.\nGuten Appetit",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5b977974ae08b52692752172/step-10db2015.jpg",
+          "caption": "Anrichten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3,
+  "ratingsCount": 384,
+  "favoritesCount": null,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/veggie-burger-mit-bohnenpatty-5b977974ae08b52692752172",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

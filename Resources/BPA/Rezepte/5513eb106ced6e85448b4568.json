@@ -1,0 +1,1085 @@
+{
+  "country": "DE",
+  "id": "5513eb106ced6e85448b4568",
+  "name": "Global Fusion: Leberkäs-Burger",
+  "seoName": null,
+  "category": null,
+  "slug": "global-fusion-leberkas-burger",
+  "headline": "mit Cajun-Mayonnaise und gemischtem Salätchen",
+  "description": "Was ich mir bei dieser Zusammenstellung gedacht habe? Ich liebe Leberkäse. Aber Süßsenf hatte ich nicht zuhause. Also habe ich zur Mayonnaise gegriffen, sie mit dem scharfen Cajun-Gewürz gemischt und mit einem Spritzer Zitrone abge- schmeckt. Die Cajuns werden es mir vergeben. Guten Appetit.",
+  "descriptionHTML": "<p>Was ich mir bei dieser Zusammenstellung gedacht habe? Ich liebe Leberkäse. Aber Süßsenf hatte ich nicht zuhause. Also habe ich zur Mayonnaise gegriffen, sie mit dem scharfen Cajun-Gewürz gemischt und mit einem Spritzer Zitrone abge- schmeckt. Die Cajuns werden es mir vergeben. Guten Appetit.</p>",
+  "descriptionMarkdown": "Was ich mir bei dieser Zusammenstellung gedacht habe? Ich liebe Leberkäse. Aber Süßsenf hatte ich nicht zuhause. Also habe ich zur Mayonnaise gegriffen, sie mit dem scharfen Cajun-Gewürz gemischt und mit einem Spritzer Zitrone abge- schmeckt. Die Cajuns werden es mir vergeben. Guten Appetit.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT25M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-03-26T11:18:40+00:00",
+  "updatedAt": "2016-10-19T10:33:35+00:00",
+  "link": "https://hellofresh.com/recipes/5513eb106ced6e85448b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/5513eb106ced6e85448b4568.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/5513eb106ced6e85448b4568.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3326.28,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 795,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 49,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 47,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "5566ebc6fd2cb952018b4567",
+      "type": "ciabatta",
+      "name": "Ciabatta",
+      "slug": "ciabatta",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566ebc6fd2cb952018b4567.png",
+      "usage": 58,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b343a4dab71aa058b4572",
+      "type": "gelbe paprika",
+      "name": "gelbe Paprika",
+      "slug": "gelbe-paprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b343a4dab71aa058b4572.png",
+      "usage": 284,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf7",
+        "type": "paprika",
+        "name": "Paprika",
+        "slug": "paprika",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf7-e6b2d1a6.png",
+        "usageByCountry": {
+          "AT": 581,
+          "AU": 50,
+          "BE": 613,
+          "CA": 64,
+          "CH": 21,
+          "DE": 536,
+          "ER": 7,
+          "FR": 166,
+          "GB": 539,
+          "LU": 769,
+          "NL": 388,
+          "NZ": 6,
+          "ML": 38,
+          "US": 79
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566ebf34dab71e6078b456b",
+      "type": "salatherz",
+      "name": "Salatherz",
+      "slug": "salatherz",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566ebf34dab71e6078b456b.png",
+      "usage": 256,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1e654dab71a6058b4571",
+      "type": "koriander",
+      "name": "Koriander",
+      "slug": "koriander",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1e654dab71a6058b4571.png",
+      "usage": 240,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb79",
+        "type": "cilantro-coriander",
+        "name": "Cilantro / Koriander",
+        "slug": "cilantro-koriander",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb79-7a34459a.png",
+        "usageByCountry": {
+          "AT": 253,
+          "AU": 387,
+          "BE": 166,
+          "CA": 173,
+          "CH": 75,
+          "DE": 240,
+          "ER": 3,
+          "FR": 66,
+          "GB": 542,
+          "LU": 305,
+          "NL": 193,
+          "NZ": 102,
+          "ML": 8,
+          "US": 432
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2b03f8b25ef93e8b456d",
+      "type": "mayonnaise",
+      "name": "Mayonnaise",
+      "slug": "mayonnaise",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2b03f8b25ef93e8b456d.png",
+      "usage": 140,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f6",
+          "type": "egg",
+          "name": "Ei",
+          "slug": "ei",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+          "usage": 365
+        },
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbd2",
+        "type": "mayonnaise",
+        "name": "Mayonnaise",
+        "slug": "mayonnaise",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbd2-9da5628e.png",
+        "usageByCountry": {
+          "AT": 166,
+          "AU": 135,
+          "BE": 0,
+          "CA": 114,
+          "CH": 20,
+          "DE": 140,
+          "ER": 17,
+          "FR": 0,
+          "GB": 58,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 55,
+          "ML": 11,
+          "US": 231
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556da93e4dab71744a8b4568",
+      "type": "cajun, gewürzmischung",
+      "name": "Cajun, Gewürzmischung",
+      "slug": "cajun-gewurzmischung",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556da93e4dab71744a8b4568.png",
+      "usage": 21,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5d",
+        "type": "cajun-spices",
+        "name": "Cajun Gewürze",
+        "slug": "cajun-gewurze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5d-d6bfeefd.png",
+        "usageByCountry": {
+          "AT": 50,
+          "AU": 23,
+          "BE": 0,
+          "CA": 17,
+          "CH": 4,
+          "DE": 31,
+          "ER": 3,
+          "FR": 0,
+          "GB": 24,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 0,
+          "ML": 0,
+          "US": 16
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556dab2cf8b25e55738b4567",
+      "type": "leberkäse",
+      "name": "Leberkäse",
+      "slug": "leberkase",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556dab2cf8b25e55738b4567.png",
+      "usage": 3,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "type": "egg",
+      "name": "Ei",
+      "slug": "ei",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "usage": 365
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a4",
+      "type": "american",
+      "name": "Amerikanisch",
+      "slug": "amerikanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a4-aafc03e6.jpg",
+      "usage": 3895
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "5566ebc6fd2cb952018b4567",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b343a4dab71aa058b4572",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "5566ebf34dab71e6078b456b",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 0.5,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1e654dab71a6058b4571",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b2b03f8b25ef93e8b456d",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "id": "556da93e4dab71744a8b4568",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "id": "556dab2cf8b25e55738b4567",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "5566ebc6fd2cb952018b4567",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b343a4dab71aa058b4572",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "5566ebf34dab71e6078b456b",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1e654dab71a6058b4571",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b2b03f8b25ef93e8b456d",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "id": "556da93e4dab71744a8b4568",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "id": "556dab2cf8b25e55738b4567",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Ofen auf 200 °C Ober-/Unterhitze vorheizen. Ciabatta nach Packungsanleitung aufbacken. Dann aus dem Ofen nehmen und abkühlen lassen.",
+      "instructionsHTML": "<p>Ofen auf 200 °C Ober-/Unterhitze vorheizen. Ciabatta nach Packungsanleitung aufbacken. Dann aus dem Ofen nehmen und abkühlen lassen.</p>",
+      "instructions": "Ofen auf 200 °C Ober-/Unterhitze vorheizen. Ciabatta nach Packungsanleitung aufbacken. Dann aus dem Ofen nehmen und abkühlen lassen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "5566ebc6fd2cb952018b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Paprika waschen, halbieren, Kerngehäuse entfernen, eine Hälfte in ca. 1 cm dicke Streifen schneiden und die andere Hälfte würfeln. Salatblätter vom Kopf trennen, waschen und bis auf vier Blätter in feine Streifen schneiden. Zitrone entsaften. Tomaten waschen, Strunk entfernen, in Scheiben schneiden und bis auf vier Scheiben würfeln. Koriander waschen, trocken schütteln, die Blätter abzupfen und grob hacken.",
+      "instructionsHTML": "<p>Paprika waschen, halbieren, Kerngehäuse entfernen, eine Hälfte in ca. 1 cm dicke Streifen schneiden und die andere Hälfte würfeln. Salatblätter vom Kopf trennen, waschen und bis auf vier Blätter in feine Streifen schneiden. Zitrone entsaften. Tomaten waschen, Strunk entfernen, in Scheiben schneiden und bis auf vier Scheiben würfeln. Koriander waschen, trocken schütteln, die Blätter abzupfen und grob hacken.</p>",
+      "instructions": "Paprika waschen, halbieren, Kerngehäuse entfernen, eine Hälfte in ca. 1 cm dicke Streifen schneiden und die andere Hälfte würfeln. Salatblätter vom Kopf trennen, waschen und bis auf vier Blätter in feine Streifen schneiden. Zitrone entsaften. Tomaten waschen, Strunk entfernen, in Scheiben schneiden und bis auf vier Scheiben würfeln. Koriander waschen, trocken schütteln, die Blätter abzupfen und grob hacken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5513eb106ced6e85448b4568/step_556dae8a1e652.jpg",
+          "caption": "Geschnittene Paprika und Tomaten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b343a4dab71aa058b4572",
+        "554b1de2f8b25ef93e8b456b",
+        "554b2621fd2cb99c598b4576",
+        "556dab2cf8b25e55738b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Mayonnaise, Cajun-Gewürzmischung, 2 EL Zitronensaft mit etwas Salz gut verrühren und bis zum Anrichten zur Seite stellen.",
+      "instructionsHTML": "<p>Mayonnaise, Cajun-Gewürzmischung, 2 EL Zitronensaft mit etwas Salz gut verrühren und bis zum Anrichten zur Seite stellen.</p>",
+      "instructions": "Mayonnaise, Cajun-Gewürzmischung, 2 EL Zitronensaft mit etwas Salz gut verrühren und bis zum Anrichten zur Seite stellen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5513eb106ced6e85448b4568/step_556dae8a339c8.jpg",
+          "caption": "Die Zubereitung der Mayonaise"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1de2f8b25ef93e8b456b",
+        "554b2b03f8b25ef93e8b456d",
+        "556da93e4dab71744a8b4568",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "2 EL Olivenöl, 1 EL Zitronensaft, Salz und Pfeffer und eine Prise Zucker verrühren. Gewürfeltes Gemüse, Salatstreifen und nach Geschmack Koriander (Koriander mag nicht jeder, daher lieber erst probieren) dazugeben und kurz ziehen lassen.",
+      "instructionsHTML": "<p>2 EL Olivenöl, 1 EL Zitronensaft, Salz und Pfeffer und eine Prise Zucker verrühren. Gewürfeltes Gemüse, Salatstreifen und nach Geschmack Koriander (Koriander mag nicht jeder, daher lieber erst probieren) dazugeben und kurz ziehen lassen.</p>",
+      "instructions": "2 EL Olivenöl, 1 EL Zitronensaft, Salz und Pfeffer und eine Prise Zucker verrühren. Gewürfeltes Gemüse, Salatstreifen und nach Geschmack Koriander (Koriander mag nicht jeder, daher lieber erst probieren) dazugeben und kurz ziehen lassen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b1e654dab71a6058b4571",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573",
+        "554b2319fd2cb9ba598b456d",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Dann in einer Pfanne 1 TL Öl erhitzen und Leberkäse auf jeder Seite einige Min. anbraten, bis er stellenweise bräunlich wird.",
+      "instructionsHTML": "<p>Dann in einer Pfanne 1 TL Öl erhitzen und Leberkäse auf jeder Seite einige Min. anbraten, bis er stellenweise bräunlich wird.</p>",
+      "instructions": "Dann in einer Pfanne 1 TL Öl erhitzen und Leberkäse auf jeder Seite einige Min. anbraten, bis er stellenweise bräunlich wird.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5513eb106ced6e85448b4568/step_556dae8a474f2.jpg",
+          "caption": "Den Leberkäse anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Ciabatta vorsichtig aufschneiden und Cajun-Mayonnaise darauf ver- teilen. Auf die untere Hälfte zuerst Leberkäse, dann Tomatenscheiben, Paprikastreifen und Salatblätter legen, Ciabatta zuklappen und festdrücken.",
+      "instructionsHTML": "<p>Ciabatta vorsichtig aufschneiden und Cajun-Mayonnaise darauf ver- teilen. Auf die untere Hälfte zuerst Leberkäse, dann Tomatenscheiben, Paprikastreifen und Salatblätter legen, Ciabatta zuklappen und festdrücken.</p>",
+      "instructions": "Ciabatta vorsichtig aufschneiden und Cajun-Mayonnaise darauf ver- teilen. Auf die untere Hälfte zuerst Leberkäse, dann Tomatenscheiben, Paprikastreifen und Salatblätter legen, Ciabatta zuklappen und festdrücken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5513eb106ced6e85448b4568/step_556dae8a5db74.jpg",
+          "caption": "Das Ciabatta brot aufschneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Leberkäs-Burger auf Tellern verteilen und mit Salätchen genießen.",
+      "instructionsHTML": "<p>Leberkäs-Burger auf Tellern verteilen und mit Salätchen genießen.</p>",
+      "instructions": "Leberkäs-Burger auf Tellern verteilen und mit Salätchen genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.2,
+  "ratingsCount": 189,
+  "favoritesCount": 146,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/global-fusion-leberkas-burger-5513eb106ced6e85448b4568",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

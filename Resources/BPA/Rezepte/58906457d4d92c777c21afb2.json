@@ -1,0 +1,942 @@
+{
+  "country": "DE",
+  "id": "58906457d4d92c777c21afb2",
+  "name": "Mediterraner Reis-Oliven-Salat",
+  "seoName": null,
+  "category": null,
+  "slug": "mediterraner-reis-salat-n",
+  "headline": "mit Mozzarella und Haselnüssen",
+  "description": "Lust auf Reis mal anders? Dann ist unser mediterraner Reis-Salat heute genau das Richtige für Dich! Abgerundet wird dieses ganz besondere Geschmackserlebnis durch aromatisches Basilikum, pikante Antipasti und knackige Haselnusskernen. Guten Appetit!",
+  "descriptionHTML": "<p>Lust auf Reis mal anders? Dann ist unser mediterraner Reis-Salat heute genau das Richtige für Dich! Abgerundet wird dieses ganz besondere Geschmackserlebnis durch aromatisches Basilikum, pikante Antipasti und knackige Haselnusskernen. Guten Appetit!</p>",
+  "descriptionMarkdown": "Lust auf Reis mal anders? Dann ist unser mediterraner Reis-Salat heute genau das Richtige für Dich! Abgerundet wird dieses ganz besondere Geschmackserlebnis durch aromatisches Basilikum, pikante Antipasti und knackige Haselnusskernen. Guten Appetit!",
+  "seoDescription": "",
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT25M",
+  "totalTime": null,
+  "servingSize": 350,
+  "createdAt": "2017-01-31T10:17:55+00:00",
+  "updatedAt": "2017-05-08T07:39:35+00:00",
+  "link": "https://hellofresh.com/recipes/58906457d4d92c777c21afb2",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/mediterraner-reis-salat-n-b3ef6a5e.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/mediterraner-reis-salat-n-265d67c0.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2644,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 632,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 28,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 73,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 13,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 2,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b3534f8b25ef53e8b4575",
+      "type": "basmatireis",
+      "name": "Basmatireis",
+      "slug": "basmatireis",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3534f8b25ef53e8b4575.png",
+      "usage": 194,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1c",
+        "type": "rice",
+        "name": "Reis",
+        "slug": "reis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1c-0b4adebd.png",
+        "usageByCountry": {
+          "AT": 540,
+          "AU": 405,
+          "BE": 265,
+          "CA": 169,
+          "CH": 114,
+          "DE": 505,
+          "ER": 39,
+          "FR": 79,
+          "GB": 480,
+          "LU": 361,
+          "NL": 319,
+          "NZ": 107,
+          "ML": 328,
+          "US": 527
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55685f9bf8b25e67408b4567",
+      "type": "haselnusse",
+      "name": "Haselnüsse",
+      "slug": "haselnusse",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55685f9bf8b25e67408b4567.png",
+      "usage": 25,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fb",
+          "type": "nuts",
+          "name": "Schalenfrüchte",
+          "slug": "schalenfruchte",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+          "usage": 300
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b31684dab71a6058b4573",
+      "type": "mozzarella",
+      "name": "Mozzarella",
+      "slug": "mozzarella",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b31684dab71a6058b4573.png",
+      "usage": 163,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c2c89f8b25e9c658b4568",
+      "type": "gurke",
+      "name": "Gurke",
+      "slug": "gurke",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c2c89f8b25e9c658b4568.png",
+      "usage": 277,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb88",
+        "type": "cucumber",
+        "name": "Gurke",
+        "slug": "gurke",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb88-49b790ca.png",
+        "usageByCountry": {
+          "AT": 293,
+          "AU": 269,
+          "BE": 125,
+          "CA": 53,
+          "CH": 67,
+          "DE": 282,
+          "ER": 13,
+          "FR": 41,
+          "GB": 100,
+          "LU": 160,
+          "NL": 137,
+          "NZ": 128,
+          "ML": 1,
+          "US": 124
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27104dab71a9058b456c",
+      "type": "getrocknete tomaten",
+      "name": "getrocknete Tomaten",
+      "slug": "getrocknete-tomaten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27104dab71a9058b456c.png",
+      "usage": 142,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535d5d4dab714e488b4567",
+      "type": "geschwärzte oliven",
+      "name": "Geschwärzte Oliven",
+      "slug": "geschwarzte-oliven",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55535d5d4dab714e488b4567-c7111158.png",
+      "usage": 92,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbed",
+        "type": "olives",
+        "name": "Oliven",
+        "slug": "oliven",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbed-a88fb4d9.png",
+        "usageByCountry": {
+          "AT": 120,
+          "AU": 50,
+          "BE": 32,
+          "CA": 29,
+          "CH": 13,
+          "DE": 103,
+          "ER": 0,
+          "FR": 18,
+          "GB": 77,
+          "LU": 73,
+          "NL": 42,
+          "NZ": 1,
+          "ML": 0,
+          "US": 52
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "56bdcfaa4dab71ac4b8b4567",
+      "type": "zitrone, bio",
+      "name": "Zitrone, bio",
+      "slug": "zitrone-bio",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/56bdcfaa4dab71ac4b8b4567.png",
+      "usage": 25,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b32d1f8b25ef93e8b456e",
+      "type": "basilikum",
+      "name": "Basilikum",
+      "slug": "basilikum",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b32d1f8b25ef93e8b456e.png",
+      "usage": 428,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb45",
+        "type": "basil",
+        "name": "Basilikum",
+        "slug": "basilikum",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb45-a1061353.png",
+        "usageByCountry": {
+          "AT": 475,
+          "AU": 94,
+          "BE": 150,
+          "CA": 72,
+          "CH": 92,
+          "DE": 459,
+          "ER": 0,
+          "FR": 44,
+          "GB": 167,
+          "LU": 168,
+          "NL": 191,
+          "NZ": 14,
+          "ML": 0,
+          "US": 172
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27b5f8b25e42438b4568",
+      "type": "rucola",
+      "name": "Rucola",
+      "slug": "rucola",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27b5f8b25e42438b4568.png",
+      "usage": 266,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "type": "nuts",
+      "name": "Schalenfrüchte",
+      "slug": "schalenfruchte",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "usage": 300
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b30530e",
+      "type": "under-30-minutes",
+      "name": "Zeit sparen",
+      "slug": "zeit-sparen",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/HF_Icon_App_LessThan30min.png",
+      "numberOfRecipes": 4370,
+      "numberOfRecipesByCountry": {
+        "AT": 1140,
+        "AU": 141,
+        "BE": 540,
+        "CA": 0,
+        "CH": 201,
+        "DE": 989,
+        "ER": 0,
+        "FR": 128,
+        "GB": 0,
+        "LU": 581,
+        "NL": 644,
+        "NZ": 0,
+        "ML": 0,
+        "US": 6
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b8",
+      "type": "mediterranean",
+      "name": "Mediterran",
+      "slug": "mediterran",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b8-f04aa19c.jpg",
+      "usage": 1179
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b3534f8b25ef53e8b4575",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "55685f9bf8b25e67408b4567",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "554b31684dab71a6058b4573",
+          "amount": 125,
+          "unit": "g"
+        },
+        {
+          "id": "556c2c89f8b25e9c658b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b27104dab71a9058b456c",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "55535d5d4dab714e488b4567",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "56bdcfaa4dab71ac4b8b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b32d1f8b25ef93e8b456e",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b27b5f8b25e42438b4568",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Obst, Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. 300 ml Wasser im Wasserkocher erhitzen.\n\nBasmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. In einen großen Topf 300 ml kochendes Wasser füllen, leicht salzen und einmal aufkochen. Reis einrühren und ca. 10 Min. bei mittlerer Hitze köcheln lassen. Dann Deckel aufsetzen, Topf vom Herd nehmen und Reis mind. 10 Min. ziehen lassen.",
+      "instructionsHTML": "<p>Vorbereitung: Obst, Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. 300 ml Wasser im Wasserkocher erhitzen.</p>\n<p>Basmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. In einen großen Topf 300 ml kochendes Wasser füllen, leicht salzen und einmal aufkochen. Reis einrühren und ca. 10 Min. bei mittlerer Hitze köcheln lassen. Dann Deckel aufsetzen, Topf vom Herd nehmen und Reis mind. 10 Min. ziehen lassen.</p>",
+      "instructions": "Vorbereitung: Obst, Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. 300 ml Wasser im Wasserkocher erhitzen.\nBasmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. In einen großen Topf 300 ml kochendes Wasser füllen, leicht salzen und einmal aufkochen. Reis einrühren und ca. 10 Min. bei mittlerer Hitze köcheln lassen. Dann Deckel aufsetzen, Topf vom Herd nehmen und Reis mind. 10 Min. ziehen lassen.",
+      "timers": [
+        {
+          "name": "Reis kochen",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b3534f8b25ef53e8b4575"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "In der Zwischenzeit: Haselnusskerne klein hacken und in einer kleinen Pfanne ohne Fettzugabe bei mittlerer Hitze 2 – 3 Min. rösten, bis sie fein duften. Danach aus der Pfanne nehmen und in eine kleine Schüssel geben.",
+      "instructionsHTML": "<p>In der Zwischenzeit: Haselnusskerne klein hacken und in einer kleinen Pfanne ohne Fettzugabe bei mittlerer Hitze 2 – 3 Min. rösten, bis sie fein duften. Danach aus der Pfanne nehmen und in eine kleine Schüssel geben.</p>",
+      "instructions": "In der Zwischenzeit: Haselnusskerne klein hacken und in einer kleinen Pfanne ohne Fettzugabe bei mittlerer Hitze 2 – 3 Min. rösten, bis sie fein duften. Danach aus der Pfanne nehmen und in eine kleine Schüssel geben.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58906457d4d92c777c21afb2-1-0-114fe9e3.jpg",
+          "caption": "Haselnusskerne rösten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55685f9bf8b25e67408b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Mozzarella in ca. 2 cm große Stücke zupfen und in den gerösteten Haselnüssen wälzen, bis sie gut umhüllt sind.",
+      "instructionsHTML": "<p>Mozzarella in ca. 2 cm große Stücke zupfen und in den gerösteten Haselnüssen wälzen, bis sie gut umhüllt sind.</p>",
+      "instructions": "Mozzarella in ca. 2 cm große Stücke zupfen und in den gerösteten Haselnüssen wälzen, bis sie gut umhüllt sind.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58906457d4d92c777c21afb2-2-0-0af3d3fd.jpg",
+          "caption": "Mozzarella zupfen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b31684dab71a6058b4573"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Enden der Gurke abschneiden, dann in dünne Scheiben schneiden. Getrocknete Tomaten in Streifen schneiden, Oliven halbieren. ½ der Zitronenschale abreiben, dann Zitrone halbieren und entsaften.",
+      "instructionsHTML": "<p>Enden der Gurke abschneiden, dann in dünne Scheiben schneiden. Getrocknete Tomaten in Streifen schneiden, Oliven halbieren. ½ der Zitronenschale abreiben, dann Zitrone halbieren und entsaften.</p>",
+      "instructions": "Enden der Gurke abschneiden, dann in dünne Scheiben schneiden. Getrocknete Tomaten in Streifen schneiden, Oliven halbieren. ½ der Zitronenschale abreiben, dann Zitrone halbieren und entsaften.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58906457d4d92c777c21afb2-3-0-d11c1341.jpg",
+          "caption": "Gurke in Scheiben schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55535d5d4dab714e488b4567",
+        "554b27104dab71a9058b456c",
+        "556c2c89f8b25e9c658b4568",
+        "56bdcfaa4dab71ac4b8b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Basilikumblätter abzupfen und fein hacken. In einer großen Schüssel 2 EL [4 EL] Olivenöl, 3 EL [6 EL] Zitronensaft, etwas Salz und Pfeffer zu einem Dressing verrühren.",
+      "instructionsHTML": "<p>Basilikumblätter abzupfen und fein hacken. In einer großen Schüssel 2 EL [4 EL] Olivenöl, 3 EL [6 EL] Zitronensaft, etwas Salz und Pfeffer zu einem Dressing verrühren.</p>",
+      "instructions": "Basilikumblätter abzupfen und fein hacken. In einer großen Schüssel 2 EL [4 EL] Olivenöl, 3 EL [6 EL] Zitronensaft, etwas Salz und Pfeffer zu einem Dressing verrühren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58906457d4d92c777c21afb2-4-0-5a1830e1.jpg",
+          "caption": "Basilikumblätter fein hacken"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b32d1f8b25ef93e8b456e",
+        "554b22cb4dab71c8058b4570",
+        "55b0a135fd2cb9121e8b4567",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Basmatireis nach der Quellzeit mit einer Gabel auflockern, kurz abkühlen lassen und anschließend zum Dressing in die Schüssel geben. Gurkenscheiben, Zitronenabrieb, Tomatenstreifen, Rucola und Olivenhälften zugeben und alles gut vermengen.",
+      "instructionsHTML": "<p>Basmatireis nach der Quellzeit mit einer Gabel auflockern, kurz abkühlen lassen und anschließend zum Dressing in die Schüssel geben. Gurkenscheiben, Zitronenabrieb, Tomatenstreifen, Rucola und Olivenhälften zugeben und alles gut vermengen.</p>",
+      "instructions": "Basmatireis nach der Quellzeit mit einer Gabel auflockern, kurz abkühlen lassen und anschließend zum Dressing in die Schüssel geben. Gurkenscheiben, Zitronenabrieb, Tomatenstreifen, Rucola und Olivenhälften zugeben und alles gut vermengen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Reis-Oliven-Salat auf tiefe Teller verteilen, Haselnuss-Mozzarella darüber geben und genießen.",
+      "instructionsHTML": "<p>Reis-Oliven-Salat auf tiefe Teller verteilen, Haselnuss-Mozzarella darüber geben und genießen.</p>",
+      "instructions": "Reis-Oliven-Salat auf tiefe Teller verteilen, Haselnuss-Mozzarella darüber geben und genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3,
+  "ratingsCount": 319,
+  "favoritesCount": 527,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/mediterraner-reis-salat-n-58906457d4d92c777c21afb2",
+  "clonedFrom": null,
+  "canonical": "58906457d4d92c777c21afb2",
+  "canonicalLink": "https://www.hellofresh.de/recipes/mediterraner-reis-salat-n-58906457d4d92c777c21afb2"
+}

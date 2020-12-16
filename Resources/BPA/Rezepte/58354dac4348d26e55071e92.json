@@ -1,0 +1,997 @@
+{
+  "country": "DE",
+  "id": "58354dac4348d26e55071e92",
+  "name": "Weihnachtliche Entenbrust",
+  "seoName": null,
+  "category": null,
+  "slug": "weihnachtliche-entenbrust",
+  "headline": "mit Rotkohl, Miniklößen und Orangen-Thymian-Soße",
+  "description": "Weihnachtlicher geht es fast gar nicht: Entenbrust in leckerer Orangensoße mit selbstgemachtem Rotkohl und Klößen, in unserem Fall sind dies köstliche Kürbisgnocchi – das schmeckt genauso, wie es sein soll und immer war! Genießt dieses Festmahl!",
+  "descriptionHTML": "<p>Weihnachtlicher geht es fast gar nicht: Entenbrust in leckerer Orangensoße mit selbstgemachtem Rotkohl und Klößen, in unserem Fall sind dies köstliche Kürbisgnocchi – das schmeckt genauso, wie es sein soll und immer war! Genießt dieses Festmahl!</p>",
+  "descriptionMarkdown": "Weihnachtlicher geht es fast gar nicht: Entenbrust in leckerer Orangensoße mit selbstgemachtem Rotkohl und Klößen, in unserem Fall sind dies köstliche Kürbisgnocchi – das schmeckt genauso, wie es sein soll und immer war! Genießt dieses Festmahl!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT45M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-11-23T08:04:58+00:00",
+  "updatedAt": "2016-11-23T17:18:28+00:00",
+  "link": "https://hellofresh.com/recipes/58354dac4348d26e55071e92",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/weihnachtliche-entenbrust-c1f1ab71.jpg",
+  "cardLink": null,
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 0,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 0,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556827b94dab71b7178b456d",
+      "type": "apfel",
+      "name": "Apfel",
+      "slug": "apfel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556827b94dab71b7178b456d.png",
+      "usage": 91,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb35",
+        "type": "apple",
+        "name": "Apfel",
+        "slug": "apfel",
+        "description": null,
+        "priority": 0,
+        "iconLink": null,
+        "usageByCountry": {
+          "AT": 100,
+          "AU": 37,
+          "BE": 144,
+          "CA": 40,
+          "CH": 23,
+          "DE": 96,
+          "ER": 5,
+          "FR": 15,
+          "GB": 57,
+          "LU": 109,
+          "NL": 211,
+          "NZ": 10,
+          "ML": 6,
+          "US": 89
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "58355013a28e1a197f60f021",
+      "type": "gewurzmischung-rotkohl",
+      "name": "Gewürzmischung  „Rotkohl“",
+      "slug": "gewurzmischung-rotkohl",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/58355013a28e1a197f60f021-aa834ff0.png",
+      "usage": 1,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc32",
+        "type": "spice-mix",
+        "name": "Gewürzmischung",
+        "slug": "gewurzmischung",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc32-7154509f.png",
+        "usageByCountry": {
+          "AT": 594,
+          "AU": 114,
+          "BE": 15,
+          "CA": 34,
+          "CH": 92,
+          "DE": 475,
+          "ER": 36,
+          "FR": 10,
+          "GB": 42,
+          "LU": 10,
+          "NL": 25,
+          "NZ": 48,
+          "ML": 10,
+          "US": 366
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55e8442c4dab7119528b4567",
+      "type": "gnocchi-mit-kurbis",
+      "name": "Kürbisgnocchi",
+      "slug": "gnocchi-mit-kurbis",
+      "description": null,
+      "internalName": "Gnocchi mit Kürbis",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55e8442c4dab7119528b4567-8b67e9f5.png",
+      "usage": 16,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba8",
+        "type": "gnocchi",
+        "name": "Gnocchi",
+        "slug": "gnocchi",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba8-4a2e844b.png",
+        "usageByCountry": {
+          "AT": 112,
+          "AU": 20,
+          "BE": 26,
+          "CA": 9,
+          "CH": 16,
+          "DE": 111,
+          "ER": 0,
+          "FR": 4,
+          "GB": 51,
+          "LU": 24,
+          "NL": 27,
+          "NZ": 6,
+          "ML": 0,
+          "US": 13
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5835506ea28e1a196225ded1",
+      "type": "entenbrust",
+      "name": "Entenbrust",
+      "slug": "entenbrust",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/5835506ea28e1a196225ded1-4c7f4d43.png",
+      "usage": 8,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb92",
+        "type": "duck",
+        "name": "Ente",
+        "slug": "ente",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb92-c986832d.png",
+        "usageByCountry": {
+          "AT": 8,
+          "AU": 5,
+          "BE": 5,
+          "CA": 0,
+          "CH": 4,
+          "DE": 9,
+          "ER": 0,
+          "FR": 6,
+          "GB": 29,
+          "LU": 7,
+          "NL": 8,
+          "NZ": 0,
+          "ML": 0,
+          "US": 23
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da357fd2cb943758b4567",
+      "type": "thymian",
+      "name": "Thymian",
+      "slug": "thymian",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da357fd2cb943758b4567.png",
+      "usage": 245,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc43",
+        "type": "thyme",
+        "name": "Thymian",
+        "slug": "thymian",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc43-d0cc4199.png",
+        "usageByCountry": {
+          "AT": 252,
+          "AU": 94,
+          "BE": 243,
+          "CA": 96,
+          "CH": 34,
+          "DE": 252,
+          "ER": 0,
+          "FR": 73,
+          "GB": 187,
+          "LU": 346,
+          "NL": 288,
+          "NZ": 38,
+          "ML": 213,
+          "US": 322
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "56d578864dab711d678b4568",
+      "type": "orange, bio",
+      "name": "Orange, bio",
+      "slug": "orange-bio",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/56d578864dab711d678b4568.png",
+      "usage": 3,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbef",
+        "type": "orange",
+        "name": "Orange",
+        "slug": "orange",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbef-561baa16.png",
+        "usageByCountry": {
+          "AT": 63,
+          "AU": 18,
+          "BE": 130,
+          "CA": 19,
+          "CH": 17,
+          "DE": 67,
+          "ER": 0,
+          "FR": 19,
+          "GB": 26,
+          "LU": 126,
+          "NL": 211,
+          "NZ": 2,
+          "ML": 57,
+          "US": 59
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "567921d6f8b25e43768b4567",
+      "type": "balsamico-essig-home",
+      "name": "Balsamicoessig*",
+      "slug": "balsamico-essig",
+      "description": null,
+      "internalName": "Balsamico-Essig (home)",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/567921d6f8b25e43768b4567.png",
+      "usage": 97,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052ff",
+          "type": "sulphites",
+          "name": "Schwefel",
+          "slug": "schwefel",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+          "usage": 178
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc4e",
+        "type": "vinegar",
+        "name": "Essig",
+        "slug": "essig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc4e-487a2c2e.png",
+        "usageByCountry": {
+          "AT": 946,
+          "AU": 556,
+          "BE": 739,
+          "CA": 272,
+          "CH": 185,
+          "DE": 877,
+          "ER": 16,
+          "FR": 209,
+          "GB": 406,
+          "LU": 884,
+          "NL": 855,
+          "NZ": 199,
+          "ML": 77,
+          "US": 710
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0b15d4dab711f1e8b4567",
+      "type": "rotkohl",
+      "name": "Rotkohl",
+      "slug": "rotkohl",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0b15d4dab711f1e8b4567.png",
+      "usage": 19,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5c",
+        "type": "cabbage",
+        "name": "Kohl",
+        "slug": "kohl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5c-cdcdf3fe.png",
+        "usageByCountry": {
+          "AT": 93,
+          "AU": 56,
+          "BE": 59,
+          "CA": 43,
+          "CH": 16,
+          "DE": 82,
+          "ER": 7,
+          "FR": 6,
+          "GB": 40,
+          "LU": 35,
+          "NL": 61,
+          "NZ": 16,
+          "ML": 8,
+          "US": 83
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "type": "sulphites",
+      "name": "Schwefel",
+      "slug": "schwefel",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "usage": 178
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556827b94dab71b7178b456d",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "58355013a28e1a197f60f021",
+          "amount": 4.5,
+          "unit": "g"
+        },
+        {
+          "id": "55e8442c4dab7119528b4567",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "5835506ea28e1a196225ded1",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "555da357fd2cb943758b4567",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "56d578864dab711d678b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "567921d6f8b25e43768b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0b15d4dab711f1e8b4567",
+          "amount": 600,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Für den Rotkohl: Zwiebel abziehen und in Streifen schneiden. Apfel vierteln, entkernen und in Stücke schneiden. In einem großen Topf ½ EL Öl erhitzen, Zwiebelstreifen und Apfelstücke darin ca. 10 Min. dünsten.",
+      "instructionsHTML": "<p>Für den Rotkohl: Zwiebel abziehen und in Streifen schneiden. Apfel vierteln, entkernen und in Stücke schneiden. In einem großen Topf ½ EL Öl erhitzen, Zwiebelstreifen und Apfelstücke darin ca. 10 Min. dünsten.</p>",
+      "instructions": "Für den Rotkohl: Zwiebel abziehen und in Streifen schneiden. Apfel vierteln, entkernen und in Stücke schneiden. In einem großen Topf ½ EL Öl erhitzen, Zwiebelstreifen und Apfelstücke darin ca. 10 Min. dünsten.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556827b94dab71b7178b456d",
+        "554b2abcf8b25eef3e8b4573",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "In der Zwischenzeit: Strunk vom Rotkohl abschneiden, halbieren und in feine Streifen schneiden. Rotkohlstreifen, 2 EL (Balsamico-)Essig, Gewürzmischung, 1 EL Zucker und etwas Salz in den Topf geben, 500 ml heißes Wasser dazugießen und ca. 45 Min. ohne Deckel weiterköcheln lassen, ab und zu umrühren.",
+      "instructionsHTML": "<p>In der Zwischenzeit: Strunk vom Rotkohl abschneiden, halbieren und in feine Streifen schneiden. Rotkohlstreifen, 2 EL (Balsamico-)Essig, Gewürzmischung, 1 EL Zucker und etwas Salz in den Topf geben, 500 ml heißes Wasser dazugießen und ca. 45 Min. ohne Deckel weiterköcheln lassen, ab und zu umrühren.</p>",
+      "instructions": "In der Zwischenzeit: Strunk vom Rotkohl abschneiden, halbieren und in feine Streifen schneiden. Rotkohlstreifen, 2 EL (Balsamico-)Essig, Gewürzmischung, 1 EL Zucker und etwas Salz in den Topf geben, 500 ml heißes Wasser dazugießen und ca. 45 Min. ohne Deckel weiterköcheln lassen, ab und zu umrühren.",
+      "timers": [
+        {
+          "name": "Rotkohl köcheln lassen",
+          "duration": "PT45M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58354dac4348d26e55071e92-1-0-1ddb0ea7.jpg",
+          "caption": "Rotkohl köcheln lassen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "567921d6f8b25e43768b4567",
+        "55b0b15d4dab711f1e8b4567",
+        "554b2319fd2cb9ba598b456d",
+        "58355013a28e1a197f60f021"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Währenddessen: Einen zweiten großen Topf mit reichlich kochendem Wasser füllen, salzen und einmal aufkochen lassen. Hitze reduzieren (Wasser darf nicht mehr kochen) und Miniklöße hineingeben. Wenn die Klöße nach oben gestiegen sind, diese noch 2 – 3 Min. im heißen Wasser ziehen lassen. Danach in ein Sieb abgießen.",
+      "instructionsHTML": "<p>Währenddessen: Einen zweiten großen Topf mit reichlich kochendem Wasser füllen, salzen und einmal aufkochen lassen. Hitze reduzieren (Wasser darf nicht mehr kochen) und Miniklöße hineingeben. Wenn die Klöße nach oben gestiegen sind, diese noch 2 – 3 Min. im heißen Wasser ziehen lassen. Danach in ein Sieb abgießen.</p>",
+      "instructions": "Währenddessen: Einen zweiten großen Topf mit reichlich kochendem Wasser füllen, salzen und einmal aufkochen lassen. Hitze reduzieren (Wasser darf nicht mehr kochen) und Miniklöße hineingeben. Wenn die Klöße nach oben gestiegen sind, diese noch 2 – 3 Min. im heißen Wasser ziehen lassen. Danach in ein Sieb abgießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "55e8442c4dab7119528b4567",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Entenbrüste auf die Hautseite legen und überstehendes Fett abschneiden, dann wenden und die Haut rautenförmig im Abstand von ca. 1 cm einschneiden. Blätter vom Thymian abzupfen. Orangenschale abreiben und Orange halbieren.",
+      "instructionsHTML": "<p>Entenbrüste auf die Hautseite legen und überstehendes Fett abschneiden, dann wenden und die Haut rautenförmig im Abstand von ca. 1 cm einschneiden. Blätter vom Thymian abzupfen. Orangenschale abreiben und Orange halbieren.</p>",
+      "instructions": "Entenbrüste auf die Hautseite legen und überstehendes Fett abschneiden, dann wenden und die Haut rautenförmig im Abstand von ca. 1 cm einschneiden. Blätter vom Thymian abzupfen. Orangenschale abreiben und Orange halbieren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58354dac4348d26e55071e92-3-0-3eb66ee9.jpg",
+          "caption": "Die Haut der Entenbrust rautenförmig einschneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "56d578864dab711d678b4568",
+        "555da357fd2cb943758b4567",
+        "5835506ea28e1a196225ded1"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Entenbrüste mit der Hautseite nach unten in eine große, kalte Pfanne legen. Jetzt Pfanne stark erhitzen und Brüste 2 – 3 Min. scharf anbraten, bis die Haut goldbraun ist.  Dann wenden und 1 –2 Min. weiter anbraten. Mit Salz und Pfeffer würzen.",
+      "instructionsHTML": "<p>Entenbrüste mit der Hautseite nach unten in eine große, kalte Pfanne legen. Jetzt Pfanne stark erhitzen und Brüste 2 – 3 Min. scharf anbraten, bis die Haut goldbraun ist.  Dann wenden und 1 –2 Min. weiter anbraten. Mit Salz und Pfeffer würzen.</p>",
+      "instructions": "Entenbrüste mit der Hautseite nach unten in eine große, kalte Pfanne legen. Jetzt Pfanne stark erhitzen und Brüste 2 – 3 Min. scharf anbraten, bis die Haut goldbraun ist. Dann wenden und 1 –2 Min. weiter anbraten. Mit Salz und Pfeffer würzen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "55b0a135fd2cb9121e8b4567",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Entenbrüste auf ein mit Backpapier belegtes Backblech legen und auf der mittleren Schiene im Backofen 6 – 7 Min. garen.",
+      "instructionsHTML": "<p>Entenbrüste auf ein mit Backpapier belegtes Backblech legen und auf der mittleren Schiene im Backofen 6 – 7 Min. garen.</p>",
+      "instructions": "Entenbrüste auf ein mit Backpapier belegtes Backblech legen und auf der mittleren Schiene im Backofen 6 – 7 Min. garen.",
+      "timers": [
+        {
+          "name": "Entenbrüste im Backofen garen",
+          "duration": "PT06M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305377"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Das überschüssige Fett aus der Pfanne abgießen. TIPP: Falls Du Dein Weihnachtsgericht traditionell zubereiten willst, gib das Entenfett zum Rotkohl.",
+      "instructionsHTML": "<p>Das überschüssige Fett aus der Pfanne abgießen. TIPP: Falls Du Dein Weihnachtsgericht traditionell zubereiten willst, gib das Entenfett zum Rotkohl.</p>",
+      "instructions": "Das überschüssige Fett aus der Pfanne abgießen. TIPP: Falls Du Dein Weihnachtsgericht traditionell zubereiten willst, gib das Entenfett zum Rotkohl.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 8,
+      "instructionsMarkdown": "In die heiße Pfanne Saft der Orange pressen, Orangenabrieb, Thymianblätter zufügen und mit Salz und Pfeffer abschmecken, Soße 1 – 2 Min. etwas andicken lassen. Anschließend in eine kleine Schüssel umfüllen und warmhalten.",
+      "instructionsHTML": "<p>In die heiße Pfanne Saft der Orange pressen, Orangenabrieb, Thymianblätter zufügen und mit Salz und Pfeffer abschmecken, Soße 1 – 2 Min. etwas andicken lassen. Anschließend in eine kleine Schüssel umfüllen und warmhalten.</p>",
+      "instructions": "In die heiße Pfanne Saft der Orange pressen, Orangenabrieb, Thymianblätter zufügen und mit Salz und Pfeffer abschmecken, Soße 1 – 2 Min. etwas andicken lassen. Anschließend in eine kleine Schüssel umfüllen und warmhalten.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58354dac4348d26e55071e92-7-0-48bfb0d9.jpg",
+          "caption": "In die Pfanne Saft der Orange pressen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 9,
+      "instructionsMarkdown": "Pfanne mit Küchenpapier auswischen. Dann erneut 1 EL Öl darin erhitzen und Miniklöße 2 – 3 Min. unter Wenden goldbraun anbraten. Miniklöße und Rotkohl auf Teller verteilen, Orangen-Thymian-Soße daneben geben, Entenbrüste in Scheiben schneiden, diese auf der Soße anrichten: Frohe Weihnachten!",
+      "instructionsHTML": "<p>Pfanne mit Küchenpapier auswischen. Dann erneut 1 EL Öl darin erhitzen und Miniklöße 2 – 3 Min. unter Wenden goldbraun anbraten. Miniklöße und Rotkohl auf Teller verteilen, Orangen-Thymian-Soße daneben geben, Entenbrüste in Scheiben schneiden, diese auf der Soße anrichten: Frohe Weihnachten!</p>",
+      "instructions": "Pfanne mit Küchenpapier auswischen. Dann erneut 1 EL Öl darin erhitzen und Miniklöße 2 – 3 Min. unter Wenden goldbraun anbraten. Miniklöße und Rotkohl auf Teller verteilen, Orangen-Thymian-Soße daneben geben, Entenbrüste in Scheiben schneiden, diese auf der Soße anrichten: Frohe Weihnachten!",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58354dac4348d26e55071e92-8-0-5474e1c0.jpg",
+          "caption": "Miniklöße goldbraun anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": null,
+  "ratingsCount": null,
+  "favoritesCount": null,
+  "active": false,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/weihnachtliche-entenbrust-58354dac4348d26e55071e92",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

@@ -1,0 +1,740 @@
+{
+  "country": "DE",
+  "id": "5bc6ea15ae08b56d647148b2",
+  "name": "Festliche Käseplatte mit Steinofenbaguette",
+  "seoName": "Festliche Käseplatte mit Steinofenbaguette",
+  "category": null,
+  "slug": "festliche-kaseplatte-mit-steinofenbaguette",
+  "headline": "für 3 – 4 Personen | 14,99 €",
+  "description": "Mhhm … Dein kleines Extra fürs Weihnachtsmenü – egal ob noch vor der Vorspeise oder erst nach dem Dessert, eine Käseplatte geht immer! Unsere Käsesorten sind dabei in Bio-Qualität und bieten jedem Geschmack etwas: Bacchus bringt eine leichte Rotweinnote mit, der Schafskäse ist für Liebhaber des besonders würzigen Geschmacks, ähnlich wie der Bierkäse. Und mit dem Gute Laune Käse wollen wir Dir natürlich ein Weihnachtslächeln ins Gesicht zaubern!",
+  "descriptionHTML": "<p>Mhhm … Dein kleines Extra fürs Weihnachtsmenü – egal ob noch vor der Vorspeise oder erst nach dem Dessert, eine Käseplatte geht immer! Unsere Käsesorten sind dabei in Bio-Qualität und bieten jedem Geschmack etwas: Bacchus bringt eine leichte Rotweinnote mit, der Schafskäse ist für Liebhaber des besonders würzigen Geschmacks, ähnlich wie der Bierkäse. Und mit dem Gute Laune Käse wollen wir Dir natürlich ein Weihnachtslächeln ins Gesicht zaubern!</p>",
+  "descriptionMarkdown": "Mhhm … Dein kleines Extra fürs Weihnachtsmenü – egal ob noch vor der Vorspeise oder erst nach dem Dessert, eine Käseplatte geht immer! Unsere Käsesorten sind dabei in Bio-Qualität und bieten jedem Geschmack etwas: Bacchus bringt eine leichte Rotweinnote mit, der Schafskäse ist für Liebhaber des besonders würzigen Geschmacks, ähnlich wie der Bierkäse. Und mit dem Gute Laune Käse wollen wir Dir natürlich ein Weihnachtslächeln ins Gesicht zaubern!",
+  "seoDescription": "Festlich genießen mit unserer Weihnachts-Käseplatte: Bacchus, Gute Laune Käse, Bier- und Schafskäse warten mit Feigen-Relish darauf, Dich zu verwöhnen.",
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT10M",
+  "totalTime": null,
+  "servingSize": 225,
+  "createdAt": "2018-10-17T07:51:49+00:00",
+  "updatedAt": "2018-10-30T14:18:30+00:00",
+  "link": "https://hellofresh.com/recipes/5bc6ea15ae08b56d647148b2",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/festliche-kaseplatte-mit-steinofenbaguette-606ad106.jpg",
+  "cardLink": null,
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 1611,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 385,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 79,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 1,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "5bc6e85bae08b56c3417f051",
+      "type": "bachus",
+      "name": "Bio-Bacchus",
+      "slug": "bacchus-kaese",
+      "description": null,
+      "internalName": "bacchus-kaese",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/5bc6e85bae08b56c3417f051-9062030e.png",
+      "usage": 1,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5bc6e83130006c4c6701ce12",
+      "type": "schafskase",
+      "name": "Bio-Schafsmilch-Käse",
+      "slug": "schafskaese",
+      "description": null,
+      "internalName": "schafskäse",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/5bc6e83130006c4c6701ce12-7d252caf.png",
+      "usage": 1,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5bc6e8bd30006c4cd40d1782",
+      "type": "gute-laune-kase",
+      "name": "Bio-\"Gute Laune\" Käse",
+      "slug": "gute-laune-kaese",
+      "description": null,
+      "internalName": "gute laune käse",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/5bc6e8bd30006c4cd40d1782-f2f56eeb.png",
+      "usage": 1,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5bc6e87d30006c4c6d4a2442",
+      "type": "bierkase",
+      "name": "Bio-Bierkäse",
+      "slug": "bierkaese",
+      "description": null,
+      "internalName": "Bierkäse",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/5bc6e87d30006c4c6d4a2442-9b823a53.png",
+      "usage": 1,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da9624dab71591b8b4567",
+      "type": "birne",
+      "name": "Birne",
+      "slug": "birne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da9624dab71591b8b4567.png",
+      "usage": 44,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc03",
+        "type": "pear",
+        "name": "Birne",
+        "slug": "birne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc03-b735e9d7.png",
+        "usageByCountry": {
+          "AT": 47,
+          "AU": 14,
+          "BE": 71,
+          "CA": 2,
+          "CH": 7,
+          "DE": 44,
+          "ER": 0,
+          "FR": 6,
+          "GB": 1,
+          "LU": 58,
+          "NL": 120,
+          "NZ": 3,
+          "ML": 0,
+          "US": 15
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5bc6eab830006c4e180492b2",
+      "type": "feigenrelish",
+      "name": "Feigenrelish",
+      "slug": "feigenrelish",
+      "description": null,
+      "internalName": "feigenrelish",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/5bc6eab830006c4e180492b2-0aa1442d.png",
+      "usage": 1,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc27",
+        "type": "sauce",
+        "name": "Soße",
+        "slug": "sosze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc27-b8a1285e.png",
+        "usageByCountry": {
+          "AT": 1,
+          "AU": 9,
+          "BE": 83,
+          "CA": 15,
+          "CH": 0,
+          "DE": 3,
+          "ER": 0,
+          "FR": 67,
+          "GB": 12,
+          "LU": 200,
+          "NL": 140,
+          "NZ": 18,
+          "ML": 783,
+          "US": 22
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7144fd2cb911618b4567",
+      "type": "walnüsse",
+      "name": "Walnüsse",
+      "slug": "walnusse",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7144fd2cb911618b4567.png",
+      "usage": 162,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        },
+        {
+          "id": "57962a07b7e8697d4b3052fb",
+          "type": "nuts",
+          "name": "Schalenfrüchte",
+          "slug": "schalenfruchte",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+          "usage": 300
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c1fbdfd2cb987468b4567",
+      "type": "steinofenbaguette",
+      "name": "Steinofenbaguette",
+      "slug": "steinofenbaguette",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c1fbdfd2cb987468b4567.png",
+      "usage": 22,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        },
+        {
+          "id": "57962a07b7e8697d4b3052fe",
+          "type": "sesame",
+          "name": "Sesam",
+          "slug": "sesam",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+          "usage": 175
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f9",
+          "type": "soya",
+          "name": "Soja",
+          "slug": "soja",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+          "usage": 390
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5bc6eb47ae08b56e3f1343e1",
+      "type": "apfel-brandy-chutney",
+      "name": "Apfel-Brandy-Chutney",
+      "slug": "apfel-brandy-chutney",
+      "description": null,
+      "internalName": "Apfel-Brandy-Chutney",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/5bc6eb47ae08b56e3f1343e1-056d90b6.png",
+      "usage": 1,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb76",
+        "type": "chutney",
+        "name": "Chutney",
+        "slug": "chutney",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb76-4577e483.png",
+        "usageByCountry": {
+          "AT": 0,
+          "AU": 32,
+          "BE": 31,
+          "CA": 0,
+          "CH": 0,
+          "DE": 1,
+          "ER": 0,
+          "FR": 6,
+          "GB": 44,
+          "LU": 19,
+          "NL": 38,
+          "NZ": 10,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "type": "nuts",
+      "name": "Schalenfrüchte",
+      "slug": "schalenfruchte",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "usage": 300
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "type": "sesame",
+      "name": "Sesam",
+      "slug": "sesam",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "usage": 175
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "type": "soya",
+      "name": "Soja",
+      "slug": "soja",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "usage": 390
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b5",
+      "type": "german",
+      "name": "Deutsch",
+      "slug": "deutsch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b5-91d543c1.jpg",
+      "usage": 497
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": "christmas-add-on-box",
+  "label": {
+    "text": "EXTRA GANG",
+    "handle": "christmas-add-on-box",
+    "backgroundColor": "#D87250",
+    "foregroundColor": "#FFFFFF"
+  },
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 3,
+      "ingredients": [
+        {
+          "id": "5bc6e85bae08b56c3417f051",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "5bc6e83130006c4c6701ce12",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "5bc6e8bd30006c4cd40d1782",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "id": "5bc6e87d30006c4c6d4a2442",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "id": "555da9624dab71591b8b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "5bc6eab830006c4e180492b2",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "id": "554b7144fd2cb911618b4567",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "id": "556c1fbdfd2cb987468b4567",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "5bc6eb47ae08b56e3f1343e1",
+          "amount": 40,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Mehr Informationen zu unserer Weihnachtsbox findest Du hier: https://www.hellofresh.de/lp/seasonal/",
+      "instructionsHTML": "<p>Mehr Informationen zu unserer Weihnachtsbox findest Du hier: <a href=\"https://www.hellofresh.de/lp/seasonal/\">https://www.hellofresh.de/lp/seasonal/</a></p>",
+      "instructions": "Mehr Informationen zu unserer Weihnachtsbox findest Du hier: https://www.hellofresh.de/lp/seasonal/",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": null,
+  "ratingsCount": null,
+  "favoritesCount": null,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/festliche-kaseplatte-mit-steinofenbaguette-5bc6ea15ae08b56d647148b2",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

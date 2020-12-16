@@ -1,0 +1,996 @@
+{
+  "country": "DE",
+  "id": "5c0e75a7e3f3397462391e82",
+  "name": "Einfache Halloumi-Tacos",
+  "seoName": "Einfache Halloumi-Tacos",
+  "category": null,
+  "slug": "einfache-halloumi-tacos-thermomix",
+  "headline": "mit Zitronendip, Salat und Kiwi-Gemüse-Salsa",
+  "description": "Mahl Zeit für eine Rate-Runde! Ay caramba, es ist Zeit für leckere Tacos! Und so viel ist sicher: Unser schnelles Gericht aus Bohnen, Halloumi und einem frischen Dip mit Kiwi ist geschmacklich echt eine Fiesta. Das Wort „Fiesta“ ist übrigens spanisch und bedeutet „Fest“. Kennst Du noch andere spanische oder mexikanische Gerichte? Zählt doch alle zusammen einmal am Esstisch auf, welche Gerichte ihr sonst noch so kennt. Guten Appetit!",
+  "descriptionHTML": "<p>Mahl Zeit für eine Rate-Runde! Ay caramba, es ist Zeit für leckere Tacos! Und so viel ist sicher: Unser schnelles Gericht aus Bohnen, Halloumi und einem frischen Dip mit Kiwi ist geschmacklich echt eine Fiesta. Das Wort „Fiesta“ ist übrigens spanisch und bedeutet „Fest“. Kennst Du noch andere spanische oder mexikanische Gerichte? Zählt doch alle zusammen einmal am Esstisch auf, welche Gerichte ihr sonst noch so kennt. Guten Appetit!</p>",
+  "descriptionMarkdown": "Mahl Zeit für eine Rate-Runde! Ay caramba, es ist Zeit für leckere Tacos! Und so viel ist sicher: Unser schnelles Gericht aus Bohnen, Halloumi und einem frischen Dip mit Kiwi ist geschmacklich echt eine Fiesta. Das Wort „Fiesta“ ist übrigens spanisch und bedeutet „Fest“. Kennst Du noch andere spanische oder mexikanische Gerichte? Zählt doch alle zusammen einmal am Esstisch auf, welche Gerichte ihr sonst noch so kennt. Guten Appetit!",
+  "seoDescription": "Thermomix! Unser Easy Alltag Rezept: Einfache Halloumi-Tacos. Innerhalb kürzester Zeit schlemmst Du mit Halloumi, Borlotti Bohnen, Kiwi und Zitrone.",
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT25M",
+  "totalTime": null,
+  "servingSize": 400,
+  "createdAt": "2018-12-10T14:18:15+00:00",
+  "updatedAt": "2018-12-10T14:21:31+00:00",
+  "link": "https://hellofresh.com/recipes/5c0e75a7e3f3397462391e82",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/5c0e75a7e3f3397462391e82-78b59ddd.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/einfache-halloumi-tacos-5c0e75a7e3f3397462391e82-6851bba5.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3715,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 888,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 51,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 22,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 64,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 38,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 3,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "558bfc58fd2cb9d35f8b4567",
+      "type": "halloumi",
+      "name": "Halloumi",
+      "slug": "halloumi",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/558bfc58fd2cb9d35f8b4567-24f8f75c.png",
+      "usage": 111,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535a9af8b25e78738b4568",
+      "type": "joghurt",
+      "name": "Joghurt",
+      "slug": "joghurt",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55535a9af8b25e78738b4568.png",
+      "usage": 234,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc57",
+        "type": "yoghurt",
+        "name": "Jo­ghurt",
+        "slug": "joghurt",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc57-825533d1.png",
+        "usageByCountry": {
+          "AT": 464,
+          "AU": 272,
+          "BE": 368,
+          "CA": 43,
+          "CH": 101,
+          "DE": 434,
+          "ER": 0,
+          "FR": 31,
+          "GB": 207,
+          "LU": 341,
+          "NL": 408,
+          "NZ": 78,
+          "ML": 8,
+          "US": 48
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c2c89f8b25e9c658b4568",
+      "type": "gurke",
+      "name": "Gurke",
+      "slug": "gurke",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c2c89f8b25e9c658b4568.png",
+      "usage": 277,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb88",
+        "type": "cucumber",
+        "name": "Gurke",
+        "slug": "gurke",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb88-49b790ca.png",
+        "usageByCountry": {
+          "AT": 293,
+          "AU": 269,
+          "BE": 125,
+          "CA": 53,
+          "CH": 67,
+          "DE": 282,
+          "ER": 13,
+          "FR": 41,
+          "GB": 100,
+          "LU": 160,
+          "NL": 137,
+          "NZ": 128,
+          "ML": 1,
+          "US": 124
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b73d7f8b25e49448b456a",
+      "type": "weizentortillas",
+      "name": "Weizentortillas",
+      "slug": "weizentortillas",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b73d7f8b25e49448b456a.png",
+      "usage": 30,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "569f9a624dab711b278b4567",
+      "type": "kiwi",
+      "name": "Kiwi",
+      "slug": "kiwi",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/569f9a624dab711b278b4567.png",
+      "usage": 20,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc0",
+        "type": "kiwi",
+        "name": "Kiwi",
+        "slug": "kiwi",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc0-a392852f.png",
+        "usageByCountry": {
+          "AT": 18,
+          "AU": 1,
+          "BE": 38,
+          "CA": 1,
+          "CH": 3,
+          "DE": 20,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 31,
+          "NL": 77,
+          "NZ": 0,
+          "ML": 0,
+          "US": 17
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2b03f8b25ef93e8b456d",
+      "type": "mayonnaise",
+      "name": "Mayonnaise",
+      "slug": "mayonnaise",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2b03f8b25ef93e8b456d.png",
+      "usage": 140,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f6",
+          "type": "egg",
+          "name": "Ei",
+          "slug": "ei",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+          "usage": 365
+        },
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbd2",
+        "type": "mayonnaise",
+        "name": "Mayonnaise",
+        "slug": "mayonnaise",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbd2-9da5628e.png",
+        "usageByCountry": {
+          "AT": 166,
+          "AU": 135,
+          "BE": 0,
+          "CA": 114,
+          "CH": 20,
+          "DE": 140,
+          "ER": 17,
+          "FR": 0,
+          "GB": 58,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 55,
+          "ML": 11,
+          "US": 231
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "57d82b82d804b535138b4568",
+      "type": "borlotti-bohnen",
+      "name": "Borlotti Bohnen",
+      "slug": "borlotti-bohnen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/57d82b82d804b535138b4567-52fcfe66.png",
+      "usage": 12,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4c",
+        "type": "beans",
+        "name": "Bohnen",
+        "slug": "bohnen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4c-15ab1383.png",
+        "usageByCountry": {
+          "AT": 255,
+          "AU": 115,
+          "BE": 77,
+          "CA": 78,
+          "CH": 43,
+          "DE": 231,
+          "ER": 3,
+          "FR": 28,
+          "GB": 241,
+          "LU": 95,
+          "NL": 51,
+          "NZ": 28,
+          "ML": 153,
+          "US": 198
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "593172e73131007d8f39f203",
+      "type": "gewurzmischung",
+      "name": "Gewürzmischung",
+      "slug": "gewurzmischung",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/593172e73131007d8f39f203-7caf0965.png",
+      "usage": 155,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": null
+    },
+    {
+      "country": "DE",
+      "id": "592a6b3bd56afa69ef25b222",
+      "type": "oliven-ol",
+      "name": "(Oliven-)Öl*",
+      "slug": "oliven-ol",
+      "description": null,
+      "internalName": "(Oliven-)Öl*",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/592a6b3bd56afa69ef25b222-1d28bba3.png",
+      "usage": 288,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbea",
+        "type": "olive-oil",
+        "name": "Olivenöl",
+        "slug": "olivenol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbea-2e1bc6b6.png",
+        "usageByCountry": {
+          "AT": 309,
+          "AU": 3,
+          "BE": 654,
+          "CA": 0,
+          "CH": 29,
+          "DE": 288,
+          "ER": 0,
+          "FR": 178,
+          "GB": 20,
+          "LU": 762,
+          "NL": 749,
+          "NZ": 3,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "type": "egg",
+      "name": "Ei",
+      "slug": "ei",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "usage": 365
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [],
+  "tags": [
+    {
+      "id": "57d1722b3a58fe2e42242751",
+      "type": "thermomix-hilft",
+      "name": "Thermomix hilft",
+      "slug": "thermomix-hilft",
+      "iconLink": null,
+      "numberOfRecipes": 256,
+      "numberOfRecipesByCountry": {
+        "AT": 137,
+        "AU": 0,
+        "BE": 0,
+        "CA": 0,
+        "CH": 0,
+        "DE": 119,
+        "ER": 0,
+        "FR": 0,
+        "GB": 0,
+        "LU": 0,
+        "NL": 0,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": "easy-alltag",
+  "label": {
+    "text": "EASY ALLTAG",
+    "handle": "easy-alltag",
+    "backgroundColor": "#efa953",
+    "foregroundColor": "#FFFFFF"
+  },
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "558bfc58fd2cb9d35f8b4567",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "55535a9af8b25e78738b4568",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "id": "556c2c89f8b25e9c658b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b73d7f8b25e49448b456a",
+          "amount": 6,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "569f9a624dab711b278b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2b03f8b25ef93e8b456d",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "57d82b82d804b535138b4568",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "593172e73131007d8f39f203",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "592a6b3bd56afa69ef25b222",
+          "amount": null,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "nach Geschmack"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "nach Geschmack"
+        }
+      ]
+    },
+    {
+      "yields": 3,
+      "ingredients": [
+        {
+          "id": "558bfc58fd2cb9d35f8b4567",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "55535a9af8b25e78738b4568",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "id": "556c2c89f8b25e9c658b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b73d7f8b25e49448b456a",
+          "amount": 9,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "569f9a624dab711b278b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2b03f8b25ef93e8b456d",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "57d82b82d804b535138b4568",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "593172e73131007d8f39f203",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "592a6b3bd56afa69ef25b222",
+          "amount": null,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "nach Geschmack"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "nach Geschmack"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "558bfc58fd2cb9d35f8b4567",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "55535a9af8b25e78738b4568",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "id": "556c2c89f8b25e9c658b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b73d7f8b25e49448b456a",
+          "amount": 12,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "569f9a624dab711b278b4567",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2b03f8b25ef93e8b456d",
+          "amount": 40,
+          "unit": "ml"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "57d82b82d804b535138b4568",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "593172e73131007d8f39f203",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "id": "592a6b3bd56afa69ef25b222",
+          "amount": null,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "nach Geschmack"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "nach Geschmack"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Demnächst findest Du hier unsere Schritt-für-Schritt-Anleitungen mit denen Du unsere köstlichen Rezepte nachkochen kannst.",
+      "instructionsHTML": "<p>Demnächst findest Du hier unsere Schritt-für-Schritt-Anleitungen mit denen Du unsere köstlichen Rezepte nachkochen kannst.</p>",
+      "instructions": "Demnächst findest Du hier unsere Schritt-für-Schritt-Anleitungen mit denen Du unsere köstlichen Rezepte nachkochen kannst.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 0,
+  "ratingsCount": 0,
+  "favoritesCount": 0,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/einfache-halloumi-tacos-thermomix-5c0e75a7e3f3397462391e82",
+  "clonedFrom": "5c0e67d4e3f33968474489a2",
+  "canonical": "5c0e67d4e3f33968474489a2",
+  "canonicalLink": "https://www.hellofresh.de/recipes/einfache-halloumi-tacos-5c0e67d4e3f33968474489a2"
+}

@@ -1,0 +1,809 @@
+{
+  "country": "DE",
+  "id": "56025b214dab71dd248b4567",
+  "name": "Herzhafter Gemüse-Flammkuchen",
+  "seoName": null,
+  "category": null,
+  "slug": "herzhafter-gemuse-flammkuchen",
+  "headline": "mit frischem Oregano und Rucola",
+  "description": "Egal ob Pizza, Zwiebelkuchen oder Flammkuchen: Alle drei kommen aus dem Backofen, (fast) alle lassen sich schnell zubereiten und alle kann man immer wieder essen. Dazu passt ein Federweißer oder auch ein ausgewachsener Rot- oder Weißwein. Natürlich schmeckt dazu auch ein Traubensaft(schorle) lecker. Guten Appetit!",
+  "descriptionHTML": "<p>Egal ob Pizza, Zwiebelkuchen oder Flammkuchen: Alle drei kommen aus dem Backofen, (fast) alle lassen sich schnell zubereiten und alle kann man immer wieder essen. Dazu passt ein Federweißer oder auch ein ausgewachsener Rot- oder Weißwein. Natürlich schmeckt dazu auch ein Traubensaft(schorle) lecker. Guten Appetit!</p>",
+  "descriptionMarkdown": "Egal ob Pizza, Zwiebelkuchen oder Flammkuchen: Alle drei kommen aus dem Backofen, (fast) alle lassen sich schnell zubereiten und alle kann man immer wieder essen. Dazu passt ein Federweißer oder auch ein ausgewachsener Rot- oder Weißwein. Natürlich schmeckt dazu auch ein Traubensaft(schorle) lecker. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT25M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-09-23T07:56:17+00:00",
+  "updatedAt": "2017-05-07T14:08:36+00:00",
+  "link": "https://hellofresh.com/recipes/56025b214dab71dd248b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/56025b214dab71dd248b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/56025b214dab71dd248b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2658.9320000000002,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 635.5,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 31,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 71.55,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 16,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "556ecabbf8b25e04068b4568",
+      "type": "flammkuchenteig",
+      "name": "Flammkuchenteig",
+      "slug": "flammkuchenteig",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556ecabbf8b25e04068b4568.png",
+      "usage": 68,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        },
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc0d",
+        "type": "pizza-dough",
+        "name": "Pizza-Teig",
+        "slug": "pizza-teig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc0d-784518af.png",
+        "usageByCountry": {
+          "AT": 95,
+          "AU": 50,
+          "BE": 2,
+          "CA": 13,
+          "CH": 18,
+          "DE": 83,
+          "ER": 0,
+          "FR": 0,
+          "GB": 18,
+          "LU": 0,
+          "NL": 2,
+          "NZ": 5,
+          "ML": 0,
+          "US": 28
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55e847c379a23c4b7e8b4567",
+      "type": "rote-paprika",
+      "name": "rote Paprika",
+      "slug": "paprika-rot",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55e847c379a23c4b7e8b4567-25c291a3.png",
+      "usage": 86,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc06",
+        "type": "pepper-vegetable",
+        "name": "Pfeffer (Gemüse)",
+        "slug": "pfeffer-gemuse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc06-d58f09de.png",
+        "usageByCountry": {
+          "AT": 216,
+          "AU": 285,
+          "BE": 95,
+          "CA": 188,
+          "CH": 92,
+          "DE": 215,
+          "ER": 51,
+          "FR": 30,
+          "GB": 307,
+          "LU": 126,
+          "NL": 108,
+          "NZ": 62,
+          "ML": 428,
+          "US": 579
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2645fd2cb983608b4567",
+      "type": "frischer oregano",
+      "name": "frischer Oregano",
+      "slug": "frischer-oregano",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2645fd2cb983608b4567.png",
+      "usage": 120,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf0",
+        "type": "oregano",
+        "name": "Oregano",
+        "slug": "oregano",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf0-6e86fa56.png",
+        "usageByCountry": {
+          "AT": 189,
+          "AU": 88,
+          "BE": 199,
+          "CA": 43,
+          "CH": 36,
+          "DE": 166,
+          "ER": 6,
+          "FR": 31,
+          "GB": 89,
+          "LU": 160,
+          "NL": 225,
+          "NZ": 24,
+          "ML": 0,
+          "US": 155
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7480fd2cb911618b4568",
+      "type": "schmand",
+      "name": "Schmand",
+      "slug": "schmand",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b7480fd2cb911618b4568-52e9ad6e.png",
+      "usage": 248,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27b5f8b25e42438b4568",
+      "type": "rucola",
+      "name": "Rucola",
+      "slug": "rucola",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27b5f8b25e42438b4568.png",
+      "usage": 266,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535721f8b25e8a038b4569",
+      "type": "braune champignons",
+      "name": "braune Champignons",
+      "slug": "braune-champignons",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55535721f8b25e8a038b4569-22f6a90e.png",
+      "usage": 399,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbde",
+        "type": "mushrooms",
+        "name": "Pilze",
+        "slug": "pilze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbde-4d22942c.png",
+        "usageByCountry": {
+          "AT": 558,
+          "AU": 96,
+          "BE": 230,
+          "CA": 75,
+          "CH": 86,
+          "DE": 484,
+          "ER": 1,
+          "FR": 60,
+          "GB": 207,
+          "LU": 251,
+          "NL": 280,
+          "NZ": 21,
+          "ML": 17,
+          "US": 209
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "556ecabbf8b25e04068b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55e847c379a23c4b7e8b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2645fd2cb983608b4567",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7480fd2cb911618b4568",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b27b5f8b25e42438b4568",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "id": "55535721f8b25e8a038b4569",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Backofen auf 220 °C Ober-/ Unterhitze (200° C Umluft) vorheizen. Rucola waschen und in einem Sieb abtropfen lassen. Eine Hälfte des Rucola grob hacken, die andere Hälfte beiseite stellen. Oregano waschen, trocken schütteln, Blätter abzupfen und grob hacken. Champignons putzen und in dünne Scheiben schneiden. Paprika waschen, halbieren, Kerngehäuse entfernen und in mundgerechte Stücke schneiden. Zwiebel abziehen und in sehr feine Scheiben schneiden.",
+      "instructionsHTML": "<p>Backofen auf 220 °C Ober-/ Unterhitze (200° C Umluft) vorheizen. Rucola waschen und in einem Sieb abtropfen lassen. Eine Hälfte des Rucola grob hacken, die andere Hälfte beiseite stellen. Oregano waschen, trocken schütteln, Blätter abzupfen und grob hacken. Champignons putzen und in dünne Scheiben schneiden. Paprika waschen, halbieren, Kerngehäuse entfernen und in mundgerechte Stücke schneiden. Zwiebel abziehen und in sehr feine Scheiben schneiden.</p>",
+      "instructions": "Backofen auf 220 °C Ober-/ Unterhitze (200° C Umluft) vorheizen. Rucola waschen und in einem Sieb abtropfen lassen. Eine Hälfte des Rucola grob hacken, die andere Hälfte beiseite stellen. Oregano waschen, trocken schütteln, Blätter abzupfen und grob hacken. Champignons putzen und in dünne Scheiben schneiden. Paprika waschen, halbieren, Kerngehäuse entfernen und in mundgerechte Stücke schneiden. Zwiebel abziehen und in sehr feine Scheiben schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56025b214dab71dd248b4567/step_56027e08e08dd.jpg",
+          "caption": "Rucola waschen und abtropfen lassen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55e847c379a23c4b7e8b4567",
+        "554b2645fd2cb983608b4567",
+        "554b2abcf8b25eef3e8b4573",
+        "554b27b5f8b25e42438b4568",
+        "55535721f8b25e8a038b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "In einer Schüssel Schmand mit gehacktem Rucola, Oregano, 1 TL Olivenöl und ein wenig Salz und Pfeffer vermischen.",
+      "instructionsHTML": "<p>In einer Schüssel Schmand mit gehacktem Rucola, Oregano, 1 TL Olivenöl und ein wenig Salz und Pfeffer vermischen.</p>",
+      "instructions": "In einer Schüssel Schmand mit gehacktem Rucola, Oregano, 1 TL Olivenöl und ein wenig Salz und Pfeffer vermischen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56025b214dab71dd248b4567/step_56027e0907435.jpg",
+          "caption": "Rucola-Schmand zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2645fd2cb983608b4567",
+        "554b7480fd2cb911618b4568",
+        "554b27b5f8b25e42438b4568",
+        "554b22cb4dab71c8058b4570",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Flammkuchen-Teig auf einem mit Backpapier belegten tiefen Backblech ausrollen. Teig gleichmäßig mit der Schmand-Mischung bestreichen, dabei ca. 1 cm Rand frei lassen. Champignons, Paprika und Zwiebeln darauf verteilen. Belegten Flammkuchen 13–15 Min. auf der mittleren Schiene im Ofen knusprig backen.",
+      "instructionsHTML": "<p>Flammkuchen-Teig auf einem mit Backpapier belegten tiefen Backblech ausrollen. Teig gleichmäßig mit der Schmand-Mischung bestreichen, dabei ca. 1 cm Rand frei lassen. Champignons, Paprika und Zwiebeln darauf verteilen. Belegten Flammkuchen 13–15 Min. auf der mittleren Schiene im Ofen knusprig backen.</p>",
+      "instructions": "Flammkuchen-Teig auf einem mit Backpapier belegten tiefen Backblech ausrollen. Teig gleichmäßig mit der Schmand-Mischung bestreichen, dabei ca. 1 cm Rand frei lassen. Champignons, Paprika und Zwiebeln darauf verteilen. Belegten Flammkuchen 13–15 Min. auf der mittleren Schiene im Ofen knusprig backen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56025b214dab71dd248b4567/step_56027e091c4f6.jpg",
+          "caption": "Flammkuchenteig ausrollen"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56025b214dab71dd248b4567/step_56027e092f43d.jpg",
+          "caption": "Flammkuchen belegen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556ecabbf8b25e04068b4568",
+        "55e847c379a23c4b7e8b4567",
+        "554b2645fd2cb983608b4567",
+        "554b2abcf8b25eef3e8b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305377",
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer Schüssel den restlichen Rucola mit ein wenig Salz, Pfeffer und Olivenöl vermischen.",
+      "instructionsHTML": "<p>In einer Schüssel den restlichen Rucola mit ein wenig Salz, Pfeffer und Olivenöl vermischen.</p>",
+      "instructions": "In einer Schüssel den restlichen Rucola mit ein wenig Salz, Pfeffer und Olivenöl vermischen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b22cb4dab71c8058b4570",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Nach der Garzeit Flammkuchen aus dem Ofen nehmen und in Stücke schneiden. Dann auf Tellern verteilen, mit dem angemachten Rucola bestreuen und genießen!",
+      "instructionsHTML": "<p>Nach der Garzeit Flammkuchen aus dem Ofen nehmen und in Stücke schneiden. Dann auf Tellern verteilen, mit dem angemachten Rucola bestreuen und genießen!</p>",
+      "instructions": "Nach der Garzeit Flammkuchen aus dem Ofen nehmen und in Stücke schneiden. Dann auf Tellern verteilen, mit dem angemachten Rucola bestreuen und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.3,
+  "ratingsCount": 1752,
+  "favoritesCount": 768,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/herzhafter-gemuse-flammkuchen-56025b214dab71dd248b4567",
+  "clonedFrom": null,
+  "canonical": "56025b214dab71dd248b4567",
+  "canonicalLink": "https://www.hellofresh.de/recipes/herzhafter-gemuse-flammkuchen-56025b214dab71dd248b4567"
+}

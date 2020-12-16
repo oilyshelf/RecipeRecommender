@@ -1,0 +1,1325 @@
+{
+  "country": "DE",
+  "id": "54f82efd6ced6e83388b456d",
+  "name": "Schnitzel Wiener Art",
+  "seoName": null,
+  "category": null,
+  "slug": "schnitzel-wiener-art",
+  "headline": "mit cremigem Topinamburpüree und Salat",
+  "description": "Seit 2009 ist es offiziell! Ein Gerichtsurteil hat darüber entschieden, dass ein Wiener Schnitzel auch ein Wiener Schnitzel aus Kalbfleisch sein muss. Wenn allerdings Schweinefleisch benutzt wird, darf es nur entweder „Schnitzel Wiener Art“ oder „Wiener Schnitzel vom Schwein“ heißen.",
+  "descriptionHTML": "<p>Seit 2009 ist es offiziell! Ein Gerichtsurteil hat darüber entschieden, dass ein Wiener Schnitzel auch ein Wiener Schnitzel aus Kalbfleisch sein muss. Wenn allerdings Schweinefleisch benutzt wird, darf es nur entweder „Schnitzel Wiener Art“ oder „Wiener Schnitzel vom Schwein“ heißen.</p>",
+  "descriptionMarkdown": "Seit 2009 ist es offiziell! Ein Gerichtsurteil hat darüber entschieden, dass ein Wiener Schnitzel auch ein Wiener Schnitzel aus Kalbfleisch sein muss. Wenn allerdings Schweinefleisch benutzt wird, darf es nur entweder „Schnitzel Wiener Art“ oder „Wiener Schnitzel vom Schwein“ heißen.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT40M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-03-05T10:25:01+00:00",
+  "updatedAt": "2017-03-30T08:38:44+00:00",
+  "link": "https://hellofresh.com/recipes/54f82efd6ced6e83388b456d",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/54f82efd6ced6e83388b456d.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/54f82efd6ced6e83388b456d.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3627.5280000000002,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 867,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 22,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 98,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 49,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "556881724dab71111f8b4568",
+      "type": "schweineschnitzel",
+      "name": "Schweineschnitzel",
+      "slug": "schweineschnitzel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556881724dab71111f8b4568.png",
+      "usage": 26,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc12",
+        "type": "pork",
+        "name": "Schweinefleisch",
+        "slug": "schweinefleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc12-bdd443ff.png",
+        "usageByCountry": {
+          "AT": 486,
+          "AU": 290,
+          "BE": 179,
+          "CA": 134,
+          "CH": 113,
+          "DE": 455,
+          "ER": 54,
+          "FR": 58,
+          "GB": 613,
+          "LU": 212,
+          "NL": 191,
+          "NZ": 97,
+          "ML": 289,
+          "US": 624
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556735f14dab71190e8b4567",
+      "type": "topinambur",
+      "name": "Topinambur",
+      "slug": "topinambur",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/556735f14dab71190e8b4567-b1e9b72e.png",
+      "usage": 10,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb37",
+        "type": "artichoke",
+        "name": "Artischocke",
+        "slug": "artischocke",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb37-57e0b10c.png",
+        "usageByCountry": {
+          "AT": 10,
+          "AU": 2,
+          "BE": 8,
+          "CA": 5,
+          "CH": 4,
+          "DE": 10,
+          "ER": 0,
+          "FR": 2,
+          "GB": 4,
+          "LU": 9,
+          "NL": 9,
+          "NZ": 0,
+          "ML": 0,
+          "US": 29
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34b64dab71aa058b4573",
+      "type": "petersilie",
+      "name": "Petersilie",
+      "slug": "petersilie",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34b64dab71aa058b4573.png",
+      "usage": 861,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566ebf34dab71e6078b456b",
+      "type": "salatherz",
+      "name": "Salatherz",
+      "slug": "salatherz",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566ebf34dab71e6078b456b.png",
+      "usage": 256,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c5f24fd2cb97b4d8b4567",
+      "type": "paniermehl",
+      "name": "Paniermehl",
+      "slug": "paniermehl",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/556c5f24fd2cb97b4d8b4567-39e77526.png",
+      "usage": 8,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf4",
+        "type": "panko",
+        "name": "Panko",
+        "slug": "panko",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf4-7b32397f.png",
+        "usageByCountry": {
+          "AT": 7,
+          "AU": 108,
+          "BE": 0,
+          "CA": 87,
+          "CH": 13,
+          "DE": 8,
+          "ER": 18,
+          "FR": 0,
+          "GB": 169,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 55,
+          "ML": 60,
+          "US": 429
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3300fd2cb973608b4569",
+      "type": "milch-home",
+      "name": "Milch*",
+      "slug": "milch",
+      "description": null,
+      "internalName": "Milch [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3300fd2cb973608b4569.png",
+      "usage": 111,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbd9",
+        "type": "milk",
+        "name": "Milch",
+        "slug": "milch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbd9-a1323e62.png",
+        "usageByCountry": {
+          "AT": 194,
+          "AU": 281,
+          "BE": 254,
+          "CA": 57,
+          "CH": 28,
+          "DE": 178,
+          "ER": 11,
+          "FR": 54,
+          "GB": 28,
+          "LU": 288,
+          "NL": 288,
+          "NZ": 102,
+          "ML": 11,
+          "US": 176
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566f045fd2cb952018b456b",
+      "type": "muskatnuss, gemahlen",
+      "name": "Muskatnuss, gemahlen",
+      "slug": "muskatnuss-gemahlen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566f045fd2cb952018b456b.png",
+      "usage": 44,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe5",
+        "type": "nutmeg",
+        "name": "Muskatnuss",
+        "slug": "muskatnuss",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe5-5da7071b.png",
+        "usageByCountry": {
+          "AT": 89,
+          "AU": 2,
+          "BE": 28,
+          "CA": 1,
+          "CH": 16,
+          "DE": 88,
+          "ER": 0,
+          "FR": 6,
+          "GB": 1,
+          "LU": 49,
+          "NL": 41,
+          "NZ": 0,
+          "ML": 0,
+          "US": 23
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c5fa6fd2cb98b4d8b4567",
+      "type": "preiselbeeren",
+      "name": "Preiselbeeren",
+      "slug": "preiselbeeren",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/556c5fa6fd2cb98b4d8b4567-aba9cfe5.png",
+      "usage": 3,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb52",
+        "type": "berries",
+        "name": "Beeren",
+        "slug": "beeren",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb52-f1abe164.png",
+        "usageByCountry": {
+          "AT": 42,
+          "AU": 41,
+          "BE": 58,
+          "CA": 14,
+          "CH": 4,
+          "DE": 42,
+          "ER": 0,
+          "FR": 0,
+          "GB": 17,
+          "LU": 18,
+          "NL": 90,
+          "NZ": 10,
+          "ML": 0,
+          "US": 58
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3354fd2cb9ba598b456e",
+      "type": "ei",
+      "name": "Ei*",
+      "slug": "ei",
+      "description": null,
+      "internalName": "Ei [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3354fd2cb9ba598b456e.png",
+      "usage": 46,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f6",
+          "type": "egg",
+          "name": "Ei",
+          "slug": "ei",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+          "usage": 365
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb94",
+        "type": "eggs",
+        "name": "Eier",
+        "slug": "eier",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb94-b612d37c.png",
+        "usageByCountry": {
+          "AT": 134,
+          "AU": 232,
+          "BE": 347,
+          "CA": 0,
+          "CH": 28,
+          "DE": 117,
+          "ER": 0,
+          "FR": 62,
+          "GB": 0,
+          "LU": 384,
+          "NL": 415,
+          "NZ": 111,
+          "ML": 48,
+          "US": 62
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dc1a9fd2cb944758b4569",
+      "type": "mehl-home",
+      "name": "Mehl*",
+      "slug": "mehl",
+      "description": null,
+      "internalName": "Mehl home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dc1a9fd2cb944758b4569.png",
+      "usage": 156,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba0",
+        "type": "flour",
+        "name": "Mehl",
+        "slug": "mehl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba0-03891dce.png",
+        "usageByCountry": {
+          "AT": 391,
+          "AU": 201,
+          "BE": 10,
+          "CA": 106,
+          "CH": 74,
+          "DE": 383,
+          "ER": 19,
+          "FR": 0,
+          "GB": 141,
+          "LU": 5,
+          "NL": 14,
+          "NZ": 74,
+          "ML": 9,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "type": "egg",
+      "name": "Ei",
+      "slug": "ei",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "usage": 365
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536a",
+      "type": "plasticwrap",
+      "name": "Frischhaltefolie"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a4",
+      "type": "american",
+      "name": "Amerikanisch",
+      "slug": "amerikanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a4-aafc03e6.jpg",
+      "usage": 3895
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053c1",
+      "type": "nordic",
+      "name": "Skandinavisch",
+      "slug": "skandinavisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053c1-96039e31.jpg",
+      "usage": 148
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "556881724dab71111f8b4568",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556735f14dab71190e8b4567",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "5566ebf34dab71e6078b456b",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 0.5,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556c5f24fd2cb97b4d8b4567",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b3300fd2cb973608b4569",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "id": "5566f045fd2cb952018b456b",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "556c5fa6fd2cb98b4d8b4567",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b3354fd2cb9ba598b456e",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555dc1a9fd2cb944758b4569",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "556881724dab71111f8b4568",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556735f14dab71190e8b4567",
+          "amount": 8,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "5566ebf34dab71e6078b456b",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556c5f24fd2cb97b4d8b4567",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "554b3300fd2cb973608b4569",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "id": "5566f045fd2cb952018b456b",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "id": "556c5fa6fd2cb98b4d8b4567",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b3354fd2cb9ba598b456e",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555dc1a9fd2cb944758b4569",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.25,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Schweineschnitzel aus dem Kühlschrank nehmen, damit dieses Zimmertemperatur erreichen kann. Topinambur und Kartoffeln, ￼schälen, waschen und in ca. 2 cm große Würfel schneiden. Knoblauch abziehen und fein hacken. Petersilie waschen, trocken schütteln und grob hacken.",
+      "instructionsHTML": "<p>Schweineschnitzel aus dem Kühlschrank nehmen, damit dieses Zimmertemperatur erreichen kann. Topinambur und Kartoffeln, ￼schälen, waschen und in ca. 2 cm große Würfel schneiden. Knoblauch abziehen und fein hacken. Petersilie waschen, trocken schütteln und grob hacken.</p>",
+      "instructions": "Schweineschnitzel aus dem Kühlschrank nehmen, damit dieses Zimmertemperatur erreichen kann. Topinambur und Kartoffeln, ￼schälen, waschen und in ca. 2 cm große Würfel schneiden. Knoblauch abziehen und fein hacken. Petersilie waschen, trocken schütteln und grob hacken.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556881724dab71111f8b4568",
+        "556735f14dab71190e8b4567",
+        "554b25fcfd2cb973608b4567",
+        "554b268ffd2cb983608b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Topinambur und Kartoffeln in einen Topf geben und mit reichlich Salzwasser bedecken, aufkochen lassen, Hitze herunterstufen und ca. 15-20 Min. weich kochen lassen. Salatherz vom Strunk befreien, einmal in der Mitte durchreißen und unter klarem Wasser abspülen. Zitrone heiß abwaschen, etwas Schale fein abreiben, eine Hälfte entsaften und die andere Hälfte in Spalten schneiden.",
+      "instructionsHTML": "<p>Topinambur und Kartoffeln in einen Topf geben und mit reichlich Salzwasser bedecken, aufkochen lassen, Hitze herunterstufen und ca. 15-20 Min. weich kochen lassen. Salatherz vom Strunk befreien, einmal in der Mitte durchreißen und unter klarem Wasser abspülen. Zitrone heiß abwaschen, etwas Schale fein abreiben, eine Hälfte entsaften und die andere Hälfte in Spalten schneiden.</p>",
+      "instructions": "Topinambur und Kartoffeln in einen Topf geben und mit reichlich Salzwasser bedecken, aufkochen lassen, Hitze herunterstufen und ca. 15-20 Min. weich kochen lassen. Salatherz vom Strunk befreien, einmal in der Mitte durchreißen und unter klarem Wasser abspülen. Zitrone heiß abwaschen, etwas Schale fein abreiben, eine Hälfte entsaften und die andere Hälfte in Spalten schneiden.",
+      "timers": [
+        {
+          "name": "Kartoffeln und Topinambur kochen",
+          "duration": "PT20M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54f82efd6ced6e83388b456d/step_556ef8db4a19f.jpg",
+          "caption": "Zitronen abrieb"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556735f14dab71190e8b4567",
+        "554b25fcfd2cb973608b4567",
+        "5566ebf34dab71e6078b456b",
+        "554b1de2f8b25ef93e8b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Salat mit 1 EL Zitronensaft, 1 EL Olivenöl und Salz und Pfeffer vermengen und bis zum Anrichten ziehen lassen. Schnitzel vorsichtig, zwischen zwei Frischhaltefolien, gleichmäßig flacher klopfen.",
+      "instructionsHTML": "<p>Salat mit 1 EL Zitronensaft, 1 EL Olivenöl und Salz und Pfeffer vermengen und bis zum Anrichten ziehen lassen. Schnitzel vorsichtig, zwischen zwei Frischhaltefolien, gleichmäßig flacher klopfen.</p>",
+      "instructions": "Salat mit 1 EL Zitronensaft, 1 EL Olivenöl und Salz und Pfeffer vermengen und bis zum Anrichten ziehen lassen. Schnitzel vorsichtig, zwischen zwei Frischhaltefolien, gleichmäßig flacher klopfen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54f82efd6ced6e83388b456d/step_556ef8db5b843.jpg",
+          "caption": "Das Schnitzel klopfen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556881724dab71111f8b4568",
+        "5566ebf34dab71e6078b456b",
+        "554b1de2f8b25ef93e8b456b",
+        "554b1c284dab71a9058b456b",
+        "554b22cb4dab71c8058b4570",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536a"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Paniermehl mit Zitronenabrieb vermischen. 1 Ei verquirlen, Paniermehl und 2 EL Mehl auf je einen Teller geben. Schnitzel im Mehl wenden, durch das Ei ziehen und mit den Paniermehl panieren. 1 EL Öl in einer Pfanne erhitzen. Schnitzel darin ca. 2-3 Min. je Seite anbraten. Dann Schnitzel auf Küchenpapier legen, damit das Fett abtropfen kann.",
+      "instructionsHTML": "<p>Paniermehl mit Zitronenabrieb vermischen. 1 Ei verquirlen, Paniermehl und 2 EL Mehl auf je einen Teller geben. Schnitzel im Mehl wenden, durch das Ei ziehen und mit den Paniermehl panieren. 1 EL Öl in einer Pfanne erhitzen. Schnitzel darin ca. 2-3 Min. je Seite anbraten. Dann Schnitzel auf Küchenpapier legen, damit das Fett abtropfen kann.</p>",
+      "instructions": "Paniermehl mit Zitronenabrieb vermischen. 1 Ei verquirlen, Paniermehl und 2 EL Mehl auf je einen Teller geben. Schnitzel im Mehl wenden, durch das Ei ziehen und mit den Paniermehl panieren. 1 EL Öl in einer Pfanne erhitzen. Schnitzel darin ca. 2-3 Min. je Seite anbraten. Dann Schnitzel auf Küchenpapier legen, damit das Fett abtropfen kann.",
+      "timers": [
+        {
+          "name": "Das Schnitzel von jeder Seite anbraten",
+          "duration": "PT03M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54f82efd6ced6e83388b456d/step_556ef8db6ae78.jpg",
+          "caption": "Das panierte Schnitzel anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1de2f8b25ef93e8b456b",
+        "556c5f24fd2cb97b4d8b4567",
+        "554b3354fd2cb9ba598b456e",
+        "555dc1a9fd2cb944758b4569",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Die Pfanne mit 1 TL Butter erneut auf den Herd stellen Knoblauch darin einige Sekunden anbraten. Petersilie hinzufügen, mit Salz und Pfeffer abschmecken und vom Herd ziehen. Topinambur und Kartoffeln abgießen und kurz ausdampfen lassen. Dann Milch und Muskatnuss hinzugeben und mit einem Kartoffelstampfer zu einer cremigen, gleichmäßigen Masse verarbeiten. Ebenfalls mit Salz und Pfeffer abschmecken.",
+      "instructionsHTML": "<p>Die Pfanne mit 1 TL Butter erneut auf den Herd stellen Knoblauch darin einige Sekunden anbraten. Petersilie hinzufügen, mit Salz und Pfeffer abschmecken und vom Herd ziehen. Topinambur und Kartoffeln abgießen und kurz ausdampfen lassen. Dann Milch und Muskatnuss hinzugeben und mit einem Kartoffelstampfer zu einer cremigen, gleichmäßigen Masse verarbeiten. Ebenfalls mit Salz und Pfeffer abschmecken.</p>",
+      "instructions": "Die Pfanne mit 1 TL Butter erneut auf den Herd stellen Knoblauch darin einige Sekunden anbraten. Petersilie hinzufügen, mit Salz und Pfeffer abschmecken und vom Herd ziehen. Topinambur und Kartoffeln abgießen und kurz ausdampfen lassen. Dann Milch und Muskatnuss hinzugeben und mit einem Kartoffelstampfer zu einer cremigen, gleichmäßigen Masse verarbeiten. Ebenfalls mit Salz und Pfeffer abschmecken.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567",
+        "554b34b64dab71aa058b4573",
+        "5566f045fd2cb952018b456b",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573",
+        "554b268ffd2cb983608b4568"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Püree auf Tellern verteilen, mit Knoblauch-Petersilien-Butter beträufeln und mit Salat, Schnitzel, Preiselbeeren und Zitrone genießen",
+      "instructionsHTML": "<p>Püree auf Tellern verteilen, mit Knoblauch-Petersilien-Butter beträufeln und mit Salat, Schnitzel, Preiselbeeren und Zitrone genießen</p>",
+      "instructions": "Püree auf Tellern verteilen, mit Knoblauch-Petersilien-Butter beträufeln und mit Salat, Schnitzel, Preiselbeeren und Zitrone genießen",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.1,
+  "ratingsCount": 1129,
+  "favoritesCount": 326,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/schnitzel-wiener-art-54f82efd6ced6e83388b456d",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

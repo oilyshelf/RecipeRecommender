@@ -1,0 +1,938 @@
+{
+  "country": "DE",
+  "id": "54db21796ced6e8b0d8b4569",
+  "name": "Gebackene Jamaikanische Kochbanane",
+  "seoName": null,
+  "category": null,
+  "slug": "gebackene-jamaikanische-kochbanane",
+  "headline": "mit Regenbogen-Kokosmilch-Couscous",
+  "description": "Keine Angst, die Kochbanane ist nicht schlecht! Sie muss schwarz und etwas weich sein, erst dann ist sie reif und kann beim Frittieren ihren süßlichen Geschmack entfalten. Kochbananen, auch Plantain genannt, kommen in vielen afrikanischen und südamerikanischen Ländern täglich auf den Tisch.",
+  "descriptionHTML": "<p>Keine Angst, die Kochbanane ist nicht schlecht! Sie muss schwarz und etwas weich sein, erst dann ist sie reif und kann beim Frittieren ihren süßlichen Geschmack entfalten. Kochbananen, auch Plantain genannt, kommen in vielen afrikanischen und südamerikanischen Ländern täglich auf den Tisch.</p>",
+  "descriptionMarkdown": "Keine Angst, die Kochbanane ist nicht schlecht! Sie muss schwarz und etwas weich sein, erst dann ist sie reif und kann beim Frittieren ihren süßlichen Geschmack entfalten. Kochbananen, auch Plantain genannt, kommen in vielen afrikanischen und südamerikanischen Ländern täglich auf den Tisch.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-02-11T09:31:37+00:00",
+  "updatedAt": "2017-02-23T21:57:28+00:00",
+  "link": "https://hellofresh.com/recipes/54db21796ced6e8b0d8b4569",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/54db21796ced6e8b0d8b4569.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/54db21796ced6e8b0d8b4569.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2615,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 625,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 21,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 89,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 15,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 17,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b7e84fd2cb911618b456a",
+      "type": "rote paprika",
+      "name": "rote Paprika",
+      "slug": "rote-paprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7e84fd2cb911618b456a.png",
+      "usage": 229,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf7",
+        "type": "paprika",
+        "name": "Paprika",
+        "slug": "paprika",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf7-e6b2d1a6.png",
+        "usageByCountry": {
+          "AT": 581,
+          "AU": 50,
+          "BE": 613,
+          "CA": 64,
+          "CH": 21,
+          "DE": 536,
+          "ER": 7,
+          "FR": 166,
+          "GB": 539,
+          "LU": 769,
+          "NL": 388,
+          "NZ": 6,
+          "ML": 38,
+          "US": 79
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da357fd2cb943758b4567",
+      "type": "thymian",
+      "name": "Thymian",
+      "slug": "thymian",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da357fd2cb943758b4567.png",
+      "usage": 245,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc43",
+        "type": "thyme",
+        "name": "Thymian",
+        "slug": "thymian",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc43-d0cc4199.png",
+        "usageByCountry": {
+          "AT": 252,
+          "AU": 94,
+          "BE": 243,
+          "CA": 96,
+          "CH": 34,
+          "DE": 252,
+          "ER": 0,
+          "FR": 73,
+          "GB": 187,
+          "LU": 346,
+          "NL": 288,
+          "NZ": 38,
+          "ML": 213,
+          "US": 322
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b73864dab71150d8b456e",
+      "type": "kidneybohnen",
+      "name": "Kidneybohnen",
+      "slug": "kidneybohnen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b73864dab71150d8b456e.png",
+      "usage": 66,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4c",
+        "type": "beans",
+        "name": "Bohnen",
+        "slug": "bohnen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4c-15ab1383.png",
+        "usageByCountry": {
+          "AT": 255,
+          "AU": 115,
+          "BE": 77,
+          "CA": 78,
+          "CH": 43,
+          "DE": 231,
+          "ER": 3,
+          "FR": 28,
+          "GB": 241,
+          "LU": 95,
+          "NL": 51,
+          "NZ": 28,
+          "ML": 153,
+          "US": 198
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dbbe8fd2cb9c9768b4567",
+      "type": "kokosmilch",
+      "name": "Kokosmilch",
+      "slug": "kokosmilch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dbbe8fd2cb9c9768b4567.png",
+      "usage": 322,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb7e",
+        "type": "coconut-milk",
+        "name": "Kokosmilch",
+        "slug": "kokosmilch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb7e-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 374,
+          "AU": 60,
+          "BE": 137,
+          "CA": 27,
+          "CH": 66,
+          "DE": 322,
+          "ER": 0,
+          "FR": 30,
+          "GB": 115,
+          "LU": 157,
+          "NL": 160,
+          "NZ": 24,
+          "ML": 0,
+          "US": 22
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555358b3f8b25e89038b456b",
+      "type": "couscous",
+      "name": "Couscous",
+      "slug": "couscous",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555358b3f8b25e89038b456b.png",
+      "usage": 80,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb84",
+        "type": "couscous",
+        "name": "Couscous",
+        "slug": "couscous",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb84-0e0812fe.png",
+        "usageByCountry": {
+          "AT": 75,
+          "AU": 72,
+          "BE": 148,
+          "CA": 55,
+          "CH": 22,
+          "DE": 80,
+          "ER": 8,
+          "FR": 44,
+          "GB": 90,
+          "LU": 177,
+          "NL": 185,
+          "NZ": 17,
+          "ML": 2,
+          "US": 188
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c4da4fd2cb9f1488b4569",
+      "type": "kochbanane",
+      "name": "Kochbanane",
+      "slug": "kochbanane",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c4da4fd2cb9f1488b4569.png",
+      "usage": 4,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc0e",
+        "type": "plantain",
+        "name": "Wegerich",
+        "slug": "wegerich",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc0e-4f7fae7c.png",
+        "usageByCountry": {
+          "AT": 4,
+          "AU": 0,
+          "BE": 1,
+          "CA": 1,
+          "CH": 1,
+          "DE": 4,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 0,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 0,
+          "US": 2
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555357a3f8b25e89038b456a",
+      "type": "limette",
+      "name": "Limette",
+      "slug": "limette",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555357a3f8b25e89038b456a.png",
+      "usage": 350,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc8",
+        "type": "lime",
+        "name": "Limette",
+        "slug": "limette",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc8-7cbce945.png",
+        "usageByCountry": {
+          "AT": 383,
+          "AU": 227,
+          "BE": 132,
+          "CA": 137,
+          "CH": 82,
+          "DE": 351,
+          "ER": 61,
+          "FR": 68,
+          "GB": 407,
+          "LU": 224,
+          "NL": 155,
+          "NZ": 63,
+          "ML": 87,
+          "US": 604
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27e6fd2cb983608b4569",
+      "type": "fruhlingszwiebeln",
+      "name": "Frühlingszwiebel",
+      "slug": "fruhlingszwiebeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27e6fd2cb983608b4569.png",
+      "usage": 514,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc35",
+        "type": "spring-onion",
+        "name": "Frühlingszwiebel",
+        "slug": "fruhlingszwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc35-03c06826.png",
+        "usageByCountry": {
+          "AT": 575,
+          "AU": 0,
+          "BE": 15,
+          "CA": 0,
+          "CH": 113,
+          "DE": 514,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 421,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536a",
+      "type": "plasticwrap",
+      "name": "Frischhaltefolie"
+    }
+  ],
+  "tags": [],
+  "cuisines": [],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b7e84fd2cb911618b456a",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555da357fd2cb943758b4567",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b73864dab71150d8b456e",
+          "amount": 0.5,
+          "unit": "Dose"
+        },
+        {
+          "id": "555dbbe8fd2cb9c9768b4567",
+          "amount": 125,
+          "unit": "ml"
+        },
+        {
+          "id": "555358b3f8b25e89038b456b",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "556c4da4fd2cb9f1488b4569",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555357a3f8b25e89038b456a",
+          "amount": 0.5,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": 3,
+          "unit": "Esslöffel"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b7e84fd2cb911618b456a",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555da357fd2cb943758b4567",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b73864dab71150d8b456e",
+          "amount": 1,
+          "unit": "Dose"
+        },
+        {
+          "id": "555dbbe8fd2cb9c9768b4567",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "id": "555358b3f8b25e89038b456b",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "556c4da4fd2cb9f1488b4569",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555357a3f8b25e89038b456a",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": 6,
+          "unit": "Esslöffel"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Paprika und Tomate waschen, entkernen und fein würfeln. Thymian waschen, trocken schütteln und die Blätter abstreifen. Kidneybohnen abgießen und mit kaltem Wasser abbrausen.",
+      "instructionsHTML": "<p>Paprika und Tomate waschen, entkernen und fein würfeln. Thymian waschen, trocken schütteln und die Blätter abstreifen. Kidneybohnen abgießen und mit kaltem Wasser abbrausen.</p>",
+      "instructions": "Paprika und Tomate waschen, entkernen und fein würfeln. Thymian waschen, trocken schütteln und die Blätter abstreifen. Kidneybohnen abgießen und mit kaltem Wasser abbrausen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54db21796ced6e8b0d8b4569/step_556c554d8339e.jpg",
+          "caption": "Paprika und Tomate würfeln"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b7e84fd2cb911618b456a",
+        "554b2621fd2cb99c598b4576",
+        "555da357fd2cb943758b4567",
+        "554b73864dab71150d8b456e"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "1⁄2 EL Öl in einem Topf erwärmen. Paprika und Tomate zugeben und ca. 3 Min. dünsten. Thymian hinzufügen und ca. 1 weitere Min. braten. Mit Kokosmilch und 50 ml Wasser ablöschen und ca. 2 weitere Min. einkochen lassen. Mit Salz und Pfeffer würzen.",
+      "instructionsHTML": "<p>1⁄2 EL Öl in einem Topf erwärmen. Paprika und Tomate zugeben und ca. 3 Min. dünsten. Thymian hinzufügen und ca. 1 weitere Min. braten. Mit Kokosmilch und 50 ml Wasser ablöschen und ca. 2 weitere Min. einkochen lassen. Mit Salz und Pfeffer würzen.</p>",
+      "instructions": "1⁄2 EL Öl in einem Topf erwärmen. Paprika und Tomate zugeben und ca. 3 Min. dünsten. Thymian hinzufügen und ca. 1 weitere Min. braten. Mit Kokosmilch und 50 ml Wasser ablöschen und ca. 2 weitere Min. einkochen lassen. Mit Salz und Pfeffer würzen.",
+      "timers": [
+        {
+          "name": "Paprika und Tomate dünsten",
+          "duration": "PT3M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        },
+        {
+          "name": "Thymian eine weiter Minute andünsten",
+          "duration": "PT1M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        },
+        {
+          "name": "Mit Kokosmilch und Wasser ablöschen und 2 weiter Minuten kochen",
+          "duration": "PT2M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54db21796ced6e8b0d8b4569/step_556c554d99759.jpg",
+          "caption": "Kokosmilch würzen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b7e84fd2cb911618b456a",
+        "554b2621fd2cb99c598b4576",
+        "555da357fd2cb943758b4567",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Topf von der Herdplatte ziehen. Kidneybohnen und Couscous zugeben. Den Topf straff mit Frischhaltefolie bedecken und ca. 10 Min. ziehen lassen, bis der Couscous die Flüssigkeit komplett aufgesogen hat.",
+      "instructionsHTML": "<p>Topf von der Herdplatte ziehen. Kidneybohnen und Couscous zugeben. Den Topf straff mit Frischhaltefolie bedecken und ca. 10 Min. ziehen lassen, bis der Couscous die Flüssigkeit komplett aufgesogen hat.</p>",
+      "instructions": "Topf von der Herdplatte ziehen. Kidneybohnen und Couscous zugeben. Den Topf straff mit Frischhaltefolie bedecken und ca. 10 Min. ziehen lassen, bis der Couscous die Flüssigkeit komplett aufgesogen hat.",
+      "timers": [
+        {
+          "name": "10 Minuten ziehen lassen",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b73864dab71150d8b456e",
+        "555358b3f8b25e89038b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536a"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Kochbanane schälen und in feine Scheiben schneiden.",
+      "instructionsHTML": "<p>Kochbanane schälen und in feine Scheiben schneiden.</p>",
+      "instructions": "Kochbanane schälen und in feine Scheiben schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54db21796ced6e8b0d8b4569/step_556c554dac8e4.jpg",
+          "caption": "Die Kochbanane schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556c4da4fd2cb9f1488b4569"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Öl in einer großen Pfanne erhitzen. Kochbanane darin schubweise ausbraten, bis sie weich und bräunlich ist. Nach Geschmack mit Salz bestreuen.",
+      "instructionsHTML": "<p>Öl in einer großen Pfanne erhitzen. Kochbanane darin schubweise ausbraten, bis sie weich und bräunlich ist. Nach Geschmack mit Salz bestreuen.</p>",
+      "instructions": "Öl in einer großen Pfanne erhitzen. Kochbanane darin schubweise ausbraten, bis sie weich und bräunlich ist. Nach Geschmack mit Salz bestreuen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556c4da4fd2cb9f1488b4569"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Halbe Limette fein abreiben und anschließend entsaften. Frühlingszwiebeln waschen, welkes Grün entfernen und in feine Ringe schneiden.",
+      "instructionsHTML": "<p>Halbe Limette fein abreiben und anschließend entsaften. Frühlingszwiebeln waschen, welkes Grün entfernen und in feine Ringe schneiden.</p>",
+      "instructions": "Halbe Limette fein abreiben und anschließend entsaften. Frühlingszwiebeln waschen, welkes Grün entfernen und in feine Ringe schneiden.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "555357a3f8b25e89038b456a",
+        "554b27e6fd2cb983608b4569"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Couscous nach Ziehzeit mit einer Gabel auflockern. Limettensaft und (nach Geschmack) etwas Limettenabrieb mit Frühlingszwiebeln unterheben.",
+      "instructionsHTML": "<p>Couscous nach Ziehzeit mit einer Gabel auflockern. Limettensaft und (nach Geschmack) etwas Limettenabrieb mit Frühlingszwiebeln unterheben.</p>",
+      "instructions": "Couscous nach Ziehzeit mit einer Gabel auflockern. Limettensaft und (nach Geschmack) etwas Limettenabrieb mit Frühlingszwiebeln unterheben.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54db21796ced6e8b0d8b4569/step_556c554dbafcd.jpg",
+          "caption": "Den Couscous auflockern"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555358b3f8b25e89038b456b",
+        "554b27e6fd2cb983608b4569"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 8,
+      "instructionsMarkdown": "Couscous auf Tellern verteilen, Kochbanane darauf anrichten und genießen.",
+      "instructionsHTML": "<p>Couscous auf Tellern verteilen, Kochbanane darauf anrichten und genießen.</p>",
+      "instructions": "Couscous auf Tellern verteilen, Kochbanane darauf anrichten und genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 2.8,
+  "ratingsCount": 59,
+  "favoritesCount": 69,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/gebackene-jamaikanische-kochbanane-54db21796ced6e8b0d8b4569",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

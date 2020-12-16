@@ -1,0 +1,1020 @@
+{
+  "country": "DE",
+  "id": "58218cea5ca153468d42df62",
+  "name": "Mit Apfel-Couscous gefüllter Kürbis",
+  "seoName": null,
+  "category": null,
+  "slug": "mit-apfel-couscous-gefullter-kur",
+  "headline": "dazu Ziegenfrischkäse-Dip",
+  "description": "Winterliche Gewürze und der warme Apfel geben einen schönen Vorgeschmack auf Weihnachten. Im Kontrast zum süßen Obst steht der würzige Ziegenkäse. Lass es dir schmecken!",
+  "descriptionHTML": "<p>Winterliche Gewürze und der warme Apfel geben einen schönen Vorgeschmack auf Weihnachten. Im Kontrast zum süßen Obst steht der würzige Ziegenkäse. Lass es dir schmecken!</p>",
+  "descriptionMarkdown": "Winterliche Gewürze und der warme Apfel geben einen schönen Vorgeschmack auf Weihnachten. Im Kontrast zum süßen Obst steht der würzige Ziegenkäse. Lass es dir schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT40M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-11-08T08:29:28+00:00",
+  "updatedAt": "2017-04-20T09:39:25+00:00",
+  "link": "https://hellofresh.com/recipes/58218cea5ca153468d42df62",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/mit-apfel-couscous-gefullter-kurbis-24ca73c9.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/mit-apfel-couscous-gefullter-kur-6e5048b9.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2322,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 555,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 23,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 63,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 22,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "55cb734f4dab71420d8b4568",
+      "type": "hokkaido-kurbis",
+      "name": "Kürbis (Hokkaido)",
+      "slug": "hokkaido-kurbis",
+      "description": null,
+      "internalName": "Hokkaido-Kürbis",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/55cb734f4dab71420d8b4568-10fc6d69.png",
+      "usage": 56,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc15",
+        "type": "pumpkin",
+        "name": "Kürbis",
+        "slug": "kurbis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc15-a697c3c3.png",
+        "usageByCountry": {
+          "AT": 70,
+          "AU": 136,
+          "BE": 9,
+          "CA": 0,
+          "CH": 9,
+          "DE": 62,
+          "ER": 0,
+          "FR": 4,
+          "GB": 0,
+          "LU": 10,
+          "NL": 9,
+          "NZ": 35,
+          "ML": 1,
+          "US": 1
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556dc0c74dab71564b8b4567",
+      "type": "kardamomkapseln",
+      "name": "Kardamomkapseln",
+      "slug": "kardamomkapseln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556dc0c74dab71564b8b4567.png",
+      "usage": 10,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb61",
+        "type": "cardamom",
+        "name": "Kardamom",
+        "slug": "kardamom",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb61-df928a2e.png",
+        "usageByCountry": {
+          "AT": 13,
+          "AU": 0,
+          "BE": 18,
+          "CA": 0,
+          "CH": 4,
+          "DE": 10,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 9,
+          "NL": 20,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55cb7fc0fd2cb945488b4567",
+      "type": "piment, gemahlen",
+      "name": "gemahlener Piment",
+      "slug": "piment-gemahlen",
+      "description": null,
+      "internalName": "Piment, gemahlen",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55cb7fc0fd2cb945488b4567-6b5b0c0b.png",
+      "usage": 18,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555358b3f8b25e89038b456b",
+      "type": "couscous",
+      "name": "Couscous",
+      "slug": "couscous",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555358b3f8b25e89038b456b.png",
+      "usage": 80,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb84",
+        "type": "couscous",
+        "name": "Couscous",
+        "slug": "couscous",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb84-0e0812fe.png",
+        "usageByCountry": {
+          "AT": 75,
+          "AU": 72,
+          "BE": 148,
+          "CA": 55,
+          "CH": 22,
+          "DE": 80,
+          "ER": 8,
+          "FR": 44,
+          "GB": 90,
+          "LU": 177,
+          "NL": 185,
+          "NZ": 17,
+          "ML": 2,
+          "US": 188
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556827b94dab71b7178b456d",
+      "type": "apfel",
+      "name": "Apfel",
+      "slug": "apfel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556827b94dab71b7178b456d.png",
+      "usage": 91,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb35",
+        "type": "apple",
+        "name": "Apfel",
+        "slug": "apfel",
+        "description": null,
+        "priority": 0,
+        "iconLink": null,
+        "usageByCountry": {
+          "AT": 100,
+          "AU": 37,
+          "BE": 144,
+          "CA": 40,
+          "CH": 23,
+          "DE": 96,
+          "ER": 5,
+          "FR": 15,
+          "GB": 57,
+          "LU": 109,
+          "NL": 211,
+          "NZ": 10,
+          "ML": 6,
+          "US": 89
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b26d2f8b25ef53e8b4572",
+      "type": "mandeln",
+      "name": "Mandeln",
+      "slug": "mandeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b26d2f8b25ef53e8b4572.png",
+      "usage": 63,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fb",
+          "type": "nuts",
+          "name": "Schalenfrüchte",
+          "slug": "schalenfruchte",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+          "usage": 300
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d792df8b25e27728b4568",
+      "type": "cranberrys",
+      "name": "getrocknete Cranberrys",
+      "slug": "cranberrys",
+      "description": null,
+      "internalName": "getrocknete Cranberries",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/556d792df8b25e27728b4568-b6a8b2c6.png",
+      "usage": 48,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb90",
+        "type": "dried-fruit",
+        "name": "Trockenfrüchte",
+        "slug": "trockenfruchte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb90-8edcc2cc.png",
+        "usageByCountry": {
+          "AT": 91,
+          "AU": 6,
+          "BE": 182,
+          "CA": 11,
+          "CH": 30,
+          "DE": 85,
+          "ER": 0,
+          "FR": 14,
+          "GB": 54,
+          "LU": 152,
+          "NL": 206,
+          "NZ": 0,
+          "ML": 8,
+          "US": 51
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b32d1f8b25ef93e8b456e",
+      "type": "basilikum",
+      "name": "Basilikum",
+      "slug": "basilikum",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b32d1f8b25ef93e8b456e.png",
+      "usage": 428,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb45",
+        "type": "basil",
+        "name": "Basilikum",
+        "slug": "basilikum",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb45-a1061353.png",
+        "usageByCountry": {
+          "AT": 475,
+          "AU": 94,
+          "BE": 150,
+          "CA": 72,
+          "CH": 92,
+          "DE": 459,
+          "ER": 0,
+          "FR": 44,
+          "GB": 167,
+          "LU": 168,
+          "NL": 191,
+          "NZ": 14,
+          "ML": 0,
+          "US": 172
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "568d1d4e4dab71c24d8b4567",
+      "type": "ziegenfrischkäse",
+      "name": "Ziegenfrischkäse",
+      "slug": "ziegenfrischkase",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/568d1d4e4dab71c24d8b4567.png",
+      "usage": 23,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535a9af8b25e78738b4568",
+      "type": "joghurt",
+      "name": "Joghurt",
+      "slug": "joghurt",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55535a9af8b25e78738b4568.png",
+      "usage": 234,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc57",
+        "type": "yoghurt",
+        "name": "Jo­ghurt",
+        "slug": "joghurt",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc57-825533d1.png",
+        "usageByCountry": {
+          "AT": 464,
+          "AU": 272,
+          "BE": 368,
+          "CA": 43,
+          "CH": 101,
+          "DE": 434,
+          "ER": 0,
+          "FR": 31,
+          "GB": 207,
+          "LU": 341,
+          "NL": 408,
+          "NZ": 78,
+          "ML": 8,
+          "US": 48
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3639f8b25eef3e8b4575",
+      "type": "gemusebruhe-home",
+      "name": "Gemüsebrühe*",
+      "slug": "gemusebruhe",
+      "description": null,
+      "internalName": "Gemüsebrühe home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3639f8b25eef3e8b4575.png",
+      "usage": 441,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "type": "nuts",
+      "name": "Schalenfrüchte",
+      "slug": "schalenfruchte",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "usage": 300
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [],
+  "tags": [],
+  "cuisines": [],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "55cb734f4dab71420d8b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556dc0c74dab71564b8b4567",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "55cb7fc0fd2cb945488b4567",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "555358b3f8b25e89038b456b",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "556827b94dab71b7178b456d",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b26d2f8b25ef53e8b4572",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "556d792df8b25e27728b4568",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b32d1f8b25ef93e8b456e",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "568d1d4e4dab71c24d8b4567",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "55535a9af8b25e78738b4568",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b3639f8b25eef3e8b4575",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Obst, Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.\n\nKürbis (mit Schale – diese ist nämlich essbar!) halbieren und mit einem Löffel Kerne entfernen, mit Salz und Pfeffer würzen, dann mit der Schnittseite nach unten auf ein mit Backpapier belegtes Backblech legen und auf der mittleren Schiene im Backofen 20-25 Min. backen, bis das Fruchtfleisch weich ist.",
+      "instructionsHTML": "<p>Vorbereitung: Obst, Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.</p>\n<p>Kürbis (mit Schale – diese ist nämlich essbar!) halbieren und mit einem Löffel Kerne entfernen, mit Salz und Pfeffer würzen, dann mit der Schnittseite nach unten auf ein mit Backpapier belegtes Backblech legen und auf der mittleren Schiene im Backofen 20-25 Min. backen, bis das Fruchtfleisch weich ist.</p>",
+      "instructions": "Vorbereitung: Obst, Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.\nKürbis (mit Schale – diese ist nämlich essbar!) halbieren und mit einem Löffel Kerne entfernen, mit Salz und Pfeffer würzen, dann mit der Schnittseite nach unten auf ein mit Backpapier belegtes Backblech legen und auf der mittleren Schiene im Backofen 20-25 Min. backen, bis das Fruchtfleisch weich ist.",
+      "timers": [
+        {
+          "name": "Backofen vorheizen",
+          "duration": "PT20M",
+          "temperature": 180,
+          "temperatureUnit": "C",
+          "ovenMode": "PreHeating"
+        },
+        {
+          "name": "Kürbis backen",
+          "duration": "PT20M",
+          "temperature": 180,
+          "temperatureUnit": "C",
+          "ovenMode": "HotAir"
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58218ce85ca153468d42df61-0-0-9bcb134d.jpg",
+          "caption": "Mit einem Löffel Kerne herausnehmen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55cb734f4dab71420d8b4568",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Währenddessen: 300 ml heiße Gemüsebrühe vorbereiten, Gewürzmischung einrühren.  In einer großen Schüssel Couscous damit übergießen und ca. 10 Min. ziehen lassen. Dann salzen.",
+      "instructionsHTML": "<p>Währenddessen: 300 ml heiße Gemüsebrühe vorbereiten, Gewürzmischung einrühren.  In einer großen Schüssel Couscous damit übergießen und ca. 10 Min. ziehen lassen. Dann salzen.</p>",
+      "instructions": "Währenddessen: 300 ml heiße Gemüsebrühe vorbereiten, Gewürzmischung einrühren. In einer großen Schüssel Couscous damit übergießen und ca. 10 Min. ziehen lassen. Dann salzen.",
+      "timers": [
+        {
+          "name": "Couscous ziehen lassen",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58218ce85ca153468d42df61-1-0-9e894265.jpg",
+          "caption": "Couscous mit Gemüsebrühe übergießen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556dc0c74dab71564b8b4567",
+        "55cb7fc0fd2cb945488b4567",
+        "555358b3f8b25e89038b456b",
+        "554b1c284dab71a9058b456b",
+        "554b3639f8b25eef3e8b4575"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Apfel vierteln, Kerngehäuse entfernen und in Spalten schneiden (evtl nochmal quer halbieren). Mandeln und Cranberrys grob hacken. Blätter vom Basilikum abzupfen und grob hacken.",
+      "instructionsHTML": "<p>Apfel vierteln, Kerngehäuse entfernen und in Spalten schneiden (evtl nochmal quer halbieren). Mandeln und Cranberrys grob hacken. Blätter vom Basilikum abzupfen und grob hacken.</p>",
+      "instructions": "Apfel vierteln, Kerngehäuse entfernen und in Spalten schneiden (evtl nochmal quer halbieren). Mandeln und Cranberrys grob hacken. Blätter vom Basilikum abzupfen und grob hacken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58218ce85ca153468d42df61-2-0-6745ac45.jpg",
+          "caption": "Apfel vierteln"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556827b94dab71b7178b456d",
+        "554b26d2f8b25ef53e8b4572",
+        "556d792df8b25e27728b4568",
+        "554b32d1f8b25ef93e8b456e"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer großen Pfanne 1 TL Butter erhitzen, bei mittlerer Hitze Apfelspalten darin ca. 4 Min. anbraten. In der letzten Minute gehackte Cranberrys zufügen.",
+      "instructionsHTML": "<p>In einer großen Pfanne 1 TL Butter erhitzen, bei mittlerer Hitze Apfelspalten darin ca. 4 Min. anbraten. In der letzten Minute gehackte Cranberrys zufügen.</p>",
+      "instructions": "In einer großen Pfanne 1 TL Butter erhitzen, bei mittlerer Hitze Apfelspalten darin ca. 4 Min. anbraten. In der letzten Minute gehackte Cranberrys zufügen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/58218ce85ca153468d42df61-3-0-5690ced1.jpg",
+          "caption": "Cranberrys zufügen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einer kleinen Schüssel Ziegenfrischkäse und Joghurt verrühren.",
+      "instructionsHTML": "<p>In einer kleinen Schüssel Ziegenfrischkäse und Joghurt verrühren.</p>",
+      "instructions": "In einer kleinen Schüssel Ziegenfrischkäse und Joghurt verrühren.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "568d1d4e4dab71c24d8b4567",
+        "55535a9af8b25e78738b4568"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Gehackte Mandeln, Cranberrys-Apfel-Mischung und einen Teil des Basilikums unter den Couscous heben. Diese Mischung in die gebackenen Kürbishälften füllen. Mit restlichem Basilikum bestreuen und zusammen mit Ziegenfrischkäse-Joghurt-Dip genießen.",
+      "instructionsHTML": "<p>Gehackte Mandeln, Cranberrys-Apfel-Mischung und einen Teil des Basilikums unter den Couscous heben. Diese Mischung in die gebackenen Kürbishälften füllen. Mit restlichem Basilikum bestreuen und zusammen mit Ziegenfrischkäse-Joghurt-Dip genießen.</p>",
+      "instructions": "Gehackte Mandeln, Cranberrys-Apfel-Mischung und einen Teil des Basilikums unter den Couscous heben. Diese Mischung in die gebackenen Kürbishälften füllen. Mit restlichem Basilikum bestreuen und zusammen mit Ziegenfrischkäse-Joghurt-Dip genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3,
+  "ratingsCount": 408,
+  "favoritesCount": 408,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/mit-apfel-couscous-gefullter-kur-58218cea5ca153468d42df62",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

@@ -1,0 +1,903 @@
+{
+  "country": "DE",
+  "id": "5592cc1df8b25eb2708b4567",
+  "name": "Köstliches Pastrami-Avocado-Sandwich",
+  "seoName": null,
+  "category": null,
+  "slug": "kostliches-pastrami-avocado-sandwich",
+  "headline": "mit Dijon-Schmand-Crème und Süßkartoffel-Wedges",
+  "description": "Ein Sandwich hat mit einem schlichten belegten Brot, wie zu Schulzeiten in der Pause, herzlich wenig zu tun, wie Du gleich feststellen wirst. Ein Sandwich wird mit mehreren Schichten, die geschmacklich harmonisieren, liebevoll belegt und ist ein echtes Gourmet-Essen. Guten Appetit!",
+  "descriptionHTML": "<p>Ein Sandwich hat mit einem schlichten belegten Brot, wie zu Schulzeiten in der Pause, herzlich wenig zu tun, wie Du gleich feststellen wirst. Ein Sandwich wird mit mehreren Schichten, die geschmacklich harmonisieren, liebevoll belegt und ist ein echtes Gourmet-Essen. Guten Appetit!</p>",
+  "descriptionMarkdown": "Ein Sandwich hat mit einem schlichten belegten Brot, wie zu Schulzeiten in der Pause, herzlich wenig zu tun, wie Du gleich feststellen wirst. Ein Sandwich wird mit mehreren Schichten, die geschmacklich harmonisieren, liebevoll belegt und ist ein echtes Gourmet-Essen. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-06-30T17:04:29+00:00",
+  "updatedAt": "2017-04-25T11:57:15+00:00",
+  "link": "https://hellofresh.com/recipes/5592cc1df8b25eb2708b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/5592cc1df8b25eb2708b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/5592cc1df8b25eb2708b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3054.32,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 730,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 32,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 83,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 14,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b1a294dab71a6058b4570",
+      "type": "suszkartoffeln",
+      "name": "Süßkartoffel",
+      "slug": "suszkartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1a294dab71a6058b4570.png",
+      "usage": 226,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c2d2ff8b25e9a658b4567",
+      "type": "mini-fladenbrot",
+      "name": "Mini-Fladenbrot",
+      "slug": "mini-fladenbrot",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c2d2ff8b25e9a658b4567.png",
+      "usage": 27,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        },
+        {
+          "id": "57962a07b7e8697d4b3052fe",
+          "type": "sesame",
+          "name": "Sesam",
+          "slug": "sesam",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+          "usage": 175
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566ebf34dab71e6078b456b",
+      "type": "salatherz",
+      "name": "Salatherz",
+      "slug": "salatherz",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566ebf34dab71e6078b456b.png",
+      "usage": 256,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555357a3f8b25e89038b456a",
+      "type": "limette",
+      "name": "Limette",
+      "slug": "limette",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555357a3f8b25e89038b456a.png",
+      "usage": 350,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc8",
+        "type": "lime",
+        "name": "Limette",
+        "slug": "limette",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc8-7cbce945.png",
+        "usageByCountry": {
+          "AT": 383,
+          "AU": 227,
+          "BE": 132,
+          "CA": 137,
+          "CH": 82,
+          "DE": 351,
+          "ER": 61,
+          "FR": 68,
+          "GB": 407,
+          "LU": 224,
+          "NL": 155,
+          "NZ": 63,
+          "ML": 87,
+          "US": 604
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3268f8b25eef3e8b4574",
+      "type": "paprika antipasti",
+      "name": "Paprika Antipasti",
+      "slug": "paprika-antipasti",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": null,
+      "usage": 18,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf7",
+        "type": "paprika",
+        "name": "Paprika",
+        "slug": "paprika",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf7-e6b2d1a6.png",
+        "usageByCountry": {
+          "AT": 581,
+          "AU": 50,
+          "BE": 613,
+          "CA": 64,
+          "CH": 21,
+          "DE": 536,
+          "ER": 7,
+          "FR": 166,
+          "GB": 539,
+          "LU": 769,
+          "NL": 388,
+          "NZ": 6,
+          "ML": 38,
+          "US": 79
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b73b14dab71160d8b456a",
+      "type": "avocado",
+      "name": "Avocado",
+      "slug": "avocado",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/554b73b14dab71160d8b456a-0d84328a.png",
+      "usage": 181,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb3c",
+        "type": "avocado",
+        "name": "Avocado",
+        "slug": "avocado",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb3c-5ad65fb5.png",
+        "usageByCountry": {
+          "AT": 193,
+          "AU": 80,
+          "BE": 73,
+          "CA": 51,
+          "CH": 45,
+          "DE": 181,
+          "ER": 0,
+          "FR": 6,
+          "GB": 58,
+          "LU": 92,
+          "NL": 81,
+          "NZ": 21,
+          "ML": 14,
+          "US": 152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7480fd2cb911618b4568",
+      "type": "schmand",
+      "name": "Schmand",
+      "slug": "schmand",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b7480fd2cb911618b4568-52e9ad6e.png",
+      "usage": 248,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d7ad34dab7176498b4568",
+      "type": "dijon senf",
+      "name": "Dijon Senf",
+      "slug": "dijon-senf",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d7ad34dab7176498b4568.png",
+      "usage": 32,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fd",
+          "type": "mustard",
+          "name": "Senf",
+          "slug": "senf",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+          "usage": 158
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbdf",
+        "type": "mustard",
+        "name": "Senf",
+        "slug": "senf",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbdf-bd28b3fe.png",
+        "usageByCountry": {
+          "AT": 411,
+          "AU": 149,
+          "BE": 262,
+          "CA": 135,
+          "CH": 75,
+          "DE": 361,
+          "ER": 7,
+          "FR": 68,
+          "GB": 159,
+          "LU": 354,
+          "NL": 295,
+          "NZ": 42,
+          "ML": 1,
+          "US": 175
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "559539befd2cb9fa228b4567",
+      "type": "pastrami",
+      "name": "Pastrami",
+      "slug": "pastrami",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/559539befd2cb9fa228b4567-5e0cd32e.png",
+      "usage": 1,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc28",
+        "type": "sausage",
+        "name": "Wurst",
+        "slug": "wurst",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc28-0372e034.png",
+        "usageByCountry": {
+          "AT": 61,
+          "AU": 16,
+          "BE": 38,
+          "CA": 42,
+          "CH": 58,
+          "DE": 59,
+          "ER": 1,
+          "FR": 18,
+          "GB": 80,
+          "LU": 80,
+          "NL": 62,
+          "NZ": 3,
+          "ML": 0,
+          "US": 20
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "type": "sesame",
+      "name": "Sesam",
+      "slug": "sesam",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "usage": 175
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "type": "mustard",
+      "name": "Senf",
+      "slug": "senf",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "usage": 158
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    }
+  ],
+  "tags": [],
+  "cuisines": [],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b1a294dab71a6058b4570",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556c2d2ff8b25e9a658b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "5566ebf34dab71e6078b456b",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "555357a3f8b25e89038b456a",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b3268f8b25eef3e8b4574",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "554b73b14dab71160d8b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7480fd2cb911618b4568",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "556d7ad34dab7176498b4568",
+          "amount": 1,
+          "unit": "Teelöffel"
+        },
+        {
+          "id": "559539befd2cb9fa228b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Backofen auf 220 °C Ober-/Unterhitze vorheizen.",
+      "instructionsHTML": "<p>Backofen auf 220 °C Ober-/Unterhitze vorheizen.</p>",
+      "instructions": "Backofen auf 220 °C Ober-/Unterhitze vorheizen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Süßkartoffel gut waschen, schälen und in ca. 1 cm dicke Spalten (Wedges) schneiden. In einer Schüssel mit 1 EL Öl und reichlich Salz und Pfeffer vermischen und auf einem mit Backpapier belegten Backblech verteilen. Für 20–25 Min. im Ofen knusprig werden lassen. Dabei 2- bis 3-mal wenden. 10 Min. vor Ende der Garzeit Mini-Fladenbrot mit in den Ofen geben und nach Packungsangabe aufbacken.",
+      "instructionsHTML": "<p>Süßkartoffel gut waschen, schälen und in ca. 1 cm dicke Spalten (Wedges) schneiden. In einer Schüssel mit 1 EL Öl und reichlich Salz und Pfeffer vermischen und auf einem mit Backpapier belegten Backblech verteilen. Für 20–25 Min. im Ofen knusprig werden lassen. Dabei 2- bis 3-mal wenden. 10 Min. vor Ende der Garzeit Mini-Fladenbrot mit in den Ofen geben und nach Packungsangabe aufbacken.</p>",
+      "instructions": "Süßkartoffel gut waschen, schälen und in ca. 1 cm dicke Spalten (Wedges) schneiden. In einer Schüssel mit 1 EL Öl und reichlich Salz und Pfeffer vermischen und auf einem mit Backpapier belegten Backblech verteilen. Für 20–25 Min. im Ofen knusprig werden lassen. Dabei 2- bis 3-mal wenden. 10 Min. vor Ende der Garzeit Mini-Fladenbrot mit in den Ofen geben und nach Packungsangabe aufbacken.",
+      "timers": [
+        {
+          "name": "Süßkartoffeln im Ofen",
+          "duration": "PT25M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5592cc1df8b25eb2708b4567/step_559e7af22430d.jpg",
+          "caption": "Süßkartoffeln backen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1a294dab71a6058b4570",
+        "556c2d2ff8b25e9a658b4567",
+        "554b1bf6f8b25eef3e8b4570",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305377",
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Salatherz waschen und abtropfen lassen. Schale der Limette fein abreiben, dann entsaften. Paprika waschen, Kerngehäuse entfernen und in Streifen schneiden.",
+      "instructionsHTML": "<p>Salatherz waschen und abtropfen lassen. Schale der Limette fein abreiben, dann entsaften. Paprika waschen, Kerngehäuse entfernen und in Streifen schneiden.</p>",
+      "instructions": "Salatherz waschen und abtropfen lassen. Schale der Limette fein abreiben, dann entsaften. Paprika waschen, Kerngehäuse entfernen und in Streifen schneiden.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "5566ebf34dab71e6078b456b",
+        "555357a3f8b25e89038b456a",
+        "554b3268f8b25eef3e8b4574"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Avocado in der Mitte bis zum Kern durchschneiden, dann vorsichtig auseinanderbrechen, das Fruchtfleisch mit einem Löffel herauslösen und in eine kleine Schüssel geben. Dort mit einer Gabel zerkleinern und mit etwas Limettensaft, Salz und Pfeffer zu einer Crème vermischen.",
+      "instructionsHTML": "<p>Avocado in der Mitte bis zum Kern durchschneiden, dann vorsichtig auseinanderbrechen, das Fruchtfleisch mit einem Löffel herauslösen und in eine kleine Schüssel geben. Dort mit einer Gabel zerkleinern und mit etwas Limettensaft, Salz und Pfeffer zu einer Crème vermischen.</p>",
+      "instructions": "Avocado in der Mitte bis zum Kern durchschneiden, dann vorsichtig auseinanderbrechen, das Fruchtfleisch mit einem Löffel herauslösen und in eine kleine Schüssel geben. Dort mit einer Gabel zerkleinern und mit etwas Limettensaft, Salz und Pfeffer zu einer Crème vermischen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5592cc1df8b25eb2708b4567/step_559e7af243ede.jpg",
+          "caption": "Avocadocreme zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555357a3f8b25e89038b456a",
+        "554b73b14dab71160d8b456a",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einer kleinen Schüssel Schmand mit 1 TL Dijon-Senf, etwas Limettenabrieb, Salz und Pfeffer verrühren.",
+      "instructionsHTML": "<p>In einer kleinen Schüssel Schmand mit 1 TL Dijon-Senf, etwas Limettenabrieb, Salz und Pfeffer verrühren.</p>",
+      "instructions": "In einer kleinen Schüssel Schmand mit 1 TL Dijon-Senf, etwas Limettenabrieb, Salz und Pfeffer verrühren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5592cc1df8b25eb2708b4567/step_559e7af25127f.jpg",
+          "caption": "Schmandcreme zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b7480fd2cb911618b4568",
+        "556d7ad34dab7176498b4568",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Mini-Fladenbrot nach dem Aufbacken aus dem Ofen holen, kurz abkühlen lassen, dann in der Mitte aufschneiden. Die untere Seite mit Avocado-Creme bestreichen und mit Paprika und Salatblättern belegen. Die obere Seite mit 1 EL Dijon-Schmand-Crème bestreichen und mit Pastrami belegen. Dann vorsichtig zusammenklappen und ein wenig zusammendrücken.",
+      "instructionsHTML": "<p>Mini-Fladenbrot nach dem Aufbacken aus dem Ofen holen, kurz abkühlen lassen, dann in der Mitte aufschneiden. Die untere Seite mit Avocado-Creme bestreichen und mit Paprika und Salatblättern belegen. Die obere Seite mit 1 EL Dijon-Schmand-Crème bestreichen und mit Pastrami belegen. Dann vorsichtig zusammenklappen und ein wenig zusammendrücken.</p>",
+      "instructions": "Mini-Fladenbrot nach dem Aufbacken aus dem Ofen holen, kurz abkühlen lassen, dann in der Mitte aufschneiden. Die untere Seite mit Avocado-Creme bestreichen und mit Paprika und Salatblättern belegen. Die obere Seite mit 1 EL Dijon-Schmand-Crème bestreichen und mit Pastrami belegen. Dann vorsichtig zusammenklappen und ein wenig zusammendrücken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5592cc1df8b25eb2708b4567/step_559e7af25e2de.jpg",
+          "caption": "Sandwich belegen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Pastrami-Avodaco-Sandwich einmal in der Mitte teilen. Zusammen mit Süßkartoffel-Wedges auf zwei Tellern verteilen und mit restlicher Dijon-Schmand-Crème genießen!",
+      "instructionsHTML": "<p>Pastrami-Avodaco-Sandwich einmal in der Mitte teilen. Zusammen mit Süßkartoffel-Wedges auf zwei Tellern verteilen und mit restlicher Dijon-Schmand-Crème genießen!</p>",
+      "instructions": "Pastrami-Avodaco-Sandwich einmal in der Mitte teilen. Zusammen mit Süßkartoffel-Wedges auf zwei Tellern verteilen und mit restlicher Dijon-Schmand-Crème genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3,
+  "ratingsCount": 222,
+  "favoritesCount": 374,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/kostliches-pastrami-avocado-sandwich-5592cc1df8b25eb2708b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

@@ -1,0 +1,1068 @@
+{
+  "country": "DE",
+  "id": "5655727579a23c38228b4567",
+  "name": "Kerniges Graupenrisotto",
+  "seoName": null,
+  "category": null,
+  "slug": "kerniges-graupenrisotto",
+  "headline": "mit gebratenen Pilzen und Ricotta",
+  "description": "Einst galten Graupen als Essen für arme Leute, heute werden sie als gesundes Getreide geschätzt und sind zwar nicht in aller Munde, aber in vielen Mündern. Perlgraupen sind übrigens geschälte Gerstenkörner. Und man kann aus ihnen ein wunderbar cremiges Risotto kochen. Lass es Dir schmecken!",
+  "descriptionHTML": "<p>Einst galten Graupen als Essen für arme Leute, heute werden sie als gesundes Getreide geschätzt und sind zwar nicht in aller Munde, aber in vielen Mündern. Perlgraupen sind übrigens geschälte Gerstenkörner. Und man kann aus ihnen ein wunderbar cremiges Risotto kochen. Lass es Dir schmecken!</p>",
+  "descriptionMarkdown": "Einst galten Graupen als Essen für arme Leute, heute werden sie als gesundes Getreide geschätzt und sind zwar nicht in aller Munde, aber in vielen Mündern. Perlgraupen sind übrigens geschälte Gerstenkörner. Und man kann aus ihnen ein wunderbar cremiges Risotto kochen. Lass es Dir schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-11-25T08:33:57+00:00",
+  "updatedAt": "2017-03-30T16:18:59+00:00",
+  "link": "https://hellofresh.com/recipes/5655727579a23c38228b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/5655727579a23c38228b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/5655727579a23c38228b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2418.3520000000003,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 578,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 77,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 23,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "556d6e54fd2cb988078b4568",
+      "type": "perlgraupen",
+      "name": "Perlgraupen",
+      "slug": "perlgraupen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d6e54fd2cb988078b4568.png",
+      "usage": 6,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb44",
+        "type": "barley",
+        "name": "Gerste",
+        "slug": "gerste",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb44-c9d02a67.png",
+        "usageByCountry": {
+          "AT": 10,
+          "AU": 21,
+          "BE": 36,
+          "CA": 8,
+          "CH": 2,
+          "DE": 10,
+          "ER": 0,
+          "FR": 2,
+          "GB": 4,
+          "LU": 35,
+          "NL": 37,
+          "NZ": 0,
+          "ML": 0,
+          "US": 15
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55683289f8b25e623e8b4568",
+      "type": "ricotta",
+      "name": "Ricotta",
+      "slug": "ricotta",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55683289f8b25e623e8b4568.png",
+      "usage": 37,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b200f4dab71aa058b456f",
+      "type": "parmesan d.o.p.",
+      "name": "Parmesan D.O.P.",
+      "slug": "parmesan-d-o-p",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b200f4dab71aa058b456f.png",
+      "usage": 168,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5655902cf8b25ecb308b4567",
+      "type": "getrocknete steinpilze",
+      "name": "getrocknete Steinpilze",
+      "slug": "getrocknete-steinpilze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/5655902cf8b25ecb308b4567-e1f3a098.png",
+      "usage": 5,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbde",
+        "type": "mushrooms",
+        "name": "Pilze",
+        "slug": "pilze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbde-4d22942c.png",
+        "usageByCountry": {
+          "AT": 558,
+          "AU": 96,
+          "BE": 230,
+          "CA": 75,
+          "CH": 86,
+          "DE": 484,
+          "ER": 1,
+          "FR": 60,
+          "GB": 207,
+          "LU": 251,
+          "NL": 280,
+          "NZ": 21,
+          "ML": 17,
+          "US": 209
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535721f8b25e8a038b4569",
+      "type": "braune champignons",
+      "name": "braune Champignons",
+      "slug": "braune-champignons",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55535721f8b25e8a038b4569-22f6a90e.png",
+      "usage": 399,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbde",
+        "type": "mushrooms",
+        "name": "Pilze",
+        "slug": "pilze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbde-4d22942c.png",
+        "usageByCountry": {
+          "AT": 558,
+          "AU": 96,
+          "BE": 230,
+          "CA": 75,
+          "CH": 86,
+          "DE": 484,
+          "ER": 1,
+          "FR": 60,
+          "GB": 207,
+          "LU": 251,
+          "NL": 280,
+          "NZ": 21,
+          "ML": 17,
+          "US": 209
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55534d6dfd2cb92b1a8b456c",
+      "type": "spinat",
+      "name": "Spinat",
+      "slug": "spinat",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55534d6dfd2cb92b1a8b456c.png",
+      "usage": 55,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc34",
+        "type": "spinach",
+        "name": "Spinat",
+        "slug": "spinat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc34-2105763d.png",
+        "usageByCountry": {
+          "AT": 279,
+          "AU": 393,
+          "BE": 203,
+          "CA": 89,
+          "CH": 61,
+          "DE": 266,
+          "ER": 0,
+          "FR": 63,
+          "GB": 243,
+          "LU": 261,
+          "NL": 228,
+          "NZ": 108,
+          "ML": 157,
+          "US": 141
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7d36fd2cb9d8608b4570",
+      "type": "sojasoße",
+      "name": "Sojasoße",
+      "slug": "sojasosze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/554b7d36fd2cb9d8608b4570-f4ba216b.png",
+      "usage": 287,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f9",
+          "type": "soya",
+          "name": "Soja",
+          "slug": "soja",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+          "usage": 390
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc30",
+        "type": "soy-sauce",
+        "name": "Sojasauce",
+        "slug": "sojasauce",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc30-32ed361d.png",
+        "usageByCountry": {
+          "AT": 343,
+          "AU": 281,
+          "BE": 313,
+          "CA": 104,
+          "CH": 80,
+          "DE": 287,
+          "ER": 30,
+          "FR": 79,
+          "GB": 283,
+          "LU": 353,
+          "NL": 307,
+          "NZ": 116,
+          "ML": 6,
+          "US": 323
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55685e4cf8b25e68408b456a",
+      "type": "kreuzkümmel, gemahlen",
+      "name": "Kreuzkümmel, gemahlen",
+      "slug": "kreuzkummel-gemahlen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55685e4cf8b25e68408b456a.png",
+      "usage": 21,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb89",
+        "type": "cumin",
+        "name": "Kreuzkümmel",
+        "slug": "kreuzkummel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb89-bc3144f6.png",
+        "usageByCountry": {
+          "AT": 97,
+          "AU": 47,
+          "BE": 91,
+          "CA": 18,
+          "CH": 18,
+          "DE": 90,
+          "ER": 4,
+          "FR": 19,
+          "GB": 89,
+          "LU": 131,
+          "NL": 120,
+          "NZ": 0,
+          "ML": 69,
+          "US": 128
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566f0714dab7124088b4569",
+      "type": "lorbeerblatt",
+      "name": "Lorbeerblatt",
+      "slug": "lorbeerblatt",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566f0714dab7124088b4569.png",
+      "usage": 22,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb46",
+        "type": "bay-leaf",
+        "name": "Lorbeerblatt",
+        "slug": "lorbeerblatt",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb46-c982e2e4.png",
+        "usageByCountry": {
+          "AT": 36,
+          "AU": 0,
+          "BE": 20,
+          "CA": 0,
+          "CH": 7,
+          "DE": 37,
+          "ER": 0,
+          "FR": 7,
+          "GB": 42,
+          "LU": 21,
+          "NL": 25,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da357fd2cb943758b4567",
+      "type": "thymian",
+      "name": "Thymian",
+      "slug": "thymian",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da357fd2cb943758b4567.png",
+      "usage": 245,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc43",
+        "type": "thyme",
+        "name": "Thymian",
+        "slug": "thymian",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc43-d0cc4199.png",
+        "usageByCountry": {
+          "AT": 252,
+          "AU": 94,
+          "BE": 243,
+          "CA": 96,
+          "CH": 34,
+          "DE": 252,
+          "ER": 0,
+          "FR": 73,
+          "GB": 187,
+          "LU": 346,
+          "NL": 288,
+          "NZ": 38,
+          "ML": 213,
+          "US": 322
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3639f8b25eef3e8b4575",
+      "type": "gemusebruhe-home",
+      "name": "Gemüsebrühe*",
+      "slug": "gemusebruhe",
+      "description": null,
+      "internalName": "Gemüsebrühe home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3639f8b25eef3e8b4575.png",
+      "usage": 441,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "type": "soya",
+      "name": "Soja",
+      "slug": "soja",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "usage": 390
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a1",
+      "type": "smallpot",
+      "name": "Kleiner Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539b",
+      "type": "sieve",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539f",
+      "type": "soupbowl",
+      "name": "TiefeTeller"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "556d6e54fd2cb988078b4568",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "55683289f8b25e623e8b4568",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b200f4dab71aa058b456f",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "5655902cf8b25ecb308b4567",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "id": "55535721f8b25e8a038b4569",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "55534d6dfd2cb92b1a8b456c",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b7d36fd2cb9d8608b4570",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "id": "55685e4cf8b25e68408b456a",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "5566f0714dab7124088b4569",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "555da357fd2cb943758b4567",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b3639f8b25eef3e8b4575",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Perlgraupen in einem Sieb mit kaltem Wasser abwaschen, bis dieses klar durchfließt. 500ml Gemüsebrühe je 2 Personen zubereiten. Die Zwiebel und den Knoblauch abziehen und fein hacken.",
+      "instructionsHTML": "<p>Perlgraupen in einem Sieb mit kaltem Wasser abwaschen, bis dieses klar durchfließt. 500ml Gemüsebrühe je 2 Personen zubereiten. Die Zwiebel und den Knoblauch abziehen und fein hacken.</p>",
+      "instructions": "Perlgraupen in einem Sieb mit kaltem Wasser abwaschen, bis dieses klar durchfließt. 500ml Gemüsebrühe je 2 Personen zubereiten. Die Zwiebel und den Knoblauch abziehen und fein hacken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5655727579a23c38228b4567/step_565836b6ec847.jpg",
+          "caption": "Perlgraupen zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556d6e54fd2cb988078b4568",
+        "554b34554dab71a6058b4576",
+        "554b268ffd2cb983608b4568",
+        "554b3639f8b25eef3e8b4575"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "In einem großen Topf 1EL Olivenöl bei mittlerer Hitze erwärmen und die Zwiebel darin 1-2 Minuten andünsten. Knoblauch dazugeben und 1 Minute mit dünsten. Die Graupen ca. 1-2 Minuten anschwitzen lassen und mit einem Drittel der Brühe ablöschen (für den extra Kniff kannst du noch einen Schluck Weißwein dazugeben.) Das Lorbeerblatt dazu geben und 20-25 Minuten köcheln lassen, dabei gelegentlich umrühren und nach und nach mit der restlichen Brühe auffüllen.",
+      "instructionsHTML": "<p>In einem großen Topf 1EL Olivenöl bei mittlerer Hitze erwärmen und die Zwiebel darin 1-2 Minuten andünsten. Knoblauch dazugeben und 1 Minute mit dünsten. Die Graupen ca. 1-2 Minuten anschwitzen lassen und mit einem Drittel der Brühe ablöschen (für den extra Kniff kannst du noch einen Schluck Weißwein dazugeben.) Das Lorbeerblatt dazu geben und 20-25 Minuten köcheln lassen, dabei gelegentlich umrühren und nach und nach mit der restlichen Brühe auffüllen.</p>",
+      "instructions": "In einem großen Topf 1EL Olivenöl bei mittlerer Hitze erwärmen und die Zwiebel darin 1-2 Minuten andünsten. Knoblauch dazugeben und 1 Minute mit dünsten. Die Graupen ca. 1-2 Minuten anschwitzen lassen und mit einem Drittel der Brühe ablöschen (für den extra Kniff kannst du noch einen Schluck Weißwein dazugeben.) Das Lorbeerblatt dazu geben und 20-25 Minuten köcheln lassen, dabei gelegentlich umrühren und nach und nach mit der restlichen Brühe auffüllen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5655727579a23c38228b4567/step_565836b71a274.jpg",
+          "caption": "Graupen mit Gemüsebrühe zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5566f0714dab7124088b4569",
+        "554b3639f8b25eef3e8b4575",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einem kleinen Topf etwa 100ml Salzwasser zum kochen bringen und die Steinpilze darin aufkochen. Die Hitze abstellen und die Pilze ca. 2 Minuten quellen lassen. Danach in ein Sieb abschütten, dabei das Kochwasser auffangen. Die Champignons putzen und vierteln. Thymian waschen, trocken schütteln und die Blätter abzupfen.",
+      "instructionsHTML": "<p>In einem kleinen Topf etwa 100ml Salzwasser zum kochen bringen und die Steinpilze darin aufkochen. Die Hitze abstellen und die Pilze ca. 2 Minuten quellen lassen. Danach in ein Sieb abschütten, dabei das Kochwasser auffangen. Die Champignons putzen und vierteln. Thymian waschen, trocken schütteln und die Blätter abzupfen.</p>",
+      "instructions": "In einem kleinen Topf etwa 100ml Salzwasser zum kochen bringen und die Steinpilze darin aufkochen. Die Hitze abstellen und die Pilze ca. 2 Minuten quellen lassen. Danach in ein Sieb abschütten, dabei das Kochwasser auffangen. Die Champignons putzen und vierteln. Thymian waschen, trocken schütteln und die Blätter abzupfen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5655727579a23c38228b4567/step_565836b73069f.jpg",
+          "caption": "Champignons vierteln"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5655902cf8b25ecb308b4567",
+        "55535721f8b25e8a038b4569",
+        "555da357fd2cb943758b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a1",
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b30539b"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer großen Pfanne 1 EL Olivenöl erwärmen, Champignons darin 5 Min. anbraten. Steinpilze dazugeben und mit Sojasauce ablöschen. Mit Kreuzkümmel würzen, ca. 1 Minute einkochen lassen und bei Seite stellen.",
+      "instructionsHTML": "<p>In einer großen Pfanne 1 EL Olivenöl erwärmen, Champignons darin 5 Min. anbraten. Steinpilze dazugeben und mit Sojasauce ablöschen. Mit Kreuzkümmel würzen, ca. 1 Minute einkochen lassen und bei Seite stellen.</p>",
+      "instructions": "In einer großen Pfanne 1 EL Olivenöl erwärmen, Champignons darin 5 Min. anbraten. Steinpilze dazugeben und mit Sojasauce ablöschen. Mit Kreuzkümmel würzen, ca. 1 Minute einkochen lassen und bei Seite stellen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "5655902cf8b25ecb308b4567",
+        "55535721f8b25e8a038b4569",
+        "554b7d36fd2cb9d8608b4570",
+        "55685e4cf8b25e68408b456a",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Den Spinat waschen und in einem Sieb abtropfen lassen. Wenn die Graupen bissfest und zu einer cremigen Konsistenz eingekocht sind etwa die Hälfte des Steinpilzwassers dazugeben, die Hälfte des Ricotta und den Parmesan einrühren. Spinat unter das Risotto heben und ein wenig zusammenfallen lassen. Die Pilze eventuell nochmal erwärmen.",
+      "instructionsHTML": "<p>Den Spinat waschen und in einem Sieb abtropfen lassen. Wenn die Graupen bissfest und zu einer cremigen Konsistenz eingekocht sind etwa die Hälfte des Steinpilzwassers dazugeben, die Hälfte des Ricotta und den Parmesan einrühren. Spinat unter das Risotto heben und ein wenig zusammenfallen lassen. Die Pilze eventuell nochmal erwärmen.</p>",
+      "instructions": "Den Spinat waschen und in einem Sieb abtropfen lassen. Wenn die Graupen bissfest und zu einer cremigen Konsistenz eingekocht sind etwa die Hälfte des Steinpilzwassers dazugeben, die Hälfte des Ricotta und den Parmesan einrühren. Spinat unter das Risotto heben und ein wenig zusammenfallen lassen. Die Pilze eventuell nochmal erwärmen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5655727579a23c38228b4567/step_565836b73d3b8.jpg",
+          "caption": "Spinat zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55683289f8b25e623e8b4568",
+        "55534d6dfd2cb92b1a8b456c",
+        "554b200f4dab71aa058b456f"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Das Risotto auf tiefe Teller verteilen. Die Pilze darauf anrichten und den restlichen Ricotta darauf verteilen. Mit Thymian bestreuen und genießen.",
+      "instructionsHTML": "<p>Das Risotto auf tiefe Teller verteilen. Die Pilze darauf anrichten und den restlichen Ricotta darauf verteilen. Mit Thymian bestreuen und genießen.</p>",
+      "instructions": "Das Risotto auf tiefe Teller verteilen. Die Pilze darauf anrichten und den restlichen Ricotta darauf verteilen. Mit Thymian bestreuen und genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "555da357fd2cb943758b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539f"
+      ]
+    }
+  ],
+  "averageRating": 3.3,
+  "ratingsCount": 46,
+  "favoritesCount": 461,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/kerniges-graupenrisotto-5655727579a23c38228b4567",
+  "clonedFrom": null,
+  "canonical": "5655727579a23c38228b4567",
+  "canonicalLink": "https://www.hellofresh.de/recipes/kerniges-graupenrisotto-5655727579a23c38228b4567"
+}

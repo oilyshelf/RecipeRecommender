@@ -1,0 +1,1118 @@
+{
+  "country": "DE",
+  "id": "56ded915fd2cb9ec388b4567",
+  "name": "Gruß aus Fernost: Rindfleisch-Nudel-Pfanne „Teriyaki“",
+  "seoName": null,
+  "category": null,
+  "slug": "grus-aus-fernost-rindfleisch-nudelpfanne-teriyaki",
+  "headline": "mit Mie-Nudeln und Mangold",
+  "description": "Mindestens ebenso lecker wie Sushi ist die japanische Teriyaki-Soße, die das Rindfleisch heute besonders zart für Deinen Gaumen macht. Für die Gesundheit sorgt herrlich mild Mangold, für den Spaß die Mie Nudeln. Lass es Dir schmecken!",
+  "descriptionHTML": "<p>Mindestens ebenso lecker wie Sushi ist die japanische Teriyaki-Soße, die das Rindfleisch heute besonders zart für Deinen Gaumen macht. Für die Gesundheit sorgt herrlich mild Mangold, für den Spaß die Mie Nudeln. Lass es Dir schmecken!</p>",
+  "descriptionMarkdown": "Mindestens ebenso lecker wie Sushi ist die japanische Teriyaki-Soße, die das Rindfleisch heute besonders zart für Deinen Gaumen macht. Für die Gesundheit sorgt herrlich mild Mangold, für den Spaß die Mie Nudeln. Lass es Dir schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT35M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-03-08T13:52:21+00:00",
+  "updatedAt": "2017-03-17T10:02:04+00:00",
+  "link": "https://hellofresh.com/recipes/56ded915fd2cb9ec388b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/56ded915fd2cb9ec388b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/56ded915fd2cb9ec388b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3259.3360000000002,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 779,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 27,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 82,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 47,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b19befd2cb959598b4576",
+      "type": "rinderhüftsteak",
+      "name": "Rinderhüftsteak",
+      "slug": "rinderhuftsteak",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b19befd2cb959598b4576.png",
+      "usage": 94,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4e",
+        "type": "beef",
+        "name": "Rindfleisch",
+        "slug": "rindfleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4e-125de8b7.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 363,
+          "BE": 168,
+          "CA": 192,
+          "CH": 81,
+          "DE": 313,
+          "ER": 66,
+          "FR": 51,
+          "GB": 276,
+          "LU": 167,
+          "NL": 187,
+          "NZ": 103,
+          "ML": 494,
+          "US": 655
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d642ffd2cb955078b4567",
+      "type": "mie-nudeln",
+      "name": "Mie-Nudeln",
+      "slug": "mie-nudeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d642ffd2cb955078b4567.png",
+      "usage": 21,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe4",
+        "type": "noodles",
+        "name": "Nudeln",
+        "slug": "nudeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe4-6d4a9c00.png",
+        "usageByCountry": {
+          "AT": 147,
+          "AU": 107,
+          "BE": 168,
+          "CA": 55,
+          "CH": 33,
+          "DE": 125,
+          "ER": 0,
+          "FR": 27,
+          "GB": 106,
+          "LU": 141,
+          "NL": 185,
+          "NZ": 13,
+          "ML": 121,
+          "US": 53
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5582cd024dab71bf498b4567",
+      "type": "speisestarke",
+      "name": "Kartoffelstärke",
+      "slug": "speisestarke",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5582cd024dab71bf498b4567.png",
+      "usage": 114,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba0",
+        "type": "flour",
+        "name": "Mehl",
+        "slug": "mehl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba0-03891dce.png",
+        "usageByCountry": {
+          "AT": 391,
+          "AU": 201,
+          "BE": 10,
+          "CA": 106,
+          "CH": 74,
+          "DE": 383,
+          "ER": 19,
+          "FR": 0,
+          "GB": 141,
+          "LU": 5,
+          "NL": 14,
+          "NZ": 74,
+          "ML": 9,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "56efafb2f8b25ec0698b4569",
+      "type": "mangold",
+      "name": "Mangold",
+      "slug": "mangold",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/56efafb2f8b25ec0698b4569.png",
+      "usage": 2,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb67",
+        "type": "chard",
+        "name": "Mangold",
+        "slug": "mangold",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb67-837a88dd.png",
+        "usageByCountry": {
+          "AT": 2,
+          "AU": 19,
+          "BE": 0,
+          "CA": 5,
+          "CH": 0,
+          "DE": 2,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 7,
+          "ML": 0,
+          "US": 7
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27e6fd2cb983608b4569",
+      "type": "fruhlingszwiebeln",
+      "name": "Frühlingszwiebel",
+      "slug": "fruhlingszwiebeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27e6fd2cb983608b4569.png",
+      "usage": 514,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc35",
+        "type": "spring-onion",
+        "name": "Frühlingszwiebel",
+        "slug": "fruhlingszwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc35-03c06826.png",
+        "usageByCountry": {
+          "AT": 575,
+          "AU": 0,
+          "BE": 15,
+          "CA": 0,
+          "CH": 113,
+          "DE": 514,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 421,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5568719bfd2cb982298b4568",
+      "type": "chilischote",
+      "name": "Chilischote",
+      "slug": "chilischote",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5568719bfd2cb982298b4568.png",
+      "usage": 28,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc33",
+        "type": "spicy-pepper-vegetable",
+        "name": "Würziger Pfeffer (Gemüse)",
+        "slug": "wurziger-pfeffer-gemuse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc33-f05fb04f.png",
+        "usageByCountry": {
+          "AT": 167,
+          "AU": 19,
+          "BE": 6,
+          "CA": 18,
+          "CH": 23,
+          "DE": 141,
+          "ER": 23,
+          "FR": 1,
+          "GB": 189,
+          "LU": 5,
+          "NL": 328,
+          "NZ": 0,
+          "ML": 0,
+          "US": 142
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7f33fd2cb96c628b456a",
+      "type": "ingwer",
+      "name": "Ingwer",
+      "slug": "ingwer",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7f33fd2cb96c628b456a.png",
+      "usage": 241,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba7",
+        "type": "ginger",
+        "name": "Ingwer",
+        "slug": "ingwer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba7-565cc248.png",
+        "usageByCountry": {
+          "AT": 278,
+          "AU": 225,
+          "BE": 200,
+          "CA": 107,
+          "CH": 52,
+          "DE": 241,
+          "ER": 20,
+          "FR": 57,
+          "GB": 231,
+          "LU": 241,
+          "NL": 220,
+          "NZ": 65,
+          "ML": 25,
+          "US": 246
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555357a3f8b25e89038b456a",
+      "type": "limette",
+      "name": "Limette",
+      "slug": "limette",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555357a3f8b25e89038b456a.png",
+      "usage": 350,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc8",
+        "type": "lime",
+        "name": "Limette",
+        "slug": "limette",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc8-7cbce945.png",
+        "usageByCountry": {
+          "AT": 383,
+          "AU": 227,
+          "BE": 132,
+          "CA": 137,
+          "CH": 82,
+          "DE": 351,
+          "ER": 61,
+          "FR": 68,
+          "GB": 407,
+          "LU": 224,
+          "NL": 155,
+          "NZ": 63,
+          "ML": 87,
+          "US": 604
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7d36fd2cb9d8608b4570",
+      "type": "sojasoße",
+      "name": "Sojasoße",
+      "slug": "sojasosze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/554b7d36fd2cb9d8608b4570-f4ba216b.png",
+      "usage": 287,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f9",
+          "type": "soya",
+          "name": "Soja",
+          "slug": "soja",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+          "usage": 390
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc30",
+        "type": "soy-sauce",
+        "name": "Sojasauce",
+        "slug": "sojasauce",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc30-32ed361d.png",
+        "usageByCountry": {
+          "AT": 343,
+          "AU": 281,
+          "BE": 313,
+          "CA": 104,
+          "CH": 80,
+          "DE": 287,
+          "ER": 30,
+          "FR": 79,
+          "GB": 283,
+          "LU": 353,
+          "NL": 307,
+          "NZ": 116,
+          "ML": 6,
+          "US": 323
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7cfcfd2cb911618b4569",
+      "type": "sesam",
+      "name": "Sesam",
+      "slug": "sesam",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7cfcfd2cb911618b4569.png",
+      "usage": 129,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fe",
+          "type": "sesame",
+          "name": "Sesam",
+          "slug": "sesam",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+          "usage": 175
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc2c",
+        "type": "sesame-seeds",
+        "name": "Sesamsamen",
+        "slug": "sesamsamen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc2c-936d8226.png",
+        "usageByCountry": {
+          "AT": 151,
+          "AU": 141,
+          "BE": 43,
+          "CA": 35,
+          "CH": 29,
+          "DE": 131,
+          "ER": 0,
+          "FR": 20,
+          "GB": 51,
+          "LU": 74,
+          "NL": 55,
+          "NZ": 60,
+          "ML": 18,
+          "US": 124
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7d614dab71160d8b456b",
+      "type": "honig-home",
+      "name": "Honig*",
+      "slug": "honig",
+      "description": null,
+      "internalName": "Honig [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7d614dab71160d8b456b.png",
+      "usage": 203,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbb3",
+        "type": "honey",
+        "name": "Honig",
+        "slug": "honig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbb3-efe0c124.png",
+        "usageByCountry": {
+          "AT": 360,
+          "AU": 274,
+          "BE": 368,
+          "CA": 136,
+          "CH": 83,
+          "DE": 326,
+          "ER": 12,
+          "FR": 77,
+          "GB": 224,
+          "LU": 363,
+          "NL": 442,
+          "NZ": 139,
+          "ML": 1,
+          "US": 303
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "type": "soya",
+      "name": "Soja",
+      "slug": "soja",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "usage": 390
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "type": "sesame",
+      "name": "Sesam",
+      "slug": "sesam",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "usage": 175
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Küchenpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536e",
+      "type": "grater",
+      "name": "Reibe"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305397",
+      "type": "non-stick-pan",
+      "name": "Beschichtete Pfanne"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "scharf",
+      "slug": "scharf",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-spicy%403x.png",
+      "numberOfRecipes": 2399,
+      "numberOfRecipesByCountry": {
+        "AT": 200,
+        "AU": 107,
+        "BE": 147,
+        "CA": 71,
+        "CH": 53,
+        "DE": 211,
+        "ER": 103,
+        "FR": 0,
+        "GB": 497,
+        "LU": 54,
+        "NL": 149,
+        "NZ": 0,
+        "ML": 0,
+        "US": 807
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiatisch",
+      "slug": "asiatisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg",
+      "usage": 2484
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b19befd2cb959598b4576",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "556d642ffd2cb955078b4567",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "5582cd024dab71bf498b4567",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "id": "56efafb2f8b25ec0698b4569",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "5568719bfd2cb982298b4568",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7f33fd2cb96c628b456a",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "555357a3f8b25e89038b456a",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7d36fd2cb9d8608b4570",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "id": "554b7cfcfd2cb911618b4569",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b7d614dab71160d8b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Rinderhüftsteak aus dem Kühlschrank holen, damit es Zimmertemperatur annehmen kann. In einem großen Topf reichlich Salzwasser zum Kochen bringen, Mie-Nudeln darin ca. 4 Min. bissfest garen. Dann in ein Sieb abgießen (dabei etwas Nudelwasser auffangen), mit kaltem Wasser abschrecken und abtropfen lassen.",
+      "instructionsHTML": "<p>Rinderhüftsteak aus dem Kühlschrank holen, damit es Zimmertemperatur annehmen kann. In einem großen Topf reichlich Salzwasser zum Kochen bringen, Mie-Nudeln darin ca. 4 Min. bissfest garen. Dann in ein Sieb abgießen (dabei etwas Nudelwasser auffangen), mit kaltem Wasser abschrecken und abtropfen lassen.</p>",
+      "instructions": "Rinderhüftsteak aus dem Kühlschrank holen, damit es Zimmertemperatur annehmen kann. In einem großen Topf reichlich Salzwasser zum Kochen bringen, Mie-Nudeln darin ca. 4 Min. bissfest garen. Dann in ein Sieb abgießen (dabei etwas Nudelwasser auffangen), mit kaltem Wasser abschrecken und abtropfen lassen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556d642ffd2cb955078b4567",
+        "554b1c284dab71a9058b456b",
+        "554b19befd2cb959598b4576"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Rinderhüftsteak mit Küchenpapier trocken tupfen und in Streifen schneiden. Speisestärke auf einen Teller verteilen, Rinderstreifen darin wenden und kurz beiseitestellen.",
+      "instructionsHTML": "<p>Rinderhüftsteak mit Küchenpapier trocken tupfen und in Streifen schneiden. Speisestärke auf einen Teller verteilen, Rinderstreifen darin wenden und kurz beiseitestellen.</p>",
+      "instructions": "Rinderhüftsteak mit Küchenpapier trocken tupfen und in Streifen schneiden. Speisestärke auf einen Teller verteilen, Rinderstreifen darin wenden und kurz beiseitestellen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56ded915fd2cb9ec388b4567/step_56e040a14ff63.jpg",
+          "caption": "Rinderstreifen in Stärke wälzen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5582cd024dab71bf498b4567",
+        "554b19befd2cb959598b4576"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305376",
+        "57e2674fb7e8697d4b30537b"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Mangold waschen, den Strunk entfernen; Mangold vierteln. Frühlingszwiebel waschen und in feine Röllchen schneiden. Chili waschen, entkernen und fein schneiden.",
+      "instructionsHTML": "<p>Mangold waschen, den Strunk entfernen; Mangold vierteln. Frühlingszwiebel waschen und in feine Röllchen schneiden. Chili waschen, entkernen und fein schneiden.</p>",
+      "instructions": "Mangold waschen, den Strunk entfernen; Mangold vierteln. Frühlingszwiebel waschen und in feine Röllchen schneiden. Chili waschen, entkernen und fein schneiden.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b27e6fd2cb983608b4569",
+        "5568719bfd2cb982298b4568",
+        "56efafb2f8b25ec0698b4569"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Knoblauch abziehen und in eine Schüssel pressen. Ingwer schälen, dann fein reiben. Eine Hälfte der Limette entsaften. Knoblauch, Ingwer, Limettensaft, Sojasoße, Sesam, ½ EL Öl, ½ EL Honig und 1 EL Wasser zu einer Soße verrühren.",
+      "instructionsHTML": "<p>Knoblauch abziehen und in eine Schüssel pressen. Ingwer schälen, dann fein reiben. Eine Hälfte der Limette entsaften. Knoblauch, Ingwer, Limettensaft, Sojasoße, Sesam, ½ EL Öl, ½ EL Honig und 1 EL Wasser zu einer Soße verrühren.</p>",
+      "instructions": "Knoblauch abziehen und in eine Schüssel pressen. Ingwer schälen, dann fein reiben. Eine Hälfte der Limette entsaften. Knoblauch, Ingwer, Limettensaft, Sojasoße, Sesam, ½ EL Öl, ½ EL Honig und 1 EL Wasser zu einer Soße verrühren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56ded915fd2cb9ec388b4567/step_56e040a16a4ff.jpg",
+          "caption": "Teriyaki-Soße vorbereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b268ffd2cb983608b4568",
+        "554b7f33fd2cb96c628b456a",
+        "555357a3f8b25e89038b456a",
+        "554b7d36fd2cb9d8608b4570",
+        "554b7cfcfd2cb911618b4569",
+        "554b1bf6f8b25eef3e8b4570",
+        "554b7d614dab71160d8b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536e",
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einer großen beschichteten Pfanne einen Schuss Öl stark erhitzen, Rinderstreifen darin unter Wenden ca. 1 Min. scharf anbraten. Anschließend herausnehmen und beiseitestellen.\n\nTipp: Das Fleisch wirklich nur kurz anbraten, da es sonst schnell zäh wird.",
+      "instructionsHTML": "<p>In einer großen beschichteten Pfanne einen Schuss Öl stark erhitzen, Rinderstreifen darin unter Wenden ca. 1 Min. scharf anbraten. Anschließend herausnehmen und beiseitestellen.</p>\n<p>Tipp: Das Fleisch wirklich nur kurz anbraten, da es sonst schnell zäh wird.</p>",
+      "instructions": "In einer großen beschichteten Pfanne einen Schuss Öl stark erhitzen, Rinderstreifen darin unter Wenden ca. 1 Min. scharf anbraten. Anschließend herausnehmen und beiseitestellen.\nTipp: Das Fleisch wirklich nur kurz anbraten, da es sonst schnell zäh wird.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56ded915fd2cb9ec388b4567/step_56e040a187c45.jpg",
+          "caption": "Rinderstreifen scharf anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1bf6f8b25eef3e8b4570",
+        "554b19befd2cb959598b4576"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305397"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Erneut einen Schuss Öl in der Pfanne erhitzen, Mangold zugeben und unter Wenden 2 – 3 Min. anbraten, dann herausnehmen und kurz beiseitestellen. Nun Mie-Nudeln ca. 1 Min in der Pfanne anbraten, Rinderstreifen und Mangold dazugeben. Mit vorbereiteter Soße ablöschen und 1 – 2 Min. einköcheln lassen (evtl. Nudelwasser zugeben), mit Salz und Pfeffer abschmecken.",
+      "instructionsHTML": "<p>Erneut einen Schuss Öl in der Pfanne erhitzen, Mangold zugeben und unter Wenden 2 – 3 Min. anbraten, dann herausnehmen und kurz beiseitestellen. Nun Mie-Nudeln ca. 1 Min in der Pfanne anbraten, Rinderstreifen und Mangold dazugeben. Mit vorbereiteter Soße ablöschen und 1 – 2 Min. einköcheln lassen (evtl. Nudelwasser zugeben), mit Salz und Pfeffer abschmecken.</p>",
+      "instructions": "Erneut einen Schuss Öl in der Pfanne erhitzen, Mangold zugeben und unter Wenden 2 – 3 Min. anbraten, dann herausnehmen und kurz beiseitestellen. Nun Mie-Nudeln ca. 1 Min in der Pfanne anbraten, Rinderstreifen und Mangold dazugeben. Mit vorbereiteter Soße ablöschen und 1 – 2 Min. einköcheln lassen (evtl. Nudelwasser zugeben), mit Salz und Pfeffer abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56ded915fd2cb9ec388b4567/step_56e040a1a1143.jpg",
+          "caption": "Teriyaki-Soße unterrühren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556d642ffd2cb955078b4567",
+        "554b1c284dab71a9058b456b",
+        "554b1bf6f8b25eef3e8b4570",
+        "55b0a135fd2cb9121e8b4567",
+        "56efafb2f8b25ec0698b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305397"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Nudelpfanne „Teriyaki“ auf Tellern verteilen, mit ein wenig Frühlingszwiebeln und Chili bestreuen und genießen!",
+      "instructionsHTML": "<p>Nudelpfanne „Teriyaki“ auf Tellern verteilen, mit ein wenig Frühlingszwiebeln und Chili bestreuen und genießen!</p>",
+      "instructions": "Nudelpfanne „Teriyaki“ auf Tellern verteilen, mit ein wenig Frühlingszwiebeln und Chili bestreuen und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556d642ffd2cb955078b4567",
+        "554b27e6fd2cb983608b4569",
+        "5568719bfd2cb982298b4568"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.2,
+  "ratingsCount": 1710,
+  "favoritesCount": 1793,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/grus-aus-fernost-rindfleisch-nudelpfanne-teriyaki-56ded915fd2cb9ec388b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

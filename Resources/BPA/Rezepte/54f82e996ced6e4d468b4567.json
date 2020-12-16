@@ -1,0 +1,1253 @@
+{
+  "country": "DE",
+  "id": "54f82e996ced6e4d468b4567",
+  "name": "Tomatiges Puten-Paprika-Curry",
+  "seoName": null,
+  "category": null,
+  "slug": "tomatiges-puten-paprika-curry",
+  "headline": "mit lockerem Basmatireis",
+  "description": "Manchmal darf es statt Nudeln Reis sein, da passt nämlich auch ganz viel dazu, wie die Asiaten schon lange vor uns erkannt haben. Zum Beispiel ein Curry mit Pute, viel Gemüse und Joghurt zum Ablöschen, wenn es ein wenig zu viel des Chili war. Guten Appetit!",
+  "descriptionHTML": "<p>Manchmal darf es statt Nudeln Reis sein, da passt nämlich auch ganz viel dazu, wie die Asiaten schon lange vor uns erkannt haben. Zum Beispiel ein Curry mit Pute, viel Gemüse und Joghurt zum Ablöschen, wenn es ein wenig zu viel des Chili war. Guten Appetit!</p>",
+  "descriptionMarkdown": "Manchmal darf es statt Nudeln Reis sein, da passt nämlich auch ganz viel dazu, wie die Asiaten schon lange vor uns erkannt haben. Zum Beispiel ein Curry mit Pute, viel Gemüse und Joghurt zum Ablöschen, wenn es ein wenig zu viel des Chili war. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 3,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-03-05T10:23:21+00:00",
+  "updatedAt": "2017-04-25T12:02:56+00:00",
+  "link": "https://hellofresh.com/recipes/54f82e996ced6e4d468b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/54f82e996ced6e4d468b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/54f82e996ced6e4d468b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2548.056,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 609,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 14,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 74,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 43,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b3534f8b25ef53e8b4575",
+      "type": "basmatireis",
+      "name": "Basmatireis",
+      "slug": "basmatireis",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3534f8b25ef53e8b4575.png",
+      "usage": 194,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1c",
+        "type": "rice",
+        "name": "Reis",
+        "slug": "reis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1c-0b4adebd.png",
+        "usageByCountry": {
+          "AT": 540,
+          "AU": 405,
+          "BE": 265,
+          "CA": 169,
+          "CH": 114,
+          "DE": 505,
+          "ER": 39,
+          "FR": 79,
+          "GB": 480,
+          "LU": 361,
+          "NL": 319,
+          "NZ": 107,
+          "ML": 328,
+          "US": 527
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b6070f8b25e49448b4568",
+      "type": "putenbrust",
+      "name": "Putenbrust",
+      "slug": "putenbrust",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b6070f8b25e49448b4568.png",
+      "usage": 125,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc47",
+        "type": "turkey",
+        "name": "Truthahn",
+        "slug": "truthahn",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc47-151890c5.png",
+        "usageByCountry": {
+          "AT": 171,
+          "AU": 0,
+          "BE": 20,
+          "CA": 24,
+          "CH": 46,
+          "DE": 171,
+          "ER": 0,
+          "FR": 2,
+          "GB": 33,
+          "LU": 11,
+          "NL": 23,
+          "NZ": 0,
+          "ML": 26,
+          "US": 42
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556736ccfd2cb964078b4568",
+      "type": "lauch",
+      "name": "Lauch",
+      "slug": "lauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556736ccfd2cb964078b4568.png",
+      "usage": 8,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc4",
+        "type": "leek",
+        "name": "Lauch",
+        "slug": "lauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc4-1460799d.png",
+        "usageByCountry": {
+          "AT": 212,
+          "AU": 43,
+          "BE": 129,
+          "CA": 14,
+          "CH": 41,
+          "DE": 199,
+          "ER": 0,
+          "FR": 25,
+          "GB": 148,
+          "LU": 118,
+          "NL": 150,
+          "NZ": 13,
+          "ML": 0,
+          "US": 7
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7f33fd2cb96c628b456a",
+      "type": "ingwer",
+      "name": "Ingwer",
+      "slug": "ingwer",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7f33fd2cb96c628b456a.png",
+      "usage": 241,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba7",
+        "type": "ginger",
+        "name": "Ingwer",
+        "slug": "ingwer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba7-565cc248.png",
+        "usageByCountry": {
+          "AT": 278,
+          "AU": 225,
+          "BE": 200,
+          "CA": 107,
+          "CH": 52,
+          "DE": 241,
+          "ER": 20,
+          "FR": 57,
+          "GB": 231,
+          "LU": 241,
+          "NL": 220,
+          "NZ": 65,
+          "ML": 25,
+          "US": 246
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c09b7f8b25e74628b4567",
+      "type": "grüne paprika",
+      "name": "grüne Paprika",
+      "slug": "grune-paprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c09b7f8b25e74628b4567.png",
+      "usage": 37,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf8",
+        "type": "paprika-powder",
+        "name": "Paprikapulver",
+        "slug": "paprikapulver",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf8-57ddbd04.png",
+        "usageByCountry": {
+          "AT": 105,
+          "AU": 15,
+          "BE": 162,
+          "CA": 6,
+          "CH": 26,
+          "DE": 105,
+          "ER": 1,
+          "FR": 42,
+          "GB": 35,
+          "LU": 213,
+          "NL": 182,
+          "NZ": 0,
+          "ML": 0,
+          "US": 31
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c5b19fd2cb97a4d8b4567",
+      "type": "chili",
+      "name": "Chili",
+      "slug": "chili",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c5b19fd2cb97a4d8b4567.png",
+      "usage": 24,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc33",
+        "type": "spicy-pepper-vegetable",
+        "name": "Würziger Pfeffer (Gemüse)",
+        "slug": "wurziger-pfeffer-gemuse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc33-f05fb04f.png",
+        "usageByCountry": {
+          "AT": 167,
+          "AU": 19,
+          "BE": 6,
+          "CA": 18,
+          "CH": 23,
+          "DE": 141,
+          "ER": 23,
+          "FR": 1,
+          "GB": 189,
+          "LU": 5,
+          "NL": 328,
+          "NZ": 0,
+          "ML": 0,
+          "US": 142
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27e6fd2cb983608b4569",
+      "type": "fruhlingszwiebeln",
+      "name": "Frühlingszwiebel",
+      "slug": "fruhlingszwiebeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27e6fd2cb983608b4569.png",
+      "usage": 514,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc35",
+        "type": "spring-onion",
+        "name": "Frühlingszwiebel",
+        "slug": "fruhlingszwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc35-03c06826.png",
+        "usageByCountry": {
+          "AT": 575,
+          "AU": 0,
+          "BE": 15,
+          "CA": 0,
+          "CH": 113,
+          "DE": 514,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 421,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2a674dab71c8058b4572",
+      "type": "gewürzmischung \"linsen-suppe\"",
+      "name": "Gewürzmischung \"Linsen-Suppe\"",
+      "slug": "gewurzmischung-linsen-suppe",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2a674dab71c8058b4572.png",
+      "usage": 62,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc32",
+        "type": "spice-mix",
+        "name": "Gewürzmischung",
+        "slug": "gewurzmischung",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc32-7154509f.png",
+        "usageByCountry": {
+          "AT": 594,
+          "AU": 114,
+          "BE": 15,
+          "CA": 34,
+          "CH": 92,
+          "DE": 475,
+          "ER": 36,
+          "FR": 10,
+          "GB": 42,
+          "LU": 10,
+          "NL": 25,
+          "NZ": 48,
+          "ML": 10,
+          "US": 366
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55534dc3fd2cb990798b456a",
+      "type": "passierte tomaten",
+      "name": "passierte Tomaten",
+      "slug": "passierte-tomaten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55534dc3fd2cb990798b456a.png",
+      "usage": 32,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7f6cfd2cb911618b456b",
+      "type": "mandelblättchen",
+      "name": "Mandelblättchen",
+      "slug": "mandelblattchen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7f6cfd2cb911618b456b.png",
+      "usage": 71,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fb",
+          "type": "nuts",
+          "name": "Schalenfrüchte",
+          "slug": "schalenfruchte",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+          "usage": 300
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535a9af8b25e78738b4568",
+      "type": "joghurt",
+      "name": "Joghurt",
+      "slug": "joghurt",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55535a9af8b25e78738b4568.png",
+      "usage": 234,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc57",
+        "type": "yoghurt",
+        "name": "Jo­ghurt",
+        "slug": "joghurt",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc57-825533d1.png",
+        "usageByCountry": {
+          "AT": 464,
+          "AU": 272,
+          "BE": 368,
+          "CA": 43,
+          "CH": 101,
+          "DE": 434,
+          "ER": 0,
+          "FR": 31,
+          "GB": 207,
+          "LU": 341,
+          "NL": 408,
+          "NZ": 78,
+          "ML": 8,
+          "US": 48
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "type": "nuts",
+      "name": "Schalenfrüchte",
+      "slug": "schalenfruchte",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "usage": 300
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b6",
+      "type": "caribbean",
+      "name": "Karibisch",
+      "slug": "karibisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b6-7964c6ff.jpg",
+      "usage": 135
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053b8",
+      "type": "mediterranean",
+      "name": "Mediterran",
+      "slug": "mediterran",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b8-f04aa19c.jpg",
+      "usage": 1179
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053c2",
+      "type": "northafrican",
+      "name": "Nordafrikanisch",
+      "slug": "nordafrikanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053c2-76b2585e.jpg",
+      "usage": 197
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053b3",
+      "type": "thai",
+      "name": "Thailändisch",
+      "slug": "thailandisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b3-3b2b2add.jpg",
+      "usage": 477
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053ba",
+      "type": "vietnamise",
+      "name": "Vietnamesisch",
+      "slug": "vietnamesisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ba-93abc4f8.jpg",
+      "usage": 62
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b3534f8b25ef53e8b4575",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b6070f8b25e49448b4568",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556736ccfd2cb964078b4568",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b7f33fd2cb96c628b456a",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "556c09b7f8b25e74628b4567",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556c5b19fd2cb97a4d8b4567",
+          "amount": 0.5,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2a674dab71c8058b4572",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "55534dc3fd2cb990798b456a",
+          "amount": 500,
+          "unit": "ml"
+        },
+        {
+          "id": "554b7f6cfd2cb911618b456b",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "55535a9af8b25e78738b4568",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b3534f8b25ef53e8b4575",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "554b6070f8b25e49448b4568",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556736ccfd2cb964078b4568",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.25,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b7f33fd2cb96c628b456a",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "556c09b7f8b25e74628b4567",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556c5b19fd2cb97a4d8b4567",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2a674dab71c8058b4572",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "55534dc3fd2cb990798b456a",
+          "amount": 1000,
+          "unit": "ml"
+        },
+        {
+          "id": "554b7f6cfd2cb911618b456b",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "55535a9af8b25e78738b4568",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Putenfleisch aus dem Kühlschrank nehmen, damit es Zimmertemperatur erreichen kann.",
+      "instructionsHTML": "<p>Putenfleisch aus dem Kühlschrank nehmen, damit es Zimmertemperatur erreichen kann.</p>",
+      "instructions": "Putenfleisch aus dem Kühlschrank nehmen, damit es Zimmertemperatur erreichen kann.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Reis in einem Sieb solange mit kaltem Wasser abbrausen, bis das Wasser klar durch den Reis fließt. 300 ml Wasser mit etwas Salz in einem Topf zum Kochen bringen und den Reis einrühren. Einmal aufkochen las- sen, abdecken, Hitze herunterstufen und auf niedriger Hitze ca. 10 Min. kochen lassen. Anschließend von der Herdplatte nehmen und mindestens 10 Min. bedeckt ziehen lassen.",
+      "instructionsHTML": "<p>Reis in einem Sieb solange mit kaltem Wasser abbrausen, bis das Wasser klar durch den Reis fließt. 300 ml Wasser mit etwas Salz in einem Topf zum Kochen bringen und den Reis einrühren. Einmal aufkochen las- sen, abdecken, Hitze herunterstufen und auf niedriger Hitze ca. 10 Min. kochen lassen. Anschließend von der Herdplatte nehmen und mindestens 10 Min. bedeckt ziehen lassen.</p>",
+      "instructions": "Reis in einem Sieb solange mit kaltem Wasser abbrausen, bis das Wasser klar durch den Reis fließt. 300 ml Wasser mit etwas Salz in einem Topf zum Kochen bringen und den Reis einrühren. Einmal aufkochen las- sen, abdecken, Hitze herunterstufen und auf niedriger Hitze ca. 10 Min. kochen lassen. Anschließend von der Herdplatte nehmen und mindestens 10 Min. bedeckt ziehen lassen.",
+      "timers": [
+        {
+          "name": "Reis kochen",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54f82e996ced6e4d468b4567/step_556ef7bfd758c.jpg",
+          "caption": "Den Reis abbrausen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b3534f8b25ef53e8b4575"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Zwiebel und Knoblauch abziehen und klein schneiden. Schale vom Ingwer mit einem Löffel abschaben und klein schneiden. Paprika waschen, halbieren, Kerngehäuse entfernen und in feine Spalten schneiden. Chili waschen, Kerngehäuse entfernen und in feine Ringe schneiden. Welkes Grün von der Frühlingszwiebel und dem Lauch entfernen, dann waschen und in feine Ringe schneiden. Putenbrust mit Küchenpapier trocken tupfen, dann quer in 1 cm breite Streifen scheiden.",
+      "instructionsHTML": "<p>Zwiebel und Knoblauch abziehen und klein schneiden. Schale vom Ingwer mit einem Löffel abschaben und klein schneiden. Paprika waschen, halbieren, Kerngehäuse entfernen und in feine Spalten schneiden. Chili waschen, Kerngehäuse entfernen und in feine Ringe schneiden. Welkes Grün von der Frühlingszwiebel und dem Lauch entfernen, dann waschen und in feine Ringe schneiden. Putenbrust mit Küchenpapier trocken tupfen, dann quer in 1 cm breite Streifen scheiden.</p>",
+      "instructions": "Zwiebel und Knoblauch abziehen und klein schneiden. Schale vom Ingwer mit einem Löffel abschaben und klein schneiden. Paprika waschen, halbieren, Kerngehäuse entfernen und in feine Spalten schneiden. Chili waschen, Kerngehäuse entfernen und in feine Ringe schneiden. Welkes Grün von der Frühlingszwiebel und dem Lauch entfernen, dann waschen und in feine Ringe schneiden. Putenbrust mit Küchenpapier trocken tupfen, dann quer in 1 cm breite Streifen scheiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54f82e996ced6e4d468b4567/step_556ef7bfe8d16.jpg",
+          "caption": "Die Putenbrust zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b34554dab71a6058b4576",
+        "554b268ffd2cb983608b4568",
+        "554b7f33fd2cb96c628b456a",
+        "556c09b7f8b25e74628b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer großen Pfanne 1 Öl erhitzen und Zwiebeln darin 2–3 Min. andünsten. Dann Knoblauch, Ingwer, nach gewünschter Schärfe ein wenig Chili, weißen Teil der Frühlingszwiebel, Lauch, Paprika, Putenbrust und Gewürzmischung zugeben. Alles gut anbraten und mehrfach wenden, nach 3–4 Min. mit passierten Tomaten ablöschen. Noch mit Salz und Pfeffer abschmecken und ca. 15 Min. weiterköcheln lassen.",
+      "instructionsHTML": "<p>In einer großen Pfanne 1 Öl erhitzen und Zwiebeln darin 2–3 Min. andünsten. Dann Knoblauch, Ingwer, nach gewünschter Schärfe ein wenig Chili, weißen Teil der Frühlingszwiebel, Lauch, Paprika, Putenbrust und Gewürzmischung zugeben. Alles gut anbraten und mehrfach wenden, nach 3–4 Min. mit passierten Tomaten ablöschen. Noch mit Salz und Pfeffer abschmecken und ca. 15 Min. weiterköcheln lassen.</p>",
+      "instructions": "In einer großen Pfanne 1 Öl erhitzen und Zwiebeln darin 2–3 Min. andünsten. Dann Knoblauch, Ingwer, nach gewünschter Schärfe ein wenig Chili, weißen Teil der Frühlingszwiebel, Lauch, Paprika, Putenbrust und Gewürzmischung zugeben. Alles gut anbraten und mehrfach wenden, nach 3–4 Min. mit passierten Tomaten ablöschen. Noch mit Salz und Pfeffer abschmecken und ca. 15 Min. weiterköcheln lassen.",
+      "timers": [
+        {
+          "name": "Zwiebeln glasig dünsten",
+          "duration": "PT3M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        },
+        {
+          "name": "Mit den restlichen Zutaten köcheln lassen",
+          "duration": "PT15M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54f82e996ced6e4d468b4567/step_556ef7c06bc86.jpg",
+          "caption": "Die Zutaten anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b6070f8b25e49448b4568",
+        "554b34554dab71a6058b4576",
+        "556736ccfd2cb964078b4568",
+        "554b268ffd2cb983608b4568",
+        "554b7f33fd2cb96c628b456a",
+        "556c5b19fd2cb97a4d8b4567",
+        "554b2a674dab71c8058b4572",
+        "55534dc3fd2cb990798b456a",
+        "554b2319fd2cb9ba598b456d",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einer kleinen, beschichteten Pfanne Mandelplättchen ohne Fettzugabe rösten, bis sie duften.",
+      "instructionsHTML": "<p>In einer kleinen, beschichteten Pfanne Mandelplättchen ohne Fettzugabe rösten, bis sie duften.</p>",
+      "instructions": "In einer kleinen, beschichteten Pfanne Mandelplättchen ohne Fettzugabe rösten, bis sie duften.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54f82e996ced6e4d468b4567/step_556ef7c08184b.jpg",
+          "caption": "Die Mandelplättchen rösten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b7f6cfd2cb911618b456b",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Basmatireis nach der Ziehzeit mit einer Gabel auflockern und auf Tellern verteilen. Puten-Paprika-Curry dazu anrichten, ein wenig Joghurt darüber geben, mit Mandelplättchen und grünen Frühlingszwiebeln bestreuen und genießen!",
+      "instructionsHTML": "<p>Basmatireis nach der Ziehzeit mit einer Gabel auflockern und auf Tellern verteilen. Puten-Paprika-Curry dazu anrichten, ein wenig Joghurt darüber geben, mit Mandelplättchen und grünen Frühlingszwiebeln bestreuen und genießen!</p>",
+      "instructions": "Basmatireis nach der Ziehzeit mit einer Gabel auflockern und auf Tellern verteilen. Puten-Paprika-Curry dazu anrichten, ein wenig Joghurt darüber geben, mit Mandelplättchen und grünen Frühlingszwiebeln bestreuen und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.1,
+  "ratingsCount": 2248,
+  "favoritesCount": 633,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/tomatiges-puten-paprika-curry-54f82e996ced6e4d468b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

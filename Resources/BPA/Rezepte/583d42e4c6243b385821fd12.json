@@ -1,0 +1,779 @@
+{
+  "country": "DE",
+  "id": "583d42e4c6243b385821fd12",
+  "name": "Asiatisch gebackener Tofu",
+  "seoName": null,
+  "category": null,
+  "slug": "asiatisch-gebackener-tofu",
+  "headline": "mit Basmatireis und Erdnuss-Sataysoße",
+  "description": "Hast Du schon mal Tofu gebacken? Wenn nicht, solltest Du das auf jeden Fall mal ausprobieren! Zusammen mit Pak Choi und Erdnusssoße bekommst Du damit Asien auf Deinen Teller und kannst alles zusammen genießen. Guten Appetit!",
+  "descriptionHTML": "<p>Hast Du schon mal Tofu gebacken? Wenn nicht, solltest Du das auf jeden Fall mal ausprobieren! Zusammen mit Pak Choi und Erdnusssoße bekommst Du damit Asien auf Deinen Teller und kannst alles zusammen genießen. Guten Appetit!</p>",
+  "descriptionMarkdown": "Hast Du schon mal Tofu gebacken? Wenn nicht, solltest Du das auf jeden Fall mal ausprobieren! Zusammen mit Pak Choi und Erdnusssoße bekommst Du damit Asien auf Deinen Teller und kannst alles zusammen genießen. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT35M",
+  "totalTime": null,
+  "servingSize": 350,
+  "createdAt": "2016-11-29T08:57:06+00:00",
+  "updatedAt": "2017-05-03T16:35:38+00:00",
+  "link": "https://hellofresh.com/recipes/583d42e4c6243b385821fd12",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/asiatisch-gebackener-tofu-aee49de3.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/asiatisch-gebackener-tofu-e35cc6ec.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3306,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 790,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 38,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 64,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 41,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 2,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "57d7d42d16a866aa1c8b4568",
+      "type": "vollkornreis",
+      "name": "Vollkornreis",
+      "slug": "vollkornreis",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/57d7d42d16a866aa1c8b4567-e1efc6c9.png",
+      "usage": 6,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1c",
+        "type": "rice",
+        "name": "Reis",
+        "slug": "reis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1c-0b4adebd.png",
+        "usageByCountry": {
+          "AT": 540,
+          "AU": 405,
+          "BE": 265,
+          "CA": 169,
+          "CH": 114,
+          "DE": 505,
+          "ER": 39,
+          "FR": 79,
+          "GB": 480,
+          "LU": 361,
+          "NL": 319,
+          "NZ": 107,
+          "ML": 328,
+          "US": 527
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556841a94dab71d81c8b4568",
+      "type": "tofu",
+      "name": "Tofu",
+      "slug": "tofu",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556841a94dab71d81c8b4568.png",
+      "usage": 22,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f9",
+          "type": "soya",
+          "name": "Soja",
+          "slug": "soja",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+          "usage": 390
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc44",
+        "type": "tofu",
+        "name": "Tofu",
+        "slug": "tofu",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc44-7698781a.png",
+        "usageByCountry": {
+          "AT": 34,
+          "AU": 59,
+          "BE": 19,
+          "CA": 13,
+          "CH": 5,
+          "DE": 35,
+          "ER": 0,
+          "FR": 8,
+          "GB": 12,
+          "LU": 15,
+          "NL": 26,
+          "NZ": 15,
+          "ML": 0,
+          "US": 7
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "568cda9efd2cb95e708b4567",
+      "type": "baby pak choi",
+      "name": "Baby-Pak-Choi",
+      "slug": "baby-pak-choi",
+      "description": null,
+      "internalName": "Baby Pak Choi",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/568cda9efd2cb95e708b4567.png",
+      "usage": 35,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb38",
+        "type": "asian-greens",
+        "name": "Asiatische Grüns",
+        "slug": "asiatische-gruns",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb38-12c78968.png",
+        "usageByCountry": {
+          "AT": 107,
+          "AU": 112,
+          "BE": 71,
+          "CA": 26,
+          "CH": 17,
+          "DE": 77,
+          "ER": 0,
+          "FR": 21,
+          "GB": 53,
+          "LU": 92,
+          "NL": 78,
+          "NZ": 26,
+          "ML": 0,
+          "US": 68
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555343affd2cb990798b4568",
+      "type": "erdnussbutter",
+      "name": "Erdnussbutter",
+      "slug": "erdnussbutter",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555343affd2cb990798b4568.png",
+      "usage": 67,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f8",
+          "type": "peanuts",
+          "name": "Erdnüsse",
+          "slug": "erdnusse",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+          "usage": 120
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc01",
+        "type": "peanut-butter",
+        "name": "Erdnussbutter",
+        "slug": "erdnussbutter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc01-0ad0cf66.png",
+        "usageByCountry": {
+          "AT": 73,
+          "AU": 0,
+          "BE": 38,
+          "CA": 15,
+          "CH": 17,
+          "DE": 67,
+          "ER": 1,
+          "FR": 7,
+          "GB": 6,
+          "LU": 35,
+          "NL": 46,
+          "NZ": 0,
+          "ML": 0,
+          "US": 24
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7d36fd2cb9d8608b4570",
+      "type": "sojasoße",
+      "name": "Sojasoße",
+      "slug": "sojasosze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/554b7d36fd2cb9d8608b4570-f4ba216b.png",
+      "usage": 287,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f9",
+          "type": "soya",
+          "name": "Soja",
+          "slug": "soja",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+          "usage": 390
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc30",
+        "type": "soy-sauce",
+        "name": "Sojasauce",
+        "slug": "sojasauce",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc30-32ed361d.png",
+        "usageByCountry": {
+          "AT": 343,
+          "AU": 281,
+          "BE": 313,
+          "CA": 104,
+          "CH": 80,
+          "DE": 287,
+          "ER": 30,
+          "FR": 79,
+          "GB": 283,
+          "LU": 353,
+          "NL": 307,
+          "NZ": 116,
+          "ML": 6,
+          "US": 323
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c1a254dab71af3b8b4567",
+      "type": "sweet-chili-sosze",
+      "name": "Sweet-Chili-Soße",
+      "slug": "sweet-chili-sosze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c1a254dab71af3b8b4567.png",
+      "usage": 48,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6f",
+        "type": "chili-sauce",
+        "name": "Chilisoße",
+        "slug": "chilisosze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6f-c927cff8.png",
+        "usageByCountry": {
+          "AT": 108,
+          "AU": 71,
+          "BE": 70,
+          "CA": 48,
+          "CH": 20,
+          "DE": 106,
+          "ER": 12,
+          "FR": 23,
+          "GB": 81,
+          "LU": 123,
+          "NL": 96,
+          "NZ": 29,
+          "ML": 73,
+          "US": 127
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3507f8b25ef93e8b4570",
+      "type": "cashewkerne",
+      "name": "Cashewkerne",
+      "slug": "cashewkerne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3507f8b25ef93e8b4570.png",
+      "usage": 98,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "type": "soya",
+      "name": "Soja",
+      "slug": "soja",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "usage": 390
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f8",
+      "type": "peanuts",
+      "name": "Erdnüsse",
+      "slug": "erdnusse",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+      "usage": 120
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiatisch",
+      "slug": "asiatisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg",
+      "usage": 2484
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "57d7d42d16a866aa1c8b4568",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "556841a94dab71d81c8b4568",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "568cda9efd2cb95e708b4567",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "555343affd2cb990798b4568",
+          "amount": 45,
+          "unit": "g"
+        },
+        {
+          "id": "554b7d36fd2cb9d8608b4570",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "id": "556c1a254dab71af3b8b4567",
+          "amount": 22,
+          "unit": "ml"
+        },
+        {
+          "id": "554b3507f8b25ef93e8b4570",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Gemüse waschen. Alle Zutaten und Utensilien bereitstellen. 400 ml Wasser im Wasserkocher erhitzen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.\n\nVollkorn-Basmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. In einen kleinen Topf 400 ml heißes Wasser  füllen, salzen und einmal aufkochen lassen. Reis darin ca. 10 Min. garen, dann Deckel aufsetzen und ca. 10 Min. ziehen lassen.\n\nTIPP: Achte darauf, dass der Topf groß genug ist, damit Du später noch den Pak Choi hineinhängen kannst.",
+      "instructionsHTML": "<p>Vorbereitung: Gemüse waschen. Alle Zutaten und Utensilien bereitstellen. 400 ml Wasser im Wasserkocher erhitzen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.</p>\n<p>Vollkorn-Basmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. In einen kleinen Topf 400 ml heißes Wasser  füllen, salzen und einmal aufkochen lassen. Reis darin ca. 10 Min. garen, dann Deckel aufsetzen und ca. 10 Min. ziehen lassen.</p>\n<p>TIPP: Achte darauf, dass der Topf groß genug ist, damit Du später noch den Pak Choi hineinhängen kannst.</p>",
+      "instructions": "Vorbereitung: Gemüse waschen. Alle Zutaten und Utensilien bereitstellen. 400 ml Wasser im Wasserkocher erhitzen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.\nVollkorn-Basmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. In einen kleinen Topf 400 ml heißes Wasser füllen, salzen und einmal aufkochen lassen. Reis darin ca. 10 Min. garen, dann Deckel aufsetzen und ca. 10 Min. ziehen lassen.\nTIPP: Achte darauf, dass der Topf groß genug ist, damit Du später noch den Pak Choi hineinhängen kannst.",
+      "timers": [
+        {
+          "name": "Backofen vorheizen",
+          "duration": "PT20M",
+          "temperature": 180,
+          "temperatureUnit": "C",
+          "ovenMode": "PreHeating"
+        },
+        {
+          "name": "Reis garen",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b1c284dab71a9058b456b",
+        "57d7d42d16a866aa1c8b4568"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Tofu in 1-2 cm große, mundgerechte Stücke schneiden. Tofuwürfel mit Küchenpapier abtupfen, um die Feuchtigkeit aufzusaugen. Tofuwürfel auf einem mit Backpapier belegten Backblech verteilen und mit 2 TL Olivenöl beträufeln. Auf der mittleren Schiene im Backofen ca. 25 Min. backen, bis der Tofu knusprig ist, in der Zeit 2- bis 3-mal wenden. In der Zwischenzeit kannst Du mit dem nächsten Schritt fortfahren",
+      "instructionsHTML": "<p>Tofu in 1-2 cm große, mundgerechte Stücke schneiden. Tofuwürfel mit Küchenpapier abtupfen, um die Feuchtigkeit aufzusaugen. Tofuwürfel auf einem mit Backpapier belegten Backblech verteilen und mit 2 TL Olivenöl beträufeln. Auf der mittleren Schiene im Backofen ca. 25 Min. backen, bis der Tofu knusprig ist, in der Zeit 2- bis 3-mal wenden. In der Zwischenzeit kannst Du mit dem nächsten Schritt fortfahren</p>",
+      "instructions": "Tofu in 1-2 cm große, mundgerechte Stücke schneiden. Tofuwürfel mit Küchenpapier abtupfen, um die Feuchtigkeit aufzusaugen. Tofuwürfel auf einem mit Backpapier belegten Backblech verteilen und mit 2 TL Olivenöl beträufeln. Auf der mittleren Schiene im Backofen ca. 25 Min. backen, bis der Tofu knusprig ist, in der Zeit 2- bis 3-mal wenden. In der Zwischenzeit kannst Du mit dem nächsten Schritt fortfahren",
+      "timers": [
+        {
+          "name": "Tofuwürfel backen",
+          "duration": "PT25M",
+          "temperature": 180,
+          "temperatureUnit": "C",
+          "ovenMode": "HotAir"
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/583d42e4c6243b385821fd12-1-0-083f5ebf.jpg",
+          "caption": "Tofu in mundgerechte Stücke schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556841a94dab71d81c8b4568"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Baby-Pak-Choi grob zerkleinern, dann in das Sieb legen und ca. 5 Min vor Ende der Garzeit des Reises über den Topf hängen und so dampfgaren. Den Pak Choi mit abdecken während der Reis quillt.",
+      "instructionsHTML": "<p>Baby-Pak-Choi grob zerkleinern, dann in das Sieb legen und ca. 5 Min vor Ende der Garzeit des Reises über den Topf hängen und so dampfgaren. Den Pak Choi mit abdecken während der Reis quillt.</p>",
+      "instructions": "Baby-Pak-Choi grob zerkleinern, dann in das Sieb legen und ca. 5 Min vor Ende der Garzeit des Reises über den Topf hängen und so dampfgaren. Den Pak Choi mit abdecken während der Reis quillt.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/583d42e4c6243b385821fd12-2-0-8018ef22.jpg",
+          "caption": "Pak Choi grob zerkleinern"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "568cda9efd2cb95e708b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Für die Satay-Soße: In einer kleinen Schüssel Erdnussbutter, Sojasoße und Sweet Chili-Soße (Achtung scharf!) glattrühren.",
+      "instructionsHTML": "<p>Für die Satay-Soße: In einer kleinen Schüssel Erdnussbutter, Sojasoße und Sweet Chili-Soße (Achtung scharf!) glattrühren.</p>",
+      "instructions": "Für die Satay-Soße: In einer kleinen Schüssel Erdnussbutter, Sojasoße und Sweet Chili-Soße (Achtung scharf!) glattrühren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/583d42e4c6243b385821fd12-3-0-40b28325.jpg",
+          "caption": "Satay-Soße anrühren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555343affd2cb990798b4568",
+        "554b7d36fd2cb9d8608b4570",
+        "556c1a254dab71af3b8b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Nach der Backzeit die Tofuwürfel, zusammen mit dem gegarten Pak Choi, in eine große Schüssel geben und Satay-Soße unterheben.",
+      "instructionsHTML": "<p>Nach der Backzeit die Tofuwürfel, zusammen mit dem gegarten Pak Choi, in eine große Schüssel geben und Satay-Soße unterheben.</p>",
+      "instructions": "Nach der Backzeit die Tofuwürfel, zusammen mit dem gegarten Pak Choi, in eine große Schüssel geben und Satay-Soße unterheben.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/583d42e4c6243b385821fd12-4-0-222ced3c.jpg",
+          "caption": "Pak Choi und Satay-Soße"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Basmatireis nach der Quellzeit mit einer Gabel auflockern, dann auf Teller verteilen. Tofu-Pak-Choi-Mischung dazu anrichten, mit Cashewkernen bestreuen und genießen.",
+      "instructionsHTML": "<p>Basmatireis nach der Quellzeit mit einer Gabel auflockern, dann auf Teller verteilen. Tofu-Pak-Choi-Mischung dazu anrichten, mit Cashewkernen bestreuen und genießen.</p>",
+      "instructions": "Basmatireis nach der Quellzeit mit einer Gabel auflockern, dann auf Teller verteilen. Tofu-Pak-Choi-Mischung dazu anrichten, mit Cashewkernen bestreuen und genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 2.5,
+  "ratingsCount": 95,
+  "favoritesCount": 320,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/asiatisch-gebackener-tofu-583d42e4c6243b385821fd12",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

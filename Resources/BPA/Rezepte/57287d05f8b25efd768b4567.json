@@ -1,0 +1,952 @@
+{
+  "country": "DE",
+  "id": "57287d05f8b25efd768b4567",
+  "name": "Stamppot: Holländische Stampfkartoffeln",
+  "seoName": null,
+  "category": null,
+  "slug": "stamppot-hollandische-stampfkartoffeln",
+  "headline": "mit Birnen und Speck",
+  "description": "Stamppot ist ein traditionelles, niederländisches\nEintopfgericht aus zerstampften Kartoffeln und Gemüsesorten wie\nGrünkohl, Möhren oder Spinat. Bei unserem Stamppot haben wir\ngedünstete Birnen, gebratenen Bacon und knackigen Salat\nverwendet. Eet smakelijk!",
+  "descriptionHTML": "<p>Stamppot ist ein traditionelles, niederländisches\nEintopfgericht aus zerstampften Kartoffeln und Gemüsesorten wie\nGrünkohl, Möhren oder Spinat. Bei unserem Stamppot haben wir\ngedünstete Birnen, gebratenen Bacon und knackigen Salat\nverwendet. Eet smakelijk!</p>",
+  "descriptionMarkdown": "Stamppot ist ein traditionelles, niederländisches\nEintopfgericht aus zerstampften Kartoffeln und Gemüsesorten wie\nGrünkohl, Möhren oder Spinat. Bei unserem Stamppot haben wir\ngedünstete Birnen, gebratenen Bacon und knackigen Salat\nverwendet. Eet smakelijk!",
+  "seoDescription": "",
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT35M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-05-03T10:27:17+00:00",
+  "updatedAt": "2017-06-29T09:12:52+00:00",
+  "link": "https://hellofresh.com/recipes/57287d05f8b25efd768b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/stamppot-hollandische-stampfkartoffeln-8b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/stamppot-hollandische-stampfkartoffeln-108501d8.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3590,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 858,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 57,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 66,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 13,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 24,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "555da9624dab71591b8b4567",
+      "type": "birne",
+      "name": "Birne",
+      "slug": "birne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da9624dab71591b8b4567.png",
+      "usage": 44,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc03",
+        "type": "pear",
+        "name": "Birne",
+        "slug": "birne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc03-b735e9d7.png",
+        "usageByCountry": {
+          "AT": 47,
+          "AU": 14,
+          "BE": 71,
+          "CA": 2,
+          "CH": 7,
+          "DE": 44,
+          "ER": 0,
+          "FR": 6,
+          "GB": 1,
+          "LU": 58,
+          "NL": 120,
+          "NZ": 3,
+          "ML": 0,
+          "US": 15
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556dc0fef8b25ece738b4567",
+      "type": "zimtstange",
+      "name": "Zimtstange",
+      "slug": "zimtstange",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556dc0fef8b25ece738b4567.png",
+      "usage": 4,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb7a",
+        "type": "cinnamon",
+        "name": "Zimt",
+        "slug": "zimt",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb7a-a39ba132.png",
+        "usageByCountry": {
+          "AT": 30,
+          "AU": 6,
+          "BE": 111,
+          "CA": 8,
+          "CH": 6,
+          "DE": 16,
+          "ER": 0,
+          "FR": 6,
+          "GB": 114,
+          "LU": 69,
+          "NL": 129,
+          "NZ": 0,
+          "ML": 0,
+          "US": 24
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7144fd2cb911618b4567",
+      "type": "walnüsse",
+      "name": "Walnüsse",
+      "slug": "walnusse",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7144fd2cb911618b4567.png",
+      "usage": 162,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        },
+        {
+          "id": "57962a07b7e8697d4b3052fb",
+          "type": "nuts",
+          "name": "Schalenfrüchte",
+          "slug": "schalenfruchte",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+          "usage": 300
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5638d677fd2cb980678b4567",
+      "type": "bacon, gewürfelt",
+      "name": "gewürfelter Bacon",
+      "slug": "bacon-gewurfelt",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/5638d677fd2cb980678b4567-c3d57be4.png",
+      "usage": 10,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc12",
+        "type": "pork",
+        "name": "Schweinefleisch",
+        "slug": "schweinefleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc12-bdd443ff.png",
+        "usageByCountry": {
+          "AT": 486,
+          "AU": 290,
+          "BE": 179,
+          "CA": 134,
+          "CH": 113,
+          "DE": 455,
+          "ER": 54,
+          "FR": 58,
+          "GB": 613,
+          "LU": 212,
+          "NL": 191,
+          "NZ": 97,
+          "ML": 289,
+          "US": 624
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c0e3efd2cb9692b8b4568",
+      "type": "sahne",
+      "name": "Sahne",
+      "slug": "sahne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c0e3efd2cb9692b8b4568.png",
+      "usage": 176,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566f045fd2cb952018b456b",
+      "type": "muskatnuss, gemahlen",
+      "name": "Muskatnuss, gemahlen",
+      "slug": "muskatnuss-gemahlen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566f045fd2cb952018b456b.png",
+      "usage": 44,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe5",
+        "type": "nutmeg",
+        "name": "Muskatnuss",
+        "slug": "muskatnuss",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe5-5da7071b.png",
+        "usageByCountry": {
+          "AT": 89,
+          "AU": 2,
+          "BE": 28,
+          "CA": 1,
+          "CH": 16,
+          "DE": 88,
+          "ER": 0,
+          "FR": 6,
+          "GB": 1,
+          "LU": 49,
+          "NL": 41,
+          "NZ": 0,
+          "ML": 0,
+          "US": 23
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566ebf34dab71e6078b456b",
+      "type": "salatherz",
+      "name": "Salatherz",
+      "slug": "salatherz",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566ebf34dab71e6078b456b.png",
+      "usage": 256,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "type": "nuts",
+      "name": "Schalenfrüchte",
+      "slug": "schalenfruchte",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "usage": 300
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b3053a1",
+      "type": "smallpot",
+      "name": "Kleiner Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Kleine Schale"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Küchenpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305393",
+      "type": "potato-masher",
+      "name": "Kartoffelstampfer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305315",
+      "type": "gluten-free",
+      "name": "glutenfrei",
+      "slug": "glutenfrei",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-gluten%403x.png",
+      "numberOfRecipes": 2,
+      "numberOfRecipesByCountry": {
+        "AT": 210,
+        "AU": 209,
+        "BE": 573,
+        "CA": 39,
+        "CH": 41,
+        "DE": 206,
+        "ER": 0,
+        "FR": 154,
+        "GB": 2,
+        "LU": 745,
+        "NL": 677,
+        "NZ": 0,
+        "ML": 141,
+        "US": 663
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "555da9624dab71591b8b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556dc0fef8b25ece738b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "id": "554b7144fd2cb911618b4567",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "5638d677fd2cb980678b4567",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "556c0e3efd2cb9692b8b4568",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "id": "5566f045fd2cb952018b456b",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "5566ebf34dab71e6078b456b",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Obst, Gemüse und Kräuter waschen und putzen. Den Wasserkocher füllen und einschalten. \n\nBirnen schälen, Kerngehäuse entfernen und fein würfeln. In einem kleinen Topf Birnenwürfel und Zimtstange mit heißem Wasser bedecken, einmal aufkochen lassen und ca. 5 Min. bei mittlerer Hitze bissfest garen. Anschließend in ein Sieb abgießen, dabei das Birnenwasser auffangen, Zimtstange entfernen.",
+      "instructionsHTML": "<p>Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Obst, Gemüse und Kräuter waschen und putzen. Den Wasserkocher füllen und einschalten. </p>\n<p>Birnen schälen, Kerngehäuse entfernen und fein würfeln. In einem kleinen Topf Birnenwürfel und Zimtstange mit heißem Wasser bedecken, einmal aufkochen lassen und ca. 5 Min. bei mittlerer Hitze bissfest garen. Anschließend in ein Sieb abgießen, dabei das Birnenwasser auffangen, Zimtstange entfernen.</p>",
+      "instructions": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Obst, Gemüse und Kräuter waschen und putzen. Den Wasserkocher füllen und einschalten. \nBirnen schälen, Kerngehäuse entfernen und fein würfeln. In einem kleinen Topf Birnenwürfel und Zimtstange mit heißem Wasser bedecken, einmal aufkochen lassen und ca. 5 Min. bei mittlerer Hitze bissfest garen. Anschließend in ein Sieb abgießen, dabei das Birnenwasser auffangen, Zimtstange entfernen.",
+      "timers": [
+        {
+          "name": "Garzeit",
+          "duration": "PT05M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/57287d05f8b25efd768b4567/step_57289cba4ec90.jpg",
+          "caption": "Birne auskochen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555da9624dab71591b8b4567",
+        "556dc0fef8b25ece738b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a1",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Kartoffeln schälen und in ca. 3 cm große Würfel schneiden. In einem großen Topf reichlich Salzwasser zum Kochen bringen, Kartoffeln darin 10–15 Min. weich garen.",
+      "instructionsHTML": "<p>Kartoffeln schälen und in ca. 3 cm große Würfel schneiden. In einem großen Topf reichlich Salzwasser zum Kochen bringen, Kartoffeln darin 10–15 Min. weich garen.</p>",
+      "instructions": "Kartoffeln schälen und in ca. 3 cm große Würfel schneiden. In einem großen Topf reichlich Salzwasser zum Kochen bringen, Kartoffeln darin 10–15 Min. weich garen.",
+      "timers": [
+        {
+          "name": "Kartoffeln garen",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einer kleinen Pfanne Walnüsse ohne Fettzugabe rösten, bis sie duften. Anschließend in eine kleine Schüssel umfüllen.",
+      "instructionsHTML": "<p>In einer kleinen Pfanne Walnüsse ohne Fettzugabe rösten, bis sie duften. Anschließend in eine kleine Schüssel umfüllen.</p>",
+      "instructions": "In einer kleinen Pfanne Walnüsse ohne Fettzugabe rösten, bis sie duften. Anschließend in eine kleine Schüssel umfüllen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b7144fd2cb911618b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305380",
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Kleine Pfanne mit Küchenpapier auswischen, dann Baconwürfel darin ohne Fettzugabe ca. 5 Min. knusprig ausbraten.",
+      "instructionsHTML": "<p>Kleine Pfanne mit Küchenpapier auswischen, dann Baconwürfel darin ohne Fettzugabe ca. 5 Min. knusprig ausbraten.</p>",
+      "instructions": "Kleine Pfanne mit Küchenpapier auswischen, dann Baconwürfel darin ohne Fettzugabe ca. 5 Min. knusprig ausbraten.",
+      "timers": [
+        {
+          "name": "Bacon braten",
+          "duration": "PT05M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/57287d05f8b25efd768b4567/step_57289cba688c9.jpg",
+          "caption": "Bacon anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5638d677fd2cb980678b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305376",
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Birnen zum Bacon in die Pfanne geben und ca. 3 Min. mitbraten.",
+      "instructionsHTML": "<p>Birnen zum Bacon in die Pfanne geben und ca. 3 Min. mitbraten.</p>",
+      "instructions": "Birnen zum Bacon in die Pfanne geben und ca. 3 Min. mitbraten.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/57287d05f8b25efd768b4567/step_57289cba78958.jpg",
+          "caption": "Birne zugeben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555da9624dab71591b8b4567",
+        "5638d677fd2cb980678b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Kartoffeln in ein Sieb abgießen, dann zurück in den Topf geben. Dort mit 100 ml Sahne, etwas gemahlener Muskatnuss, ½ EL Butter mit einem Kartoffelstampfer zu einem feinen Püree verarbeiten. Mit Salz und Pfeffer abschmecken.\n\nTipp: Ist das Püree noch zu dick, ein wenig Birnenwasser zufügen und so eine cremige Konsistenz erreichen.",
+      "instructionsHTML": "<p>Kartoffeln in ein Sieb abgießen, dann zurück in den Topf geben. Dort mit 100 ml Sahne, etwas gemahlener Muskatnuss, ½ EL Butter mit einem Kartoffelstampfer zu einem feinen Püree verarbeiten. Mit Salz und Pfeffer abschmecken.</p>\n<p>Tipp: Ist das Püree noch zu dick, ein wenig Birnenwasser zufügen und so eine cremige Konsistenz erreichen.</p>",
+      "instructions": "Kartoffeln in ein Sieb abgießen, dann zurück in den Topf geben. Dort mit 100 ml Sahne, etwas gemahlener Muskatnuss, ½ EL Butter mit einem Kartoffelstampfer zu einem feinen Püree verarbeiten. Mit Salz und Pfeffer abschmecken.\nTipp: Ist das Püree noch zu dick, ein wenig Birnenwasser zufügen und so eine cremige Konsistenz erreichen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/57287d05f8b25efd768b4567/step_57289cba94fed.jpg",
+          "caption": "Kartoffeln stampfen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567",
+        "556c0e3efd2cb9692b8b4568",
+        "5566f045fd2cb952018b456b",
+        "554b2288f8b25ef93e8b456c",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305393",
+        "57e2674fb7e8697d4b305382",
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Salatherz in mundgerechte Stücke schneiden. Kurz vor dem Servieren Salat unter das Kartoffelpüree geben. Birnenstücke und Speck ebenfalls vorsichtig unterheben (etwas für die Dekoration zurückhalten).",
+      "instructionsHTML": "<p>Salatherz in mundgerechte Stücke schneiden. Kurz vor dem Servieren Salat unter das Kartoffelpüree geben. Birnenstücke und Speck ebenfalls vorsichtig unterheben (etwas für die Dekoration zurückhalten).</p>",
+      "instructions": "Salatherz in mundgerechte Stücke schneiden. Kurz vor dem Servieren Salat unter das Kartoffelpüree geben. Birnenstücke und Speck ebenfalls vorsichtig unterheben (etwas für die Dekoration zurückhalten).",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "555da9624dab71591b8b4567",
+        "5638d677fd2cb980678b4567",
+        "5566ebf34dab71e6078b456b"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 8,
+      "instructionsMarkdown": "Stamppot auf tiefen Tellern anrichten, restliche Birnenstücke und Speck darauf verteilen, mit Walnüssen bestreuen und genießen!",
+      "instructionsHTML": "<p>Stamppot auf tiefen Tellern anrichten, restliche Birnenstücke und Speck darauf verteilen, mit Walnüssen bestreuen und genießen!</p>",
+      "instructions": "Stamppot auf tiefen Tellern anrichten, restliche Birnenstücke und Speck darauf verteilen, mit Walnüssen bestreuen und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.2,
+  "ratingsCount": 395,
+  "favoritesCount": 428,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/stamppot-hollandische-stampfkartoffeln-57287d05f8b25efd768b4567",
+  "clonedFrom": null,
+  "canonical": "57287d05f8b25efd768b4567",
+  "canonicalLink": "https://www.hellofresh.de/recipes/stamppot-hollandische-stampfkartoffeln-57287d05f8b25efd768b4567"
+}

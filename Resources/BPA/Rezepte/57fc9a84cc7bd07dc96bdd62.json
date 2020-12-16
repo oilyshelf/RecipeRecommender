@@ -1,0 +1,1154 @@
+{
+  "country": "DE",
+  "id": "57fc9a84cc7bd07dc96bdd62",
+  "name": "Kumpir mit Gemüse und Radieschen-Sprossen",
+  "seoName": null,
+  "category": null,
+  "slug": "kumpir-mit-gemuse-und-radieschen",
+  "headline": "dazu Kräuterquark",
+  "description": "Wir mögen lila Lebensmittel! Deshalb bekommst Du dieses Mal Radieschen-Sprossen. Diese bilden durch die enthaltenen Senföle einen angenehmen, scharfen Gegensatz zur gefüllten Süßkartoffel. Zudem enthalten diese scharfen Sprossen viele B-Vitamine, Eisen und Magnesium! Ein Allround-tolles-Topping, guten Appetit!",
+  "descriptionHTML": "<p>Wir mögen lila Lebensmittel! Deshalb bekommst Du dieses Mal Radieschen-Sprossen. Diese bilden durch die enthaltenen Senföle einen angenehmen, scharfen Gegensatz zur gefüllten Süßkartoffel. Zudem enthalten diese scharfen Sprossen viele B-Vitamine, Eisen und Magnesium! Ein Allround-tolles-Topping, guten Appetit!</p>",
+  "descriptionMarkdown": "Wir mögen lila Lebensmittel! Deshalb bekommst Du dieses Mal Radieschen-Sprossen. Diese bilden durch die enthaltenen Senföle einen angenehmen, scharfen Gegensatz zur gefüllten Süßkartoffel. Zudem enthalten diese scharfen Sprossen viele B-Vitamine, Eisen und Magnesium! Ein Allround-tolles-Topping, guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT40M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-10-11T07:53:38+00:00",
+  "updatedAt": "2017-04-20T09:40:25+00:00",
+  "link": "https://hellofresh.com/recipes/57fc9a84cc7bd07dc96bdd62",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/kumpir-mit-gemuse-und-radieschen-6f63d624.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/kumpir-mit-gemuse-und-radieschen-6af49079.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3209,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 767,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 24,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 98,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 13,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 36,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b1a294dab71a6058b4570",
+      "type": "suszkartoffeln",
+      "name": "Süßkartoffel",
+      "slug": "suszkartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1a294dab71a6058b4570.png",
+      "usage": 226,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b200f4dab71aa058b456f",
+      "type": "parmesan d.o.p.",
+      "name": "Parmesan D.O.P.",
+      "slug": "parmesan-d-o-p",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b200f4dab71aa058b456f.png",
+      "usage": 168,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d77624dab7150498b4568",
+      "type": "radieschen",
+      "name": "Radieschen",
+      "slug": "radieschen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d77624dab7150498b4568.png",
+      "usage": 73,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc19",
+        "type": "radish",
+        "name": "Rettich",
+        "slug": "rettich",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc19-7a28dd12.png",
+        "usageByCountry": {
+          "AT": 99,
+          "AU": 5,
+          "BE": 65,
+          "CA": 21,
+          "CH": 19,
+          "DE": 82,
+          "ER": 2,
+          "FR": 7,
+          "GB": 18,
+          "LU": 39,
+          "NL": 64,
+          "NZ": 1,
+          "ML": 0,
+          "US": 56
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "57970b9592eec915528b4568",
+      "type": "kaiserschoten",
+      "name": "Kaiserschoten",
+      "slug": "kaiserschoten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/57970b9592eec915528b4568-993ad423.png",
+      "usage": 14,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbae",
+        "type": "green-peas",
+        "name": "Grüne Erbsen",
+        "slug": "grune-erbsen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbae-9058d045.png",
+        "usageByCountry": {
+          "AT": 46,
+          "AU": 141,
+          "BE": 22,
+          "CA": 49,
+          "CH": 5,
+          "DE": 44,
+          "ER": 49,
+          "FR": 6,
+          "GB": 77,
+          "LU": 14,
+          "NL": 29,
+          "NZ": 19,
+          "ML": 9,
+          "US": 505
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27e6fd2cb983608b4569",
+      "type": "fruhlingszwiebeln",
+      "name": "Frühlingszwiebel",
+      "slug": "fruhlingszwiebeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27e6fd2cb983608b4569.png",
+      "usage": 514,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc35",
+        "type": "spring-onion",
+        "name": "Frühlingszwiebel",
+        "slug": "fruhlingszwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc35-03c06826.png",
+        "usageByCountry": {
+          "AT": 575,
+          "AU": 0,
+          "BE": 15,
+          "CA": 0,
+          "CH": 113,
+          "DE": 514,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 421,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d8a7c4dab713d4a8b4567",
+      "type": "fleichtomate",
+      "name": "Fleischtomate",
+      "slug": "fleichtomate",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/556d8a7c4dab713d4a8b4567-c0d60da2.png",
+      "usage": 41,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34b64dab71aa058b4573",
+      "type": "petersilie",
+      "name": "Petersilie",
+      "slug": "petersilie",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34b64dab71aa058b4573.png",
+      "usage": 861,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55534596f8b25ea1038b4569",
+      "type": "schnittlauch",
+      "name": "Schnittlauch",
+      "slug": "schnittlauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55534596f8b25ea1038b4569.png",
+      "usage": 358,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb74",
+        "type": "chives",
+        "name": "Schnittlauch",
+        "slug": "schnittlauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb74-921bfcce.png",
+        "usageByCountry": {
+          "AT": 382,
+          "AU": 32,
+          "BE": 85,
+          "CA": 38,
+          "CH": 68,
+          "DE": 358,
+          "ER": 0,
+          "FR": 30,
+          "GB": 71,
+          "LU": 117,
+          "NL": 104,
+          "NZ": 20,
+          "ML": 0,
+          "US": 80
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d60474dab71ef488b4569",
+      "type": "magerquark",
+      "name": "Magerquark",
+      "slug": "magerquark",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d60474dab71ef488b4569.png",
+      "usage": 3,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55683289f8b25e623e8b4568",
+      "type": "ricotta",
+      "name": "Ricotta",
+      "slug": "ricotta",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55683289f8b25e623e8b4568.png",
+      "usage": 37,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c08624dab7169208b4568",
+      "type": "tomatenmark",
+      "name": "Tomatenmark",
+      "slug": "tomatenmark",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c08624dab7169208b4568.png",
+      "usage": 133,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc45",
+        "type": "tomato-paste",
+        "name": "Tomatenmark",
+        "slug": "tomatenmark",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc45-d192dac7.png",
+        "usageByCountry": {
+          "AT": 196,
+          "AU": 184,
+          "BE": 72,
+          "CA": 92,
+          "CH": 41,
+          "DE": 135,
+          "ER": 4,
+          "FR": 41,
+          "GB": 389,
+          "LU": 145,
+          "NL": 90,
+          "NZ": 61,
+          "ML": 66,
+          "US": 86
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5784ba10f31cf1d52d8b4567",
+      "type": "sprossen",
+      "name": "Sprossen",
+      "slug": "sprossen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5784ba10f31cf1d52d8b4567.png",
+      "usage": 6,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4d",
+        "type": "beansprouts",
+        "name": "Bohnensprossen",
+        "slug": "bohnensprossen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4d-97617471.png",
+        "usageByCountry": {
+          "AT": 24,
+          "AU": 2,
+          "BE": 0,
+          "CA": 0,
+          "CH": 6,
+          "DE": 24,
+          "ER": 0,
+          "FR": 0,
+          "GB": 13,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536d",
+      "type": "fork",
+      "name": "Gabel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536e",
+      "type": "grater",
+      "name": "Reibe"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305320",
+      "type": "high-fiber",
+      "name": "ballaststoffreich",
+      "slug": "ballaststoffreich",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 817,
+      "numberOfRecipesByCountry": {
+        "AT": 303,
+        "AU": 121,
+        "BE": 17,
+        "CA": 0,
+        "CH": 47,
+        "DE": 310,
+        "ER": 0,
+        "FR": 0,
+        "GB": 1,
+        "LU": 1,
+        "NL": 17,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305315",
+      "type": "gluten-free",
+      "name": "glutenfrei",
+      "slug": "glutenfrei",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-gluten%403x.png",
+      "numberOfRecipes": 2,
+      "numberOfRecipesByCountry": {
+        "AT": 210,
+        "AU": 209,
+        "BE": 573,
+        "CA": 39,
+        "CH": 41,
+        "DE": 206,
+        "ER": 0,
+        "FR": 154,
+        "GB": 2,
+        "LU": 745,
+        "NL": 677,
+        "NZ": 0,
+        "ML": 141,
+        "US": 663
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b1a294dab71a6058b4570",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b200f4dab71aa058b456f",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "id": "556d77624dab7150498b4568",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "57970b9592eec915528b4568",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "556d8a7c4dab713d4a8b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "556d60474dab71ef488b4569",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "55683289f8b25e623e8b4568",
+          "amount": 125,
+          "unit": "g"
+        },
+        {
+          "id": "556c08624dab7169208b4568",
+          "amount": 1,
+          "unit": "Esslöffel"
+        },
+        {
+          "id": "5784ba10f31cf1d52d8b4567",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.\n\nUngeschälte Süßkartoffeln längs halbieren und mit der Schnittseite nach unten auf ein mit Backpapier belegtes Backblech legen. Auf der mittleren Schiene im Backofen ca. 25 Min. backen, bis sie weich sind. Parmesan reiben. Nach dem Backen die Hälften umdrehen und das Innere mit einer Gabel zerdrücken. In jeder Hälfte ½ EL Butter und je ¼ des geriebenen Parmesans untermischen.",
+      "instructionsHTML": "<p>Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.</p>\n<p>Ungeschälte Süßkartoffeln längs halbieren und mit der Schnittseite nach unten auf ein mit Backpapier belegtes Backblech legen. Auf der mittleren Schiene im Backofen ca. 25 Min. backen, bis sie weich sind. Parmesan reiben. Nach dem Backen die Hälften umdrehen und das Innere mit einer Gabel zerdrücken. In jeder Hälfte ½ EL Butter und je ¼ des geriebenen Parmesans untermischen.</p>",
+      "instructions": "Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.\nUngeschälte Süßkartoffeln längs halbieren und mit der Schnittseite nach unten auf ein mit Backpapier belegtes Backblech legen. Auf der mittleren Schiene im Backofen ca. 25 Min. backen, bis sie weich sind. Parmesan reiben. Nach dem Backen die Hälften umdrehen und das Innere mit einer Gabel zerdrücken. In jeder Hälfte ½ EL Butter und je ¼ des geriebenen Parmesans untermischen.",
+      "timers": [
+        {
+          "name": "Backofen vorheizen",
+          "duration": "PT20M",
+          "temperature": 180,
+          "temperatureUnit": "C",
+          "ovenMode": "PreHeating"
+        },
+        {
+          "name": "Süßkartoffel backen",
+          "duration": "PT25M",
+          "temperature": 180,
+          "temperatureUnit": "C",
+          "ovenMode": "HotAir"
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57fc9a84cc7bd07dc96bdd62-0-0-439421b7.jpg",
+          "caption": "Süßkartoffeln auf ein Backblech legen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1a294dab71a6058b4570",
+        "554b200f4dab71aa058b456f",
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b30536d",
+        "57e2674fb7e8697d4b30536e",
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b305377"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Währenddessen: Radieschen in dünne Scheiben schneiden, Kaiserschoten dritteln, Frühlingszwiebeln in Ringe schneiden, Fleischtomate halbieren, Strunk entfernen, dann würfeln.",
+      "instructionsHTML": "<p>Währenddessen: Radieschen in dünne Scheiben schneiden, Kaiserschoten dritteln, Frühlingszwiebeln in Ringe schneiden, Fleischtomate halbieren, Strunk entfernen, dann würfeln.</p>",
+      "instructions": "Währenddessen: Radieschen in dünne Scheiben schneiden, Kaiserschoten dritteln, Frühlingszwiebeln in Ringe schneiden, Fleischtomate halbieren, Strunk entfernen, dann würfeln.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57fc9a84cc7bd07dc96bdd62-1-0-c308ab94.jpg",
+          "caption": "Kaiserschoten dritteln"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556d77624dab7150498b4568",
+        "57970b9592eec915528b4568",
+        "554b27e6fd2cb983608b4569",
+        "556d8a7c4dab713d4a8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einer großen Pfanne 1 TL Olivenöl erhitzen, Kaiserschotendrittel, Tomatenwürfel und Frühlingszwiebelringe darin bei mittlerer Hitze ca. 5 Min. anbraten. Kräftig mit Salz und Pfeffer würzen und abschmecken.",
+      "instructionsHTML": "<p>In einer großen Pfanne 1 TL Olivenöl erhitzen, Kaiserschotendrittel, Tomatenwürfel und Frühlingszwiebelringe darin bei mittlerer Hitze ca. 5 Min. anbraten. Kräftig mit Salz und Pfeffer würzen und abschmecken.</p>",
+      "instructions": "In einer großen Pfanne 1 TL Olivenöl erhitzen, Kaiserschotendrittel, Tomatenwürfel und Frühlingszwiebelringe darin bei mittlerer Hitze ca. 5 Min. anbraten. Kräftig mit Salz und Pfeffer würzen und abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57fc9a84cc7bd07dc96bdd62-2-0-b828a7df.jpg",
+          "caption": "Gemüse anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b22cb4dab71c8058b4570",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Blätter der Petersilie abzupfen und fein hacken, Schnittlauch in Röllchen schneiden. Beides in einer kleinen Schüssel mit dem Magerquark vermischen (evtl. etwas Wasser zufügen, falls die Mischung zu dickflüssig ist). Mit Salz und Pfeffer abschmecken. In einer zweiten kleinen Schüssel Ricotta mit Tomatenmark vermischen, ebenfalls salzen und pfeffern.",
+      "instructionsHTML": "<p>Blätter der Petersilie abzupfen und fein hacken, Schnittlauch in Röllchen schneiden. Beides in einer kleinen Schüssel mit dem Magerquark vermischen (evtl. etwas Wasser zufügen, falls die Mischung zu dickflüssig ist). Mit Salz und Pfeffer abschmecken. In einer zweiten kleinen Schüssel Ricotta mit Tomatenmark vermischen, ebenfalls salzen und pfeffern.</p>",
+      "instructions": "Blätter der Petersilie abzupfen und fein hacken, Schnittlauch in Röllchen schneiden. Beides in einer kleinen Schüssel mit dem Magerquark vermischen (evtl. etwas Wasser zufügen, falls die Mischung zu dickflüssig ist). Mit Salz und Pfeffer abschmecken. In einer zweiten kleinen Schüssel Ricotta mit Tomatenmark vermischen, ebenfalls salzen und pfeffern.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57fc9a84cc7bd07dc96bdd62-3-0-45702711.jpg",
+          "caption": "Quark anrührern"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b34b64dab71aa058b4573",
+        "55534596f8b25ea1038b4569",
+        "556d60474dab71ef488b4569",
+        "55683289f8b25e623e8b4568",
+        "556c08624dab7169208b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Gebackene Süßkarto\u001f elhäl\u001e en mit Pfannengemüse, Radieschenscheiben und Ricotta-Tomatencreme füllen und mit Radieschen-Sprossen bestreuen. Kumpir zusammen mit Kräuterquark genießen.",
+      "instructionsHTML": "<p>Gebackene Süßkarto\u001f elhäl\u001e en mit Pfannengemüse, Radieschenscheiben und Ricotta-Tomatencreme füllen und mit Radieschen-Sprossen bestreuen. Kumpir zusammen mit Kräuterquark genießen.</p>",
+      "instructions": "Gebackene Süßkarto\u001f elhäl\u001e en mit Pfannengemüse, Radieschenscheiben und Ricotta-Tomatencreme füllen und mit Radieschen-Sprossen bestreuen. Kumpir zusammen mit Kräuterquark genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.3,
+  "ratingsCount": 53,
+  "favoritesCount": 214,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/kumpir-mit-gemuse-und-radieschen-57fc9a84cc7bd07dc96bdd62",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

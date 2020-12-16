@@ -1,0 +1,1009 @@
+{
+  "country": "DE",
+  "id": "580f3a5ecc7bd066374ff183",
+  "name": "Blumenkohl-Eintopf",
+  "seoName": null,
+  "category": null,
+  "slug": "blumenkohl-eintopf",
+  "headline": "mit knusprigem Pita-Brot",
+  "description": "Pita-Brot ist von Griechenland bis zum Nahen Osten verbreitet. In der Türkei ist es auch als Pide oder Börek bekannt. Hergestellt wird es aus Hefeteig und bestreut mit Schwarzkümmel oder Sesam. Knusprig gebacken ist es besonders lecker. Guten Appetit!",
+  "descriptionHTML": "<p>Pita-Brot ist von Griechenland bis zum Nahen Osten verbreitet. In der Türkei ist es auch als Pide oder Börek bekannt. Hergestellt wird es aus Hefeteig und bestreut mit Schwarzkümmel oder Sesam. Knusprig gebacken ist es besonders lecker. Guten Appetit!</p>",
+  "descriptionMarkdown": "Pita-Brot ist von Griechenland bis zum Nahen Osten verbreitet. In der Türkei ist es auch als Pide oder Börek bekannt. Hergestellt wird es aus Hefeteig und bestreut mit Schwarzkümmel oder Sesam. Knusprig gebacken ist es besonders lecker. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT35M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-10-25T10:56:30+00:00",
+  "updatedAt": "2017-05-07T19:20:09+00:00",
+  "link": "https://hellofresh.com/recipes/580f3a5ecc7bd066374ff183",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/blumenkohl-eintopf-8c152b66.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/blumenkohl-eintopf-941ea74f.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2657,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 635,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 32,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 67,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 17,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b7e9af8b25e2b448b456a",
+      "type": "blumenkohl",
+      "name": "Blumenkohl",
+      "slug": "blumenkohl",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7e9af8b25e2b448b456a.png",
+      "usage": 66,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb64",
+        "type": "cauliflower",
+        "name": "Blumenkohl",
+        "slug": "blumenkohl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb64-8ac4b2cb.png",
+        "usageByCountry": {
+          "AT": 66,
+          "AU": 47,
+          "BE": 53,
+          "CA": 18,
+          "CH": 8,
+          "DE": 66,
+          "ER": 0,
+          "FR": 2,
+          "GB": 23,
+          "LU": 35,
+          "NL": 57,
+          "NZ": 14,
+          "ML": 117,
+          "US": 69
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c09b7f8b25e74628b4567",
+      "type": "grüne paprika",
+      "name": "grüne Paprika",
+      "slug": "grune-paprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c09b7f8b25e74628b4567.png",
+      "usage": 37,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf8",
+        "type": "paprika-powder",
+        "name": "Paprikapulver",
+        "slug": "paprikapulver",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf8-57ddbd04.png",
+        "usageByCountry": {
+          "AT": 105,
+          "AU": 15,
+          "BE": 162,
+          "CA": 6,
+          "CH": 26,
+          "DE": 105,
+          "ER": 1,
+          "FR": 42,
+          "GB": 35,
+          "LU": 213,
+          "NL": 182,
+          "NZ": 0,
+          "ML": 0,
+          "US": 31
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5582cd024dab71bf498b4567",
+      "type": "speisestarke",
+      "name": "Kartoffelstärke",
+      "slug": "speisestarke",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5582cd024dab71bf498b4567.png",
+      "usage": 114,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba0",
+        "type": "flour",
+        "name": "Mehl",
+        "slug": "mehl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba0-03891dce.png",
+        "usageByCountry": {
+          "AT": 391,
+          "AU": 201,
+          "BE": 10,
+          "CA": 106,
+          "CH": 74,
+          "DE": 383,
+          "ER": 19,
+          "FR": 0,
+          "GB": 141,
+          "LU": 5,
+          "NL": 14,
+          "NZ": 74,
+          "ML": 9,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dbcb74dab714b1b8b4568",
+      "type": "gelbe-curry-paste",
+      "name": "gelbe Currypaste",
+      "slug": "gelbe-curry-paste",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dbcb74dab714b1b8b4568.png",
+      "usage": 60,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb8a",
+        "type": "curry",
+        "name": "Curry",
+        "slug": "curry",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb8a-43199cbe.png",
+        "usageByCountry": {
+          "AT": 166,
+          "AU": 61,
+          "BE": 155,
+          "CA": 16,
+          "CH": 36,
+          "DE": 148,
+          "ER": 0,
+          "FR": 35,
+          "GB": 159,
+          "LU": 163,
+          "NL": 177,
+          "NZ": 14,
+          "ML": 0,
+          "US": 21
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dbbe8fd2cb9c9768b4567",
+      "type": "kokosmilch",
+      "name": "Kokosmilch",
+      "slug": "kokosmilch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dbbe8fd2cb9c9768b4567.png",
+      "usage": 322,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb7e",
+        "type": "coconut-milk",
+        "name": "Kokosmilch",
+        "slug": "kokosmilch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb7e-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 374,
+          "AU": 60,
+          "BE": 137,
+          "CA": 27,
+          "CH": 66,
+          "DE": 322,
+          "ER": 0,
+          "FR": 30,
+          "GB": 115,
+          "LU": 157,
+          "NL": 160,
+          "NZ": 24,
+          "ML": 0,
+          "US": 22
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b6183fd2cb9d0608b456c",
+      "type": "pita-brote",
+      "name": "Pita-Brote",
+      "slug": "pita-brote",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b6183fd2cb9d0608b456c.png",
+      "usage": 41,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1e654dab71a6058b4571",
+      "type": "koriander",
+      "name": "Koriander",
+      "slug": "koriander",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1e654dab71a6058b4571.png",
+      "usage": 240,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb79",
+        "type": "cilantro-coriander",
+        "name": "Cilantro / Koriander",
+        "slug": "cilantro-koriander",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb79-7a34459a.png",
+        "usageByCountry": {
+          "AT": 253,
+          "AU": 387,
+          "BE": 166,
+          "CA": 173,
+          "CH": 75,
+          "DE": 240,
+          "ER": 3,
+          "FR": 66,
+          "GB": 542,
+          "LU": 305,
+          "NL": 193,
+          "NZ": 102,
+          "ML": 8,
+          "US": 432
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3639f8b25eef3e8b4575",
+      "type": "gemusebruhe-home",
+      "name": "Gemüsebrühe*",
+      "slug": "gemusebruhe",
+      "description": null,
+      "internalName": "Gemüsebrühe home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3639f8b25eef3e8b4575.png",
+      "usage": 441,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b30531a",
+      "type": "low-calorie",
+      "name": "leichter Genuss",
+      "slug": "leichter-genuss",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 4438,
+      "numberOfRecipesByCountry": {
+        "AT": 1377,
+        "AU": 144,
+        "BE": 299,
+        "CA": 0,
+        "CH": 139,
+        "DE": 1205,
+        "ER": 0,
+        "FR": 128,
+        "GB": 111,
+        "LU": 576,
+        "NL": 380,
+        "NZ": 79,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "scharf",
+      "slug": "scharf",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-spicy%403x.png",
+      "numberOfRecipes": 2399,
+      "numberOfRecipesByCountry": {
+        "AT": 200,
+        "AU": 107,
+        "BE": 147,
+        "CA": 71,
+        "CH": 53,
+        "DE": 211,
+        "ER": 103,
+        "FR": 0,
+        "GB": 497,
+        "LU": 54,
+        "NL": 149,
+        "NZ": 0,
+        "ML": 0,
+        "US": 807
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305311",
+      "type": "vegan",
+      "name": "Vegan",
+      "slug": "vegan",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200https://s3-eu-west-1.amazonaws.com/hf-recipes/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 229,
+      "numberOfRecipesByCountry": {
+        "AT": 61,
+        "AU": 16,
+        "BE": 1,
+        "CA": 1,
+        "CH": 6,
+        "DE": 59,
+        "ER": 0,
+        "FR": 0,
+        "GB": 40,
+        "LU": 0,
+        "NL": 0,
+        "NZ": 0,
+        "ML": 0,
+        "US": 45
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b7e9af8b25e2b448b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556c09b7f8b25e74628b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "5582cd024dab71bf498b4567",
+          "amount": 3,
+          "unit": "g"
+        },
+        {
+          "id": "555dbcb74dab714b1b8b4568",
+          "amount": 1,
+          "unit": "Esslöffel"
+        },
+        {
+          "id": "555dbbe8fd2cb9c9768b4567",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "id": "554b6183fd2cb9d0608b456c",
+          "amount": 3,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1e654dab71a6058b4571",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b3639f8b25eef3e8b4575",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten.\n\nBlumenkohl in feine Röschen aufteilen. Tomate halbieren, Strunk entfernen und grob hacken. Paprika halbieren, Kerngehäuse entfernen und in 1 cm breite Spalten schneiden. Zwiebel abziehen, halbieren und in feine Ringe schneiden.",
+      "instructionsHTML": "<p>Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten.</p>\n<p>Blumenkohl in feine Röschen aufteilen. Tomate halbieren, Strunk entfernen und grob hacken. Paprika halbieren, Kerngehäuse entfernen und in 1 cm breite Spalten schneiden. Zwiebel abziehen, halbieren und in feine Ringe schneiden.</p>",
+      "instructions": "Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten.\nBlumenkohl in feine Röschen aufteilen. Tomate halbieren, Strunk entfernen und grob hacken. Paprika halbieren, Kerngehäuse entfernen und in 1 cm breite Spalten schneiden. Zwiebel abziehen, halbieren und in feine Ringe schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/580f3a5ecc7bd066374ff183-0-0-7c5a7c12.jpg",
+          "caption": "Blumenkohl in feine Röschen aufteilen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b7e9af8b25e2b448b456a",
+        "554b2621fd2cb99c598b4576",
+        "556c09b7f8b25e74628b4567",
+        "554b34554dab71a6058b4576"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "In einer kleinen Schüssel Speisestärke mit 3 EL Wasser zu einer gleichmäßigen Paste verrühren. 100 ml heiße Gemüsebrühe vorbereiten und (je nach gewünschter Schärfe) ½ – 1 EL gelbe Currypaste einrühren.",
+      "instructionsHTML": "<p>In einer kleinen Schüssel Speisestärke mit 3 EL Wasser zu einer gleichmäßigen Paste verrühren. 100 ml heiße Gemüsebrühe vorbereiten und (je nach gewünschter Schärfe) ½ – 1 EL gelbe Currypaste einrühren.</p>",
+      "instructions": "In einer kleinen Schüssel Speisestärke mit 3 EL Wasser zu einer gleichmäßigen Paste verrühren. 100 ml heiße Gemüsebrühe vorbereiten und (je nach gewünschter Schärfe) ½ – 1 EL gelbe Currypaste einrühren.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "5582cd024dab71bf498b4567",
+        "554b3639f8b25eef3e8b4575",
+        "555dbcb74dab714b1b8b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einem großen Topf 1 TL Öl erhitzen, Zwiebelringe darin bei geringer bis mittlerer Hitze 5 – 7 Min. anschwitzen. Paprikaspalten zugeben und 3 – 5 Min. mitbraten. Blumenkohlröschen, gehackteTomate und ca. 3 Min. weiterbraten.",
+      "instructionsHTML": "<p>In einem großen Topf 1 TL Öl erhitzen, Zwiebelringe darin bei geringer bis mittlerer Hitze 5 – 7 Min. anschwitzen. Paprikaspalten zugeben und 3 – 5 Min. mitbraten. Blumenkohlröschen, gehackteTomate und ca. 3 Min. weiterbraten.</p>",
+      "instructions": "In einem großen Topf 1 TL Öl erhitzen, Zwiebelringe darin bei geringer bis mittlerer Hitze 5 – 7 Min. anschwitzen. Paprikaspalten zugeben und 3 – 5 Min. mitbraten. Blumenkohlröschen, gehackteTomate und ca. 3 Min. weiterbraten.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/580f3a5ecc7bd066374ff183-2-0-8fb44f4b.jpg",
+          "caption": "Paprikaspalten zugeben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Gemüse mit Kokosmilch und Gemüsebrühe ablöschen und ca. 8 – 10 Min. weiterköcheln lassen. Stärkepaste einrühren und je nach Geschmack mit etwas Salz und 1 Prise Zucker abschmecken.",
+      "instructionsHTML": "<p>Gemüse mit Kokosmilch und Gemüsebrühe ablöschen und ca. 8 – 10 Min. weiterköcheln lassen. Stärkepaste einrühren und je nach Geschmack mit etwas Salz und 1 Prise Zucker abschmecken.</p>",
+      "instructions": "Gemüse mit Kokosmilch und Gemüsebrühe ablöschen und ca. 8 – 10 Min. weiterköcheln lassen. Stärkepaste einrühren und je nach Geschmack mit etwas Salz und 1 Prise Zucker abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/580f3a5ecc7bd066374ff183-3-0-043b29f2.jpg",
+          "caption": "Mit Kokosmilch ablöschen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555dbbe8fd2cb9c9768b4567",
+        "554b1c284dab71a9058b456b",
+        "554b2319fd2cb9ba598b456d"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Währenddessen: Pita-Brote in einer kleinen Pfanne ohne Fettzugabe von beiden Seiten 1 – 2 Min. knusprig anrösten. Dann in Dreiecke schneiden.",
+      "instructionsHTML": "<p>Währenddessen: Pita-Brote in einer kleinen Pfanne ohne Fettzugabe von beiden Seiten 1 – 2 Min. knusprig anrösten. Dann in Dreiecke schneiden.</p>",
+      "instructions": "Währenddessen: Pita-Brote in einer kleinen Pfanne ohne Fettzugabe von beiden Seiten 1 – 2 Min. knusprig anrösten. Dann in Dreiecke schneiden.",
+      "timers": [
+        {
+          "name": "Pita aufbacken",
+          "duration": "PT05M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b6183fd2cb9d0608b456c"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305377"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Blätter vom Koriander abzupfen und grob hacken.",
+      "instructionsHTML": "<p>Blätter vom Koriander abzupfen und grob hacken.</p>",
+      "instructions": "Blätter vom Koriander abzupfen und grob hacken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/580f3a5ecc7bd066374ff183-5-0-0b5caef1.jpg",
+          "caption": "Blätter vom Koriander grob hacken."
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1e654dab71a6058b4571"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Blumenkohl-Eintopf auf Schüsseln verteilen und nach Belieben mit Koriander bestreuen. Zusammen mit knusprigen Pita-Brot-Dreiecken genießen.",
+      "instructionsHTML": "<p>Blumenkohl-Eintopf auf Schüsseln verteilen und nach Belieben mit Koriander bestreuen. Zusammen mit knusprigen Pita-Brot-Dreiecken genießen.</p>",
+      "instructions": "Blumenkohl-Eintopf auf Schüsseln verteilen und nach Belieben mit Koriander bestreuen. Zusammen mit knusprigen Pita-Brot-Dreiecken genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.5,
+  "ratingsCount": 300,
+  "favoritesCount": 966,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/blumenkohl-eintopf-580f3a5ecc7bd066374ff183",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

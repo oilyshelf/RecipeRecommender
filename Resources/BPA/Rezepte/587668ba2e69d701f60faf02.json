@@ -1,0 +1,958 @@
+{
+  "country": "DE",
+  "id": "587668ba2e69d701f60faf02",
+  "name": "Mohn-Schupfnudeln",
+  "seoName": null,
+  "category": null,
+  "slug": "mohn-schupfnudeln-n",
+  "headline": "mit Pflaumen-Kompott und Vanillesoße",
+  "description": "(Food)Love is in the air...! Passend zum Valentinstag in dieser Woche haben wir dieses traumhaft -leckere Gericht entwickelt. Überrasche Deine Liebste bzw. Deinen Liebsten bei einem schönen Dinner, denn Liebe geht ja bekanntermaßen durch den Magen! Einen wunderschönen Valentinstag.",
+  "descriptionHTML": "<p>(Food)Love is in the air...! Passend zum Valentinstag in dieser Woche haben wir dieses traumhaft -leckere Gericht entwickelt. Überrasche Deine Liebste bzw. Deinen Liebsten bei einem schönen Dinner, denn Liebe geht ja bekanntermaßen durch den Magen! Einen wunderschönen Valentinstag.</p>",
+  "descriptionMarkdown": "(Food)Love is in the air...! Passend zum Valentinstag in dieser Woche haben wir dieses traumhaft -leckere Gericht entwickelt. Überrasche Deine Liebste bzw. Deinen Liebsten bei einem schönen Dinner, denn Liebe geht ja bekanntermaßen durch den Magen! Einen wunderschönen Valentinstag.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 500,
+  "createdAt": "2017-01-11T17:17:46+00:00",
+  "updatedAt": "2017-05-02T18:11:07+00:00",
+  "link": "https://hellofresh.com/recipes/587668ba2e69d701f60faf02",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/mohn-schupfnudeln-n-c5270415.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/mohn-schupfnudeln-n-85fd8f4c.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2922,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 697,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 21,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 102,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 37,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 4,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "55cb7a5e4dab71b40d8b4567",
+      "type": "pflaumen",
+      "name": "Pflaumen",
+      "slug": "pflaumen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55cb7a5e4dab71b40d8b4567-ba851acb.png",
+      "usage": 11,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc0f",
+        "type": "plum",
+        "name": "Pflaume",
+        "slug": "pflaume",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc0f-14c2f58a.png",
+        "usageByCountry": {
+          "AT": 16,
+          "AU": 0,
+          "BE": 0,
+          "CA": 2,
+          "CH": 3,
+          "DE": 11,
+          "ER": 0,
+          "FR": 0,
+          "GB": 1,
+          "LU": 0,
+          "NL": 12,
+          "NZ": 0,
+          "ML": 0,
+          "US": 3
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55685f0df8b25e5b408b4568",
+      "type": "orange",
+      "name": "Orange",
+      "slug": "orange",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55685f0df8b25e5b408b4568.png",
+      "usage": 62,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbef",
+        "type": "orange",
+        "name": "Orange",
+        "slug": "orange",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbef-561baa16.png",
+        "usageByCountry": {
+          "AT": 63,
+          "AU": 18,
+          "BE": 130,
+          "CA": 19,
+          "CH": 17,
+          "DE": 67,
+          "ER": 0,
+          "FR": 19,
+          "GB": 26,
+          "LU": 126,
+          "NL": 211,
+          "NZ": 2,
+          "ML": 57,
+          "US": 59
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "564c9be7f8b25e9d1e8b4567",
+      "type": "brauner zucker",
+      "name": "brauner Zucker",
+      "slug": "brauner-zucker",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/564c9be7f8b25e9d1e8b4567.png",
+      "usage": 20,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5744088cf8b25eb3288b4567",
+      "type": "zimt, gemahlen",
+      "name": "Zimt, gemahlen",
+      "slug": "zimt-gemahlen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/5744088cf8b25eb3288b4567.png",
+      "usage": 12,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb7a",
+        "type": "cinnamon",
+        "name": "Zimt",
+        "slug": "zimt",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb7a-a39ba132.png",
+        "usageByCountry": {
+          "AT": 30,
+          "AU": 6,
+          "BE": 111,
+          "CA": 8,
+          "CH": 6,
+          "DE": 16,
+          "ER": 0,
+          "FR": 6,
+          "GB": 114,
+          "LU": 69,
+          "NL": 129,
+          "NZ": 0,
+          "ML": 0,
+          "US": 24
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "58355365a28e1a1891277de1",
+      "type": "vanille",
+      "name": "Bourbon-Vanille",
+      "slug": "vanille",
+      "description": null,
+      "internalName": "Vanille",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/58355365a28e1a1891277de1-fbdab283.png",
+      "usage": 5,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc4a",
+        "type": "vanilla",
+        "name": "Vanille",
+        "slug": "vanille",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc4a-45e5f8c3.png",
+        "usageByCountry": {
+          "AT": 4,
+          "AU": 0,
+          "BE": 3,
+          "CA": 0,
+          "CH": 1,
+          "DE": 5,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 5,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3300fd2cb973608b4569",
+      "type": "milch-home",
+      "name": "Milch*",
+      "slug": "milch",
+      "description": null,
+      "internalName": "Milch [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3300fd2cb973608b4569.png",
+      "usage": 111,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbd9",
+        "type": "milk",
+        "name": "Milch",
+        "slug": "milch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbd9-a1323e62.png",
+        "usageByCountry": {
+          "AT": 194,
+          "AU": 281,
+          "BE": 254,
+          "CA": 57,
+          "CH": 28,
+          "DE": 178,
+          "ER": 11,
+          "FR": 54,
+          "GB": 28,
+          "LU": 288,
+          "NL": 288,
+          "NZ": 102,
+          "ML": 11,
+          "US": 176
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5582c46bfd2cb9775c8b4567",
+      "type": "schupfnudeln",
+      "name": "Schupfnudeln",
+      "slug": "schupfnudeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5582c46bfd2cb9775c8b4567.png",
+      "usage": 21,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f6",
+          "type": "egg",
+          "name": "Ei",
+          "slug": "ei",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+          "usage": 365
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe4",
+        "type": "noodles",
+        "name": "Nudeln",
+        "slug": "nudeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe4-6d4a9c00.png",
+        "usageByCountry": {
+          "AT": 147,
+          "AU": 107,
+          "BE": 168,
+          "CA": 55,
+          "CH": 33,
+          "DE": 125,
+          "ER": 0,
+          "FR": 27,
+          "GB": 106,
+          "LU": 141,
+          "NL": 185,
+          "NZ": 13,
+          "ML": 121,
+          "US": 53
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "587666c94348d2280e068201",
+      "type": "mohn",
+      "name": "Mohn",
+      "slug": "mohn",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/587666c94348d2280e068201-52b7482b.png",
+      "usage": 2,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc2a",
+        "type": "seeds",
+        "name": "Saat",
+        "slug": "saat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc2a-b47cd032.png",
+        "usageByCountry": {
+          "AT": 170,
+          "AU": 54,
+          "BE": 143,
+          "CA": 19,
+          "CH": 30,
+          "DE": 147,
+          "ER": 0,
+          "FR": 39,
+          "GB": 81,
+          "LU": 175,
+          "NL": 177,
+          "NZ": 26,
+          "ML": 0,
+          "US": 67
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "56a8c56afd2cb9eb7b8b4567",
+      "type": "mandelstifte",
+      "name": "Mandelstifte",
+      "slug": "mandelstifte",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/56a8c56afd2cb9eb7b8b4567.png",
+      "usage": 15,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5582cd024dab71bf498b4567",
+      "type": "speisestarke",
+      "name": "Kartoffelstärke",
+      "slug": "speisestarke",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5582cd024dab71bf498b4567.png",
+      "usage": 114,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba0",
+        "type": "flour",
+        "name": "Mehl",
+        "slug": "mehl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba0-03891dce.png",
+        "usageByCountry": {
+          "AT": 391,
+          "AU": 201,
+          "BE": 10,
+          "CA": 106,
+          "CH": 74,
+          "DE": 383,
+          "ER": 19,
+          "FR": 0,
+          "GB": 141,
+          "LU": 5,
+          "NL": 14,
+          "NZ": 74,
+          "ML": 9,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "type": "egg",
+      "name": "Ei",
+      "slug": "ei",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "usage": 365
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b30530e",
+      "type": "under-30-minutes",
+      "name": "Zeit sparen",
+      "slug": "zeit-sparen",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/HF_Icon_App_LessThan30min.png",
+      "numberOfRecipes": 4370,
+      "numberOfRecipesByCountry": {
+        "AT": 1140,
+        "AU": 141,
+        "BE": 540,
+        "CA": 0,
+        "CH": 201,
+        "DE": 989,
+        "ER": 0,
+        "FR": 128,
+        "GB": 0,
+        "LU": 581,
+        "NL": 644,
+        "NZ": 0,
+        "ML": 0,
+        "US": 6
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "55cb7a5e4dab71b40d8b4567",
+          "amount": 3,
+          "unit": "Stück"
+        },
+        {
+          "id": "55685f0df8b25e5b408b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "564c9be7f8b25e9d1e8b4567",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "id": "5744088cf8b25eb3288b4567",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "58355365a28e1a1891277de1",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "554b3300fd2cb973608b4569",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "id": "5582c46bfd2cb9775c8b4567",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "587666c94348d2280e068201",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "56a8c56afd2cb9eb7b8b4567",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "5582cd024dab71bf498b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Obst waschen. Alle Zutaten und Utensilien bereitstellen.\n\nPflaumen halbieren, Kerne entfernen und grob zerkleinern. Schale der Orange abreiben, dann Saft auspressen.",
+      "instructionsHTML": "<p>Vorbereitung: Obst waschen. Alle Zutaten und Utensilien bereitstellen.</p>\n<p>Pflaumen halbieren, Kerne entfernen und grob zerkleinern. Schale der Orange abreiben, dann Saft auspressen.</p>",
+      "instructions": "Vorbereitung: Obst waschen. Alle Zutaten und Utensilien bereitstellen.\nPflaumen halbieren, Kerne entfernen und grob zerkleinern. Schale der Orange abreiben, dann Saft auspressen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/587668ba2e69d701f60faf02-0-0-b58d17f7.jpg",
+          "caption": "Pflaumen würfeln"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55685f0df8b25e5b408b4568",
+        "55cb7a5e4dab71b40d8b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Für das Pflaumen-Kompott: In einen kleinen Topf Pflaumenstücke, Gewürzmischung und Orangensaft geben und ca. 10 Min. bei mittlerer Hitze köcheln lassen. Die Flüssigkeit sollte sich dabei deutlich reduzieren, sodass ein Kompott entsteht. Zum Schluss etwas Orangenabrieb dazugeben.",
+      "instructionsHTML": "<p>Für das Pflaumen-Kompott: In einen kleinen Topf Pflaumenstücke, Gewürzmischung und Orangensaft geben und ca. 10 Min. bei mittlerer Hitze köcheln lassen. Die Flüssigkeit sollte sich dabei deutlich reduzieren, sodass ein Kompott entsteht. Zum Schluss etwas Orangenabrieb dazugeben.</p>",
+      "instructions": "Für das Pflaumen-Kompott: In einen kleinen Topf Pflaumenstücke, Gewürzmischung und Orangensaft geben und ca. 10 Min. bei mittlerer Hitze köcheln lassen. Die Flüssigkeit sollte sich dabei deutlich reduzieren, sodass ein Kompott entsteht. Zum Schluss etwas Orangenabrieb dazugeben.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/587668ba2e69d701f60faf02-1-0-9a5eead0.jpg",
+          "caption": "Pflaumenkompott"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "564c9be7f8b25e9d1e8b4567",
+        "5744088cf8b25eb3288b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Währenddessen: In einer kleinen Schüssel 1 TL Speisestärke mit etwas kaltem Wasser anrühren. In einem zweiten kleinen Topf Vollmilch, angerührte Speisestärke, Bourbon-Vanille und 1 EL Zucker unter ständigem Rühren einmal aufkochen lassen. Hitze etwas reduzieren, dabei immer weiterrühren und weiterköcheln lassen, bis die Soße etwas dicker wird. Dann Topf vom Herd nehmen.",
+      "instructionsHTML": "<p>Währenddessen: In einer kleinen Schüssel 1 TL Speisestärke mit etwas kaltem Wasser anrühren. In einem zweiten kleinen Topf Vollmilch, angerührte Speisestärke, Bourbon-Vanille und 1 EL Zucker unter ständigem Rühren einmal aufkochen lassen. Hitze etwas reduzieren, dabei immer weiterrühren und weiterköcheln lassen, bis die Soße etwas dicker wird. Dann Topf vom Herd nehmen.</p>",
+      "instructions": "Währenddessen: In einer kleinen Schüssel 1 TL Speisestärke mit etwas kaltem Wasser anrühren. In einem zweiten kleinen Topf Vollmilch, angerührte Speisestärke, Bourbon-Vanille und 1 EL Zucker unter ständigem Rühren einmal aufkochen lassen. Hitze etwas reduzieren, dabei immer weiterrühren und weiterköcheln lassen, bis die Soße etwas dicker wird. Dann Topf vom Herd nehmen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/587668ba2e69d701f60faf02-2-0-0bef6adb.jpg",
+          "caption": "Zucker zugeben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b3300fd2cb973608b4569",
+        "5582cd024dab71bf498b4567",
+        "58355365a28e1a1891277de1",
+        "554b2319fd2cb9ba598b456d"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer großen Pfanne 1 EL Butter erwärmen, Schupfnudeln darin bei mittlerer Hitze mit ½ EL Zucker ca. 5 Min. anbraten und dabei karamellisieren. Dann Mohn und Mandelstifte zufügen und ca. 2 Min. weiterbraten.",
+      "instructionsHTML": "<p>In einer großen Pfanne 1 EL Butter erwärmen, Schupfnudeln darin bei mittlerer Hitze mit ½ EL Zucker ca. 5 Min. anbraten und dabei karamellisieren. Dann Mohn und Mandelstifte zufügen und ca. 2 Min. weiterbraten.</p>",
+      "instructions": "In einer großen Pfanne 1 EL Butter erwärmen, Schupfnudeln darin bei mittlerer Hitze mit ½ EL Zucker ca. 5 Min. anbraten und dabei karamellisieren. Dann Mohn und Mandelstifte zufügen und ca. 2 Min. weiterbraten.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b2288f8b25ef93e8b456c",
+        "56a8c56afd2cb9eb7b8b4567",
+        "5582c46bfd2cb9775c8b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Mohn-Schupfnudeln auf tiefe Teller verteilen, zusammen mit Pflaumen-Kompott und Vanillesoße genießen.",
+      "instructionsHTML": "<p>Mohn-Schupfnudeln auf tiefe Teller verteilen, zusammen mit Pflaumen-Kompott und Vanillesoße genießen.</p>",
+      "instructions": "Mohn-Schupfnudeln auf tiefe Teller verteilen, zusammen mit Pflaumen-Kompott und Vanillesoße genießen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/587668ba2e69d701f60faf02-4-0-c5971b85.jpg",
+          "caption": "Schupfnudeln anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 2.8,
+  "ratingsCount": 250,
+  "favoritesCount": 498,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/mohn-schupfnudeln-n-587668ba2e69d701f60faf02",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

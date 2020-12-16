@@ -1,0 +1,1085 @@
+{
+  "country": "DE",
+  "id": "5513ea966ced6ee3448b4569",
+  "name": "Laugenknödel",
+  "seoName": null,
+  "category": null,
+  "slug": "laugenknodel",
+  "headline": "mit Kürbiskernöl auf Pilzragout",
+  "description": "Er wächst bei uns überall und wir essen ihn sehr gerne. Auch seine Kerne sind ein wahrer Genuss. Aber nur in der Steiermark weiß man, dass das Beste was der Kürbis zu bieten hat kaltgepresst aus seinen gerösteten Kernen kommt. Ein edler Tropfen, der es in sich hat. Guten Appetit.",
+  "descriptionHTML": "<p>Er wächst bei uns überall und wir essen ihn sehr gerne. Auch seine Kerne sind ein wahrer Genuss. Aber nur in der Steiermark weiß man, dass das Beste was der Kürbis zu bieten hat kaltgepresst aus seinen gerösteten Kernen kommt. Ein edler Tropfen, der es in sich hat. Guten Appetit.</p>",
+  "descriptionMarkdown": "Er wächst bei uns überall und wir essen ihn sehr gerne. Auch seine Kerne sind ein wahrer Genuss. Aber nur in der Steiermark weiß man, dass das Beste was der Kürbis zu bieten hat kaltgepresst aus seinen gerösteten Kernen kommt. Ein edler Tropfen, der es in sich hat. Guten Appetit.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-03-26T11:16:38+00:00",
+  "updatedAt": "2017-03-03T23:39:58+00:00",
+  "link": "https://hellofresh.com/recipes/5513ea966ced6ee3448b4569",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/5513ea966ced6ee3448b4569.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/5513ea966ced6ee3448b4569.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2468.56,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 590,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 39,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 41,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55534596f8b25ea1038b4569",
+      "type": "schnittlauch",
+      "name": "Schnittlauch",
+      "slug": "schnittlauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55534596f8b25ea1038b4569.png",
+      "usage": 358,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb74",
+        "type": "chives",
+        "name": "Schnittlauch",
+        "slug": "schnittlauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb74-921bfcce.png",
+        "usageByCountry": {
+          "AT": 382,
+          "AU": 32,
+          "BE": 85,
+          "CA": 38,
+          "CH": 68,
+          "DE": 358,
+          "ER": 0,
+          "FR": 30,
+          "GB": 71,
+          "LU": 117,
+          "NL": 104,
+          "NZ": 20,
+          "ML": 0,
+          "US": 80
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d8b05fd2cb945088b4568",
+      "type": "muskatnuss",
+      "name": "Muskatnuss",
+      "slug": "muskatnuss",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/556d8b05fd2cb945088b4568-e6db20ca.png",
+      "usage": 40,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe5",
+        "type": "nutmeg",
+        "name": "Muskatnuss",
+        "slug": "muskatnuss",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe5-5da7071b.png",
+        "usageByCountry": {
+          "AT": 89,
+          "AU": 2,
+          "BE": 28,
+          "CA": 1,
+          "CH": 16,
+          "DE": 88,
+          "ER": 0,
+          "FR": 6,
+          "GB": 1,
+          "LU": 49,
+          "NL": 41,
+          "NZ": 0,
+          "ML": 0,
+          "US": 23
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d8b7f4dab71b8498b4567",
+      "type": "laugenstange",
+      "name": "Laugenstange",
+      "slug": "laugenstange",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/556d8b7f4dab71b8498b4567-ed756b1e.png",
+      "usage": 11,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535721f8b25e8a038b4569",
+      "type": "braune champignons",
+      "name": "braune Champignons",
+      "slug": "braune-champignons",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55535721f8b25e8a038b4569-22f6a90e.png",
+      "usage": 399,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbde",
+        "type": "mushrooms",
+        "name": "Pilze",
+        "slug": "pilze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbde-4d22942c.png",
+        "usageByCountry": {
+          "AT": 558,
+          "AU": 96,
+          "BE": 230,
+          "CA": 75,
+          "CH": 86,
+          "DE": 484,
+          "ER": 1,
+          "FR": 60,
+          "GB": 207,
+          "LU": 251,
+          "NL": 280,
+          "NZ": 21,
+          "ML": 17,
+          "US": 209
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1f134dab71aa058b456e",
+      "type": "crème fraîche",
+      "name": "Crème fraîche",
+      "slug": "creme-fraiche",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1f134dab71aa058b456e.png",
+      "usage": 305,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb86",
+        "type": "creme-fraiche",
+        "name": "Crème Fraîche",
+        "slug": "creme-fraiche",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb86-533fc64c.png",
+        "usageByCountry": {
+          "AT": 321,
+          "AU": 0,
+          "BE": 119,
+          "CA": 0,
+          "CH": 81,
+          "DE": 305,
+          "ER": 0,
+          "FR": 21,
+          "GB": 328,
+          "LU": 127,
+          "NL": 144,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dab894dab714a1b8b4568",
+      "type": "kurbiskernol",
+      "name": "Kürbiskernöl",
+      "slug": "kurbiskernol",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dab894dab714a1b8b4568.png",
+      "usage": 31,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3354fd2cb9ba598b456e",
+      "type": "ei",
+      "name": "Ei*",
+      "slug": "ei",
+      "description": null,
+      "internalName": "Ei [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3354fd2cb9ba598b456e.png",
+      "usage": 46,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f6",
+          "type": "egg",
+          "name": "Ei",
+          "slug": "ei",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+          "usage": 365
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb94",
+        "type": "eggs",
+        "name": "Eier",
+        "slug": "eier",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb94-b612d37c.png",
+        "usageByCountry": {
+          "AT": 134,
+          "AU": 232,
+          "BE": 347,
+          "CA": 0,
+          "CH": 28,
+          "DE": 117,
+          "ER": 0,
+          "FR": 62,
+          "GB": 0,
+          "LU": 384,
+          "NL": 415,
+          "NZ": 111,
+          "ML": 48,
+          "US": 62
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "type": "egg",
+      "name": "Ei",
+      "slug": "ei",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "usage": 365
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30536e",
+      "type": "grater",
+      "name": "Reibe"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537f",
+      "type": "slottedspoon",
+      "name": "Schaumkelle"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053c1",
+      "type": "nordic",
+      "name": "Skandinavisch",
+      "slug": "skandinavisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053c1-96039e31.jpg",
+      "usage": 148
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "556d8b05fd2cb945088b4568",
+          "amount": 0.5,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556d8b7f4dab71b8498b4567",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55535721f8b25e8a038b4569",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "554b1f134dab71aa058b456e",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "555dab894dab714a1b8b4568",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "id": "554b3354fd2cb9ba598b456e",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.25,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "556d8b05fd2cb945088b4568",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556d8b7f4dab71b8498b4567",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55535721f8b25e8a038b4569",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "id": "554b1f134dab71aa058b456e",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "555dab894dab714a1b8b4568",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "id": "554b3354fd2cb9ba598b456e",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Zwiebel und Knoblauch schälen und fein würfeln. Schnittlauch waschen, trocken schütteln und in feine Röllchen schneiden. Ein wenig von der Muskatnuss fein reiben. Zitronenschale von einer halben Zitrone fein abreiben und Zitrone entsaften.",
+      "instructionsHTML": "<p>Zwiebel und Knoblauch schälen und fein würfeln. Schnittlauch waschen, trocken schütteln und in feine Röllchen schneiden. Ein wenig von der Muskatnuss fein reiben. Zitronenschale von einer halben Zitrone fein abreiben und Zitrone entsaften.</p>",
+      "instructions": "Zwiebel und Knoblauch schälen und fein würfeln. Schnittlauch waschen, trocken schütteln und in feine Röllchen schneiden. Ein wenig von der Muskatnuss fein reiben. Zitronenschale von einer halben Zitrone fein abreiben und Zitrone entsaften.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b34554dab71a6058b4576",
+        "554b268ffd2cb983608b4568",
+        "55534596f8b25ea1038b4569",
+        "554b1de2f8b25ef93e8b456b",
+        "556d8b05fd2cb945088b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536e"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Für den Knödelteig: Laugenstangen zunächst quer in ca. 0,5 cm dicke Scheiben schneiden und dann fein würfeln. Anschließend in eine Schüssel geben und mit 1 Ei, 1⁄3 des Schnittlauchs, Zitronenabrieb und etwas Salz und Pfeffer gut miteinander vermischen, bis es eine fast homogene Masse ergibt. Dann zugedeckt ziehen lassen.",
+      "instructionsHTML": "<p>Für den Knödelteig: Laugenstangen zunächst quer in ca. 0,5 cm dicke Scheiben schneiden und dann fein würfeln. Anschließend in eine Schüssel geben und mit 1 Ei, 1⁄3 des Schnittlauchs, Zitronenabrieb und etwas Salz und Pfeffer gut miteinander vermischen, bis es eine fast homogene Masse ergibt. Dann zugedeckt ziehen lassen.</p>",
+      "instructions": "Für den Knödelteig: Laugenstangen zunächst quer in ca. 0,5 cm dicke Scheiben schneiden und dann fein würfeln. Anschließend in eine Schüssel geben und mit 1 Ei, 1⁄3 des Schnittlauchs, Zitronenabrieb und etwas Salz und Pfeffer gut miteinander vermischen, bis es eine fast homogene Masse ergibt. Dann zugedeckt ziehen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5513ea966ced6ee3448b4569/step_556d9ecca167d.jpg",
+          "caption": "Den Teig zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55534596f8b25ea1038b4569",
+        "554b1de2f8b25ef93e8b456b",
+        "556d8b7f4dab71b8498b4567",
+        "554b3354fd2cb9ba598b456e",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einem großen Topf reichlich Salzwasser aufsetzen.",
+      "instructionsHTML": "<p>In einem großen Topf reichlich Salzwasser aufsetzen.</p>",
+      "instructions": "In einem großen Topf reichlich Salzwasser aufsetzen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In der Zwischenzeit die Pilze putzen (nicht waschen, sondern nur Schmutz abbürsten) und grob hacken.",
+      "instructionsHTML": "<p>In der Zwischenzeit die Pilze putzen (nicht waschen, sondern nur Schmutz abbürsten) und grob hacken.</p>",
+      "instructions": "In der Zwischenzeit die Pilze putzen (nicht waschen, sondern nur Schmutz abbürsten) und grob hacken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5513ea966ced6ee3448b4569/step_556d9eccb4ee6.jpg",
+          "caption": "Pilze säubern und hacken"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55535721f8b25e8a038b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Aus dem Knödelteig mit der Hand 8 gleichgroße Kugeln formen und wenn das Wasser kocht hineinwerfen. Dann die Temperatur herunter- drehen und die Knödel ca. 10-15 Min. ziehen lassen.",
+      "instructionsHTML": "<p>Aus dem Knödelteig mit der Hand 8 gleichgroße Kugeln formen und wenn das Wasser kocht hineinwerfen. Dann die Temperatur herunter- drehen und die Knödel ca. 10-15 Min. ziehen lassen.</p>",
+      "instructions": "Aus dem Knödelteig mit der Hand 8 gleichgroße Kugeln formen und wenn das Wasser kocht hineinwerfen. Dann die Temperatur herunter- drehen und die Knödel ca. 10-15 Min. ziehen lassen.",
+      "timers": [
+        {
+          "name": "Knödel ziehen lassen",
+          "duration": "PT15M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5513ea966ced6ee3448b4569/step_556d9ecccaaae.jpg",
+          "caption": "Die Knödel formen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "In einer großen Pfanne 1 EL Butter erhitzen und Zwiebeln darin 2-3 Min. glasig dünsten. Dann Knoblauch, Pilze und Salz und Pfeffer dazugeben und solange erhitzen, bis die Pilze anfangen Wasser von sich zu geben. Dann Muskatnuss, 2 EL Zitronensaft und Crème fraîche unter- heben und kurz erhitzen.",
+      "instructionsHTML": "<p>In einer großen Pfanne 1 EL Butter erhitzen und Zwiebeln darin 2-3 Min. glasig dünsten. Dann Knoblauch, Pilze und Salz und Pfeffer dazugeben und solange erhitzen, bis die Pilze anfangen Wasser von sich zu geben. Dann Muskatnuss, 2 EL Zitronensaft und Crème fraîche unter- heben und kurz erhitzen.</p>",
+      "instructions": "In einer großen Pfanne 1 EL Butter erhitzen und Zwiebeln darin 2-3 Min. glasig dünsten. Dann Knoblauch, Pilze und Salz und Pfeffer dazugeben und solange erhitzen, bis die Pilze anfangen Wasser von sich zu geben. Dann Muskatnuss, 2 EL Zitronensaft und Crème fraîche unter- heben und kurz erhitzen.",
+      "timers": [
+        {
+          "name": "Zwiebeln dünsten",
+          "duration": "PT3M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5513ea966ced6ee3448b4569/step_556d9eccf34f3.jpg",
+          "caption": "Die Pilze braten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b268ffd2cb983608b4568",
+        "55535721f8b25e8a038b4569",
+        "554b1f134dab71aa058b456e",
+        "554b1c284dab71a9058b456b",
+        "554b2288f8b25ef93e8b456c",
+        "554b1c56fd2cb99c598b4573",
+        "556d8b05fd2cb945088b4568"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Knödel mit einer Schaumkelle aus dem Wasser heben und sofort servieren.",
+      "instructionsHTML": "<p>Knödel mit einer Schaumkelle aus dem Wasser heben und sofort servieren.</p>",
+      "instructions": "Knödel mit einer Schaumkelle aus dem Wasser heben und sofort servieren.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537f"
+      ]
+    },
+    {
+      "index": 8,
+      "instructionsMarkdown": "Pilzragout und Knödel auf tiefe Teller verteilen, einige Tropfen Kürbiskernöl auf die Knödel geben und mit restlichem Schnittlauch bestreut genießen.",
+      "instructionsHTML": "<p>Pilzragout und Knödel auf tiefe Teller verteilen, einige Tropfen Kürbiskernöl auf die Knödel geben und mit restlichem Schnittlauch bestreut genießen.</p>",
+      "instructions": "Pilzragout und Knödel auf tiefe Teller verteilen, einige Tropfen Kürbiskernöl auf die Knödel geben und mit restlichem Schnittlauch bestreut genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "55534596f8b25ea1038b4569",
+        "555dab894dab714a1b8b4568"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.1,
+  "ratingsCount": 1309,
+  "favoritesCount": 356,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/laugenknodel-5513ea966ced6ee3448b4569",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

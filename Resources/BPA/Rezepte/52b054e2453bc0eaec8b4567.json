@@ -1,0 +1,776 @@
+{
+  "country": "DE",
+  "id": "52b054e2453bc0eaec8b4567",
+  "name": "Indisches Kartoffel Curry",
+  "seoName": null,
+  "category": null,
+  "slug": "indisches-kartoffel-curry",
+  "headline": "mit Kokosmilch auf Basmatireis",
+  "description": "",
+  "descriptionHTML": "",
+  "descriptionMarkdown": "",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2013-12-17T13:42:58+00:00",
+  "updatedAt": "2017-06-21T12:46:06+00:00",
+  "link": "https://hellofresh.com/recipes/52b054e2453bc0eaec8b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/52b054e2453bc0eaec8b4567.jpg",
+  "cardLink": null,
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2632,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 629,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 74,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "555dbbe8fd2cb9c9768b4567",
+      "type": "kokosmilch",
+      "name": "Kokosmilch",
+      "slug": "kokosmilch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dbbe8fd2cb9c9768b4567.png",
+      "usage": 322,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb7e",
+        "type": "coconut-milk",
+        "name": "Kokosmilch",
+        "slug": "kokosmilch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb7e-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 374,
+          "AU": 60,
+          "BE": 137,
+          "CA": 27,
+          "CH": 66,
+          "DE": 322,
+          "ER": 0,
+          "FR": 30,
+          "GB": 115,
+          "LU": 157,
+          "NL": 160,
+          "NZ": 24,
+          "ML": 0,
+          "US": 22
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7f33fd2cb96c628b456a",
+      "type": "ingwer",
+      "name": "Ingwer",
+      "slug": "ingwer",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7f33fd2cb96c628b456a.png",
+      "usage": 241,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba7",
+        "type": "ginger",
+        "name": "Ingwer",
+        "slug": "ingwer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba7-565cc248.png",
+        "usageByCountry": {
+          "AT": 278,
+          "AU": 225,
+          "BE": 200,
+          "CA": 107,
+          "CH": 52,
+          "DE": 241,
+          "ER": 20,
+          "FR": 57,
+          "GB": 231,
+          "LU": 241,
+          "NL": 220,
+          "NZ": 65,
+          "ML": 25,
+          "US": 246
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3534f8b25ef53e8b4575",
+      "type": "basmatireis",
+      "name": "Basmatireis",
+      "slug": "basmatireis",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3534f8b25ef53e8b4575.png",
+      "usage": 194,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1c",
+        "type": "rice",
+        "name": "Reis",
+        "slug": "reis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1c-0b4adebd.png",
+        "usageByCountry": {
+          "AT": 540,
+          "AU": 405,
+          "BE": 265,
+          "CA": 169,
+          "CH": 114,
+          "DE": 505,
+          "ER": 39,
+          "FR": 79,
+          "GB": 480,
+          "LU": 361,
+          "NL": 319,
+          "NZ": 107,
+          "ML": 328,
+          "US": 527
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c073ef8b25e18428b4569",
+      "type": "garam masala",
+      "name": "Garam Masala",
+      "slug": "garam-masala",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c073ef8b25e18428b4569.png",
+      "usage": 24,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbb9",
+        "type": "indian-spices",
+        "name": "Indische Gewürze",
+        "slug": "indische-gewurze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbb9-f423af47.png",
+        "usageByCountry": {
+          "AT": 88,
+          "AU": 38,
+          "BE": 1,
+          "CA": 38,
+          "CH": 18,
+          "DE": 89,
+          "ER": 0,
+          "FR": 2,
+          "GB": 73,
+          "LU": 4,
+          "NL": 6,
+          "NZ": 9,
+          "ML": 0,
+          "US": 5
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1e654dab71a6058b4571",
+      "type": "koriander",
+      "name": "Koriander",
+      "slug": "koriander",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1e654dab71a6058b4571.png",
+      "usage": 240,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb79",
+        "type": "cilantro-coriander",
+        "name": "Cilantro / Koriander",
+        "slug": "cilantro-koriander",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb79-7a34459a.png",
+        "usageByCountry": {
+          "AT": 253,
+          "AU": 387,
+          "BE": 166,
+          "CA": 173,
+          "CH": 75,
+          "DE": 240,
+          "ER": 3,
+          "FR": 66,
+          "GB": 542,
+          "LU": 305,
+          "NL": 193,
+          "NZ": 102,
+          "ML": 8,
+          "US": 432
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535a9af8b25e78738b4568",
+      "type": "joghurt",
+      "name": "Joghurt",
+      "slug": "joghurt",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55535a9af8b25e78738b4568.png",
+      "usage": 234,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc57",
+        "type": "yoghurt",
+        "name": "Jo­ghurt",
+        "slug": "joghurt",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc57-825533d1.png",
+        "usageByCountry": {
+          "AT": 464,
+          "AU": 272,
+          "BE": 368,
+          "CA": 43,
+          "CH": 101,
+          "DE": 434,
+          "ER": 0,
+          "FR": 31,
+          "GB": 207,
+          "LU": 341,
+          "NL": 408,
+          "NZ": 78,
+          "ML": 8,
+          "US": 48
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    }
+  ],
+  "tags": [],
+  "cuisines": [],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "555dbbe8fd2cb9c9768b4567",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7f33fd2cb96c628b456a",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "id": "554b3534f8b25ef53e8b4575",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "556c073ef8b25e18428b4569",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "id": "554b1e654dab71a6058b4571",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 7,
+          "unit": "Stück"
+        },
+        {
+          "id": "55535a9af8b25e78738b4568",
+          "amount": 75,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "555dbbe8fd2cb9c9768b4567",
+          "amount": null,
+          "unit": "ml"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": null,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": null,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7f33fd2cb96c628b456a",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "554b3534f8b25ef53e8b4575",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "556c073ef8b25e18428b4569",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "554b1e654dab71a6058b4571",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": null,
+          "unit": "Stück"
+        },
+        {
+          "id": "55535a9af8b25e78738b4568",
+          "amount": null,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "**Zwiebel** abziehen und fein würfeln. **Knoblauch** abziehen und fein hacken. Vom **Ingwer** die Schale mit Hilfe eines Löffels abschaben, anschließend fein reiben. **Kartoffeln** waschen und vierteln. **Koriander** grob hacken. 200 ml heiße **Gemüsebrühe** je 2 Personen zubereiten.",
+      "instructionsHTML": "<p><strong>Zwiebel</strong> abziehen und fein würfeln. <strong>Knoblauch</strong> abziehen und fein hacken. Vom <strong>Ingwer</strong> die Schale mit Hilfe eines Löffels abschaben, anschließend fein reiben. <strong>Kartoffeln</strong> waschen und vierteln. <strong>Koriander</strong> grob hacken. 200 ml heiße <strong>Gemüsebrühe</strong> je 2 Personen zubereiten.</p>",
+      "instructions": "Zwiebel abziehen und fein würfeln. Knoblauch abziehen und fein hacken. Vom Ingwer die Schale mit Hilfe eines Löffels abschaben, anschließend fein reiben. Kartoffeln waschen und vierteln. Koriander grob hacken. 200 ml heiße Gemüsebrühe je 2 Personen zubereiten.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b7f33fd2cb96c628b456a",
+        "554b25fcfd2cb973608b4567",
+        "554b268ffd2cb983608b4568",
+        "554b1e654dab71a6058b4571",
+        "554b34554dab71a6058b4576"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "1 EL **Öl** je 2 Personen in einem großen Topf erwärmen. **Zwiebel** darin ca. 3 Min. glasig dünsten. Anschließend **Garam Masala, Knoblauch** und **Ingwer** zugeben und ca. 2 weitere Min. braten bis alles duftet.",
+      "instructionsHTML": "<p>1 EL <strong>Öl</strong> je 2 Personen in einem großen Topf erwärmen. <strong>Zwiebel</strong> darin ca. 3 Min. glasig dünsten. Anschließend <strong>Garam Masala, Knoblauch</strong> und <strong>Ingwer</strong> zugeben und ca. 2 weitere Min. braten bis alles duftet.</p>",
+      "instructions": "1 EL Öl je 2 Personen in einem großen Topf erwärmen. Zwiebel darin ca. 3 Min. glasig dünsten. Anschließend Garam Masala, Knoblauch und Ingwer zugeben und ca. 2 weitere Min. braten bis alles duftet.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556c073ef8b25e18428b4569",
+        "554b7f33fd2cb96c628b456a",
+        "554b34554dab71a6058b4576"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "**Kartoffeln** dazugeben, in den **Gewürzen** und **Öl** werden und mit **Kokosmilch, Brühe** und **Cherry-Tomaten** ablöschen. Mit **Salz** und 1 Prise **Zucker** würzen. Anschließend ca. 20 Min. zugedeckt köcheln lassen, bis die **Kartoffeln** gar sind. Falls das Curry zu trocken wirkt, einfach etwas mehr **Brühe** hinzufügen.",
+      "instructionsHTML": "<p><strong>Kartoffeln</strong> dazugeben, in den <strong>Gewürzen</strong> und <strong>Öl</strong> werden und mit <strong>Kokosmilch, Brühe</strong> und <strong>Cherry-Tomaten</strong> ablöschen. Mit <strong>Salz</strong> und 1 Prise <strong>Zucker</strong> würzen. Anschließend ca. 20 Min. zugedeckt köcheln lassen, bis die <strong>Kartoffeln</strong> gar sind. Falls das Curry zu trocken wirkt, einfach etwas mehr <strong>Brühe</strong> hinzufügen.</p>",
+      "instructions": "Kartoffeln dazugeben, in den Gewürzen und Öl werden und mit Kokosmilch, Brühe und Cherry-Tomaten ablöschen. Mit Salz und 1 Prise Zucker würzen. Anschließend ca. 20 Min. zugedeckt köcheln lassen, bis die Kartoffeln gar sind. Falls das Curry zu trocken wirkt, einfach etwas mehr Brühe hinzufügen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b7f33fd2cb96c628b456a",
+        "554b25fcfd2cb973608b4567",
+        "555dbbe8fd2cb9c9768b4567",
+        "554b1e654dab71a6058b4571",
+        "554b2621fd2cb99c598b4576"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In der Zwischenzeit: **Reis** in einem Sieb solange mit kaltem Wasser abbrausen bis das Wasser klar durchfließt. 300 ml Wasser je Personen mit etwas **Salz** zum Kochen bringen und den **Reis** einrühren. Einmal aufkochen lassen, abdecken, und auf niedriger Hitze ca. 10 Min. köcheln lassen. Anschließend von der Herdplatte ziehen und mindestens 10 Min. bedeckt stehen lassen.",
+      "instructionsHTML": "<p>In der Zwischenzeit: <strong>Reis</strong> in einem Sieb solange mit kaltem Wasser abbrausen bis das Wasser klar durchfließt. 300 ml Wasser je Personen mit etwas <strong>Salz</strong> zum Kochen bringen und den <strong>Reis</strong> einrühren. Einmal aufkochen lassen, abdecken, und auf niedriger Hitze ca. 10 Min. köcheln lassen. Anschließend von der Herdplatte ziehen und mindestens 10 Min. bedeckt stehen lassen.</p>",
+      "instructions": "In der Zwischenzeit: Reis in einem Sieb solange mit kaltem Wasser abbrausen bis das Wasser klar durchfließt. 300 ml Wasser je Personen mit etwas Salz zum Kochen bringen und den Reis einrühren. Einmal aufkochen lassen, abdecken, und auf niedriger Hitze ca. 10 Min. köcheln lassen. Anschließend von der Herdplatte ziehen und mindestens 10 Min. bedeckt stehen lassen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b3534f8b25ef53e8b4575"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "**Reis** mit einer Gabel auflockern, auf Tellern verteilen, **Curry** darauf anrichten und nach Belieben mit **Koriander** bestreut und mit einem Klecks **Joghurt** genießen.",
+      "instructionsHTML": "<p><strong>Reis</strong> mit einer Gabel auflockern, auf Tellern verteilen, <strong>Curry</strong> darauf anrichten und nach Belieben mit <strong>Koriander</strong> bestreut und mit einem Klecks <strong>Joghurt</strong> genießen.</p>",
+      "instructions": "Reis mit einer Gabel auflockern, auf Tellern verteilen, Curry darauf anrichten und nach Belieben mit Koriander bestreut und mit einem Klecks Joghurt genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "55535a9af8b25e78738b4568",
+        "554b1e654dab71a6058b4571"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.5,
+  "ratingsCount": 10,
+  "favoritesCount": 69,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/indisches-kartoffel-curry-52b054e2453bc0eaec8b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

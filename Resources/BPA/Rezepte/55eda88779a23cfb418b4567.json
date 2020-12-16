@@ -1,0 +1,1019 @@
+{
+  "country": "DE",
+  "id": "55eda88779a23cfb418b4567",
+  "name": "Glasierte Schweinelachssteaks mit krossen Rosmarin-Kartoffeln",
+  "seoName": null,
+  "category": null,
+  "slug": "glasierte-schweinelachssteaks-mit-krossen-rosmarin-kartoffeln",
+  "headline": "und Rahmspinat",
+  "description": "",
+  "descriptionHTML": "",
+  "descriptionMarkdown": null,
+  "seoDescription": "",
+  "comment": "Kannst Du Dich noch an den mit dem „Blubb“ erinnern?\nFalls ja, vergiss ihn. Selbst gemachter cremiger Spinat schmeckt\nviel besser. Zudem passt er nicht nur farblich, sondern auch\ngeschmacklich prima zu unseren süß-sauer glasierten Steaks\nund den Backofenkartoffeln. Lass es Dir schmecken!",
+  "difficulty": 2,
+  "prepTime": "PT35M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-09-07T15:08:55+00:00",
+  "updatedAt": "2017-07-19T09:03:01+00:00",
+  "link": "https://hellofresh.com/recipes/55eda88779a23cfb418b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/55eda88779a23cfb418b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/55eda88779a23cfb418b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2690,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 643,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 28,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 51,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 37,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "55704ae24dab71b7688b4569",
+      "type": "schweinelachssteaks",
+      "name": "Schweinelachssteaks",
+      "slug": "schweinelachssteaks",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55704ae24dab71b7688b4569-ba0d9b29.png",
+      "usage": 47,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc12",
+        "type": "pork",
+        "name": "Schweinefleisch",
+        "slug": "schweinefleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc12-bdd443ff.png",
+        "usageByCountry": {
+          "AT": 486,
+          "AU": 290,
+          "BE": 179,
+          "CA": 134,
+          "CH": 113,
+          "DE": 455,
+          "ER": 54,
+          "FR": 58,
+          "GB": 613,
+          "LU": 212,
+          "NL": 191,
+          "NZ": 97,
+          "ML": 289,
+          "US": 624
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556843e14dab71ca1c8b4568",
+      "type": "rosmarin zweig",
+      "name": "Rosmarin Zweig",
+      "slug": "rosmarin-zweig",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556843e14dab71ca1c8b4568.png",
+      "usage": 38,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1f",
+        "type": "rosemary",
+        "name": "Rosmarin",
+        "slug": "rosmarin",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1f-4ba602ae.png",
+        "usageByCountry": {
+          "AT": 225,
+          "AU": 75,
+          "BE": 121,
+          "CA": 52,
+          "CH": 43,
+          "DE": 221,
+          "ER": 2,
+          "FR": 29,
+          "GB": 104,
+          "LU": 131,
+          "NL": 145,
+          "NZ": 19,
+          "ML": 0,
+          "US": 126
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55534d6dfd2cb92b1a8b456c",
+      "type": "spinat",
+      "name": "Spinat",
+      "slug": "spinat",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55534d6dfd2cb92b1a8b456c.png",
+      "usage": 55,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc34",
+        "type": "spinach",
+        "name": "Spinat",
+        "slug": "spinat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc34-2105763d.png",
+        "usageByCountry": {
+          "AT": 279,
+          "AU": 393,
+          "BE": 203,
+          "CA": 89,
+          "CH": 61,
+          "DE": 266,
+          "ER": 0,
+          "FR": 63,
+          "GB": 243,
+          "LU": 261,
+          "NL": 228,
+          "NZ": 108,
+          "ML": 157,
+          "US": 141
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1f134dab71aa058b456e",
+      "type": "crème fraîche",
+      "name": "Crème fraîche",
+      "slug": "creme-fraiche",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1f134dab71aa058b456e.png",
+      "usage": 305,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb86",
+        "type": "creme-fraiche",
+        "name": "Crème Fraîche",
+        "slug": "creme-fraiche",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb86-533fc64c.png",
+        "usageByCountry": {
+          "AT": 321,
+          "AU": 0,
+          "BE": 119,
+          "CA": 0,
+          "CH": 81,
+          "DE": 305,
+          "ER": 0,
+          "FR": 21,
+          "GB": 328,
+          "LU": 127,
+          "NL": 144,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d8b05fd2cb945088b4568",
+      "type": "muskatnuss",
+      "name": "Muskatnuss",
+      "slug": "muskatnuss",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/556d8b05fd2cb945088b4568-e6db20ca.png",
+      "usage": 40,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe5",
+        "type": "nutmeg",
+        "name": "Muskatnuss",
+        "slug": "muskatnuss",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe5-5da7071b.png",
+        "usageByCountry": {
+          "AT": 89,
+          "AU": 2,
+          "BE": 28,
+          "CA": 1,
+          "CH": 16,
+          "DE": 88,
+          "ER": 0,
+          "FR": 6,
+          "GB": 1,
+          "LU": 49,
+          "NL": 41,
+          "NZ": 0,
+          "ML": 0,
+          "US": 23
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7d614dab71160d8b456b",
+      "type": "honig-home",
+      "name": "Honig*",
+      "slug": "honig",
+      "description": null,
+      "internalName": "Honig [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7d614dab71160d8b456b.png",
+      "usage": 203,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbb3",
+        "type": "honey",
+        "name": "Honig",
+        "slug": "honig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbb3-efe0c124.png",
+        "usageByCountry": {
+          "AT": 360,
+          "AU": 274,
+          "BE": 368,
+          "CA": 136,
+          "CH": 83,
+          "DE": 326,
+          "ER": 12,
+          "FR": 77,
+          "GB": 224,
+          "LU": 363,
+          "NL": 442,
+          "NZ": 139,
+          "ML": 1,
+          "US": 303
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535e24f8b25e78738b4569",
+      "type": "senf",
+      "name": "Senf",
+      "slug": "senf",
+      "description": null,
+      "internalName": "Senf home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55535e24f8b25e78738b4569.png",
+      "usage": 102,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fd",
+          "type": "mustard",
+          "name": "Senf",
+          "slug": "senf",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+          "usage": 158
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbdf",
+        "type": "mustard",
+        "name": "Senf",
+        "slug": "senf",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbdf-bd28b3fe.png",
+        "usageByCountry": {
+          "AT": 411,
+          "AU": 149,
+          "BE": 262,
+          "CA": 135,
+          "CH": 75,
+          "DE": 361,
+          "ER": 7,
+          "FR": 68,
+          "GB": 159,
+          "LU": 354,
+          "NL": 295,
+          "NZ": 42,
+          "ML": 1,
+          "US": 175
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "type": "mustard",
+      "name": "Senf",
+      "slug": "senf",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "usage": 158
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Pürierstab"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Küchenpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [],
+  "cuisines": [],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "55704ae24dab71b7688b4569",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "id": "556843e14dab71ca1c8b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55534d6dfd2cb92b1a8b456c",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "554b1f134dab71aa058b456e",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "556d8b05fd2cb945088b4568",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b7d614dab71160d8b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55535e24f8b25e78738b4569",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Backofen auf 220° C Ober-/Unterhitze (200° C Umluft) vorheizen. Schweinelachssteaks aus dem Kühlschrank nehmen, damit sie Zimmertemperatur annehmen können.",
+      "instructionsHTML": "<p>Backofen auf 220° C Ober-/Unterhitze (200° C Umluft) vorheizen. Schweinelachssteaks aus dem Kühlschrank nehmen, damit sie Zimmertemperatur annehmen können.</p>",
+      "instructions": "Backofen auf 220° C Ober-/Unterhitze (200° C Umluft) vorheizen. Schweinelachssteaks aus dem Kühlschrank nehmen, damit sie Zimmertemperatur annehmen können.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "55704ae24dab71b7688b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Kartoffeln schälen und in ca. 2 cm große Würfel schneiden. Rosmarin waschen, trocken schütteln, Nadeln abzupfen und fein schneiden. Kartoffeln mit 1 EL Olivenöl, Rosmarin und etwas Salz und Pfeffer auf einem mit Backpapier belegten tiefen Backblech verteilen. Auf der mittleren Schiene des Ofens 25–30 Min. garen (in dieser Zeit 2–3-mal wenden).",
+      "instructionsHTML": "<p>Kartoffeln schälen und in ca. 2 cm große Würfel schneiden. Rosmarin waschen, trocken schütteln, Nadeln abzupfen und fein schneiden. Kartoffeln mit 1 EL Olivenöl, Rosmarin und etwas Salz und Pfeffer auf einem mit Backpapier belegten tiefen Backblech verteilen. Auf der mittleren Schiene des Ofens 25–30 Min. garen (in dieser Zeit 2–3-mal wenden).</p>",
+      "instructions": "Kartoffeln schälen und in ca. 2 cm große Würfel schneiden. Rosmarin waschen, trocken schütteln, Nadeln abzupfen und fein schneiden. Kartoffeln mit 1 EL Olivenöl, Rosmarin und etwas Salz und Pfeffer auf einem mit Backpapier belegten tiefen Backblech verteilen. Auf der mittleren Schiene des Ofens 25–30 Min. garen (in dieser Zeit 2–3-mal wenden).",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55eda88779a23cfb418b4567/step_55f2c5cba6aed.jpg",
+          "caption": "Kartoffeln schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567",
+        "556843e14dab71ca1c8b4568",
+        "554b22cb4dab71c8058b4570",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Zwiebel und Knoblauch abziehen und klein schneiden. Spinat waschen und in einem Sieb abtropfen lassen.",
+      "instructionsHTML": "<p>Zwiebel und Knoblauch abziehen und klein schneiden. Spinat waschen und in einem Sieb abtropfen lassen.</p>",
+      "instructions": "Zwiebel und Knoblauch abziehen und klein schneiden. Spinat waschen und in einem Sieb abtropfen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55eda88779a23cfb418b4567/step_55f2c5cd6460e.jpg",
+          "caption": "Zwiebel und Knoblauch zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b34554dab71a6058b4576",
+        "554b268ffd2cb983608b4568",
+        "55534d6dfd2cb92b1a8b456c"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer großen beschichteten Pfanne ½ EL Butter erwärmen. Zwiebel zugeben und 3–4 Min. glasig andünsten. Dann Spinat nach und nach zugeben und unter Wenden zerfallen lassen. Anschließend mit einem Kochlöffel möglichst viel überschüssige Flüssigkeit herausdrücken. In einem Mixer oder hohen Rührgefäß mit einem Pürierstab Spinat mit Knoblauch, 1 EL Crème fraîche und ein wenig Salz, Pfeffer und Muskat fein pürieren.",
+      "instructionsHTML": "<p>In einer großen beschichteten Pfanne ½ EL Butter erwärmen. Zwiebel zugeben und 3–4 Min. glasig andünsten. Dann Spinat nach und nach zugeben und unter Wenden zerfallen lassen. Anschließend mit einem Kochlöffel möglichst viel überschüssige Flüssigkeit herausdrücken. In einem Mixer oder hohen Rührgefäß mit einem Pürierstab Spinat mit Knoblauch, 1 EL Crème fraîche und ein wenig Salz, Pfeffer und Muskat fein pürieren.</p>",
+      "instructions": "In einer großen beschichteten Pfanne ½ EL Butter erwärmen. Zwiebel zugeben und 3–4 Min. glasig andünsten. Dann Spinat nach und nach zugeben und unter Wenden zerfallen lassen. Anschließend mit einem Kochlöffel möglichst viel überschüssige Flüssigkeit herausdrücken. In einem Mixer oder hohen Rührgefäß mit einem Pürierstab Spinat mit Knoblauch, 1 EL Crème fraîche und ein wenig Salz, Pfeffer und Muskat fein pürieren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55eda88779a23cfb418b4567/step_55f2c6450b356.jpg",
+          "caption": "Zwiebeln anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b34554dab71a6058b4576",
+        "554b268ffd2cb983608b4568",
+        "55534d6dfd2cb92b1a8b456c",
+        "556d8b05fd2cb945088b4568",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b2288f8b25ef93e8b456c",
+        "554b1f134dab71aa058b456e"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373",
+        "57e2674fb7e8697d4b3053a0"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Schweinelachssteaks mit Küchenpapier trocken tupfen. Pfanne mit Küchenpapier auswischen, darin 1 EL Olivenöl bei mittlerer Hitze erwärmen. Steaks ca. 2 Min. je Seite anbraten. Für die Glasur ½ EL Honig, ½ EL körnigen Senf und 1 ½ EL Wasser zum Fleisch geben und 1 Min. alles ein wenig weiter einköcheln lassen. Rahm-Spinat in einem kleinen Topf noch einmal vorsichtig erwärmen, nicht mehr kochen.",
+      "instructionsHTML": "<p>Schweinelachssteaks mit Küchenpapier trocken tupfen. Pfanne mit Küchenpapier auswischen, darin 1 EL Olivenöl bei mittlerer Hitze erwärmen. Steaks ca. 2 Min. je Seite anbraten. Für die Glasur ½ EL Honig, ½ EL körnigen Senf und 1 ½ EL Wasser zum Fleisch geben und 1 Min. alles ein wenig weiter einköcheln lassen. Rahm-Spinat in einem kleinen Topf noch einmal vorsichtig erwärmen, nicht mehr kochen.</p>",
+      "instructions": "Schweinelachssteaks mit Küchenpapier trocken tupfen. Pfanne mit Küchenpapier auswischen, darin 1 EL Olivenöl bei mittlerer Hitze erwärmen. Steaks ca. 2 Min. je Seite anbraten. Für die Glasur ½ EL Honig, ½ EL körnigen Senf und 1 ½ EL Wasser zum Fleisch geben und 1 Min. alles ein wenig weiter einköcheln lassen. Rahm-Spinat in einem kleinen Topf noch einmal vorsichtig erwärmen, nicht mehr kochen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55eda88779a23cfb418b4567/step_55f2c64527a2b.jpg",
+          "caption": "Schweinelachssteak zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55704ae24dab71b7688b4569",
+        "55534d6dfd2cb92b1a8b456c",
+        "554b22cb4dab71c8058b4570",
+        "554b7d614dab71160d8b456b",
+        "55535e24f8b25e78738b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305376",
+        "57e2674fb7e8697d4b305375",
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Schweinelachssteaks auf flachen Tellern verteilen und mit restlicher Glasur beträufeln. Rosmarin-Kartoffeln und Rahmspinat dazu anrichten und genießen!",
+      "instructionsHTML": "<p>Schweinelachssteaks auf flachen Tellern verteilen und mit restlicher Glasur beträufeln. Rosmarin-Kartoffeln und Rahmspinat dazu anrichten und genießen!</p>",
+      "instructions": "Schweinelachssteaks auf flachen Tellern verteilen und mit restlicher Glasur beträufeln. Rosmarin-Kartoffeln und Rahmspinat dazu anrichten und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.2,
+  "ratingsCount": 1210,
+  "favoritesCount": 436,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/glasierte-schweinelachssteaks-mit-krossen-rosmarin-kartoffeln-55eda88779a23cfb418b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

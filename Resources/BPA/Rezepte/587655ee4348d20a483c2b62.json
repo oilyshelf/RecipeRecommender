@@ -1,0 +1,910 @@
+{
+  "country": "DE",
+  "id": "587655ee4348d20a483c2b62",
+  "name": "Frische Gnocchi mit Kochschinken",
+  "seoName": null,
+  "category": null,
+  "slug": "frische-gnocchi-mit-kochschinken-n",
+  "headline": "dazu Senf-Schmand",
+  "description": "Gnocchi, einen der Klassiker der italienischen Küche kennt man normalerweise mit Tomate, Parmesan und Basilikum. Sie werden aus Kartoffeln hergestellt und gehören zu den Lieblingen der deutschen Küche. Warum dann nicht mal mit Senf, Schinken und Majoran kombinieren? Lass sie Dir schmecken!",
+  "descriptionHTML": "<p>Gnocchi, einen der Klassiker der italienischen Küche kennt man normalerweise mit Tomate, Parmesan und Basilikum. Sie werden aus Kartoffeln hergestellt und gehören zu den Lieblingen der deutschen Küche. Warum dann nicht mal mit Senf, Schinken und Majoran kombinieren? Lass sie Dir schmecken!</p>",
+  "descriptionMarkdown": "Gnocchi, einen der Klassiker der italienischen Küche kennt man normalerweise mit Tomate, Parmesan und Basilikum. Sie werden aus Kartoffeln hergestellt und gehören zu den Lieblingen der deutschen Küche. Warum dann nicht mal mit Senf, Schinken und Majoran kombinieren? Lass sie Dir schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT25M",
+  "totalTime": null,
+  "servingSize": 450,
+  "createdAt": "2017-01-11T15:57:34+00:00",
+  "updatedAt": "2017-04-20T09:37:09+00:00",
+  "link": "https://hellofresh.com/recipes/587655ee4348d20a483c2b62",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/frische-gnocchi-mit-kochschinken-n-6e85d536.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/frische-gnocchi-mit-kochschinken-n-609cbce0.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3184,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 759,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 31,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 15,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 83,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 13,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 28,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 6,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "58049e9d383a7f15361bfa32",
+      "type": "kochschinken",
+      "name": "Kochschinken",
+      "slug": "kochschinken",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/58049e9d383a7f15361bfa32-de524d44.png",
+      "usage": 14,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb3e",
+        "type": "bacon",
+        "name": "Bacon",
+        "slug": "bacon",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb3e-6b66fe63.png",
+        "usageByCountry": {
+          "AT": 13,
+          "AU": 0,
+          "BE": 37,
+          "CA": 20,
+          "CH": 2,
+          "DE": 14,
+          "ER": 0,
+          "FR": 12,
+          "GB": 8,
+          "LU": 71,
+          "NL": 54,
+          "NZ": 0,
+          "ML": 0,
+          "US": 21
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d77624dab7150498b4568",
+      "type": "radieschen",
+      "name": "Radieschen",
+      "slug": "radieschen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d77624dab7150498b4568.png",
+      "usage": 73,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc19",
+        "type": "radish",
+        "name": "Rettich",
+        "slug": "rettich",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc19-7a28dd12.png",
+        "usageByCountry": {
+          "AT": 99,
+          "AU": 5,
+          "BE": 65,
+          "CA": 21,
+          "CH": 19,
+          "DE": 82,
+          "ER": 2,
+          "FR": 7,
+          "GB": 18,
+          "LU": 39,
+          "NL": 64,
+          "NZ": 1,
+          "ML": 0,
+          "US": 56
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da357fd2cb943758b4567",
+      "type": "thymian",
+      "name": "Thymian",
+      "slug": "thymian",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da357fd2cb943758b4567.png",
+      "usage": 245,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc43",
+        "type": "thyme",
+        "name": "Thymian",
+        "slug": "thymian",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc43-d0cc4199.png",
+        "usageByCountry": {
+          "AT": 252,
+          "AU": 94,
+          "BE": 243,
+          "CA": 96,
+          "CH": 34,
+          "DE": 252,
+          "ER": 0,
+          "FR": 73,
+          "GB": 187,
+          "LU": 346,
+          "NL": 288,
+          "NZ": 38,
+          "ML": 213,
+          "US": 322
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "57adaef23933dc11478b4567",
+      "type": "majoran",
+      "name": "frischer Majoran",
+      "slug": "majoran",
+      "description": null,
+      "internalName": "Majoran",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/57adaef23933dc11478b4567-0d0a2fa5.png",
+      "usage": 44,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbd1",
+        "type": "marjoram",
+        "name": "Majoran",
+        "slug": "majoran",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbd1-a5480339.png",
+        "usageByCountry": {
+          "AT": 40,
+          "AU": 0,
+          "BE": 0,
+          "CA": 0,
+          "CH": 4,
+          "DE": 44,
+          "ER": 0,
+          "FR": 0,
+          "GB": 3,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da31afd2cb95a758b4568",
+      "type": "frische gnocchi",
+      "name": "Frische Gnocchi",
+      "slug": "frische-gnocchi",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da31afd2cb95a758b4568.png",
+      "usage": 92,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f6",
+          "type": "egg",
+          "name": "Ei",
+          "slug": "ei",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+          "usage": 365
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba8",
+        "type": "gnocchi",
+        "name": "Gnocchi",
+        "slug": "gnocchi",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba8-4a2e844b.png",
+        "usageByCountry": {
+          "AT": 112,
+          "AU": 20,
+          "BE": 26,
+          "CA": 9,
+          "CH": 16,
+          "DE": 111,
+          "ER": 0,
+          "FR": 4,
+          "GB": 51,
+          "LU": 24,
+          "NL": 27,
+          "NZ": 6,
+          "ML": 0,
+          "US": 13
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7480fd2cb911618b4568",
+      "type": "schmand",
+      "name": "Schmand",
+      "slug": "schmand",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b7480fd2cb911618b4568-52e9ad6e.png",
+      "usage": 248,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566ea88fd2cb9e57f8b4569",
+      "type": "senf, körnig",
+      "name": "körniger Senf",
+      "slug": "senf-kornig",
+      "description": null,
+      "internalName": "Senf, körnig",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566ea88fd2cb9e57f8b4569.png",
+      "usage": 53,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fd",
+          "type": "mustard",
+          "name": "Senf",
+          "slug": "senf",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+          "usage": 158
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbdf",
+        "type": "mustard",
+        "name": "Senf",
+        "slug": "senf",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbdf-bd28b3fe.png",
+        "usageByCountry": {
+          "AT": 411,
+          "AU": 149,
+          "BE": 262,
+          "CA": 135,
+          "CH": 75,
+          "DE": 361,
+          "ER": 7,
+          "FR": 68,
+          "GB": 159,
+          "LU": 354,
+          "NL": 295,
+          "NZ": 42,
+          "ML": 1,
+          "US": 175
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3639f8b25eef3e8b4575",
+      "type": "gemusebruhe-home",
+      "name": "Gemüsebrühe*",
+      "slug": "gemusebruhe",
+      "description": null,
+      "internalName": "Gemüsebrühe home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3639f8b25eef3e8b4575.png",
+      "usage": 441,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "type": "egg",
+      "name": "Ei",
+      "slug": "ei",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "usage": 365
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "type": "mustard",
+      "name": "Senf",
+      "slug": "senf",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "usage": 158
+    }
+  ],
+  "utensils": [],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b30530e",
+      "type": "under-30-minutes",
+      "name": "Zeit sparen",
+      "slug": "zeit-sparen",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/HF_Icon_App_LessThan30min.png",
+      "numberOfRecipes": 4370,
+      "numberOfRecipesByCountry": {
+        "AT": 1140,
+        "AU": 141,
+        "BE": 540,
+        "CA": 0,
+        "CH": 201,
+        "DE": 989,
+        "ER": 0,
+        "FR": 128,
+        "GB": 0,
+        "LU": 581,
+        "NL": 644,
+        "NZ": 0,
+        "ML": 0,
+        "US": 6
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "58049e9d383a7f15361bfa32",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "id": "556d77624dab7150498b4568",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "555da357fd2cb943758b4567",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "57adaef23933dc11478b4567",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "555da31afd2cb95a758b4568",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "554b7480fd2cb911618b4568",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "5566ea88fd2cb9e57f8b4569",
+          "amount": 17,
+          "unit": "g"
+        },
+        {
+          "id": "554b3639f8b25eef3e8b4575",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten. \n\nZwiebel abziehen. Kochschinken und Zwiebel in Streifen schneiden. Radieschen in dünne Scheiben schneiden, Blätter vom Majoran und Thymian abzupfen. 100 ml heiße Gemüsebrühe vorbereiten.",
+      "instructionsHTML": "<p>Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten. </p>\n<p>Zwiebel abziehen. Kochschinken und Zwiebel in Streifen schneiden. Radieschen in dünne Scheiben schneiden, Blätter vom Majoran und Thymian abzupfen. 100 ml heiße Gemüsebrühe vorbereiten.</p>",
+      "instructions": "Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten. \nZwiebel abziehen. Kochschinken und Zwiebel in Streifen schneiden. Radieschen in dünne Scheiben schneiden, Blätter vom Majoran und Thymian abzupfen. 100 ml heiße Gemüsebrühe vorbereiten.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b3639f8b25eef3e8b4575",
+        "58049e9d383a7f15361bfa32",
+        "57adaef23933dc11478b4567",
+        "556d77624dab7150498b4568",
+        "554b2abcf8b25eef3e8b4573",
+        "555da357fd2cb943758b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "In einen großen Topf reichlich kochendes Wasser füllen, salzen und einmal aufkochen lassen. Gnocchi dazu geben, dann Topf vom Herd nehmen und Gnocchi 2 – 3 Min. gar ziehen lassen.",
+      "instructionsHTML": "<p>In einen großen Topf reichlich kochendes Wasser füllen, salzen und einmal aufkochen lassen. Gnocchi dazu geben, dann Topf vom Herd nehmen und Gnocchi 2 – 3 Min. gar ziehen lassen.</p>",
+      "instructions": "In einen großen Topf reichlich kochendes Wasser füllen, salzen und einmal aufkochen lassen. Gnocchi dazu geben, dann Topf vom Herd nehmen und Gnocchi 2 – 3 Min. gar ziehen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/587655ee4348d20a483c2b62-1-0-d048f387.jpg",
+          "caption": "Gnocchi in den Topf geben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555da31afd2cb95a758b4568",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einer kleinen Schüssel Schmand mit körnigem Senf verrühren, mit etwas Salz und Pfeffer würzen.",
+      "instructionsHTML": "<p>In einer kleinen Schüssel Schmand mit körnigem Senf verrühren, mit etwas Salz und Pfeffer würzen.</p>",
+      "instructions": "In einer kleinen Schüssel Schmand mit körnigem Senf verrühren, mit etwas Salz und Pfeffer würzen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/587655ee4348d20a483c2b62-2-0-a493b001.jpg",
+          "caption": "Schmand mit Senf verrühren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55b0a135fd2cb9121e8b4567",
+        "554b1c284dab71a9058b456b",
+        "554b7480fd2cb911618b4568",
+        "5566ea88fd2cb9e57f8b4569"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer großen Pfanne 1 EL Öl bei mittlerer Hitze erwärmen, Schinken- und Zwiebelstreifen darin ca. 5 Min. unter Wenden anbraten.",
+      "instructionsHTML": "<p>In einer großen Pfanne 1 EL Öl bei mittlerer Hitze erwärmen, Schinken- und Zwiebelstreifen darin ca. 5 Min. unter Wenden anbraten.</p>",
+      "instructions": "In einer großen Pfanne 1 EL Öl bei mittlerer Hitze erwärmen, Schinken- und Zwiebelstreifen darin ca. 5 Min. unter Wenden anbraten.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/587655ee4348d20a483c2b62-3-0-81a15d90.jpg",
+          "caption": "Schinken- und Zwiebelstreifen anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Gnocchi nach der Garzeit in ein Sieb abgießen, anschließend in die Pfanne geben und ca. 5 Min. mitbraten, bis sie etwas Farbe angenommen haben (dafür evtl. Hitze höher stellen). Vorbereitete Gemüsebrühe dazugeben und ca. 1 Min. weiterköcheln lassen.",
+      "instructionsHTML": "<p>Gnocchi nach der Garzeit in ein Sieb abgießen, anschließend in die Pfanne geben und ca. 5 Min. mitbraten, bis sie etwas Farbe angenommen haben (dafür evtl. Hitze höher stellen). Vorbereitete Gemüsebrühe dazugeben und ca. 1 Min. weiterköcheln lassen.</p>",
+      "instructions": "Gnocchi nach der Garzeit in ein Sieb abgießen, anschließend in die Pfanne geben und ca. 5 Min. mitbraten, bis sie etwas Farbe angenommen haben (dafür evtl. Hitze höher stellen). Vorbereitete Gemüsebrühe dazugeben und ca. 1 Min. weiterköcheln lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/587655ee4348d20a483c2b62-4-0-59bdb0c0.jpg",
+          "caption": "Gnocchi anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Dann Radieschenscheiben, Majoran- und Thymianblätter unterheben und alles gut miteinander vermischen.",
+      "instructionsHTML": "<p>Dann Radieschenscheiben, Majoran- und Thymianblätter unterheben und alles gut miteinander vermischen.</p>",
+      "instructions": "Dann Radieschenscheiben, Majoran- und Thymianblätter unterheben und alles gut miteinander vermischen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Schinken-Gnocchi auf Teller verteilen, Senf-Schmand darübergeben und genießen.",
+      "instructionsHTML": "<p>Schinken-Gnocchi auf Teller verteilen, Senf-Schmand darübergeben und genießen.</p>",
+      "instructions": "Schinken-Gnocchi auf Teller verteilen, Senf-Schmand darübergeben und genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.1,
+  "ratingsCount": 523,
+  "favoritesCount": 539,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/frische-gnocchi-mit-kochschinken-n-587655ee4348d20a483c2b62",
+  "clonedFrom": null,
+  "canonical": "587655ee4348d20a483c2b62",
+  "canonicalLink": "https://www.hellofresh.de/recipes/frische-gnocchi-mit-kochschinken-n-587655ee4348d20a483c2b62"
+}

@@ -1,0 +1,799 @@
+{
+  "country": "DE",
+  "id": "55dc47664dab71a91f8b4567",
+  "name": "Köstliches Gemüse-Zitronen-Risotto",
+  "seoName": null,
+  "category": null,
+  "slug": "kostliches-gemuse-zitronen-risotto",
+  "headline": "mit selbstgemachten Rote-Bete-Chips",
+  "description": "Wenn Du mit Chips nur fettige Scheibchen mit jeder Menge Zusatzstoffe in rascheligen Tüten verbindest, dann wird es Zeit, dass Du Gemüse-Chips kennenlernst, angefangen mit den leckeren Rote-Bete-Chips. Noch mehr Gemüse gibt es dazu im Risotto. Guten Appetit!",
+  "descriptionHTML": "<p>Wenn Du mit Chips nur fettige Scheibchen mit jeder Menge Zusatzstoffe in rascheligen Tüten verbindest, dann wird es Zeit, dass Du Gemüse-Chips kennenlernst, angefangen mit den leckeren Rote-Bete-Chips. Noch mehr Gemüse gibt es dazu im Risotto. Guten Appetit!</p>",
+  "descriptionMarkdown": "Wenn Du mit Chips nur fettige Scheibchen mit jeder Menge Zusatzstoffe in rascheligen Tüten verbindest, dann wird es Zeit, dass Du Gemüse-Chips kennenlernst, angefangen mit den leckeren Rote-Bete-Chips. Noch mehr Gemüse gibt es dazu im Risotto. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-08-25T10:45:58+00:00",
+  "updatedAt": "2016-10-19T18:45:35+00:00",
+  "link": "https://hellofresh.com/recipes/55dc47664dab71a91f8b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/55dc47664dab71a91f8b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/55dc47664dab71a91f8b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2271.9120000000003,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 543,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 17,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 81,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 16,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 16,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "55def097fd2cb978338b4568",
+      "type": "suppengrün",
+      "name": "Suppengrün",
+      "slug": "suppengrun",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55def097fd2cb978338b4568-0b46b9e6.png",
+      "usage": 1,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fc",
+          "type": "celery",
+          "name": "Sellerie",
+          "slug": "sellerie",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": null,
+          "usage": 128
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc4c",
+        "type": "vegetable-mix",
+        "name": "Gemüsemischung",
+        "slug": "gemusemischung",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc4c-4693feec.png",
+        "usageByCountry": {
+          "AT": 1,
+          "AU": 35,
+          "BE": 99,
+          "CA": 13,
+          "CH": 1,
+          "DE": 1,
+          "ER": 0,
+          "FR": 28,
+          "GB": 0,
+          "LU": 143,
+          "NL": 121,
+          "NZ": 34,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566f93cfd2cb97e018b4568",
+      "type": "schalotte",
+      "name": "Schalotte",
+      "slug": "schalotte",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566f93cfd2cb97e018b4568.png",
+      "usage": 156,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27e6fd2cb983608b4569",
+      "type": "fruhlingszwiebeln",
+      "name": "Frühlingszwiebel",
+      "slug": "fruhlingszwiebeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27e6fd2cb983608b4569.png",
+      "usage": 514,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc35",
+        "type": "spring-onion",
+        "name": "Frühlingszwiebel",
+        "slug": "fruhlingszwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc35-03c06826.png",
+        "usageByCountry": {
+          "AT": 575,
+          "AU": 0,
+          "BE": 15,
+          "CA": 0,
+          "CH": 113,
+          "DE": 514,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 421,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dbd0bfd2cb95a758b456a",
+      "type": "risotto-reis",
+      "name": "Risottoreis",
+      "slug": "risotto-reis",
+      "description": null,
+      "internalName": "Risotto-Reis",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dbd0bfd2cb95a758b456a.png",
+      "usage": 91,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1c",
+        "type": "rice",
+        "name": "Reis",
+        "slug": "reis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1c-0b4adebd.png",
+        "usageByCountry": {
+          "AT": 540,
+          "AU": 405,
+          "BE": 265,
+          "CA": 169,
+          "CH": 114,
+          "DE": 505,
+          "ER": 39,
+          "FR": 79,
+          "GB": 480,
+          "LU": 361,
+          "NL": 319,
+          "NZ": 107,
+          "ML": 328,
+          "US": 527
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dbfadf8b25e246a8b4569",
+      "type": "rote bete",
+      "name": "rote Bete",
+      "slug": "rote-bete",
+      "description": null,
+      "internalName": "rote Bete [RAW]",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/555dbfadf8b25e246a8b4569-dba13df7.png",
+      "usage": 40,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb50",
+        "type": "beetroot",
+        "name": "Rote Beete",
+        "slug": "rote-beete",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb50-bd433463.png",
+        "usageByCountry": {
+          "AT": 61,
+          "AU": 54,
+          "BE": 44,
+          "CA": 9,
+          "CH": 4,
+          "DE": 50,
+          "ER": 0,
+          "FR": 6,
+          "GB": 19,
+          "LU": 45,
+          "NL": 46,
+          "NZ": 27,
+          "ML": 1,
+          "US": 9
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55def0eef8b25ec43c8b4567",
+      "type": "meersalz",
+      "name": "Meersalz",
+      "slug": "meersalz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55def0eef8b25ec43c8b4567.png",
+      "usage": 3,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3639f8b25eef3e8b4575",
+      "type": "gemusebruhe-home",
+      "name": "Gemüsebrühe*",
+      "slug": "gemusebruhe",
+      "description": null,
+      "internalName": "Gemüsebrühe home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3639f8b25eef3e8b4575.png",
+      "usage": 441,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "type": "celery",
+      "name": "Sellerie",
+      "slug": "sellerie",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": null,
+      "usage": 128
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    }
+  ],
+  "tags": [],
+  "cuisines": [],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "55def097fd2cb978338b4568",
+          "amount": 1,
+          "unit": "Bund"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "5566f93cfd2cb97e018b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "555dbd0bfd2cb95a758b456a",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "555dbfadf8b25e246a8b4569",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55def0eef8b25ec43c8b4567",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "554b3639f8b25eef3e8b4575",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Karotten und Sellerie aus dem Suppengrün-Bund schälen und fein würfeln. Welke Teile vom Porree entfernen, waschen und in ca. 1 cm dicke Scheiben schneiden. Zitrone heiß abwaschen, Schale fein abreiben, dann entsaften. Schalotte und Knoblauch abziehen und in dünne Scheiben schneiden. In einem kleinen Topf 700 ml Gemüsebrühe zubereiten. Welkes Grün von Frühlingszwiebeln entfernen, waschen und in feine Ringe schneiden.",
+      "instructionsHTML": "<p>Karotten und Sellerie aus dem Suppengrün-Bund schälen und fein würfeln. Welke Teile vom Porree entfernen, waschen und in ca. 1 cm dicke Scheiben schneiden. Zitrone heiß abwaschen, Schale fein abreiben, dann entsaften. Schalotte und Knoblauch abziehen und in dünne Scheiben schneiden. In einem kleinen Topf 700 ml Gemüsebrühe zubereiten. Welkes Grün von Frühlingszwiebeln entfernen, waschen und in feine Ringe schneiden.</p>",
+      "instructions": "Karotten und Sellerie aus dem Suppengrün-Bund schälen und fein würfeln. Welke Teile vom Porree entfernen, waschen und in ca. 1 cm dicke Scheiben schneiden. Zitrone heiß abwaschen, Schale fein abreiben, dann entsaften. Schalotte und Knoblauch abziehen und in dünne Scheiben schneiden. In einem kleinen Topf 700 ml Gemüsebrühe zubereiten. Welkes Grün von Frühlingszwiebeln entfernen, waschen und in feine Ringe schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55dc47664dab71a91f8b4567/step_55f2a9f1dbc75.jpg",
+          "caption": "Zutaten vorbereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55def097fd2cb978338b4568",
+        "554b1de2f8b25ef93e8b456b",
+        "5566f93cfd2cb97e018b4568",
+        "554b27e6fd2cb983608b4569",
+        "554b3639f8b25eef3e8b4575"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "In einem großen Topf 1 EL Butter erhitzen, darin Schalotte, weißen und hellgrünen Teil der Frühlingszwiebel und Knoblauch 1–2 Min. andünsten. Risotto-Reis dazugeben und solange umrühren, bis dieser die Butter aufgenommen hat. Gemüse dazugeben und 1–2 Min. mit anbraten. Etwas Brühe zugeben. Diesen Vorgang wiederholen, bis die Brühe aufgebraucht ist. Der Risotto benötigt ca. 20 Min., bis er gar ist.",
+      "instructionsHTML": "<p>In einem großen Topf 1 EL Butter erhitzen, darin Schalotte, weißen und hellgrünen Teil der Frühlingszwiebel und Knoblauch 1–2 Min. andünsten. Risotto-Reis dazugeben und solange umrühren, bis dieser die Butter aufgenommen hat. Gemüse dazugeben und 1–2 Min. mit anbraten. Etwas Brühe zugeben. Diesen Vorgang wiederholen, bis die Brühe aufgebraucht ist. Der Risotto benötigt ca. 20 Min., bis er gar ist.</p>",
+      "instructions": "In einem großen Topf 1 EL Butter erhitzen, darin Schalotte, weißen und hellgrünen Teil der Frühlingszwiebel und Knoblauch 1–2 Min. andünsten. Risotto-Reis dazugeben und solange umrühren, bis dieser die Butter aufgenommen hat. Gemüse dazugeben und 1–2 Min. mit anbraten. Etwas Brühe zugeben. Diesen Vorgang wiederholen, bis die Brühe aufgebraucht ist. Der Risotto benötigt ca. 20 Min., bis er gar ist.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55dc47664dab71a91f8b4567/step_55f2a9f202246.jpg",
+          "caption": "Etwas Brühe zugeben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55def097fd2cb978338b4568",
+        "5566f93cfd2cb97e018b4568",
+        "554b268ffd2cb983608b4568",
+        "554b27e6fd2cb983608b4569",
+        "555dbd0bfd2cb95a758b456a",
+        "554b3639f8b25eef3e8b4575",
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Rote Bete schälen (dabei am besten mit Küchenhandschuhen arbeiten) und in sehr dünne Scheiben hobeln oder schneiden. In einer Pfanne 100 ml Öl stark erhitzen. Rote Beete-Scheiben darin ca. 5 Min. bräunlich werden lassen, dabei einmal wenden. Anschließend auf ausgelegtem Küchenpapier abtropfen lassen.",
+      "instructionsHTML": "<p>Rote Bete schälen (dabei am besten mit Küchenhandschuhen arbeiten) und in sehr dünne Scheiben hobeln oder schneiden. In einer Pfanne 100 ml Öl stark erhitzen. Rote Beete-Scheiben darin ca. 5 Min. bräunlich werden lassen, dabei einmal wenden. Anschließend auf ausgelegtem Küchenpapier abtropfen lassen.</p>",
+      "instructions": "Rote Bete schälen (dabei am besten mit Küchenhandschuhen arbeiten) und in sehr dünne Scheiben hobeln oder schneiden. In einer Pfanne 100 ml Öl stark erhitzen. Rote Beete-Scheiben darin ca. 5 Min. bräunlich werden lassen, dabei einmal wenden. Anschließend auf ausgelegtem Küchenpapier abtropfen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55dc47664dab71a91f8b4567/step_55f2a9f214420.jpg",
+          "caption": "Rote Bete hobeln"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55dc47664dab71a91f8b4567/step_55f2a9f225b91.jpg",
+          "caption": "Frittierte Bete abtropfen lassen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555dbfadf8b25e246a8b4569",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Petersilie waschen, trocken schütteln, Blätter abzupfen und fein hacken. Risotto vom Herd nehmen, Petersilie und nach Geschmack ein wenig Zitronenabrieb und -saft darunter mischen.",
+      "instructionsHTML": "<p>Petersilie waschen, trocken schütteln, Blätter abzupfen und fein hacken. Risotto vom Herd nehmen, Petersilie und nach Geschmack ein wenig Zitronenabrieb und -saft darunter mischen.</p>",
+      "instructions": "Petersilie waschen, trocken schütteln, Blätter abzupfen und fein hacken. Risotto vom Herd nehmen, Petersilie und nach Geschmack ein wenig Zitronenabrieb und -saft darunter mischen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Rote Bete-Chips auf flachen Tellern ringförmig verteilen und mit ein wenig Meersalz bestreuen. Gemüse-Zitronen-Risotto darauf verteilen, mit grünem Teil der Frühlingszwiebeln bestreuen und genießen!",
+      "instructionsHTML": "<p>Rote Bete-Chips auf flachen Tellern ringförmig verteilen und mit ein wenig Meersalz bestreuen. Gemüse-Zitronen-Risotto darauf verteilen, mit grünem Teil der Frühlingszwiebeln bestreuen und genießen!</p>",
+      "instructions": "Rote Bete-Chips auf flachen Tellern ringförmig verteilen und mit ein wenig Meersalz bestreuen. Gemüse-Zitronen-Risotto darauf verteilen, mit grünem Teil der Frühlingszwiebeln bestreuen und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3,
+  "ratingsCount": 1425,
+  "favoritesCount": 343,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/kostliches-gemuse-zitronen-risotto-55dc47664dab71a91f8b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

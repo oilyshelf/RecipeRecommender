@@ -1,0 +1,1100 @@
+{
+  "country": "DE",
+  "id": "54c91e3e6ced6e5f178b4571",
+  "name": "Steak mit gebratenen Topinambur-Kartoffelecken",
+  "seoName": null,
+  "category": null,
+  "slug": "steak-mit-gebratenen-topinambur-kartoffelecken",
+  "headline": "Rosmarin und Lauchcremesoße",
+  "description": "Topinambur kann man roh oder gegart essen, und da er keine Stärke, sondern Inulin enthält, ist er sehr kalorienarm und für Diabetiker gut verträglich. In unserem Gericht sticht er mit seinem wunderbar nussigen Geschmack heraus und bringt Abwechslung in klassische Kartoffelbeilagen.",
+  "descriptionHTML": "<p>Topinambur kann man roh oder gegart essen, und da er keine Stärke, sondern Inulin enthält, ist er sehr kalorienarm und für Diabetiker gut verträglich. In unserem Gericht sticht er mit seinem wunderbar nussigen Geschmack heraus und bringt Abwechslung in klassische Kartoffelbeilagen.</p>",
+  "descriptionMarkdown": "Topinambur kann man roh oder gegart essen, und da er keine Stärke, sondern Inulin enthält, ist er sehr kalorienarm und für Diabetiker gut verträglich. In unserem Gericht sticht er mit seinem wunderbar nussigen Geschmack heraus und bringt Abwechslung in klassische Kartoffelbeilagen.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT40M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-01-28T17:37:02+00:00",
+  "updatedAt": "2016-09-20T08:17:46+00:00",
+  "link": "https://hellofresh.com/recipes/54c91e3e6ced6e5f178b4571",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/54c91e3e6ced6e5f178b4571.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/54c91e3e6ced6e5f178b4571.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2514.5840000000003,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 601,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 28,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 49,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 37,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b19befd2cb959598b4576",
+      "type": "rinderhüftsteak",
+      "name": "Rinderhüftsteak",
+      "slug": "rinderhuftsteak",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b19befd2cb959598b4576.png",
+      "usage": 94,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4e",
+        "type": "beef",
+        "name": "Rindfleisch",
+        "slug": "rindfleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4e-125de8b7.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 363,
+          "BE": 168,
+          "CA": 192,
+          "CH": 81,
+          "DE": 313,
+          "ER": 66,
+          "FR": 51,
+          "GB": 276,
+          "LU": 167,
+          "NL": 187,
+          "NZ": 103,
+          "ML": 494,
+          "US": 655
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556735f14dab71190e8b4567",
+      "type": "topinambur",
+      "name": "Topinambur",
+      "slug": "topinambur",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/556735f14dab71190e8b4567-b1e9b72e.png",
+      "usage": 10,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb37",
+        "type": "artichoke",
+        "name": "Artischocke",
+        "slug": "artischocke",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb37-57e0b10c.png",
+        "usageByCountry": {
+          "AT": 10,
+          "AU": 2,
+          "BE": 8,
+          "CA": 5,
+          "CH": 4,
+          "DE": 10,
+          "ER": 0,
+          "FR": 2,
+          "GB": 4,
+          "LU": 9,
+          "NL": 9,
+          "NZ": 0,
+          "ML": 0,
+          "US": 29
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1a5b4dab71c8058b456d",
+      "type": "rosmarin",
+      "name": "Rosmarin",
+      "slug": "rosmarin",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1a5b4dab71c8058b456d.png",
+      "usage": 183,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1f",
+        "type": "rosemary",
+        "name": "Rosmarin",
+        "slug": "rosmarin",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1f-4ba602ae.png",
+        "usageByCountry": {
+          "AT": 225,
+          "AU": 75,
+          "BE": 121,
+          "CA": 52,
+          "CH": 43,
+          "DE": 221,
+          "ER": 2,
+          "FR": 29,
+          "GB": 104,
+          "LU": 131,
+          "NL": 145,
+          "NZ": 19,
+          "ML": 0,
+          "US": 126
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556736ccfd2cb964078b4568",
+      "type": "lauch",
+      "name": "Lauch",
+      "slug": "lauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556736ccfd2cb964078b4568.png",
+      "usage": 8,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc4",
+        "type": "leek",
+        "name": "Lauch",
+        "slug": "lauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc4-1460799d.png",
+        "usageByCountry": {
+          "AT": 212,
+          "AU": 43,
+          "BE": 129,
+          "CA": 14,
+          "CH": 41,
+          "DE": 199,
+          "ER": 0,
+          "FR": 25,
+          "GB": 148,
+          "LU": 118,
+          "NL": 150,
+          "NZ": 13,
+          "ML": 0,
+          "US": 7
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b780e4dab71db0d8b4568",
+      "type": "brühe",
+      "name": "Brühe",
+      "slug": "bruhe",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b780e4dab71db0d8b4568.png",
+      "usage": 31,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1f134dab71aa058b456e",
+      "type": "crème fraîche",
+      "name": "Crème fraîche",
+      "slug": "creme-fraiche",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1f134dab71aa058b456e.png",
+      "usage": 305,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb86",
+        "type": "creme-fraiche",
+        "name": "Crème Fraîche",
+        "slug": "creme-fraiche",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb86-533fc64c.png",
+        "usageByCountry": {
+          "AT": 321,
+          "AU": 0,
+          "BE": 119,
+          "CA": 0,
+          "CH": 81,
+          "DE": 305,
+          "ER": 0,
+          "FR": 21,
+          "GB": 328,
+          "LU": 127,
+          "NL": 144,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dc1a9fd2cb944758b4569",
+      "type": "mehl-home",
+      "name": "Mehl*",
+      "slug": "mehl",
+      "description": null,
+      "internalName": "Mehl home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dc1a9fd2cb944758b4569.png",
+      "usage": 156,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba0",
+        "type": "flour",
+        "name": "Mehl",
+        "slug": "mehl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba0-03891dce.png",
+        "usageByCountry": {
+          "AT": 391,
+          "AU": 201,
+          "BE": 10,
+          "CA": 106,
+          "CH": 74,
+          "DE": 383,
+          "ER": 19,
+          "FR": 0,
+          "GB": 141,
+          "LU": 5,
+          "NL": 14,
+          "NZ": 74,
+          "ML": 9,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556739714dab71310e8b4568",
+      "type": "zitronenpfeffer",
+      "name": "Zitronenpfeffer",
+      "slug": "zitronenpfeffer",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556739714dab71310e8b4568.png",
+      "usage": 3,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b30531a",
+      "type": "low-calorie",
+      "name": "leichter Genuss",
+      "slug": "leichter-genuss",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 4438,
+      "numberOfRecipesByCountry": {
+        "AT": 1377,
+        "AU": 144,
+        "BE": 299,
+        "CA": 0,
+        "CH": 139,
+        "DE": 1205,
+        "ER": 0,
+        "FR": 128,
+        "GB": 111,
+        "LU": 576,
+        "NL": 380,
+        "NZ": 79,
+        "ML": 0,
+        "US": 0
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a4",
+      "type": "american",
+      "name": "Amerikanisch",
+      "slug": "amerikanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a4-aafc03e6.jpg",
+      "usage": 3895
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053bd",
+      "type": "british",
+      "name": "Britisch",
+      "slug": "britisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bd-8abb14dd.jpg",
+      "usage": 415
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053b1",
+      "type": "latin",
+      "name": "Südamerikanisch",
+      "slug": "sudamerikanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b1-86a0be4b.jpg",
+      "usage": 260
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b19befd2cb959598b4576",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556735f14dab71190e8b4567",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "554b1a5b4dab71c8058b456d",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "556736ccfd2cb964078b4568",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b780e4dab71db0d8b4568",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": 2,
+          "unit": "Esslöffel"
+        },
+        {
+          "id": "554b1f134dab71aa058b456e",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "555dc1a9fd2cb944758b4569",
+          "amount": 1,
+          "unit": "Teelöffel"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": 1,
+          "unit": "Esslöffel"
+        },
+        {
+          "id": "556739714dab71310e8b4568",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b19befd2cb959598b4576",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556735f14dab71190e8b4567",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 1000,
+          "unit": "g"
+        },
+        {
+          "id": "554b1a5b4dab71c8058b456d",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "556736ccfd2cb964078b4568",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b780e4dab71db0d8b4568",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": 4,
+          "unit": "Esslöffel"
+        },
+        {
+          "id": "554b1f134dab71aa058b456e",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "555dc1a9fd2cb944758b4569",
+          "amount": 2,
+          "unit": "Teelöffel"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": 2,
+          "unit": "Esslöffel"
+        },
+        {
+          "id": "556739714dab71310e8b4568",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Rinderhüfte aus dem Kühlschrank nehmen, damit sie Zimmertemperatur erreichen kann.",
+      "instructionsHTML": "<p>Rinderhüfte aus dem Kühlschrank nehmen, damit sie Zimmertemperatur erreichen kann.</p>",
+      "instructions": "Rinderhüfte aus dem Kühlschrank nehmen, damit sie Zimmertemperatur erreichen kann.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b19befd2cb959598b4576"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Topinambur und Kartoffeln waschen, schälen und in 2 cm große Würfel (Ecken) schneiden. Rosmarin waschen, trocken schütteln, Nadeln abzupfen und grob hacken. Lauch waschen und den weißen und hellgrünen Teil in feine Ringe schneiden. Brühe zubereiten.",
+      "instructionsHTML": "<p>Topinambur und Kartoffeln waschen, schälen und in 2 cm große Würfel (Ecken) schneiden. Rosmarin waschen, trocken schütteln, Nadeln abzupfen und grob hacken. Lauch waschen und den weißen und hellgrünen Teil in feine Ringe schneiden. Brühe zubereiten.</p>",
+      "instructions": "Topinambur und Kartoffeln waschen, schälen und in 2 cm große Würfel (Ecken) schneiden. Rosmarin waschen, trocken schütteln, Nadeln abzupfen und grob hacken. Lauch waschen und den weißen und hellgrünen Teil in feine Ringe schneiden. Brühe zubereiten.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54c91e3e6ced6e5f178b4571/step_5568173e1ed2e.jpg",
+          "caption": "Topinambur und Kartoffeln schälen"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54c91e3e6ced6e5f178b4571/step_5568173e36ee8.jpg",
+          "caption": "Lauch fein schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556735f14dab71190e8b4567",
+        "554b25fcfd2cb973608b4567",
+        "554b1a5b4dab71c8058b456d",
+        "556736ccfd2cb964078b4568",
+        "554b780e4dab71db0d8b4568"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Topinambur- und Kartoffelecken in einem Topf mit reichlich Salzwasser bedecken und 10 Min. kochen lassen.",
+      "instructionsHTML": "<p>Topinambur- und Kartoffelecken in einem Topf mit reichlich Salzwasser bedecken und 10 Min. kochen lassen.</p>",
+      "instructions": "Topinambur- und Kartoffelecken in einem Topf mit reichlich Salzwasser bedecken und 10 Min. kochen lassen.",
+      "timers": [
+        {
+          "name": "Topinambur und Kartoffeln kochen",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556735f14dab71190e8b4567",
+        "554b25fcfd2cb973608b4567",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Öl in einer Pfanne erhitzen. Steaks mit Zitronenpfeffer bestreuen und ca. 1-2 Min. für rare, 2-3 Min. für medium und ca. 3-4 Min. für well done je Seite braten. Anschließend bis zum Anrichten in Alufolie gewickelt ruhen lassen. Die Pfanne in Schritt 6 wieder verwenden.",
+      "instructionsHTML": "<p>Öl in einer Pfanne erhitzen. Steaks mit Zitronenpfeffer bestreuen und ca. 1-2 Min. für rare, 2-3 Min. für medium und ca. 3-4 Min. für well done je Seite braten. Anschließend bis zum Anrichten in Alufolie gewickelt ruhen lassen. Die Pfanne in Schritt 6 wieder verwenden.</p>",
+      "instructions": "Öl in einer Pfanne erhitzen. Steaks mit Zitronenpfeffer bestreuen und ca. 1-2 Min. für rare, 2-3 Min. für medium und ca. 3-4 Min. für well done je Seite braten. Anschließend bis zum Anrichten in Alufolie gewickelt ruhen lassen. Die Pfanne in Schritt 6 wieder verwenden.",
+      "timers": [
+        {
+          "name": "Steak braten - rar",
+          "duration": "PT4M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        },
+        {
+          "name": "Steak braten - medium",
+          "duration": "PT6M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        },
+        {
+          "name": "Steak braten - well done",
+          "duration": "PT8M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54c91e3e6ced6e5f178b4571/step_5568173e4b481.jpg",
+          "caption": "Steak braten und würzen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b19befd2cb959598b4576",
+        "554b1bf6f8b25eef3e8b4570",
+        "556739714dab71310e8b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einem kleinen Topf 1 EL Butter (2 EL bei 4 Personen) erhitzen und Lauchringe darin ca. 2 Min. anbraten, bis sie vereinzelt bräunlich werden. Anschließend mit der Brühe ablöschen und bei geringerer Temperatur weiter köcheln lassen. Crème fraîche und Mehl unterrühren und 1 Min. unter ständigem Rühren kochen lassen. Dann vom Herd ziehen und zugedeckt zur Seite stellen.",
+      "instructionsHTML": "<p>In einem kleinen Topf 1 EL Butter (2 EL bei 4 Personen) erhitzen und Lauchringe darin ca. 2 Min. anbraten, bis sie vereinzelt bräunlich werden. Anschließend mit der Brühe ablöschen und bei geringerer Temperatur weiter köcheln lassen. Crème fraîche und Mehl unterrühren und 1 Min. unter ständigem Rühren kochen lassen. Dann vom Herd ziehen und zugedeckt zur Seite stellen.</p>",
+      "instructions": "In einem kleinen Topf 1 EL Butter (2 EL bei 4 Personen) erhitzen und Lauchringe darin ca. 2 Min. anbraten, bis sie vereinzelt bräunlich werden. Anschließend mit der Brühe ablöschen und bei geringerer Temperatur weiter köcheln lassen. Crème fraîche und Mehl unterrühren und 1 Min. unter ständigem Rühren kochen lassen. Dann vom Herd ziehen und zugedeckt zur Seite stellen.",
+      "timers": [
+        {
+          "name": "Lauchcremesoße zubereiten",
+          "duration": "PT5M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54c91e3e6ced6e5f178b4571/step_5568173e5d11c.jpg",
+          "caption": "Lauchcremesoße zubereiten, Crème fraîche und Mehl unterrühren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556736ccfd2cb964078b4568",
+        "554b780e4dab71db0d8b4568",
+        "554b2288f8b25ef93e8b456c",
+        "554b1f134dab71aa058b456e"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Topinambur- und Kartoffelecken nach der Garzeit abgießen und kurz ausdampfen lassen. Die Pfanne, in der die Steaks gebraten wurden, erneut auf den Herd stellen und 1 EL Butter (2 EL bei 4 Personen) darin schmelzen lassen. Topinambur- und Kartoffelecken hinzugeben und einige Min. anbraten lassen, bis sie die gewünschte Bräune erreicht haben. Dann mit Salz abschmecken und den Rosmarin dazugeben.",
+      "instructionsHTML": "<p>Topinambur- und Kartoffelecken nach der Garzeit abgießen und kurz ausdampfen lassen. Die Pfanne, in der die Steaks gebraten wurden, erneut auf den Herd stellen und 1 EL Butter (2 EL bei 4 Personen) darin schmelzen lassen. Topinambur- und Kartoffelecken hinzugeben und einige Min. anbraten lassen, bis sie die gewünschte Bräune erreicht haben. Dann mit Salz abschmecken und den Rosmarin dazugeben.</p>",
+      "instructions": "Topinambur- und Kartoffelecken nach der Garzeit abgießen und kurz ausdampfen lassen. Die Pfanne, in der die Steaks gebraten wurden, erneut auf den Herd stellen und 1 EL Butter (2 EL bei 4 Personen) darin schmelzen lassen. Topinambur- und Kartoffelecken hinzugeben und einige Min. anbraten lassen, bis sie die gewünschte Bräune erreicht haben. Dann mit Salz abschmecken und den Rosmarin dazugeben.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556735f14dab71190e8b4567",
+        "554b25fcfd2cb973608b4567",
+        "554b1a5b4dab71c8058b456d",
+        "554b1c284dab71a9058b456b",
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Topinambur- und Kartoffelecken auf Teller verteilen und mit dem Steak und der Soße genießen!",
+      "instructionsHTML": "<p>Topinambur- und Kartoffelecken auf Teller verteilen und mit dem Steak und der Soße genießen!</p>",
+      "instructions": "Topinambur- und Kartoffelecken auf Teller verteilen und mit dem Steak und der Soße genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b19befd2cb959598b4576",
+        "556735f14dab71190e8b4567",
+        "554b25fcfd2cb973608b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.3,
+  "ratingsCount": 1186,
+  "favoritesCount": 335,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/steak-mit-gebratenen-topinambur-kartoffelecken-54c91e3e6ced6e5f178b4571",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

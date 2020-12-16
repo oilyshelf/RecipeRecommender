@@ -1,0 +1,988 @@
+{
+  "country": "DE",
+  "id": "5784b6af13e9d6033f8b4568",
+  "name": "Fein asiatisch: Tofu-Gemüse-Pfanne",
+  "seoName": null,
+  "category": null,
+  "slug": "fein-asiatisch-tofu-gemuse-pfanne",
+  "headline": "mit Jasminreis",
+  "description": "Die süßlich-krä\u001fgtige Hoisin-Soße wird normalerweise zu Fleisch gereicht, hier verwöhnt sie Deinen Gaumen in einer leckeren Tofu-Gemüse-Pfanne. Abgerundet wird das Ganze mit fein-du\u001fftendem Jasminreis. Lass es Dir schmecken!",
+  "descriptionHTML": "<p>Die süßlich-krä\u001fgtige Hoisin-Soße wird normalerweise zu Fleisch gereicht, hier verwöhnt sie Deinen Gaumen in einer leckeren Tofu-Gemüse-Pfanne. Abgerundet wird das Ganze mit fein-du\u001fftendem Jasminreis. Lass es Dir schmecken!</p>",
+  "descriptionMarkdown": "Die süßlich-krä\u001fgtige Hoisin-Soße wird normalerweise zu Fleisch gereicht, hier verwöhnt sie Deinen Gaumen in einer leckeren Tofu-Gemüse-Pfanne. Abgerundet wird das Ganze mit fein-du\u001fftendem Jasminreis. Lass es Dir schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-07-12T09:21:51+00:00",
+  "updatedAt": "2017-04-10T06:49:26+00:00",
+  "link": "https://hellofresh.com/recipes/5784b6af13e9d6033f8b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/fein-asiatisch-tofu-gemuse-pfanne-05de4571.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/fein-asiatisch-tofu-gemuse-pfanne-3d472ba7.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2418,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 578,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 76,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b1f6efd2cb99c598b4575",
+      "type": "jasminreis",
+      "name": "Jasminreis",
+      "slug": "jasminreis",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1f6efd2cb99c598b4575.png",
+      "usage": 172,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1c",
+        "type": "rice",
+        "name": "Reis",
+        "slug": "reis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1c-0b4adebd.png",
+        "usageByCountry": {
+          "AT": 540,
+          "AU": 405,
+          "BE": 265,
+          "CA": 169,
+          "CH": 114,
+          "DE": 505,
+          "ER": 39,
+          "FR": 79,
+          "GB": 480,
+          "LU": 361,
+          "NL": 319,
+          "NZ": 107,
+          "ML": 328,
+          "US": 527
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7f33fd2cb96c628b456a",
+      "type": "ingwer",
+      "name": "Ingwer",
+      "slug": "ingwer",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7f33fd2cb96c628b456a.png",
+      "usage": 241,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba7",
+        "type": "ginger",
+        "name": "Ingwer",
+        "slug": "ingwer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba7-565cc248.png",
+        "usageByCountry": {
+          "AT": 278,
+          "AU": 225,
+          "BE": 200,
+          "CA": 107,
+          "CH": 52,
+          "DE": 241,
+          "ER": 20,
+          "FR": 57,
+          "GB": 231,
+          "LU": 241,
+          "NL": 220,
+          "NZ": 65,
+          "ML": 25,
+          "US": 246
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55a7ad03f8b25e571d8b4567",
+      "type": "hoisin-soße",
+      "name": "Hoisin-Soße",
+      "slug": "hoisin-sosze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55a7ad03f8b25e571d8b4567.png",
+      "usage": 5,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f9",
+          "type": "soya",
+          "name": "Soja",
+          "slug": "soja",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+          "usage": 390
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbb2",
+        "type": "hoisin-sauce",
+        "name": "Hoisin-Sauce",
+        "slug": "hoisin-sauce",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbb2-c927cff8.png",
+        "usageByCountry": {
+          "AT": 11,
+          "AU": 53,
+          "BE": 0,
+          "CA": 36,
+          "CH": 1,
+          "DE": 5,
+          "ER": 7,
+          "FR": 0,
+          "GB": 27,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 11,
+          "ML": 0,
+          "US": 174
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7e84fd2cb911618b456a",
+      "type": "rote paprika",
+      "name": "rote Paprika",
+      "slug": "rote-paprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7e84fd2cb911618b456a.png",
+      "usage": 229,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf7",
+        "type": "paprika",
+        "name": "Paprika",
+        "slug": "paprika",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf7-e6b2d1a6.png",
+        "usageByCountry": {
+          "AT": 581,
+          "AU": 50,
+          "BE": 613,
+          "CA": 64,
+          "CH": 21,
+          "DE": 536,
+          "ER": 7,
+          "FR": 166,
+          "GB": 539,
+          "LU": 769,
+          "NL": 388,
+          "NZ": 6,
+          "ML": 38,
+          "US": 79
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1adef8b25ef93e8b456a",
+      "type": "rote-chili",
+      "name": "roter Chili",
+      "slug": "rote-chili",
+      "description": null,
+      "internalName": "roter Chili",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1adef8b25ef93e8b456a.png",
+      "usage": 325,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6d",
+        "type": "chili",
+        "name": "Chili",
+        "slug": "chili",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6d-270fd94b.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 223,
+          "BE": 0,
+          "CA": 48,
+          "CH": 61,
+          "DE": 326,
+          "ER": 0,
+          "FR": 0,
+          "GB": 75,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 55,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1e654dab71a6058b4571",
+      "type": "koriander",
+      "name": "Koriander",
+      "slug": "koriander",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1e654dab71a6058b4571.png",
+      "usage": 240,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb79",
+        "type": "cilantro-coriander",
+        "name": "Cilantro / Koriander",
+        "slug": "cilantro-koriander",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb79-7a34459a.png",
+        "usageByCountry": {
+          "AT": 253,
+          "AU": 387,
+          "BE": 166,
+          "CA": 173,
+          "CH": 75,
+          "DE": 240,
+          "ER": 3,
+          "FR": 66,
+          "GB": 542,
+          "LU": 305,
+          "NL": 193,
+          "NZ": 102,
+          "ML": 8,
+          "US": 432
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556841a94dab71d81c8b4568",
+      "type": "tofu",
+      "name": "Tofu",
+      "slug": "tofu",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556841a94dab71d81c8b4568.png",
+      "usage": 22,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f9",
+          "type": "soya",
+          "name": "Soja",
+          "slug": "soja",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+          "usage": 390
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc44",
+        "type": "tofu",
+        "name": "Tofu",
+        "slug": "tofu",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc44-7698781a.png",
+        "usageByCountry": {
+          "AT": 34,
+          "AU": 59,
+          "BE": 19,
+          "CA": 13,
+          "CH": 5,
+          "DE": 35,
+          "ER": 0,
+          "FR": 8,
+          "GB": 12,
+          "LU": 15,
+          "NL": 26,
+          "NZ": 15,
+          "ML": 0,
+          "US": 7
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "57970b9592eec915528b4568",
+      "type": "kaiserschoten",
+      "name": "Kaiserschoten",
+      "slug": "kaiserschoten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/57970b9592eec915528b4568-993ad423.png",
+      "usage": 14,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbae",
+        "type": "green-peas",
+        "name": "Grüne Erbsen",
+        "slug": "grune-erbsen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbae-9058d045.png",
+        "usageByCountry": {
+          "AT": 46,
+          "AU": 141,
+          "BE": 22,
+          "CA": 49,
+          "CH": 5,
+          "DE": 44,
+          "ER": 49,
+          "FR": 6,
+          "GB": 77,
+          "LU": 14,
+          "NL": 29,
+          "NZ": 19,
+          "ML": 9,
+          "US": 505
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "type": "soya",
+      "name": "Soja",
+      "slug": "soja",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "usage": 390
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b3053a1",
+      "type": "smallpot",
+      "name": "Kleiner Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Kleine Schale"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536e",
+      "type": "grater",
+      "name": "Reibe"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "scharf",
+      "slug": "scharf",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-spicy%403x.png",
+      "numberOfRecipes": 2399,
+      "numberOfRecipesByCountry": {
+        "AT": 200,
+        "AU": 107,
+        "BE": 147,
+        "CA": 71,
+        "CH": 53,
+        "DE": 211,
+        "ER": 103,
+        "FR": 0,
+        "GB": 497,
+        "LU": 54,
+        "NL": 149,
+        "NZ": 0,
+        "ML": 0,
+        "US": 807
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiatisch",
+      "slug": "asiatisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg",
+      "usage": 2484
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b1f6efd2cb99c598b4575",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b7f33fd2cb96c628b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Zehe"
+        },
+        {
+          "id": "55a7ad03f8b25e571d8b4567",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7e84fd2cb911618b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1adef8b25ef93e8b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1e654dab71a6058b4571",
+          "amount": 2,
+          "unit": "Zweig"
+        },
+        {
+          "id": "556841a94dab71d81c8b4568",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "57970b9592eec915528b4568",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Wasser im Wasserkocher erhitzen. Gemüse und Kräuter waschen und putzen. \n\nJasminreis in einem Sieb mit kaltem Wasser abspülen bis dieses klar hindurchfließt. 300 ml kochendes Wasser in einen kleinen Topf füllen, salzen, aufkochen lassen, Reis hinzugeben und auf kleiner Stufe ca. 10 Min. köcheln lassen. Topf vom Herd nehmen und mit Deckel weitere 10 Min. ziehen lassen.",
+      "instructionsHTML": "<p>Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Wasser im Wasserkocher erhitzen. Gemüse und Kräuter waschen und putzen. </p>\n<p>Jasminreis in einem Sieb mit kaltem Wasser abspülen bis dieses klar hindurchfließt. 300 ml kochendes Wasser in einen kleinen Topf füllen, salzen, aufkochen lassen, Reis hinzugeben und auf kleiner Stufe ca. 10 Min. köcheln lassen. Topf vom Herd nehmen und mit Deckel weitere 10 Min. ziehen lassen.</p>",
+      "instructions": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Wasser im Wasserkocher erhitzen. Gemüse und Kräuter waschen und putzen. \nJasminreis in einem Sieb mit kaltem Wasser abspülen bis dieses klar hindurchfließt. 300 ml kochendes Wasser in einen kleinen Topf füllen, salzen, aufkochen lassen, Reis hinzugeben und auf kleiner Stufe ca. 10 Min. köcheln lassen. Topf vom Herd nehmen und mit Deckel weitere 10 Min. ziehen lassen.",
+      "timers": [
+        {
+          "name": "Zubereitungszeit Reis",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b1f6efd2cb99c598b4575",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a1",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Ein 1 cm großes Stück Ingwer schälen und fein reiben. Knoblauch abziehen und pressen. Beides in einer kleinen Schüssel mit der Hoisin-Soße mischen.",
+      "instructionsHTML": "<p>Ein 1 cm großes Stück Ingwer schälen und fein reiben. Knoblauch abziehen und pressen. Beides in einer kleinen Schüssel mit der Hoisin-Soße mischen.</p>",
+      "instructions": "Ein 1 cm großes Stück Ingwer schälen und fein reiben. Knoblauch abziehen und pressen. Beides in einer kleinen Schüssel mit der Hoisin-Soße mischen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5784b6af13e9d6033f8b4568/step_578503021ce35.jpg",
+          "caption": "Soße vorbereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b7f33fd2cb96c628b456a",
+        "554b268ffd2cb983608b4568",
+        "55a7ad03f8b25e571d8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305380",
+        "57e2674fb7e8697d4b30536e"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Zwiebel abziehen und in Streifen schneiden. Paprika und Chili halbieren, Kerne entfernen und ebenfalls in feine Streifen schneiden. Tofu in\nWürfel schneiden. Blätter vom Koriander abzupfen.",
+      "instructionsHTML": "<p>Zwiebel abziehen und in Streifen schneiden. Paprika und Chili halbieren, Kerne entfernen und ebenfalls in feine Streifen schneiden. Tofu in\nWürfel schneiden. Blätter vom Koriander abzupfen.</p>",
+      "instructions": "Zwiebel abziehen und in Streifen schneiden. Paprika und Chili halbieren, Kerne entfernen und ebenfalls in feine Streifen schneiden. Tofu in\nWürfel schneiden. Blätter vom Koriander abzupfen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5784b6af13e9d6033f8b4568/step_57850302609f7.jpg",
+          "caption": "Tofu würfeln"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2abcf8b25eef3e8b4573",
+        "554b7e84fd2cb911618b456a",
+        "554b1adef8b25ef93e8b456a",
+        "554b1e654dab71a6058b4571",
+        "556841a94dab71d81c8b4568"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer großen Pfanne 1 EL Öl stark erhitzen, Tofu darin rundherum 2 – 3 Min. anbraten. Danach herausnehmen und beiseitestellen.",
+      "instructionsHTML": "<p>In einer großen Pfanne 1 EL Öl stark erhitzen, Tofu darin rundherum 2 – 3 Min. anbraten. Danach herausnehmen und beiseitestellen.</p>",
+      "instructions": "In einer großen Pfanne 1 EL Öl stark erhitzen, Tofu darin rundherum 2 – 3 Min. anbraten. Danach herausnehmen und beiseitestellen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5784b6af13e9d6033f8b4568/step_578503028ebb1.jpg",
+          "caption": "Tofuwürfel anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556841a94dab71d81c8b4568",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Erneut 1 EL Öl in der Pfanne erhitzen, Zwiebelstreifen, Paprikastreifen und Kaiserschoten darin ca. 2 Min anbraten, bis das Gemüse gar, aber noch knackig ist. Tofu wieder dazugeben, Hoisin-Mischung zufügen und 1 Min. pfannenrühren. Danach Pfanne vom Herd nehmen und Korianderblätter zufügen, mit Salz und Pfe\u001fffer abschmecken.",
+      "instructionsHTML": "<p>Erneut 1 EL Öl in der Pfanne erhitzen, Zwiebelstreifen, Paprikastreifen und Kaiserschoten darin ca. 2 Min anbraten, bis das Gemüse gar, aber noch knackig ist. Tofu wieder dazugeben, Hoisin-Mischung zufügen und 1 Min. pfannenrühren. Danach Pfanne vom Herd nehmen und Korianderblätter zufügen, mit Salz und Pfe\u001fffer abschmecken.</p>",
+      "instructions": "Erneut 1 EL Öl in der Pfanne erhitzen, Zwiebelstreifen, Paprikastreifen und Kaiserschoten darin ca. 2 Min anbraten, bis das Gemüse gar, aber noch knackig ist. Tofu wieder dazugeben, Hoisin-Mischung zufügen und 1 Min. pfannenrühren. Danach Pfanne vom Herd nehmen und Korianderblätter zufügen, mit Salz und Pfe\u001fffer abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5784b6af13e9d6033f8b4568/step_57850302dbad2.jpg",
+          "caption": "Gemüse anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2abcf8b25eef3e8b4573",
+        "554b7e84fd2cb911618b456a",
+        "554b1e654dab71a6058b4571",
+        "556841a94dab71d81c8b4568",
+        "554b1c284dab71a9058b456b",
+        "554b1bf6f8b25eef3e8b4570",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Jasminreis auf Tellern verteilen, Tofu-Gemüse-Pfanne dazu anrichten und nach Geschmack mit ein paar Chilistreifen genießen!",
+      "instructionsHTML": "<p>Jasminreis auf Tellern verteilen, Tofu-Gemüse-Pfanne dazu anrichten und nach Geschmack mit ein paar Chilistreifen genießen!</p>",
+      "instructions": "Jasminreis auf Tellern verteilen, Tofu-Gemüse-Pfanne dazu anrichten und nach Geschmack mit ein paar Chilistreifen genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b1adef8b25ef93e8b456a"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.1,
+  "ratingsCount": 254,
+  "favoritesCount": 248,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/fein-asiatisch-tofu-gemuse-pfanne-5784b6af13e9d6033f8b4568",
+  "clonedFrom": null,
+  "canonical": "5784b6af13e9d6033f8b4568",
+  "canonicalLink": "https://www.hellofresh.de/recipes/fein-asiatisch-tofu-gemuse-pfanne-5784b6af13e9d6033f8b4568"
+}

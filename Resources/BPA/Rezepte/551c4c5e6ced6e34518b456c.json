@@ -1,0 +1,759 @@
+{
+  "country": "DE",
+  "id": "551c4c5e6ced6e34518b456c",
+  "name": "Schweinefilet in Thymian-Chili-Marinade",
+  "seoName": null,
+  "category": null,
+  "slug": "schweinefilet-in-thymian-chili-marinade",
+  "headline": "mit knusprigen Kartoffelecken und exotischem Brokkolini",
+  "description": "Hast Du schon die neue Gemüseart Brokkolini probiert? In Großbritannien ist das grüne Gemüse, das in Japan als Kreuzung von Chinakohl und Brokkoli gezüchtet wurde, bereits überall erhältlich. Wir wollen Dir Brokkolini als Vorboten auf die Spargelzeit vorstellen und wünschen einen guten Appetit!",
+  "descriptionHTML": "<p>Hast Du schon die neue Gemüseart Brokkolini probiert? In Großbritannien ist das grüne Gemüse, das in Japan als Kreuzung von Chinakohl und Brokkoli gezüchtet wurde, bereits überall erhältlich. Wir wollen Dir Brokkolini als Vorboten auf die Spargelzeit vorstellen und wünschen einen guten Appetit!</p>",
+  "descriptionMarkdown": "Hast Du schon die neue Gemüseart Brokkolini probiert? In Großbritannien ist das grüne Gemüse, das in Japan als Kreuzung von Chinakohl und Brokkoli gezüchtet wurde, bereits überall erhältlich. Wir wollen Dir Brokkolini als Vorboten auf die Spargelzeit vorstellen und wünschen einen guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-04-01T19:51:59+00:00",
+  "updatedAt": "2017-03-30T08:37:45+00:00",
+  "link": "https://hellofresh.com/recipes/551c4c5e6ced6e34518b456c",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/551c4c5e6ced6e34518b456c.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/551c4c5e6ced6e34518b456c.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2460.192,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 588,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 23,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 53,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b6b664dab71160d8b4569",
+      "type": "schweinefilet",
+      "name": "Schweinefilet",
+      "slug": "schweinefilet",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b6b664dab71160d8b4569.png",
+      "usage": 128,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc12",
+        "type": "pork",
+        "name": "Schweinefleisch",
+        "slug": "schweinefleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc12-bdd443ff.png",
+        "usageByCountry": {
+          "AT": 486,
+          "AU": 290,
+          "BE": 179,
+          "CA": 134,
+          "CH": 113,
+          "DE": 455,
+          "ER": 54,
+          "FR": 58,
+          "GB": 613,
+          "LU": 212,
+          "NL": 191,
+          "NZ": 97,
+          "ML": 289,
+          "US": 624
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da357fd2cb943758b4567",
+      "type": "thymian",
+      "name": "Thymian",
+      "slug": "thymian",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da357fd2cb943758b4567.png",
+      "usage": 245,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc43",
+        "type": "thyme",
+        "name": "Thymian",
+        "slug": "thymian",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc43-d0cc4199.png",
+        "usageByCountry": {
+          "AT": 252,
+          "AU": 94,
+          "BE": 243,
+          "CA": 96,
+          "CH": 34,
+          "DE": 252,
+          "ER": 0,
+          "FR": 73,
+          "GB": 187,
+          "LU": 346,
+          "NL": 288,
+          "NZ": 38,
+          "ML": 213,
+          "US": 322
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556da5f2f8b25e2d738b4569",
+      "type": "chiliflocken, mild",
+      "name": "milde Chiliflocken",
+      "slug": "chiliflocken-mild",
+      "description": null,
+      "internalName": "Chiliflocken, mild",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556da5f2f8b25e2d738b4569.png",
+      "usage": 29,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6e",
+        "type": "chili-spice",
+        "name": "Chili (Gewürz)",
+        "slug": "chili-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6e-57ddbd04.png",
+        "usageByCountry": {
+          "AT": 67,
+          "AU": 111,
+          "BE": 0,
+          "CA": 73,
+          "CH": 26,
+          "DE": 71,
+          "ER": 42,
+          "FR": 0,
+          "GB": 115,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 51,
+          "ML": 81,
+          "US": 426
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556da67ef8b25e2d738b456a",
+      "type": "brokkolini (bimi)",
+      "name": "Brokkolini (Bimi)",
+      "slug": "brokkolini-bimi",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556da67ef8b25e2d738b456a.png",
+      "usage": 36,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb56",
+        "type": "broccoli",
+        "name": "Brokkoli",
+        "slug": "brokkoli",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb56-a0e5977e.png",
+        "usageByCountry": {
+          "AT": 149,
+          "AU": 177,
+          "BE": 137,
+          "CA": 77,
+          "CH": 35,
+          "DE": 150,
+          "ER": 18,
+          "FR": 47,
+          "GB": 224,
+          "LU": 219,
+          "NL": 178,
+          "NZ": 44,
+          "ML": 176,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535a9af8b25e78738b4568",
+      "type": "joghurt",
+      "name": "Joghurt",
+      "slug": "joghurt",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55535a9af8b25e78738b4568.png",
+      "usage": 234,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc57",
+        "type": "yoghurt",
+        "name": "Jo­ghurt",
+        "slug": "joghurt",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc57-825533d1.png",
+        "usageByCountry": {
+          "AT": 464,
+          "AU": 272,
+          "BE": 368,
+          "CA": 43,
+          "CH": 101,
+          "DE": 434,
+          "ER": 0,
+          "FR": 31,
+          "GB": 207,
+          "LU": 341,
+          "NL": 408,
+          "NZ": 78,
+          "ML": 8,
+          "US": 48
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Kleine Schale"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "scharf",
+      "slug": "scharf",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-spicy%403x.png",
+      "numberOfRecipes": 2399,
+      "numberOfRecipesByCountry": {
+        "AT": 200,
+        "AU": 107,
+        "BE": 147,
+        "CA": 71,
+        "CH": 53,
+        "DE": 211,
+        "ER": 103,
+        "FR": 0,
+        "GB": 497,
+        "LU": 54,
+        "NL": 149,
+        "NZ": 0,
+        "ML": 0,
+        "US": 807
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b6b664dab71160d8b4569",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555da357fd2cb943758b4567",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "id": "556da5f2f8b25e2d738b4569",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "556da67ef8b25e2d738b456a",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55535a9af8b25e78738b4568",
+          "amount": 100,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b6b664dab71160d8b4569",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555da357fd2cb943758b4567",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 1200,
+          "unit": "g"
+        },
+        {
+          "id": "556da5f2f8b25e2d738b4569",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "id": "556da67ef8b25e2d738b456a",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.25,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55535a9af8b25e78738b4568",
+          "amount": 200,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Ofen auf 200 °C vorheizen.",
+      "instructionsHTML": "<p>Ofen auf 200 °C vorheizen.</p>",
+      "instructions": "Ofen auf 200 °C vorheizen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Schweinefilets aus dem Kühlschrank nehmen, damit sie Zimmertemperatur erreichen können.",
+      "instructionsHTML": "<p>Schweinefilets aus dem Kühlschrank nehmen, damit sie Zimmertemperatur erreichen können.</p>",
+      "instructions": "Schweinefilets aus dem Kühlschrank nehmen, damit sie Zimmertemperatur erreichen können.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b6b664dab71160d8b4569"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Thymian waschen, trocken schütteln und Blätter abstreifen. Kartoffeln gut waschen und in ca. 2 cm große Ecken schneiden. Anschließend mit 1 1/2 EL Olivenöl, Salz und Pfeffer auf einem tiefen Backblech verteilen und ca. 20-25 Min. auf der mittleren Schiene des Ofens knusprig backen (Kartoffeln in dieser Zeit zwei Mal wenden).",
+      "instructionsHTML": "<p>Thymian waschen, trocken schütteln und Blätter abstreifen. Kartoffeln gut waschen und in ca. 2 cm große Ecken schneiden. Anschließend mit 1 1/2 EL Olivenöl, Salz und Pfeffer auf einem tiefen Backblech verteilen und ca. 20-25 Min. auf der mittleren Schiene des Ofens knusprig backen (Kartoffeln in dieser Zeit zwei Mal wenden).</p>",
+      "instructions": "Thymian waschen, trocken schütteln und Blätter abstreifen. Kartoffeln gut waschen und in ca. 2 cm große Ecken schneiden. Anschließend mit 1 1/2 EL Olivenöl, Salz und Pfeffer auf einem tiefen Backblech verteilen und ca. 20-25 Min. auf der mittleren Schiene des Ofens knusprig backen (Kartoffeln in dieser Zeit zwei Mal wenden).",
+      "timers": [
+        {
+          "name": "Kartoffeln backen",
+          "duration": "PT25M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "555da357fd2cb943758b4567",
+        "554b25fcfd2cb973608b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "2 EL Olivenöl, Thymianblätter, Chiliflocken und etwas Salz und Pfeffer verrühren und das Schweinefilet damit marinieren. Dann zu den Kartoffeln auf das Backblech geben und ca. 20 Min. im Ofen backen.",
+      "instructionsHTML": "<p>2 EL Olivenöl, Thymianblätter, Chiliflocken und etwas Salz und Pfeffer verrühren und das Schweinefilet damit marinieren. Dann zu den Kartoffeln auf das Backblech geben und ca. 20 Min. im Ofen backen.</p>",
+      "instructions": "2 EL Olivenöl, Thymianblätter, Chiliflocken und etwas Salz und Pfeffer verrühren und das Schweinefilet damit marinieren. Dann zu den Kartoffeln auf das Backblech geben und ca. 20 Min. im Ofen backen.",
+      "timers": [
+        {
+          "name": "Schweinefilet backen",
+          "duration": "PT20M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/551c4c5e6ced6e34518b456c/step_556dac8cc7c5b.jpg",
+          "caption": "Schweinefilet mit Thymianblätter, Chiliflocken, Salz und Pfeffer marinieren"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/551c4c5e6ced6e34518b456c/step_556dac8d014d1.jpg",
+          "caption": "Die marinierten Filets zu den Kartoffeln auf das Backblech legen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b6b664dab71160d8b4569",
+        "555da357fd2cb943758b4567",
+        "556da5f2f8b25e2d738b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In der Zwischenzeit: Brokkolini waschen und ca. 1 cm am unteren Ende abschneiden. Etwas Wasser in einer Pfanne zum Kochen bringen. Brokkolini ca. 5 Min. darin kochen, dann abgießen und mit kaltem Wasser abschrecken.",
+      "instructionsHTML": "<p>In der Zwischenzeit: Brokkolini waschen und ca. 1 cm am unteren Ende abschneiden. Etwas Wasser in einer Pfanne zum Kochen bringen. Brokkolini ca. 5 Min. darin kochen, dann abgießen und mit kaltem Wasser abschrecken.</p>",
+      "instructions": "In der Zwischenzeit: Brokkolini waschen und ca. 1 cm am unteren Ende abschneiden. Etwas Wasser in einer Pfanne zum Kochen bringen. Brokkolini ca. 5 Min. darin kochen, dann abgießen und mit kaltem Wasser abschrecken.",
+      "timers": [
+        {
+          "name": "Brokkolini kochen",
+          "duration": "PT5M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/551c4c5e6ced6e34518b456c/step_556dac8d15e19.jpg",
+          "caption": "Brokkolini 5 Minuten in Pfanne kochen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556da67ef8b25e2d738b456a"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Pfanne mit Küchenpapier auswischen. 1 TL Butter darin erwärmen. Brokkolini erneut zugeben und ca. 3 Min. scharf anbraten.\nMit Salz und Pfeffer würzen.",
+      "instructionsHTML": "<p>Pfanne mit Küchenpapier auswischen. 1 TL Butter darin erwärmen. Brokkolini erneut zugeben und ca. 3 Min. scharf anbraten.\nMit Salz und Pfeffer würzen.</p>",
+      "instructions": "Pfanne mit Küchenpapier auswischen. 1 TL Butter darin erwärmen. Brokkolini erneut zugeben und ca. 3 Min. scharf anbraten.\nMit Salz und Pfeffer würzen.",
+      "timers": [
+        {
+          "name": "Brokkolini scharf anbraten",
+          "duration": "PT3M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556da67ef8b25e2d738b456a"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Knoblauch abziehen und in eine kleine Schüssel pressen. Joghurt zugeben und mit etwas Salz und Pfeffer abschmecken.",
+      "instructionsHTML": "<p>Knoblauch abziehen und in eine kleine Schüssel pressen. Joghurt zugeben und mit etwas Salz und Pfeffer abschmecken.</p>",
+      "instructions": "Knoblauch abziehen und in eine kleine Schüssel pressen. Joghurt zugeben und mit etwas Salz und Pfeffer abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/551c4c5e6ced6e34518b456c/step_556dac8d27efc.jpg",
+          "caption": "Knoblauch mit Joghurt in Schüssel vermischen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b268ffd2cb983608b4568",
+        "55535a9af8b25e78738b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ]
+    },
+    {
+      "index": 8,
+      "instructionsMarkdown": "Kartoffeln und Schweinefilet nach Garzeit mit Brokkolini auf Tellern verteilen und mit etwas Knoblauch-Joghurt genießen.",
+      "instructionsHTML": "<p>Kartoffeln und Schweinefilet nach Garzeit mit Brokkolini auf Tellern verteilen und mit etwas Knoblauch-Joghurt genießen.</p>",
+      "instructions": "Kartoffeln und Schweinefilet nach Garzeit mit Brokkolini auf Tellern verteilen und mit etwas Knoblauch-Joghurt genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b6b664dab71160d8b4569",
+        "554b25fcfd2cb973608b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.6,
+  "ratingsCount": 2104,
+  "favoritesCount": 841,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/schweinefilet-in-thymian-chili-marinade-551c4c5e6ced6e34518b456c",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

@@ -1,0 +1,1275 @@
+{
+  "country": "DE",
+  "id": "565ea475fd2cb9f06f8b4567",
+  "name": "Knusprige Hähnchensticks mit Dill-Schmand-Soße",
+  "seoName": null,
+  "category": null,
+  "slug": "knusprige-hahnchensticks-mit-dill-schmand-sosze",
+  "headline": "und Kartoffel-Gemüse-Pfanne",
+  "description": "Panade kann sooo lecker sein - aber nur wenn sie selbstgemacht ist. Besonders wenn dabei Cornflakes und Panko-Mehl zum Einsatz kommen, mit denen die Panade besonders knusprig wird. Wenn Du noch Panade, aber kein Hähnchen übrig hast, kannst du auch Gemüsescheiben panieren. Lass es Dir also schmecken!",
+  "descriptionHTML": "<p>Panade kann sooo lecker sein - aber nur wenn sie selbstgemacht ist. Besonders wenn dabei Cornflakes und Panko-Mehl zum Einsatz kommen, mit denen die Panade besonders knusprig wird. Wenn Du noch Panade, aber kein Hähnchen übrig hast, kannst du auch Gemüsescheiben panieren. Lass es Dir also schmecken!</p>",
+  "descriptionMarkdown": "Panade kann sooo lecker sein - aber nur wenn sie selbstgemacht ist. Besonders wenn dabei Cornflakes und Panko-Mehl zum Einsatz kommen, mit denen die Panade besonders knusprig wird. Wenn Du noch Panade, aber kein Hähnchen übrig hast, kannst du auch Gemüsescheiben panieren. Lass es Dir also schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT35M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-12-02T07:57:41+00:00",
+  "updatedAt": "2017-04-25T11:49:41+00:00",
+  "link": "https://hellofresh.com/recipes/565ea475fd2cb9f06f8b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/565ea475fd2cb9f06f8b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/565ea475fd2cb9f06f8b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2372.328,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 567,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 51,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 46,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "5595353ff8b25ed0168b4567",
+      "type": "hähncheninnenfilets",
+      "name": "Hähncheninnenfilets",
+      "slug": "hahncheninnenfilets",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/5595353ff8b25ed0168b4567-943f0212.png",
+      "usage": 9,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6b",
+        "type": "chicken",
+        "name": "Hähnchen",
+        "slug": "hahnchen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6b-8f15f243.png",
+        "usageByCountry": {
+          "AT": 293,
+          "AU": 427,
+          "BE": 305,
+          "CA": 214,
+          "CH": 94,
+          "DE": 262,
+          "ER": 62,
+          "FR": 92,
+          "GB": 486,
+          "LU": 380,
+          "NL": 282,
+          "NZ": 125,
+          "ML": 653,
+          "US": 668
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2aa14dab71aa058b4570",
+      "type": "zucchini",
+      "name": "Zucchini",
+      "slug": "zucchini",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2aa14dab71aa058b4570-0ba23f81.png",
+      "usage": 435,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc58",
+        "type": "zucchini",
+        "name": "Zucchini",
+        "slug": "zucchini",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc58-4066951c.png",
+        "usageByCountry": {
+          "AT": 449,
+          "AU": 407,
+          "BE": 0,
+          "CA": 103,
+          "CH": 74,
+          "DE": 439,
+          "ER": 23,
+          "FR": 0,
+          "GB": 0,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 110,
+          "ML": 163,
+          "US": 443
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7e84fd2cb911618b456a",
+      "type": "rote paprika",
+      "name": "rote Paprika",
+      "slug": "rote-paprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7e84fd2cb911618b456a.png",
+      "usage": 229,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf7",
+        "type": "paprika",
+        "name": "Paprika",
+        "slug": "paprika",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf7-e6b2d1a6.png",
+        "usageByCountry": {
+          "AT": 581,
+          "AU": 50,
+          "BE": 613,
+          "CA": 64,
+          "CH": 21,
+          "DE": 536,
+          "ER": 7,
+          "FR": 166,
+          "GB": 539,
+          "LU": 769,
+          "NL": 388,
+          "NZ": 6,
+          "ML": 38,
+          "US": 79
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dbfe6f8b25e406a8b4569",
+      "type": "dill",
+      "name": "Dill",
+      "slug": "dill",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dbfe6f8b25e406a8b4569.png",
+      "usage": 65,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb8d",
+        "type": "dill",
+        "name": "Dill",
+        "slug": "dill",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb8d-ba6242c3.png",
+        "usageByCountry": {
+          "AT": 58,
+          "AU": 26,
+          "BE": 58,
+          "CA": 22,
+          "CH": 9,
+          "DE": 65,
+          "ER": 0,
+          "FR": 15,
+          "GB": 31,
+          "LU": 78,
+          "NL": 69,
+          "NZ": 6,
+          "ML": 117,
+          "US": 58
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7480fd2cb911618b4568",
+      "type": "schmand",
+      "name": "Schmand",
+      "slug": "schmand",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b7480fd2cb911618b4568-52e9ad6e.png",
+      "usage": 248,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556da911f8b25e2d738b456b",
+      "type": "cornflakes",
+      "name": "Cornflakes",
+      "slug": "cornflakes",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556da911f8b25e2d738b456b.png",
+      "usage": 4,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb66",
+        "type": "cereal",
+        "name": "Müsli",
+        "slug": "musli",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb66-38cad40e.png",
+        "usageByCountry": {
+          "AT": 32,
+          "AU": 0,
+          "BE": 73,
+          "CA": 6,
+          "CH": 3,
+          "DE": 18,
+          "ER": 1,
+          "FR": 0,
+          "GB": 0,
+          "LU": 73,
+          "NL": 96,
+          "NZ": 0,
+          "ML": 0,
+          "US": 1
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555346104dab71c63e8b4568",
+      "type": "panko-mehl",
+      "name": "Panko-Mehl",
+      "slug": "panko-mehl",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555346104dab71c63e8b4568.png",
+      "usage": 54,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba0",
+        "type": "flour",
+        "name": "Mehl",
+        "slug": "mehl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba0-03891dce.png",
+        "usageByCountry": {
+          "AT": 391,
+          "AU": 201,
+          "BE": 10,
+          "CA": 106,
+          "CH": 74,
+          "DE": 383,
+          "ER": 19,
+          "FR": 0,
+          "GB": 141,
+          "LU": 5,
+          "NL": 14,
+          "NZ": 74,
+          "ML": 9,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "565ea8e079a23cd77f8b4568",
+      "type": "bratkartoffel-gewürz",
+      "name": "Bratkartoffel-Gewürz",
+      "slug": "bratkartoffel-gewurz",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/565ea8e079a23cd77f8b4568.png",
+      "usage": 7,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc32",
+        "type": "spice-mix",
+        "name": "Gewürzmischung",
+        "slug": "gewurzmischung",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc32-7154509f.png",
+        "usageByCountry": {
+          "AT": 594,
+          "AU": 114,
+          "BE": 15,
+          "CA": 34,
+          "CH": 92,
+          "DE": 475,
+          "ER": 36,
+          "FR": 10,
+          "GB": 42,
+          "LU": 10,
+          "NL": 25,
+          "NZ": 48,
+          "ML": 10,
+          "US": 366
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5568443bfd2cb985278b4569",
+      "type": "geflügelbrühe",
+      "name": "Geflügelbrühe",
+      "slug": "geflugelbruhe",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5568443bfd2cb985278b4569.png",
+      "usage": 35,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dc1a9fd2cb944758b4569",
+      "type": "mehl-home",
+      "name": "Mehl*",
+      "slug": "mehl",
+      "description": null,
+      "internalName": "Mehl home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dc1a9fd2cb944758b4569.png",
+      "usage": 156,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba0",
+        "type": "flour",
+        "name": "Mehl",
+        "slug": "mehl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba0-03891dce.png",
+        "usageByCountry": {
+          "AT": 391,
+          "AU": 201,
+          "BE": 10,
+          "CA": 106,
+          "CH": 74,
+          "DE": 383,
+          "ER": 19,
+          "FR": 0,
+          "GB": 141,
+          "LU": 5,
+          "NL": 14,
+          "NZ": 74,
+          "ML": 9,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3354fd2cb9ba598b456e",
+      "type": "ei",
+      "name": "Ei*",
+      "slug": "ei",
+      "description": null,
+      "internalName": "Ei [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3354fd2cb9ba598b456e.png",
+      "usage": 46,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f6",
+          "type": "egg",
+          "name": "Ei",
+          "slug": "ei",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+          "usage": 365
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb94",
+        "type": "eggs",
+        "name": "Eier",
+        "slug": "eier",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb94-b612d37c.png",
+        "usageByCountry": {
+          "AT": 134,
+          "AU": 232,
+          "BE": 347,
+          "CA": 0,
+          "CH": 28,
+          "DE": 117,
+          "ER": 0,
+          "FR": 62,
+          "GB": 0,
+          "LU": 384,
+          "NL": 415,
+          "NZ": 111,
+          "ML": 48,
+          "US": 62
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "type": "egg",
+      "name": "Ei",
+      "slug": "ei",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "usage": 365
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539b",
+      "type": "sieve",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a1",
+      "type": "smallpot",
+      "name": "Kleiner Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536a",
+      "type": "plasticwrap",
+      "name": "Frischhaltefolie"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Küchenpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539f",
+      "type": "soupbowl",
+      "name": "TiefeTeller"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "5595353ff8b25ed0168b4567",
+          "amount": 280,
+          "unit": "g"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "554b2aa14dab71aa058b4570",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7e84fd2cb911618b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "555dbfe6f8b25e406a8b4569",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b7480fd2cb911618b4568",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "556da911f8b25e2d738b456b",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "555346104dab71c63e8b4568",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "id": "565ea8e079a23cd77f8b4568",
+          "amount": 3,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "5568443bfd2cb985278b4569",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555dc1a9fd2cb944758b4569",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b3354fd2cb9ba598b456e",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Backofen auf 80 °C Ober-/Unterhitze vorheizen. Hähnchenbrust aus Kühlschrank nehmen, damit sie Zimmertemperatur annehmen kann. Kartoffeln waschen, schälen und in ca. 2 cm große Würfel schneiden. In einem großen Topf reichlich Wasser mit etwas Salz zum Kochen bringen und Kartoffeln zufügen. Dann Hitze herunterstufen und 10–15 Min. bissfest garen. Anschließend in ein Sieb abgießen und ausdampfen lassen.",
+      "instructionsHTML": "<p>Backofen auf 80 °C Ober-/Unterhitze vorheizen. Hähnchenbrust aus Kühlschrank nehmen, damit sie Zimmertemperatur annehmen kann. Kartoffeln waschen, schälen und in ca. 2 cm große Würfel schneiden. In einem großen Topf reichlich Wasser mit etwas Salz zum Kochen bringen und Kartoffeln zufügen. Dann Hitze herunterstufen und 10–15 Min. bissfest garen. Anschließend in ein Sieb abgießen und ausdampfen lassen.</p>",
+      "instructions": "Backofen auf 80 °C Ober-/Unterhitze vorheizen. Hähnchenbrust aus Kühlschrank nehmen, damit sie Zimmertemperatur annehmen kann. Kartoffeln waschen, schälen und in ca. 2 cm große Würfel schneiden. In einem großen Topf reichlich Wasser mit etwas Salz zum Kochen bringen und Kartoffeln zufügen. Dann Hitze herunterstufen und 10–15 Min. bissfest garen. Anschließend in ein Sieb abgießen und ausdampfen lassen.",
+      "timers": [
+        {
+          "name": null,
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/565ea475fd2cb9f06f8b4567/step_565f24c0c9a9d.jpg",
+          "caption": "Kartoffeln schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5595353ff8b25ed0168b4567",
+        "554b25fcfd2cb973608b4567",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c",
+        "57e2674fb7e8697d4b305374",
+        "57e2674fb7e8697d4b30539b"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Zucchini und Paprika waschen. Paprika halbieren, Kerngehäuse entfernen und in mundgerechte Stücke schneiden. Enden der Zucchini abschneiden, dann in ca. 2 cm große Würfel schneiden. Zwiebel abziehen und feine Streifen schneiden. Dill waschen, trocken schütteln, Spitzen abzupfen und fein hacken. In einer kleinen Schüssel Schmand und Dill mit etwas Salz und Pfeffer vermischen. In einem kleinen Topf 150 ml heiße Geflügelbrühe zubereiten.",
+      "instructionsHTML": "<p>Zucchini und Paprika waschen. Paprika halbieren, Kerngehäuse entfernen und in mundgerechte Stücke schneiden. Enden der Zucchini abschneiden, dann in ca. 2 cm große Würfel schneiden. Zwiebel abziehen und feine Streifen schneiden. Dill waschen, trocken schütteln, Spitzen abzupfen und fein hacken. In einer kleinen Schüssel Schmand und Dill mit etwas Salz und Pfeffer vermischen. In einem kleinen Topf 150 ml heiße Geflügelbrühe zubereiten.</p>",
+      "instructions": "Zucchini und Paprika waschen. Paprika halbieren, Kerngehäuse entfernen und in mundgerechte Stücke schneiden. Enden der Zucchini abschneiden, dann in ca. 2 cm große Würfel schneiden. Zwiebel abziehen und feine Streifen schneiden. Dill waschen, trocken schütteln, Spitzen abzupfen und fein hacken. In einer kleinen Schüssel Schmand und Dill mit etwas Salz und Pfeffer vermischen. In einem kleinen Topf 150 ml heiße Geflügelbrühe zubereiten.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/565ea475fd2cb9f06f8b4567/step_565f24c0f115c.jpg",
+          "caption": "Zucchini schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2aa14dab71aa058b4570",
+        "554b7e84fd2cb911618b456a",
+        "554b34554dab71a6058b4576",
+        "555dbfe6f8b25e406a8b4569",
+        "554b7480fd2cb911618b4568",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "5568443bfd2cb985278b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a1",
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Hähnchenfleischbrust mit Küchenpapier trocken tupfen und quer halbieren. Anschließend zwischen Frischhaltefolie legen und behutsam flacher klopfen. Danach in 2 cm breite Streifen (Sticks) schneiden.",
+      "instructionsHTML": "<p>Hähnchenfleischbrust mit Küchenpapier trocken tupfen und quer halbieren. Anschließend zwischen Frischhaltefolie legen und behutsam flacher klopfen. Danach in 2 cm breite Streifen (Sticks) schneiden.</p>",
+      "instructions": "Hähnchenfleischbrust mit Küchenpapier trocken tupfen und quer halbieren. Anschließend zwischen Frischhaltefolie legen und behutsam flacher klopfen. Danach in 2 cm breite Streifen (Sticks) schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/565ea475fd2cb9f06f8b4567/step_565f24c12be3b.jpg",
+          "caption": "Hähnchen schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5595353ff8b25ed0168b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536a",
+        "57e2674fb7e8697d4b305376",
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Nun werden die Hähnchensticks paniert, dafür drei tiefe Teller vorbereiten: Auf dem 1. Teller 2 EL Mehl verteilen. Im 2. Teller 1 Ei mit etwas Salz und Pfeffer verquirlen. Cornflakes leicht zerdrücken und zusammen mit Panko-Mehl in einem dritten tiefen Teller mischen. Dann Hähnchensticks zuerst im Mehl wenden, dann durch das Ei ziehen und zuletzt rundherum mit der Panko-Cornflakes-Mischung panieren (diese gut andrücken). Anschließend die Sticks kurz kaltstellen.",
+      "instructionsHTML": "<p>Nun werden die Hähnchensticks paniert, dafür drei tiefe Teller vorbereiten: Auf dem 1. Teller 2 EL Mehl verteilen. Im 2. Teller 1 Ei mit etwas Salz und Pfeffer verquirlen. Cornflakes leicht zerdrücken und zusammen mit Panko-Mehl in einem dritten tiefen Teller mischen. Dann Hähnchensticks zuerst im Mehl wenden, dann durch das Ei ziehen und zuletzt rundherum mit der Panko-Cornflakes-Mischung panieren (diese gut andrücken). Anschließend die Sticks kurz kaltstellen.</p>",
+      "instructions": "Nun werden die Hähnchensticks paniert, dafür drei tiefe Teller vorbereiten: Auf dem 1. Teller 2 EL Mehl verteilen. Im 2. Teller 1 Ei mit etwas Salz und Pfeffer verquirlen. Cornflakes leicht zerdrücken und zusammen mit Panko-Mehl in einem dritten tiefen Teller mischen. Dann Hähnchensticks zuerst im Mehl wenden, dann durch das Ei ziehen und zuletzt rundherum mit der Panko-Cornflakes-Mischung panieren (diese gut andrücken). Anschließend die Sticks kurz kaltstellen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556da911f8b25e2d738b456b",
+        "555346104dab71c63e8b4568",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "555dc1a9fd2cb944758b4569",
+        "554b3354fd2cb9ba598b456e"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539f"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einer großen Pfanne 2 EL Olivenöl erhitzen. Zwiebeln zugeben und 4–5 Min. glasig andünsten. Paprika und Zucchini zugeben und 8–10 Min. anbraten. Kartoffeln und Bratkartoffel-Gewürz zugeben und 5–8 Min. weiterbraten. Nach Geschmack mit ein wenig Salz und Pfeffer würzen. Anschließend Kartoffel-Gemüse-Pfanne auf einem mit Backpapier belegten Backblech verteilen und im vorgeheizten Ofen warmhalten.",
+      "instructionsHTML": "<p>In einer großen Pfanne 2 EL Olivenöl erhitzen. Zwiebeln zugeben und 4–5 Min. glasig andünsten. Paprika und Zucchini zugeben und 8–10 Min. anbraten. Kartoffeln und Bratkartoffel-Gewürz zugeben und 5–8 Min. weiterbraten. Nach Geschmack mit ein wenig Salz und Pfeffer würzen. Anschließend Kartoffel-Gemüse-Pfanne auf einem mit Backpapier belegten Backblech verteilen und im vorgeheizten Ofen warmhalten.</p>",
+      "instructions": "In einer großen Pfanne 2 EL Olivenöl erhitzen. Zwiebeln zugeben und 4–5 Min. glasig andünsten. Paprika und Zucchini zugeben und 8–10 Min. anbraten. Kartoffeln und Bratkartoffel-Gewürz zugeben und 5–8 Min. weiterbraten. Nach Geschmack mit ein wenig Salz und Pfeffer würzen. Anschließend Kartoffel-Gemüse-Pfanne auf einem mit Backpapier belegten Backblech verteilen und im vorgeheizten Ofen warmhalten.",
+      "timers": [
+        {
+          "name": null,
+          "duration": "PT8M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/565ea475fd2cb9f06f8b4567/step_565f24c1468fc.jpg",
+          "caption": "Gemüsepfanne zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "565ea8e079a23cd77f8b4568",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305377",
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Pfanne mit Küchenpapier auswischen. Dann 1 TL Öl und 1 TL Butter darin erhitzen. Hähnchensticks portionsweise bei mittlerer Hitze von jeder Seite 3–4 Min. anbraten. Dann aus der Pfanne nehmen und auf Küchenpapier abtropfen lassen.",
+      "instructionsHTML": "<p>Pfanne mit Küchenpapier auswischen. Dann 1 TL Öl und 1 TL Butter darin erhitzen. Hähnchensticks portionsweise bei mittlerer Hitze von jeder Seite 3–4 Min. anbraten. Dann aus der Pfanne nehmen und auf Küchenpapier abtropfen lassen.</p>",
+      "instructions": "Pfanne mit Küchenpapier auswischen. Dann 1 TL Öl und 1 TL Butter darin erhitzen. Hähnchensticks portionsweise bei mittlerer Hitze von jeder Seite 3–4 Min. anbraten. Dann aus der Pfanne nehmen und auf Küchenpapier abtropfen lassen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b22cb4dab71c8058b4570",
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305376"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Für die Dill-Schmand-Soße: Bratensatz mit der vorbereiteten Geflügelbrühe ablöschen und ca. 2 Min. einkochen lassen. Dann Dill-Schmand-Mischung einrühren (jetzt nicht mehr zum Kochen bringen) und ca. 1 Min. weiterköcheln lassen.",
+      "instructionsHTML": "<p>Für die Dill-Schmand-Soße: Bratensatz mit der vorbereiteten Geflügelbrühe ablöschen und ca. 2 Min. einkochen lassen. Dann Dill-Schmand-Mischung einrühren (jetzt nicht mehr zum Kochen bringen) und ca. 1 Min. weiterköcheln lassen.</p>",
+      "instructions": "Für die Dill-Schmand-Soße: Bratensatz mit der vorbereiteten Geflügelbrühe ablöschen und ca. 2 Min. einkochen lassen. Dann Dill-Schmand-Mischung einrühren (jetzt nicht mehr zum Kochen bringen) und ca. 1 Min. weiterköcheln lassen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "5568443bfd2cb985278b4569"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 8,
+      "instructionsMarkdown": "Hähnchensticks und Kartoffel-Gemüse-Pfanne aus dem Ofen auf Tellern verteilen, mit Dill-Schmand-Soße beträufeln und genießen!",
+      "instructionsHTML": "<p>Hähnchensticks und Kartoffel-Gemüse-Pfanne aus dem Ofen auf Tellern verteilen, mit Dill-Schmand-Soße beträufeln und genießen!</p>",
+      "instructions": "Hähnchensticks und Kartoffel-Gemüse-Pfanne aus dem Ofen auf Tellern verteilen, mit Dill-Schmand-Soße beträufeln und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.6,
+  "ratingsCount": 629,
+  "favoritesCount": 1252,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/knusprige-hahnchensticks-mit-dill-schmand-sosze-565ea475fd2cb9f06f8b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

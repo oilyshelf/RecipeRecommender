@@ -1,0 +1,993 @@
+{
+  "country": "DE",
+  "id": "5564a5c8fd2cb96b1d8b4568",
+  "name": "Arabisch mariniertes Rinderhüftsteak mit Ofen-Karottensticks,",
+  "seoName": null,
+  "category": null,
+  "slug": "arabisch-mariniertes-rinderhufts",
+  "headline": "Prinzessbohnen und Joghurt-Soße",
+  "description": "Mit der arabischen Gewürzmischung Za’atar kannst Du in die Welt von Tausendundeinenacht eintauchen und von Prinzen und Prinzessinnen träumen (und solange mit den Prinzessbohnen vorlieb nehmen, die sind leichter verdaulich). Wohl bekomm’s!",
+  "descriptionHTML": "<p>Mit der arabischen Gewürzmischung Za’atar kannst Du in die Welt von Tausendundeinenacht eintauchen und von Prinzen und Prinzessinnen träumen (und solange mit den Prinzessbohnen vorlieb nehmen, die sind leichter verdaulich). Wohl bekomm’s!</p>",
+  "descriptionMarkdown": "Mit der arabischen Gewürzmischung Za’atar kannst Du in die Welt von Tausendundeinenacht eintauchen und von Prinzen und Prinzessinnen träumen (und solange mit den Prinzessbohnen vorlieb nehmen, die sind leichter verdaulich). Wohl bekomm’s!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-05-26T16:56:40+00:00",
+  "updatedAt": "2017-05-09T07:12:44+00:00",
+  "link": "https://hellofresh.com/recipes/5564a5c8fd2cb96b1d8b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/5564a5c8fd2cb96b1d8b4568.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/5564a5c8fd2cb96b1d8b4568.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2251,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 538,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 29,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 27,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 14,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 34,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b19befd2cb959598b4576",
+      "type": "rinderhüftsteak",
+      "name": "Rinderhüftsteak",
+      "slug": "rinderhuftsteak",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b19befd2cb959598b4576.png",
+      "usage": 94,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4e",
+        "type": "beef",
+        "name": "Rindfleisch",
+        "slug": "rindfleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4e-125de8b7.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 363,
+          "BE": 168,
+          "CA": 192,
+          "CH": 81,
+          "DE": 313,
+          "ER": 66,
+          "FR": 51,
+          "GB": 276,
+          "LU": 167,
+          "NL": 187,
+          "NZ": 103,
+          "ML": 494,
+          "US": 655
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b23dff8b25ef53e8b456f",
+      "type": "karotten",
+      "name": "Karotte",
+      "slug": "karotten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b23dff8b25ef53e8b456f.png",
+      "usage": 566,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb62",
+        "type": "carrot",
+        "name": "Karotte",
+        "slug": "karotte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb62-c4a1f62d.png",
+        "usageByCountry": {
+          "AT": 679,
+          "AU": 553,
+          "BE": 225,
+          "CA": 127,
+          "CH": 130,
+          "DE": 627,
+          "ER": 27,
+          "FR": 49,
+          "GB": 343,
+          "LU": 220,
+          "NL": 263,
+          "NZ": 175,
+          "ML": 243,
+          "US": 318
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27e6fd2cb983608b4569",
+      "type": "fruhlingszwiebeln",
+      "name": "Frühlingszwiebel",
+      "slug": "fruhlingszwiebeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27e6fd2cb983608b4569.png",
+      "usage": 514,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc35",
+        "type": "spring-onion",
+        "name": "Frühlingszwiebel",
+        "slug": "fruhlingszwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc35-03c06826.png",
+        "usageByCountry": {
+          "AT": 575,
+          "AU": 0,
+          "BE": 15,
+          "CA": 0,
+          "CH": 113,
+          "DE": 514,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 421,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566e825fd2cb9e47f8b4567",
+      "type": "prinzessbohnen",
+      "name": "Prinzessbohnen",
+      "slug": "prinzessbohnen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566e825fd2cb9e47f8b4567.png",
+      "usage": 33,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4c",
+        "type": "beans",
+        "name": "Bohnen",
+        "slug": "bohnen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4c-15ab1383.png",
+        "usageByCountry": {
+          "AT": 255,
+          "AU": 115,
+          "BE": 77,
+          "CA": 78,
+          "CH": 43,
+          "DE": 231,
+          "ER": 3,
+          "FR": 28,
+          "GB": 241,
+          "LU": 95,
+          "NL": 51,
+          "NZ": 28,
+          "ML": 153,
+          "US": 198
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566e8eef8b25ed4298b456a",
+      "type": "zaatar",
+      "name": "Za'atar",
+      "slug": "zaatar",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566e8eef8b25ed4298b456a.png",
+      "usage": 14,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbd8",
+        "type": "middle-eastern-spices",
+        "name": "Mittlere östliche Gewürze",
+        "slug": "mittlere-ostliche-gewurze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbd8-eb48c7b2.png",
+        "usageByCountry": {
+          "AT": 43,
+          "AU": 52,
+          "BE": 4,
+          "CA": 16,
+          "CH": 12,
+          "DE": 40,
+          "ER": 3,
+          "FR": 1,
+          "GB": 43,
+          "LU": 2,
+          "NL": 4,
+          "NZ": 18,
+          "ML": 0,
+          "US": 150
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535a9af8b25e78738b4568",
+      "type": "joghurt",
+      "name": "Joghurt",
+      "slug": "joghurt",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55535a9af8b25e78738b4568.png",
+      "usage": 234,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc57",
+        "type": "yoghurt",
+        "name": "Jo­ghurt",
+        "slug": "joghurt",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc57-825533d1.png",
+        "usageByCountry": {
+          "AT": 464,
+          "AU": 272,
+          "BE": 368,
+          "CA": 43,
+          "CH": 101,
+          "DE": 434,
+          "ER": 0,
+          "FR": 31,
+          "GB": 207,
+          "LU": 341,
+          "NL": 408,
+          "NZ": 78,
+          "ML": 8,
+          "US": 48
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305316",
+      "type": "low-carb",
+      "name": "Low Carb",
+      "slug": "low-carb",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 82,
+      "numberOfRecipesByCountry": {
+        "AT": 28,
+        "AU": 21,
+        "BE": 0,
+        "CA": 0,
+        "CH": 7,
+        "DE": 26,
+        "ER": 0,
+        "FR": 0,
+        "GB": 0,
+        "LU": 0,
+        "NL": 0,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    }
+  ],
+  "cuisines": [],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b19befd2cb959598b4576",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "5566e825fd2cb9e47f8b4567",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "5566e8eef8b25ed4298b456a",
+          "amount": 3,
+          "unit": "g"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55535a9af8b25e78738b4568",
+          "amount": 100,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b19befd2cb959598b4576",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 8,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.25,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "5566e825fd2cb9e47f8b4567",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "5566e8eef8b25ed4298b456a",
+          "amount": 6,
+          "unit": "g"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55535a9af8b25e78738b4568",
+          "amount": 200,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Backofen auf 200 °C Ober-/Unterhitze vorheizen. Rinderhüftsteaks aus dem Kühlschrank nehmen, damit sie Zimmertemperatur annehmen können. Falls die Stücke nicht gleich dick sind, mit dem Handballen oder Boden eines Topfes ein wenig plattdrücken und angleichen.",
+      "instructionsHTML": "<p>Backofen auf 200 °C Ober-/Unterhitze vorheizen. Rinderhüftsteaks aus dem Kühlschrank nehmen, damit sie Zimmertemperatur annehmen können. Falls die Stücke nicht gleich dick sind, mit dem Handballen oder Boden eines Topfes ein wenig plattdrücken und angleichen.</p>",
+      "instructions": "Backofen auf 200 °C Ober-/Unterhitze vorheizen. Rinderhüftsteaks aus dem Kühlschrank nehmen, damit sie Zimmertemperatur annehmen können. Falls die Stücke nicht gleich dick sind, mit dem Handballen oder Boden eines Topfes ein wenig plattdrücken und angleichen.",
+      "timers": [
+        {
+          "name": "Backofen vorheizen",
+          "duration": "PT20M",
+          "temperature": 200,
+          "temperatureUnit": "C",
+          "ovenMode": "PreHeating"
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5564a5c8fd2cb96b1d8b4568/step_557f038c35373.jpg",
+          "caption": "Fleisch flacher drücken"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b19befd2cb959598b4576"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Karotten schälen, in ca. 1 cm dicke und 10 cm lange Stifte (Sticks) schneiden, in eine Schüssel geben und mit 1 EL Olivenöl sowie Salz und Pfeffer vermengen. Dann auf einem mit Backpapier belegten Backblech verteilen und für ca. 20 Min. in den Ofen schieben. 5 Min. vor Ende der Garzeit auf Umluft umstellen, so werden die Karotten knuspriger.",
+      "instructionsHTML": "<p>Karotten schälen, in ca. 1 cm dicke und 10 cm lange Stifte (Sticks) schneiden, in eine Schüssel geben und mit 1 EL Olivenöl sowie Salz und Pfeffer vermengen. Dann auf einem mit Backpapier belegten Backblech verteilen und für ca. 20 Min. in den Ofen schieben. 5 Min. vor Ende der Garzeit auf Umluft umstellen, so werden die Karotten knuspriger.</p>",
+      "instructions": "Karotten schälen, in ca. 1 cm dicke und 10 cm lange Stifte (Sticks) schneiden, in eine Schüssel geben und mit 1 EL Olivenöl sowie Salz und Pfeffer vermengen. Dann auf einem mit Backpapier belegten Backblech verteilen und für ca. 20 Min. in den Ofen schieben. 5 Min. vor Ende der Garzeit auf Umluft umstellen, so werden die Karotten knuspriger.",
+      "timers": [
+        {
+          "name": "Karotten garen",
+          "duration": "PT15M",
+          "temperature": 200,
+          "temperatureUnit": "C",
+          "ovenMode": "TopBottomHeating"
+        },
+        {
+          "name": "Karotten garen - knusprig",
+          "duration": "PT05M",
+          "temperature": 200,
+          "temperatureUnit": "C",
+          "ovenMode": "HotAir"
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5564a5c8fd2cb96b1d8b4568/step_557f0426c4861.jpg",
+          "caption": "Karotten schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b23dff8b25ef53e8b456f",
+        "554b22cb4dab71c8058b4570",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Knoblauch abziehen und fein hacken. Frühlingszwiebel waschen, welkes Grün entfernen und in feine Ringe schneiden. Prinzessbohnen waschen und die Enden abschneiden, evtl. halbieren. Joghurt mit ein wenig Salz und Pfeffer verrühren und abschmecken.",
+      "instructionsHTML": "<p>Knoblauch abziehen und fein hacken. Frühlingszwiebel waschen, welkes Grün entfernen und in feine Ringe schneiden. Prinzessbohnen waschen und die Enden abschneiden, evtl. halbieren. Joghurt mit ein wenig Salz und Pfeffer verrühren und abschmecken.</p>",
+      "instructions": "Knoblauch abziehen und fein hacken. Frühlingszwiebel waschen, welkes Grün entfernen und in feine Ringe schneiden. Prinzessbohnen waschen und die Enden abschneiden, evtl. halbieren. Joghurt mit ein wenig Salz und Pfeffer verrühren und abschmecken.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b268ffd2cb983608b4568",
+        "554b27e6fd2cb983608b4569",
+        "5566e825fd2cb9e47f8b4567",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573",
+        "55535a9af8b25e78738b4568"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "1 EL Öl, Salz und Pfeffer mit dem Za‘atar vermischen und die Steaks darin marinieren. Bohnen in einem kleinen Topf mit leicht gesalzenem Wasser bedecken, einmal aufkochen lassen, dann 8–10 Min. weiterköcheln, bis sie gar sind. Dann abgießen und abtropfen lassen.",
+      "instructionsHTML": "<p>1 EL Öl, Salz und Pfeffer mit dem Za‘atar vermischen und die Steaks darin marinieren. Bohnen in einem kleinen Topf mit leicht gesalzenem Wasser bedecken, einmal aufkochen lassen, dann 8–10 Min. weiterköcheln, bis sie gar sind. Dann abgießen und abtropfen lassen.</p>",
+      "instructions": "1 EL Öl, Salz und Pfeffer mit dem Za‘atar vermischen und die Steaks darin marinieren. Bohnen in einem kleinen Topf mit leicht gesalzenem Wasser bedecken, einmal aufkochen lassen, dann 8–10 Min. weiterköcheln, bis sie gar sind. Dann abgießen und abtropfen lassen.",
+      "timers": [
+        {
+          "name": "Bohnen köcheln",
+          "duration": "PT05M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5564a5c8fd2cb96b1d8b4568/step_557f04d196eb8.jpg",
+          "caption": "Steaks marinieren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5566e825fd2cb9e47f8b4567",
+        "5566e8eef8b25ed4298b456a",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einer Pfanne 1–2 EL Öl erhitzen. Knoblauch sowie weißen und hellgrünen Teil (Hälfte für das Anrichten zur Seite stellen) der Frühlingszwiebeln 1–2 Min. darin anbraten, dann mit einem Kochlöffel ein wenig zur Seite schieben. Nun die Steaks in der Pfanne 1–2 Min. für rare, 2–3 Min. für medium, 3–4 Min. für well done je Seite anbraten. Anschließend alles aus der Pfanne nehmen und, in Alufolie gewickelt, ein wenig ruhen lassen. Bohnen kurz mit 1 TL Butter in der Pfanne anbraten.",
+      "instructionsHTML": "<p>In einer Pfanne 1–2 EL Öl erhitzen. Knoblauch sowie weißen und hellgrünen Teil (Hälfte für das Anrichten zur Seite stellen) der Frühlingszwiebeln 1–2 Min. darin anbraten, dann mit einem Kochlöffel ein wenig zur Seite schieben. Nun die Steaks in der Pfanne 1–2 Min. für rare, 2–3 Min. für medium, 3–4 Min. für well done je Seite anbraten. Anschließend alles aus der Pfanne nehmen und, in Alufolie gewickelt, ein wenig ruhen lassen. Bohnen kurz mit 1 TL Butter in der Pfanne anbraten.</p>",
+      "instructions": "In einer Pfanne 1–2 EL Öl erhitzen. Knoblauch sowie weißen und hellgrünen Teil (Hälfte für das Anrichten zur Seite stellen) der Frühlingszwiebeln 1–2 Min. darin anbraten, dann mit einem Kochlöffel ein wenig zur Seite schieben. Nun die Steaks in der Pfanne 1–2 Min. für rare, 2–3 Min. für medium, 3–4 Min. für well done je Seite anbraten. Anschließend alles aus der Pfanne nehmen und, in Alufolie gewickelt, ein wenig ruhen lassen. Bohnen kurz mit 1 TL Butter in der Pfanne anbraten.",
+      "timers": [
+        {
+          "name": "Steak medium",
+          "duration": "PT04M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5564a5c8fd2cb96b1d8b4568/step_557f05801924f.jpg",
+          "caption": "Steaks braten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b19befd2cb959598b4576",
+        "554b268ffd2cb983608b4568",
+        "554b27e6fd2cb983608b4569",
+        "5566e825fd2cb9e47f8b4567",
+        "554b1bf6f8b25eef3e8b4570",
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Rinderhüftsteak mit Karottensticks und Prinzessbohnen auf Tellern verteilen, mit einem Klecks Joghurt-Soße und den grünen Frühlingszwiebelringen bestreut genießen!",
+      "instructionsHTML": "<p>Rinderhüftsteak mit Karottensticks und Prinzessbohnen auf Tellern verteilen, mit einem Klecks Joghurt-Soße und den grünen Frühlingszwiebelringen bestreut genießen!</p>",
+      "instructions": "Rinderhüftsteak mit Karottensticks und Prinzessbohnen auf Tellern verteilen, mit einem Klecks Joghurt-Soße und den grünen Frühlingszwiebelringen bestreut genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.4,
+  "ratingsCount": 2463,
+  "favoritesCount": 1748,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/arabisch-mariniertes-rinderhufts-5564a5c8fd2cb96b1d8b4568",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

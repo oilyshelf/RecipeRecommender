@@ -1,0 +1,967 @@
+{
+  "country": "DE",
+  "id": "584fd0fe9df1815bd20e7292",
+  "name": "Veggie-Wraps mit BBQ-Bohnenmus",
+  "seoName": null,
+  "category": null,
+  "slug": "veggie-wraps-mit-bbq-bohnenpaste",
+  "headline": "dazu Paprika-Tomaten-Salsa und erfrischender Blattsalat",
+  "description": "Bei den kühlen Temperaturen draußen träumen wir uns gerne mal ins warme und temperamentvolle Mexiko. Um Dir ein bisschen vom mexikanischen Feuer auf den Teller zu zaubern, haben wir diesen unglaublich leckeren Wrap mit aromatischem Bohnenmus kreiert. Lass es Dir schmecken!",
+  "descriptionHTML": "<p>Bei den kühlen Temperaturen draußen träumen wir uns gerne mal ins warme und temperamentvolle Mexiko. Um Dir ein bisschen vom mexikanischen Feuer auf den Teller zu zaubern, haben wir diesen unglaublich leckeren Wrap mit aromatischem Bohnenmus kreiert. Lass es Dir schmecken!</p>",
+  "descriptionMarkdown": "Bei den kühlen Temperaturen draußen träumen wir uns gerne mal ins warme und temperamentvolle Mexiko. Um Dir ein bisschen vom mexikanischen Feuer auf den Teller zu zaubern, haben wir diesen unglaublich leckeren Wrap mit aromatischem Bohnenmus kreiert. Lass es Dir schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 500,
+  "createdAt": "2016-12-13T10:44:14+00:00",
+  "updatedAt": "2018-05-28T20:27:56+00:00",
+  "link": "https://hellofresh.com/recipes/584fd0fe9df1815bd20e7292",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/veggie-wraps-mit-bbq-bohnenpaste-b27d721c.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/veggie-wraps-mit-bbq-bohnenpaste-92e39a3c.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2632,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 626,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 26,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 69,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 3,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b27e6fd2cb983608b4569",
+      "type": "fruhlingszwiebeln",
+      "name": "Frühlingszwiebel",
+      "slug": "fruhlingszwiebeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27e6fd2cb983608b4569.png",
+      "usage": 514,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc35",
+        "type": "spring-onion",
+        "name": "Frühlingszwiebel",
+        "slug": "fruhlingszwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc35-03c06826.png",
+        "usageByCountry": {
+          "AT": 575,
+          "AU": 0,
+          "BE": 15,
+          "CA": 0,
+          "CH": 113,
+          "DE": 514,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 421,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556da1c2f8b25ebf728b4567",
+      "type": "rote spitzenpaprika",
+      "name": "rote Spitzenpaprika",
+      "slug": "rote-spitzenpaprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/556da1c2f8b25ebf728b4567-4e402997.png",
+      "usage": 99,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc06",
+        "type": "pepper-vegetable",
+        "name": "Pfeffer (Gemüse)",
+        "slug": "pfeffer-gemuse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc06-d58f09de.png",
+        "usageByCountry": {
+          "AT": 216,
+          "AU": 285,
+          "BE": 95,
+          "CA": 188,
+          "CH": 92,
+          "DE": 215,
+          "ER": 51,
+          "FR": 30,
+          "GB": 307,
+          "LU": 126,
+          "NL": 108,
+          "NZ": 62,
+          "ML": 428,
+          "US": 579
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7eed4dab71150d8b456f",
+      "type": "gruner-chili",
+      "name": "grüner Chili",
+      "slug": "grune-chili",
+      "description": null,
+      "internalName": "grüner Chili",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7eed4dab71150d8b456f.png",
+      "usage": 65,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc33",
+        "type": "spicy-pepper-vegetable",
+        "name": "Würziger Pfeffer (Gemüse)",
+        "slug": "wurziger-pfeffer-gemuse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc33-f05fb04f.png",
+        "usageByCountry": {
+          "AT": 167,
+          "AU": 19,
+          "BE": 6,
+          "CA": 18,
+          "CH": 23,
+          "DE": 141,
+          "ER": 23,
+          "FR": 1,
+          "GB": 189,
+          "LU": 5,
+          "NL": 328,
+          "NZ": 0,
+          "ML": 0,
+          "US": 142
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b73b14dab71160d8b456a",
+      "type": "avocado",
+      "name": "Avocado",
+      "slug": "avocado",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/554b73b14dab71160d8b456a-0d84328a.png",
+      "usage": 181,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb3c",
+        "type": "avocado",
+        "name": "Avocado",
+        "slug": "avocado",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb3c-5ad65fb5.png",
+        "usageByCountry": {
+          "AT": 193,
+          "AU": 80,
+          "BE": 73,
+          "CA": 51,
+          "CH": 45,
+          "DE": 181,
+          "ER": 0,
+          "FR": 6,
+          "GB": 58,
+          "LU": 92,
+          "NL": 81,
+          "NZ": 21,
+          "ML": 14,
+          "US": 152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556da145f8b25e2d738b4567",
+      "type": "schwarze bohnen",
+      "name": "schwarze Bohnen",
+      "slug": "schwarze-bohnen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556da145f8b25e2d738b4567.png",
+      "usage": 83,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4c",
+        "type": "beans",
+        "name": "Bohnen",
+        "slug": "bohnen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4c-15ab1383.png",
+        "usageByCountry": {
+          "AT": 255,
+          "AU": 115,
+          "BE": 77,
+          "CA": 78,
+          "CH": 43,
+          "DE": 231,
+          "ER": 3,
+          "FR": 28,
+          "GB": 241,
+          "LU": 95,
+          "NL": 51,
+          "NZ": 28,
+          "ML": 153,
+          "US": 198
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "56bcc01afd2cb992628b4567",
+      "type": "tortilla-wraps",
+      "name": "Tortilla-Wraps",
+      "slug": "tortilla-wraps",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/56bcc01afd2cb992628b4567-70602c46.png",
+      "usage": 97,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "56782fe34dab712a768b4567",
+      "type": "blattsalatmischung",
+      "name": "Blattsalatmischung",
+      "slug": "blattsalatmischung",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/56782fe34dab712a768b4567-983a82d8.png",
+      "usage": 4,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555357a3f8b25e89038b456a",
+      "type": "limette",
+      "name": "Limette",
+      "slug": "limette",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555357a3f8b25e89038b456a.png",
+      "usage": 350,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc8",
+        "type": "lime",
+        "name": "Limette",
+        "slug": "limette",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc8-7cbce945.png",
+        "usageByCountry": {
+          "AT": 383,
+          "AU": 227,
+          "BE": 132,
+          "CA": 137,
+          "CH": 82,
+          "DE": 351,
+          "ER": 61,
+          "FR": 68,
+          "GB": 407,
+          "LU": 224,
+          "NL": 155,
+          "NZ": 63,
+          "ML": 87,
+          "US": 604
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "584fd604b32fbe5d152d3b71",
+      "type": "gewurzmischung-bbq",
+      "name": "Gewürzmischung  „BBQ“",
+      "slug": "gewurzmischung-bbq",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/584fd604b32fbe5d152d3b71-42081f9e.png",
+      "usage": 2,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb49",
+        "type": "bbq-spice",
+        "name": "BBQ Gewürz",
+        "slug": "bbq-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb49-55e7b59e.png",
+        "usageByCountry": {
+          "AT": 5,
+          "AU": 2,
+          "BE": 0,
+          "CA": 0,
+          "CH": 1,
+          "DE": 4,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 0,
+          "ML": 12,
+          "US": 1
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30539b",
+      "type": "sieve",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b30531a",
+      "type": "low-calorie",
+      "name": "leichter Genuss",
+      "slug": "leichter-genuss",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 4438,
+      "numberOfRecipesByCountry": {
+        "AT": 1377,
+        "AU": 144,
+        "BE": 299,
+        "CA": 0,
+        "CH": 139,
+        "DE": 1205,
+        "ER": 0,
+        "FR": 128,
+        "GB": 111,
+        "LU": 576,
+        "NL": 380,
+        "NZ": 79,
+        "ML": 0,
+        "US": 0
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053af",
+      "type": "mexican",
+      "name": "Mexikanisch",
+      "slug": "mexikanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053af-0317d647.jpg",
+      "usage": 1378
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556da1c2f8b25ebf728b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7eed4dab71150d8b456f",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b73b14dab71160d8b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556da145f8b25e2d738b4567",
+          "amount": 1,
+          "unit": "Dose"
+        },
+        {
+          "id": "56bcc01afd2cb992628b4567",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "56782fe34dab712a768b4567",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "555357a3f8b25e89038b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "584fd604b32fbe5d152d3b71",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Obst und Gemüse waschen. Alle Zutaten und Utensilien bereitstellen.\n\nDen grünen und weißen Teil der Frühlingszwiebel getrennt voneinander in feine Ringe schneiden. Kerngehäuse der Spitzpaprika entfernen, dann Spitzpaprika in feine Streifen schneiden. Chili in Ringe schneiden. Tomate halbieren, Strunk entfernen und Tomatenhälften würfeln.\nSchwarze Bohnen in ein Sieb abgießen, mit kaltem Wasser abspülen und anschließend abtropfen lassen",
+      "instructionsHTML": "<p>Vorbereitung: Obst und Gemüse waschen. Alle Zutaten und Utensilien bereitstellen.</p>\n<p>Den grünen und weißen Teil der Frühlingszwiebel getrennt voneinander in feine Ringe schneiden. Kerngehäuse der Spitzpaprika entfernen, dann Spitzpaprika in feine Streifen schneiden. Chili in Ringe schneiden. Tomate halbieren, Strunk entfernen und Tomatenhälften würfeln.\nSchwarze Bohnen in ein Sieb abgießen, mit kaltem Wasser abspülen und anschließend abtropfen lassen</p>",
+      "instructions": "Vorbereitung: Obst und Gemüse waschen. Alle Zutaten und Utensilien bereitstellen.\nDen grünen und weißen Teil der Frühlingszwiebel getrennt voneinander in feine Ringe schneiden. Kerngehäuse der Spitzpaprika entfernen, dann Spitzpaprika in feine Streifen schneiden. Chili in Ringe schneiden. Tomate halbieren, Strunk entfernen und Tomatenhälften würfeln.\nSchwarze Bohnen in ein Sieb abgießen, mit kaltem Wasser abspülen und anschließend abtropfen lassen",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/584fd0fe9df1815bd20e7292-0-0-c8adce28.jpg",
+          "caption": "Spitzpaprika in feine Streifen schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b27e6fd2cb983608b4569",
+        "554b7eed4dab71150d8b456f",
+        "556da1c2f8b25ebf728b4567",
+        "556da145f8b25e2d738b4567",
+        "554b2621fd2cb99c598b4576"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539b"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "In einer großen Pfanne 1 TL Öl bei niedriger bis mittlerer Temperatur erhitzen. Weißen Teil der Frühlingszwiebel darin ca. 1 Min. braten, bis sie weich sind. Paprika- und Tomatenwürfel zugeben und weitere 3 - 4 Min. mitbraten, dann mit Salz und Pfeffer würzen und das grüne der Frühlingszwiebel zugeben und aus der Pfanne nehmen.",
+      "instructionsHTML": "<p>In einer großen Pfanne 1 TL Öl bei niedriger bis mittlerer Temperatur erhitzen. Weißen Teil der Frühlingszwiebel darin ca. 1 Min. braten, bis sie weich sind. Paprika- und Tomatenwürfel zugeben und weitere 3 - 4 Min. mitbraten, dann mit Salz und Pfeffer würzen und das grüne der Frühlingszwiebel zugeben und aus der Pfanne nehmen.</p>",
+      "instructions": "In einer großen Pfanne 1 TL Öl bei niedriger bis mittlerer Temperatur erhitzen. Weißen Teil der Frühlingszwiebel darin ca. 1 Min. braten, bis sie weich sind. Paprika- und Tomatenwürfel zugeben und weitere 3 - 4 Min. mitbraten, dann mit Salz und Pfeffer würzen und das grüne der Frühlingszwiebel zugeben und aus der Pfanne nehmen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "55b0a135fd2cb9121e8b4567",
+        "554b1c284dab71a9058b456b",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In der Zwischenzeit: Limette halbieren, eine Hälfte in eine große Schüssel auspressen die andere Hälfte in Spalten schneiden. Limettensaft mit 1 TL Olivenöl, Salz Pfeffer und einer Prise Zucker zu einem Dressing vermischen. Salatmischung darin marinieren. Avocado halbieren, Stein entfernen, Fruchtfleisch herauslöffeln, in Streifen schneiden und mit etwas Limettensaft beträufeln.",
+      "instructionsHTML": "<p>In der Zwischenzeit: Limette halbieren, eine Hälfte in eine große Schüssel auspressen die andere Hälfte in Spalten schneiden. Limettensaft mit 1 TL Olivenöl, Salz Pfeffer und einer Prise Zucker zu einem Dressing vermischen. Salatmischung darin marinieren. Avocado halbieren, Stein entfernen, Fruchtfleisch herauslöffeln, in Streifen schneiden und mit etwas Limettensaft beträufeln.</p>",
+      "instructions": "In der Zwischenzeit: Limette halbieren, eine Hälfte in eine große Schüssel auspressen die andere Hälfte in Spalten schneiden. Limettensaft mit 1 TL Olivenöl, Salz Pfeffer und einer Prise Zucker zu einem Dressing vermischen. Salatmischung darin marinieren. Avocado halbieren, Stein entfernen, Fruchtfleisch herauslöffeln, in Streifen schneiden und mit etwas Limettensaft beträufeln.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/584fd0fe9df1815bd20e7292-2-0-0daad92b.jpg",
+          "caption": "Streifen schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b73b14dab71160d8b456a",
+        "56782fe34dab712a768b4567",
+        "555357a3f8b25e89038b456a",
+        "554b2319fd2cb9ba598b456d"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einem kleinen Topf 1 TL Öl erhitzen. Chiliringe (Vorsicht: scharf!) darin ca. 1 Min. abraten. Bohnen und Gewürzmischung zugeben und ca. 2-3 Min. mitbraten. Bohnen mit einer Gabel zu einem Mus zerstampfen und mit Salz und Pfeffer würzen. Wenn du das Mus etwas cremiger haben möchtest gib einen Schluck Wasser hinzu.",
+      "instructionsHTML": "<p>In einem kleinen Topf 1 TL Öl erhitzen. Chiliringe (Vorsicht: scharf!) darin ca. 1 Min. abraten. Bohnen und Gewürzmischung zugeben und ca. 2-3 Min. mitbraten. Bohnen mit einer Gabel zu einem Mus zerstampfen und mit Salz und Pfeffer würzen. Wenn du das Mus etwas cremiger haben möchtest gib einen Schluck Wasser hinzu.</p>",
+      "instructions": "In einem kleinen Topf 1 TL Öl erhitzen. Chiliringe (Vorsicht: scharf!) darin ca. 1 Min. abraten. Bohnen und Gewürzmischung zugeben und ca. 2-3 Min. mitbraten. Bohnen mit einer Gabel zu einem Mus zerstampfen und mit Salz und Pfeffer würzen. Wenn du das Mus etwas cremiger haben möchtest gib einen Schluck Wasser hinzu.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/584fd0fe9df1815bd20e7292-3-0-f00b381b.jpg",
+          "caption": "Bohnen mit einer Gabel zu einem Mus zerstampfen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "584fd604b32fbe5d152d3b71"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Pfanne mit Küchenpapier auswischen, Tortillas ohne Zugabe von Fett darin ca. 1 Min. erwärmen. Tortillas mit dem Bohnenmus bestreichen, Avocadostreifen und Paprika-Tomaten-Salsa daraufgeben. Tortillas aufrollen und mit Salat und Limettenspalten genießen.",
+      "instructionsHTML": "<p>Pfanne mit Küchenpapier auswischen, Tortillas ohne Zugabe von Fett darin ca. 1 Min. erwärmen. Tortillas mit dem Bohnenmus bestreichen, Avocadostreifen und Paprika-Tomaten-Salsa daraufgeben. Tortillas aufrollen und mit Salat und Limettenspalten genießen.</p>",
+      "instructions": "Pfanne mit Küchenpapier auswischen, Tortillas ohne Zugabe von Fett darin ca. 1 Min. erwärmen. Tortillas mit dem Bohnenmus bestreichen, Avocadostreifen und Paprika-Tomaten-Salsa daraufgeben. Tortillas aufrollen und mit Salat und Limettenspalten genießen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/584fd0fe9df1815bd20e7292-4-0-f8c19ff8.jpg",
+          "caption": "Tortillas erwärmen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "56bcc01afd2cb992628b4567"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.3,
+  "ratingsCount": 444,
+  "favoritesCount": 751,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/veggie-wraps-mit-bbq-bohnenpaste-584fd0fe9df1815bd20e7292",
+  "clonedFrom": null,
+  "canonical": "584fd0fe9df1815bd20e7292",
+  "canonicalLink": "https://www.hellofresh.de/recipes/veggie-wraps-mit-bbq-bohnenpaste-584fd0fe9df1815bd20e7292"
+}

@@ -1,0 +1,861 @@
+{
+  "country": "DE",
+  "id": "57ad857c16a8669d348b4568",
+  "name": "Bulgogi: Koreanisches Rindfleisch",
+  "seoName": null,
+  "category": null,
+  "slug": "bulgogi-koreanisches-rindfleisch",
+  "headline": "mit gedämpftem Gemüse und Jasminreis",
+  "description": "Bulgogi ist ein traditionelles koreanisches Rindfleischgericht und bedeutet wörtlich übersetzt Feuerfleisch. Der Name weist auf die traditionelle Zubereitung über o\u001effenem Feuer hin. Unser Tipp: Die Rinderstreifen auf dem Grill zubereiten – so wird das Gericht mit leckeren Grill-Aromen aufgepeppt!",
+  "descriptionHTML": "<p>Bulgogi ist ein traditionelles koreanisches Rindfleischgericht und bedeutet wörtlich übersetzt Feuerfleisch. Der Name weist auf die traditionelle Zubereitung über o\u001effenem Feuer hin. Unser Tipp: Die Rinderstreifen auf dem Grill zubereiten – so wird das Gericht mit leckeren Grill-Aromen aufgepeppt!</p>",
+  "descriptionMarkdown": "Bulgogi ist ein traditionelles koreanisches Rindfleischgericht und bedeutet wörtlich übersetzt Feuerfleisch. Der Name weist auf die traditionelle Zubereitung über o\u001effenem Feuer hin. Unser Tipp: Die Rinderstreifen auf dem Grill zubereiten – so wird das Gericht mit leckeren Grill-Aromen aufgepeppt!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT40M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-08-12T08:14:52+00:00",
+  "updatedAt": "2017-05-07T08:55:19+00:00",
+  "link": "https://hellofresh.com/recipes/57ad857c16a8669d348b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/bulgogi-koreanisches-rindfleisch-cf87544f.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/bulgogi-koreanisches-rindfleisch-f2ebbe6d.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2497.848,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 597,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 13,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 82,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 35,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 73,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "556d768afd2cb9a5078b4569",
+      "type": "rinderhufte",
+      "name": "Rinderhüfte",
+      "slug": "rinderhufte",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d768afd2cb9a5078b4569.png",
+      "usage": 7,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4e",
+        "type": "beef",
+        "name": "Rindfleisch",
+        "slug": "rindfleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4e-125de8b7.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 363,
+          "BE": 168,
+          "CA": 192,
+          "CH": 81,
+          "DE": 313,
+          "ER": 66,
+          "FR": 51,
+          "GB": 276,
+          "LU": 167,
+          "NL": 187,
+          "NZ": 103,
+          "ML": 494,
+          "US": 655
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "57ad86a877d68de53f8b4567",
+      "type": "gewurzmischung-bulgogi",
+      "name": "Gewürzmischung \"Bulgogi\"",
+      "slug": "gewurzmischung-bulgogi",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/57ad86a877d68de53f8b4567-7caf0965.png",
+      "usage": 6,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc32",
+        "type": "spice-mix",
+        "name": "Gewürzmischung",
+        "slug": "gewurzmischung",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc32-7154509f.png",
+        "usageByCountry": {
+          "AT": 594,
+          "AU": 114,
+          "BE": 15,
+          "CA": 34,
+          "CH": 92,
+          "DE": 475,
+          "ER": 36,
+          "FR": 10,
+          "GB": 42,
+          "LU": 10,
+          "NL": 25,
+          "NZ": 48,
+          "ML": 10,
+          "US": 366
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b23dff8b25ef53e8b456f",
+      "type": "karotten",
+      "name": "Karotte",
+      "slug": "karotten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b23dff8b25ef53e8b456f.png",
+      "usage": 566,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb62",
+        "type": "carrot",
+        "name": "Karotte",
+        "slug": "karotte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb62-c4a1f62d.png",
+        "usageByCountry": {
+          "AT": 679,
+          "AU": 553,
+          "BE": 225,
+          "CA": 127,
+          "CH": 130,
+          "DE": 627,
+          "ER": 27,
+          "FR": 49,
+          "GB": 343,
+          "LU": 220,
+          "NL": 263,
+          "NZ": 175,
+          "ML": 243,
+          "US": 318
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7b9efd2cb9d0608b456f",
+      "type": "brokkoli",
+      "name": "Brokkoli",
+      "slug": "brokkoli",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7b9efd2cb9d0608b456f.png",
+      "usage": 107,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb56",
+        "type": "broccoli",
+        "name": "Brokkoli",
+        "slug": "brokkoli",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb56-a0e5977e.png",
+        "usageByCountry": {
+          "AT": 149,
+          "AU": 177,
+          "BE": 137,
+          "CA": 77,
+          "CH": 35,
+          "DE": 150,
+          "ER": 18,
+          "FR": 47,
+          "GB": 224,
+          "LU": 219,
+          "NL": 178,
+          "NZ": 44,
+          "ML": 176,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27e6fd2cb983608b4569",
+      "type": "fruhlingszwiebeln",
+      "name": "Frühlingszwiebel",
+      "slug": "fruhlingszwiebeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27e6fd2cb983608b4569.png",
+      "usage": 514,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc35",
+        "type": "spring-onion",
+        "name": "Frühlingszwiebel",
+        "slug": "fruhlingszwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc35-03c06826.png",
+        "usageByCountry": {
+          "AT": 575,
+          "AU": 0,
+          "BE": 15,
+          "CA": 0,
+          "CH": 113,
+          "DE": 514,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 421,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1f6efd2cb99c598b4575",
+      "type": "jasminreis",
+      "name": "Jasminreis",
+      "slug": "jasminreis",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1f6efd2cb99c598b4575.png",
+      "usage": 172,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1c",
+        "type": "rice",
+        "name": "Reis",
+        "slug": "reis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1c-0b4adebd.png",
+        "usageByCountry": {
+          "AT": 540,
+          "AU": 405,
+          "BE": 265,
+          "CA": 169,
+          "CH": 114,
+          "DE": 505,
+          "ER": 39,
+          "FR": 79,
+          "GB": 480,
+          "LU": 361,
+          "NL": 319,
+          "NZ": 107,
+          "ML": 328,
+          "US": 527
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7d36fd2cb9d8608b4570",
+      "type": "sojasoße",
+      "name": "Sojasoße",
+      "slug": "sojasosze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/554b7d36fd2cb9d8608b4570-f4ba216b.png",
+      "usage": 287,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f9",
+          "type": "soya",
+          "name": "Soja",
+          "slug": "soja",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+          "usage": 390
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc30",
+        "type": "soy-sauce",
+        "name": "Sojasauce",
+        "slug": "sojasauce",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc30-32ed361d.png",
+        "usageByCountry": {
+          "AT": 343,
+          "AU": 281,
+          "BE": 313,
+          "CA": 104,
+          "CH": 80,
+          "DE": 287,
+          "ER": 30,
+          "FR": 79,
+          "GB": 283,
+          "LU": 353,
+          "NL": 307,
+          "NZ": 116,
+          "ML": 6,
+          "US": 323
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "type": "soya",
+      "name": "Soja",
+      "slug": "soja",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "usage": 390
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Große Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ae",
+      "type": "korean",
+      "name": "Koreanisch",
+      "slug": "koreanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ae-01d27069.jpg",
+      "usage": 171
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "556d768afd2cb9a5078b4569",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "57ad86a877d68de53f8b4567",
+          "amount": 13,
+          "unit": "g"
+        },
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7b9efd2cb9d0608b456f",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1f6efd2cb99c598b4575",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b7d36fd2cb9d8608b4570",
+          "amount": 10,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Den Wasserkocher füllen und anschalten. Gemüse waschen und putzen.\n\nRinderhüfte in ca. 1 cm dünne Streifen schneiden. In einer großen Schüssel Gewürzmischung mit 20 ml kaltem Wasser glattrühren. Rinderhüftstreifen darin marinieren.",
+      "instructionsHTML": "<p>Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Den Wasserkocher füllen und anschalten. Gemüse waschen und putzen.</p>\n<p>Rinderhüfte in ca. 1 cm dünne Streifen schneiden. In einer großen Schüssel Gewürzmischung mit 20 ml kaltem Wasser glattrühren. Rinderhüftstreifen darin marinieren.</p>",
+      "instructions": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Den Wasserkocher füllen und anschalten. Gemüse waschen und putzen.\nRinderhüfte in ca. 1 cm dünne Streifen schneiden. In einer großen Schüssel Gewürzmischung mit 20 ml kaltem Wasser glattrühren. Rinderhüftstreifen darin marinieren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57ad857c16a8669d348b4568-0-0-8e93b70d.jpg",
+          "caption": "Rinderhüftstreifen marinieren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556d768afd2cb9a5078b4569",
+        "57ad86a877d68de53f8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305372"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Jasminreis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. 300 ml kochendes Wasser in einen großen Topf geben, salzen, aufkochen lassen, Reis zugeben und mit aufgesetztem Deckel bei niedriger Hitze ca. 10 Min. weiterköcheln lassen.",
+      "instructionsHTML": "<p>Jasminreis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. 300 ml kochendes Wasser in einen großen Topf geben, salzen, aufkochen lassen, Reis zugeben und mit aufgesetztem Deckel bei niedriger Hitze ca. 10 Min. weiterköcheln lassen.</p>",
+      "instructions": "Jasminreis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. 300 ml kochendes Wasser in einen großen Topf geben, salzen, aufkochen lassen, Reis zugeben und mit aufgesetztem Deckel bei niedriger Hitze ca. 10 Min. weiterköcheln lassen.",
+      "timers": [
+        {
+          "name": "Garzeit Jasminreis",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b1f6efd2cb99c598b4575",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Karotte schälen und in dünne Scheiben schneiden. Brokkoli in kleine Röschen aufteilen. Weißen und grünen Teil der Frühlingszwiebel getrennt in Röllchen schneiden. Rote Zwiebel schälen und vierteln.",
+      "instructionsHTML": "<p>Karotte schälen und in dünne Scheiben schneiden. Brokkoli in kleine Röschen aufteilen. Weißen und grünen Teil der Frühlingszwiebel getrennt in Röllchen schneiden. Rote Zwiebel schälen und vierteln.</p>",
+      "instructions": "Karotte schälen und in dünne Scheiben schneiden. Brokkoli in kleine Röschen aufteilen. Weißen und grünen Teil der Frühlingszwiebel getrennt in Röllchen schneiden. Rote Zwiebel schälen und vierteln.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57ad857c16a8669d348b4568-2-0-e84ca3ef.jpg",
+          "caption": "Gemüse schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b23dff8b25ef53e8b456f",
+        "554b7b9efd2cb9d0608b456f",
+        "554b27e6fd2cb983608b4569",
+        "554b2abcf8b25eef3e8b4573"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Ca. 5 Min. vor Ende der Reis-Garzeit Brokkoliröschen und Karottenscheiben in ein Sieb geben, über den Topf hängen und zugedeckt dämpfen lassen. Nach dem Ende der Reis-Garzeit Sieb mit dem Gemüse beiseitestellen. Topf vom Herd nehmen und Reis mind. 10 Min. abgedeckt ziehen lassen.",
+      "instructionsHTML": "<p>Ca. 5 Min. vor Ende der Reis-Garzeit Brokkoliröschen und Karottenscheiben in ein Sieb geben, über den Topf hängen und zugedeckt dämpfen lassen. Nach dem Ende der Reis-Garzeit Sieb mit dem Gemüse beiseitestellen. Topf vom Herd nehmen und Reis mind. 10 Min. abgedeckt ziehen lassen.</p>",
+      "instructions": "Ca. 5 Min. vor Ende der Reis-Garzeit Brokkoliröschen und Karottenscheiben in ein Sieb geben, über den Topf hängen und zugedeckt dämpfen lassen. Nach dem Ende der Reis-Garzeit Sieb mit dem Gemüse beiseitestellen. Topf vom Herd nehmen und Reis mind. 10 Min. abgedeckt ziehen lassen.",
+      "timers": [
+        {
+          "name": "Ziehzeit Reis",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57ad857c16a8669d348b4568-3-0-6b0f4444.jpg",
+          "caption": "Gemüse dämpfen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einer großen Pfanne ½ EL Öl bei starker Hitze erwärmen und marinierte Rinderstreifen ca. 3 Min. anbraten. Anschließend salzen und pfeffern und zur Seite stellen. Die große Pfanne mit Küchenpapier auswischen, erneut ½ EL Öl erhitzen und Gemüse (nur den weißen Teil der Frühlingszwiebeln) zugeben und 3 – 5 Min. anbraten. Rinderstreifen ebenfalls zugeben. Sojasoße mit 50 ml heißem Wasser verdünnen, Inhalt der Pfanne damit ablöschen. Bulgogoi mit Salz und Pfeffer abschmecken.",
+      "instructionsHTML": "<p>In einer großen Pfanne ½ EL Öl bei starker Hitze erwärmen und marinierte Rinderstreifen ca. 3 Min. anbraten. Anschließend salzen und pfeffern und zur Seite stellen. Die große Pfanne mit Küchenpapier auswischen, erneut ½ EL Öl erhitzen und Gemüse (nur den weißen Teil der Frühlingszwiebeln) zugeben und 3 – 5 Min. anbraten. Rinderstreifen ebenfalls zugeben. Sojasoße mit 50 ml heißem Wasser verdünnen, Inhalt der Pfanne damit ablöschen. Bulgogoi mit Salz und Pfeffer abschmecken.</p>",
+      "instructions": "In einer großen Pfanne ½ EL Öl bei starker Hitze erwärmen und marinierte Rinderstreifen ca. 3 Min. anbraten. Anschließend salzen und pfeffern und zur Seite stellen. Die große Pfanne mit Küchenpapier auswischen, erneut ½ EL Öl erhitzen und Gemüse (nur den weißen Teil der Frühlingszwiebeln) zugeben und 3 – 5 Min. anbraten. Rinderstreifen ebenfalls zugeben. Sojasoße mit 50 ml heißem Wasser verdünnen, Inhalt der Pfanne damit ablöschen. Bulgogoi mit Salz und Pfeffer abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/57ad857c16a8669d348b4568-4-0-74726ec1.jpg",
+          "caption": "Rinderstreifen zugeben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b7d36fd2cb9d8608b4570",
+        "554b1bf6f8b25eef3e8b4570",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Reis mit einer Gabel auflockern, auf Teller verteilen, Bulgogi mit Karotten-Brokkoli-Gemüse daneben anrichten, mit den restlichen Frühlingszwiebelröllchen bestreuen und genießen.",
+      "instructionsHTML": "<p>Reis mit einer Gabel auflockern, auf Teller verteilen, Bulgogi mit Karotten-Brokkoli-Gemüse daneben anrichten, mit den restlichen Frühlingszwiebelröllchen bestreuen und genießen.</p>",
+      "instructions": "Reis mit einer Gabel auflockern, auf Teller verteilen, Bulgogi mit Karotten-Brokkoli-Gemüse daneben anrichten, mit den restlichen Frühlingszwiebelröllchen bestreuen und genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.3,
+  "ratingsCount": 1041,
+  "favoritesCount": 596,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/bulgogi-koreanisches-rindfleisch-57ad857c16a8669d348b4568",
+  "clonedFrom": null,
+  "canonical": "57ad857c16a8669d348b4568",
+  "canonicalLink": "https://www.hellofresh.de/recipes/bulgogi-koreanisches-rindfleisch-57ad857c16a8669d348b4568"
+}

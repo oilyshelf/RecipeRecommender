@@ -1,0 +1,1212 @@
+{
+  "country": "DE",
+  "id": "5513ea496ced6ee3448b4568",
+  "name": "Schweine-Schaschlik",
+  "seoName": null,
+  "category": null,
+  "slug": "schweine-schaschlik",
+  "headline": "in Garam-Masala-Schmand auf Reis und Brokkoli",
+  "description": "Indien ist auf der ganzen Welt für seine kulinarische Würze bekannt. Eine exklusive Spezialität ist das Garam Masala. Ein Gemisch aus vielfältigen Gewürzen, das zu einer wahren Geschmacksexplosion führt - also nimm Dich in Acht und lass es Dir schmecken. Guten Appetit.",
+  "descriptionHTML": "<p>Indien ist auf der ganzen Welt für seine kulinarische Würze bekannt. Eine exklusive Spezialität ist das Garam Masala. Ein Gemisch aus vielfältigen Gewürzen, das zu einer wahren Geschmacksexplosion führt - also nimm Dich in Acht und lass es Dir schmecken. Guten Appetit.</p>",
+  "descriptionMarkdown": "Indien ist auf der ganzen Welt für seine kulinarische Würze bekannt. Eine exklusive Spezialität ist das Garam Masala. Ein Gemisch aus vielfältigen Gewürzen, das zu einer wahren Geschmacksexplosion führt - also nimm Dich in Acht und lass es Dir schmecken. Guten Appetit.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT35M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-03-26T11:15:21+00:00",
+  "updatedAt": "2017-03-03T23:40:04+00:00",
+  "link": "https://hellofresh.com/recipes/5513ea496ced6ee3448b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/5513ea496ced6ee3448b4568.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/5513ea496ced6ee3448b4568.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2912.0640000000003,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 696,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 29,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 66,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "5566efd9fd2cb952018b456a",
+      "type": "schweinefleisch-geschnetzelt",
+      "name": "Schweinefleisch",
+      "slug": "schweinefleisch-geschnetzelt",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566efd9fd2cb952018b456a.png",
+      "usage": 3,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc12",
+        "type": "pork",
+        "name": "Schweinefleisch",
+        "slug": "schweinefleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc12-bdd443ff.png",
+        "usageByCountry": {
+          "AT": 486,
+          "AU": 290,
+          "BE": 179,
+          "CA": 134,
+          "CH": 113,
+          "DE": 455,
+          "ER": 54,
+          "FR": 58,
+          "GB": 613,
+          "LU": 212,
+          "NL": 191,
+          "NZ": 97,
+          "ML": 289,
+          "US": 624
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d83f9fd2cb937088b4567",
+      "type": "schaschlikspieße",
+      "name": "Schaschlikspieße",
+      "slug": "schaschlikspiesze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d83f9fd2cb937088b4567.png",
+      "usage": 14,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc2d",
+        "type": "skewers",
+        "name": "Spieße",
+        "slug": "spiesze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc2d-f0aa9e09.png",
+        "usageByCountry": {
+          "AT": 98,
+          "AU": 13,
+          "BE": 3,
+          "CA": 18,
+          "CH": 22,
+          "DE": 81,
+          "ER": 0,
+          "FR": 0,
+          "GB": 30,
+          "LU": 2,
+          "NL": 3,
+          "NZ": 0,
+          "ML": 0,
+          "US": 31
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7f33fd2cb96c628b456a",
+      "type": "ingwer",
+      "name": "Ingwer",
+      "slug": "ingwer",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7f33fd2cb96c628b456a.png",
+      "usage": 241,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba7",
+        "type": "ginger",
+        "name": "Ingwer",
+        "slug": "ingwer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba7-565cc248.png",
+        "usageByCountry": {
+          "AT": 278,
+          "AU": 225,
+          "BE": 200,
+          "CA": 107,
+          "CH": 52,
+          "DE": 241,
+          "ER": 20,
+          "FR": 57,
+          "GB": 231,
+          "LU": 241,
+          "NL": 220,
+          "NZ": 65,
+          "ML": 25,
+          "US": 246
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7b9efd2cb9d0608b456f",
+      "type": "brokkoli",
+      "name": "Brokkoli",
+      "slug": "brokkoli",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7b9efd2cb9d0608b456f.png",
+      "usage": 107,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb56",
+        "type": "broccoli",
+        "name": "Brokkoli",
+        "slug": "brokkoli",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb56-a0e5977e.png",
+        "usageByCountry": {
+          "AT": 149,
+          "AU": 177,
+          "BE": 137,
+          "CA": 77,
+          "CH": 35,
+          "DE": 150,
+          "ER": 18,
+          "FR": 47,
+          "GB": 224,
+          "LU": 219,
+          "NL": 178,
+          "NZ": 44,
+          "ML": 176,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b26d2f8b25ef53e8b4572",
+      "type": "mandeln",
+      "name": "Mandeln",
+      "slug": "mandeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b26d2f8b25ef53e8b4572.png",
+      "usage": 63,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fb",
+          "type": "nuts",
+          "name": "Schalenfrüchte",
+          "slug": "schalenfruchte",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+          "usage": 300
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c073ef8b25e18428b4569",
+      "type": "garam masala",
+      "name": "Garam Masala",
+      "slug": "garam-masala",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c073ef8b25e18428b4569.png",
+      "usage": 24,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbb9",
+        "type": "indian-spices",
+        "name": "Indische Gewürze",
+        "slug": "indische-gewurze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbb9-f423af47.png",
+        "usageByCountry": {
+          "AT": 88,
+          "AU": 38,
+          "BE": 1,
+          "CA": 38,
+          "CH": 18,
+          "DE": 89,
+          "ER": 0,
+          "FR": 2,
+          "GB": 73,
+          "LU": 4,
+          "NL": 6,
+          "NZ": 9,
+          "ML": 0,
+          "US": 5
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7480fd2cb911618b4568",
+      "type": "schmand",
+      "name": "Schmand",
+      "slug": "schmand",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b7480fd2cb911618b4568-52e9ad6e.png",
+      "usage": 248,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3534f8b25ef53e8b4575",
+      "type": "basmatireis",
+      "name": "Basmatireis",
+      "slug": "basmatireis",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3534f8b25ef53e8b4575.png",
+      "usage": 194,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1c",
+        "type": "rice",
+        "name": "Reis",
+        "slug": "reis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1c-0b4adebd.png",
+        "usageByCountry": {
+          "AT": 540,
+          "AU": 405,
+          "BE": 265,
+          "CA": 169,
+          "CH": 114,
+          "DE": 505,
+          "ER": 39,
+          "FR": 79,
+          "GB": 480,
+          "LU": 361,
+          "NL": 319,
+          "NZ": 107,
+          "ML": 328,
+          "US": 527
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fb",
+      "type": "nuts",
+      "name": "Schalenfrüchte",
+      "slug": "schalenfruchte",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fb-172b155c.png",
+      "usage": 300
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Küchenpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Auflaufform"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536d",
+      "type": "fork",
+      "name": "Gabel"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053aa",
+      "type": "indian",
+      "name": "Indisch",
+      "slug": "indisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053aa-835d45ad.jpg",
+      "usage": 635
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "5566efd9fd2cb952018b456a",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "556d83f9fd2cb937088b4567",
+          "amount": 6,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 0.5,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 0.5,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b7f33fd2cb96c628b456a",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "554b7b9efd2cb9d0608b456f",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b26d2f8b25ef53e8b4572",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "556c073ef8b25e18428b4569",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "id": "554b7480fd2cb911618b4568",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "554b3534f8b25ef53e8b4575",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "5566efd9fd2cb952018b456a",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "556d83f9fd2cb937088b4567",
+          "amount": 12,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b7f33fd2cb96c628b456a",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "id": "554b7b9efd2cb9d0608b456f",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "554b26d2f8b25ef53e8b4572",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "556c073ef8b25e18428b4569",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "id": "554b7480fd2cb911618b4568",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b3534f8b25ef53e8b4575",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Schweinefleisch aus dem Kühlschrank nehmen, damit dieses Zimmertemperatur erreichen kann. Schaschlikspieße in Wasser einweichen, so verbrennen sie später nicht.",
+      "instructionsHTML": "<p>Schweinefleisch aus dem Kühlschrank nehmen, damit dieses Zimmertemperatur erreichen kann. Schaschlikspieße in Wasser einweichen, so verbrennen sie später nicht.</p>",
+      "instructions": "Schweinefleisch aus dem Kühlschrank nehmen, damit dieses Zimmertemperatur erreichen kann. Schaschlikspieße in Wasser einweichen, so verbrennen sie später nicht.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5513ea496ced6ee3448b4568/step_556f01f950bd0.jpg",
+          "caption": "Die Schaschlik Spieße in Wasser einweichen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5566efd9fd2cb952018b456a",
+        "556d83f9fd2cb937088b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Zitrone heiß abwaschen, die Hälfte fein abreiben und entsaften. Zwiebel abziehen und in feine Würfel schneiden. Ingwer schälen und ebenfalls fein reiben. Brokkoli in kleine Röschen teilen und waschen.",
+      "instructionsHTML": "<p>Zitrone heiß abwaschen, die Hälfte fein abreiben und entsaften. Zwiebel abziehen und in feine Würfel schneiden. Ingwer schälen und ebenfalls fein reiben. Brokkoli in kleine Röschen teilen und waschen.</p>",
+      "instructions": "Zitrone heiß abwaschen, die Hälfte fein abreiben und entsaften. Zwiebel abziehen und in feine Würfel schneiden. Ingwer schälen und ebenfalls fein reiben. Brokkoli in kleine Röschen teilen und waschen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5513ea496ced6ee3448b4568/step_556f01f963808.jpg",
+          "caption": "Den Brokkoli in feine Röschen teilen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1de2f8b25ef93e8b456b",
+        "554b34554dab71a6058b4576",
+        "554b7b9efd2cb9d0608b456f"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Ingwer, Mandeln, Zwiebeln, Garam Masala, Zitronenabrieb, 3 EL Zitronensaft, 3 EL Olivenöl, 1 Prise Zucker, Schmand und Salz und Pfeffer zu einer Marinade verrühren.",
+      "instructionsHTML": "<p>Ingwer, Mandeln, Zwiebeln, Garam Masala, Zitronenabrieb, 3 EL Zitronensaft, 3 EL Olivenöl, 1 Prise Zucker, Schmand und Salz und Pfeffer zu einer Marinade verrühren.</p>",
+      "instructions": "Ingwer, Mandeln, Zwiebeln, Garam Masala, Zitronenabrieb, 3 EL Zitronensaft, 3 EL Olivenöl, 1 Prise Zucker, Schmand und Salz und Pfeffer zu einer Marinade verrühren.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b34554dab71a6058b4576",
+        "554b7f33fd2cb96c628b456a",
+        "554b26d2f8b25ef53e8b4572",
+        "556c073ef8b25e18428b4569",
+        "554b7480fd2cb911618b4568",
+        "554b2319fd2cb9ba598b456d",
+        "554b1c56fd2cb99c598b4573",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Schweinefleisch waschen, mit Küchenpapier trocken tupfen, in 2-3 cm große Würfel schneiden, in die Marinade legen und kurz ziehen lassen. Ofen auf 180 °C \nOber-/Unterhitze vorheizen.",
+      "instructionsHTML": "<p>Schweinefleisch waschen, mit Küchenpapier trocken tupfen, in 2-3 cm große Würfel schneiden, in die Marinade legen und kurz ziehen lassen. Ofen auf 180 °C\nOber-/Unterhitze vorheizen.</p>",
+      "instructions": "Schweinefleisch waschen, mit Küchenpapier trocken tupfen, in 2-3 cm große Würfel schneiden, in die Marinade legen und kurz ziehen lassen. Ofen auf 180 °C\nOber-/Unterhitze vorheizen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5513ea496ced6ee3448b4568/step_556f01f97abc1.jpg",
+          "caption": "Das Schweinefleisch unter die Marinade rühren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5566efd9fd2cb952018b456a"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305376"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Reis in einem Sieb solange mit kaltem Wasser abbrausen, bis das Wasser klar durch den Reis fließt. 250 ml Wasser mit etwas Salz und 1 TL Butter zum Kochen bringen und den Reis einrühren. Einmal aufkochen lassen, abdecken, Hitze herunterstufen und auf niedriger Hitze ca. 10 Min. kochen lassen. Anschließend von der Herdplatte nehmen und mindestens 10 Min. bedeckt stehen lassen.",
+      "instructionsHTML": "<p>Reis in einem Sieb solange mit kaltem Wasser abbrausen, bis das Wasser klar durch den Reis fließt. 250 ml Wasser mit etwas Salz und 1 TL Butter zum Kochen bringen und den Reis einrühren. Einmal aufkochen lassen, abdecken, Hitze herunterstufen und auf niedriger Hitze ca. 10 Min. kochen lassen. Anschließend von der Herdplatte nehmen und mindestens 10 Min. bedeckt stehen lassen.</p>",
+      "instructions": "Reis in einem Sieb solange mit kaltem Wasser abbrausen, bis das Wasser klar durch den Reis fließt. 250 ml Wasser mit etwas Salz und 1 TL Butter zum Kochen bringen und den Reis einrühren. Einmal aufkochen lassen, abdecken, Hitze herunterstufen und auf niedriger Hitze ca. 10 Min. kochen lassen. Anschließend von der Herdplatte nehmen und mindestens 10 Min. bedeckt stehen lassen.",
+      "timers": [
+        {
+          "name": "Reis kochen",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        },
+        {
+          "name": "Reis ziehen lassen",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b3534f8b25ef53e8b4575",
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Schweinegeschnetzeltes auf Schaschlikspieße ziehen, in eine Auflaufform legen, restliche Marinade darüber gießen und im Ofen ca. 20-25 Min. garen. Nach ca. 10 Min. Spieße einmal wenden.",
+      "instructionsHTML": "<p>Schweinegeschnetzeltes auf Schaschlikspieße ziehen, in eine Auflaufform legen, restliche Marinade darüber gießen und im Ofen ca. 20-25 Min. garen. Nach ca. 10 Min. Spieße einmal wenden.</p>",
+      "instructions": "Schweinegeschnetzeltes auf Schaschlikspieße ziehen, in eine Auflaufform legen, restliche Marinade darüber gießen und im Ofen ca. 20-25 Min. garen. Nach ca. 10 Min. Spieße einmal wenden.",
+      "timers": [
+        {
+          "name": "Spieße im Ofen für 25 Min. garen. Jedoch nach 10 Min. wenden",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        },
+        {
+          "name": "Spieße nun von der anderen Seite garen",
+          "duration": "PT15M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5513ea496ced6ee3448b4568/step_556f01f98d2c9.jpg",
+          "caption": "Das marinierte Fleisch auf die Spieße stecken"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5566efd9fd2cb952018b456a",
+        "556d83f9fd2cb937088b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305367"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "In der Zwischenzeit: Brokkoli in einem Topf mit reichlich Salzwasser 5-8 Min. köcheln lassen. Brokkoli abgießen und ausdampfen lassen.",
+      "instructionsHTML": "<p>In der Zwischenzeit: Brokkoli in einem Topf mit reichlich Salzwasser 5-8 Min. köcheln lassen. Brokkoli abgießen und ausdampfen lassen.</p>",
+      "instructions": "In der Zwischenzeit: Brokkoli in einem Topf mit reichlich Salzwasser 5-8 Min. köcheln lassen. Brokkoli abgießen und ausdampfen lassen.",
+      "timers": [
+        {
+          "name": "Brokkoli garen",
+          "duration": "PT8M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b7b9efd2cb9d0608b456f"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 8,
+      "instructionsMarkdown": "Reis nach der Garzeit mit einer Gabel auflockern, auf Tellern verteilen, Fleischspieße und Brokkoli daneben anrichten und mit Marinade beträufelt genießen.",
+      "instructionsHTML": "<p>Reis nach der Garzeit mit einer Gabel auflockern, auf Tellern verteilen, Fleischspieße und Brokkoli daneben anrichten und mit Marinade beträufelt genießen.</p>",
+      "instructions": "Reis nach der Garzeit mit einer Gabel auflockern, auf Tellern verteilen, Fleischspieße und Brokkoli daneben anrichten und mit Marinade beträufelt genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b7b9efd2cb9d0608b456f",
+        "554b3534f8b25ef53e8b4575"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536d"
+      ]
+    }
+  ],
+  "averageRating": 2.8,
+  "ratingsCount": 963,
+  "favoritesCount": 154,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/schweine-schaschlik-5513ea496ced6ee3448b4568",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

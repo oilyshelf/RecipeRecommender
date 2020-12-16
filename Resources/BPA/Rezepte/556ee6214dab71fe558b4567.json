@@ -1,0 +1,1242 @@
+{
+  "country": "DE",
+  "id": "556ee6214dab71fe558b4567",
+  "name": "Würzige „Tex-Mex“-Steaks mit Ofen-Pommes,",
+  "seoName": null,
+  "category": null,
+  "slug": "wurzige-tex-mex-steaks-mit-ofen-pommes",
+  "headline": "gebratene Stangenbohnen und Sweet Chili-Schmand",
+  "description": "Pep it up! Seit 1868 wird die TABASCO® Brand Pepper Sauce von der McIlhenny Familie auf Avery Island, Louisiana hergestellt. Drei natürliche Zutaten (Chilis, Branntweinessig und Salz), Drei Jahre gereift, 100 % Geschmack. Guten Appetit!",
+  "descriptionHTML": "<p>Pep it up! Seit 1868 wird die TABASCO® Brand Pepper Sauce von der McIlhenny Familie auf Avery Island, Louisiana hergestellt. Drei natürliche Zutaten (Chilis, Branntweinessig und Salz), Drei Jahre gereift, 100 % Geschmack. Guten Appetit!</p>",
+  "descriptionMarkdown": "Pep it up! Seit 1868 wird die TABASCO® Brand Pepper Sauce von der McIlhenny Familie auf Avery Island, Louisiana hergestellt. Drei natürliche Zutaten (Chilis, Branntweinessig und Salz), Drei Jahre gereift, 100 % Geschmack. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT35M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-06-03T11:33:53+00:00",
+  "updatedAt": "2017-02-04T14:29:42+00:00",
+  "link": "https://hellofresh.com/recipes/556ee6214dab71fe558b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/556ee6214dab71fe558b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/556ee6214dab71fe558b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2773.992,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 663,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 28,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 59,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 36,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55704ae24dab71b7688b4569",
+      "type": "schweinelachssteaks",
+      "name": "Schweinelachssteaks",
+      "slug": "schweinelachssteaks",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55704ae24dab71b7688b4569-ba0d9b29.png",
+      "usage": 47,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc12",
+        "type": "pork",
+        "name": "Schweinefleisch",
+        "slug": "schweinefleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc12-bdd443ff.png",
+        "usageByCountry": {
+          "AT": 486,
+          "AU": 290,
+          "BE": 179,
+          "CA": 134,
+          "CH": 113,
+          "DE": 455,
+          "ER": 54,
+          "FR": 58,
+          "GB": 613,
+          "LU": 212,
+          "NL": 191,
+          "NZ": 97,
+          "ML": 289,
+          "US": 624
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555357a3f8b25e89038b456a",
+      "type": "limette",
+      "name": "Limette",
+      "slug": "limette",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555357a3f8b25e89038b456a.png",
+      "usage": 350,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc8",
+        "type": "lime",
+        "name": "Limette",
+        "slug": "limette",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc8-7cbce945.png",
+        "usageByCountry": {
+          "AT": 383,
+          "AU": 227,
+          "BE": 132,
+          "CA": 137,
+          "CH": 82,
+          "DE": 351,
+          "ER": 61,
+          "FR": 68,
+          "GB": 407,
+          "LU": 224,
+          "NL": 155,
+          "NZ": 63,
+          "ML": 87,
+          "US": 604
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55704b3c4dab71a8688b4568",
+      "type": "tabasco",
+      "name": "TABASCO® Sauce",
+      "slug": "tabasco",
+      "description": null,
+      "internalName": "Tabasco",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55704b3c4dab71a8688b4568-5124a900.png",
+      "usage": 31,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6f",
+        "type": "chili-sauce",
+        "name": "Chilisoße",
+        "slug": "chilisosze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6f-c927cff8.png",
+        "usageByCountry": {
+          "AT": 108,
+          "AU": 71,
+          "BE": 70,
+          "CA": 48,
+          "CH": 20,
+          "DE": 106,
+          "ER": 12,
+          "FR": 23,
+          "GB": 81,
+          "LU": 123,
+          "NL": 96,
+          "NZ": 29,
+          "ML": 73,
+          "US": 127
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55685e4cf8b25e68408b456a",
+      "type": "kreuzkümmel, gemahlen",
+      "name": "Kreuzkümmel, gemahlen",
+      "slug": "kreuzkummel-gemahlen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55685e4cf8b25e68408b456a.png",
+      "usage": 21,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb89",
+        "type": "cumin",
+        "name": "Kreuzkümmel",
+        "slug": "kreuzkummel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb89-bc3144f6.png",
+        "usageByCountry": {
+          "AT": 97,
+          "AU": 47,
+          "BE": 91,
+          "CA": 18,
+          "CH": 18,
+          "DE": 90,
+          "ER": 4,
+          "FR": 19,
+          "GB": 89,
+          "LU": 131,
+          "NL": 120,
+          "NZ": 0,
+          "ML": 69,
+          "US": 128
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55704b7bfd2cb9f0288b4569",
+      "type": "stangenbohnen",
+      "name": "Stangenbohnen",
+      "slug": "stangenbohnen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55704b7bfd2cb9f0288b4569.png",
+      "usage": 2,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbad",
+        "type": "green-beans",
+        "name": "Green Beans",
+        "slug": "green-beans",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbad-a709ebee.png",
+        "usageByCountry": {
+          "AT": 259,
+          "AU": 199,
+          "BE": 150,
+          "CA": 106,
+          "CH": 55,
+          "DE": 217,
+          "ER": 19,
+          "FR": 42,
+          "GB": 200,
+          "LU": 193,
+          "NL": 186,
+          "NZ": 59,
+          "ML": 464,
+          "US": 345
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7480fd2cb911618b4568",
+      "type": "schmand",
+      "name": "Schmand",
+      "slug": "schmand",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b7480fd2cb911618b4568-52e9ad6e.png",
+      "usage": 248,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c1a254dab71af3b8b4567",
+      "type": "sweet-chili-sosze",
+      "name": "Sweet-Chili-Soße",
+      "slug": "sweet-chili-sosze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c1a254dab71af3b8b4567.png",
+      "usage": 48,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6f",
+        "type": "chili-sauce",
+        "name": "Chilisoße",
+        "slug": "chilisosze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6f-c927cff8.png",
+        "usageByCountry": {
+          "AT": 108,
+          "AU": 71,
+          "BE": 70,
+          "CA": 48,
+          "CH": 20,
+          "DE": 106,
+          "ER": 12,
+          "FR": 23,
+          "GB": 81,
+          "LU": 123,
+          "NL": 96,
+          "NZ": 29,
+          "ML": 73,
+          "US": 127
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7d614dab71160d8b456b",
+      "type": "honig-home",
+      "name": "Honig*",
+      "slug": "honig",
+      "description": null,
+      "internalName": "Honig [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7d614dab71160d8b456b.png",
+      "usage": 203,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbb3",
+        "type": "honey",
+        "name": "Honig",
+        "slug": "honig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbb3-efe0c124.png",
+        "usageByCountry": {
+          "AT": 360,
+          "AU": 274,
+          "BE": 368,
+          "CA": 136,
+          "CH": 83,
+          "DE": 326,
+          "ER": 12,
+          "FR": 77,
+          "GB": 224,
+          "LU": 363,
+          "NL": 442,
+          "NZ": 139,
+          "ML": 1,
+          "US": 303
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535e24f8b25e78738b4569",
+      "type": "senf",
+      "name": "Senf",
+      "slug": "senf",
+      "description": null,
+      "internalName": "Senf home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55535e24f8b25e78738b4569.png",
+      "usage": 102,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fd",
+          "type": "mustard",
+          "name": "Senf",
+          "slug": "senf",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+          "usage": 158
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbdf",
+        "type": "mustard",
+        "name": "Senf",
+        "slug": "senf",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbdf-bd28b3fe.png",
+        "usageByCountry": {
+          "AT": 411,
+          "AU": 149,
+          "BE": 262,
+          "CA": 135,
+          "CH": 75,
+          "DE": 361,
+          "ER": 7,
+          "FR": 68,
+          "GB": 159,
+          "LU": 354,
+          "NL": 295,
+          "NZ": 42,
+          "ML": 1,
+          "US": 175
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "type": "mustard",
+      "name": "Senf",
+      "slug": "senf",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "usage": 158
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536a",
+      "type": "plasticwrap",
+      "name": "Frischhaltefolie"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536f",
+      "type": "grillpan",
+      "name": "Grillpfanne"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "scharf",
+      "slug": "scharf",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-spicy%403x.png",
+      "numberOfRecipes": 2399,
+      "numberOfRecipesByCountry": {
+        "AT": 200,
+        "AU": 107,
+        "BE": 147,
+        "CA": 71,
+        "CH": 53,
+        "DE": 211,
+        "ER": 103,
+        "FR": 0,
+        "GB": 497,
+        "LU": 54,
+        "NL": 149,
+        "NZ": 0,
+        "ML": 0,
+        "US": 807
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053af",
+      "type": "mexican",
+      "name": "Mexikanisch",
+      "slug": "mexikanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053af-0317d647.jpg",
+      "usage": 1378
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "id": "55704ae24dab71b7688b4569",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "555357a3f8b25e89038b456a",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "55704b3c4dab71a8688b4568",
+          "amount": 3,
+          "unit": "ml"
+        },
+        {
+          "id": "55685e4cf8b25e68408b456a",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "id": "55704b7bfd2cb9f0288b4569",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7480fd2cb911618b4568",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "556c1a254dab71af3b8b4567",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b7d614dab71160d8b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55535e24f8b25e78738b4569",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 1200,
+          "unit": "g"
+        },
+        {
+          "id": "55704ae24dab71b7688b4569",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "555357a3f8b25e89038b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.25,
+          "unit": "Stück"
+        },
+        {
+          "id": "55704b3c4dab71a8688b4568",
+          "amount": 6,
+          "unit": "ml"
+        },
+        {
+          "id": "55685e4cf8b25e68408b456a",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "id": "55704b7bfd2cb9f0288b4569",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7480fd2cb911618b4568",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "556c1a254dab71af3b8b4567",
+          "amount": 40,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b7d614dab71160d8b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55535e24f8b25e78738b4569",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Backofen auf 220 °C Ober-/Unterhitze (200 °C Umluft) vorheizen. Schweinelachssteaks aus dem Kühlschrank nehmen, mit Küchenpapier trocken tupfen und beiseite stellen.",
+      "instructionsHTML": "<p>Backofen auf 220 °C Ober-/Unterhitze (200 °C Umluft) vorheizen. Schweinelachssteaks aus dem Kühlschrank nehmen, mit Küchenpapier trocken tupfen und beiseite stellen.</p>",
+      "instructions": "Backofen auf 220 °C Ober-/Unterhitze (200 °C Umluft) vorheizen. Schweinelachssteaks aus dem Kühlschrank nehmen, mit Küchenpapier trocken tupfen und beiseite stellen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "55704ae24dab71b7688b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Kartoffeln waschen, schälen und in ca. 1 cm breite Streifen (Pommes) schneiden. 2 EL Öl auf einem tiefen Backblech verteilen und für 2 Min. im Ofen erhitzen. Anschließend Pommes vorsichtig im heißen Öl wenden, mit Salz und Pfeffer würzen und ca. 25–30 Min. auf der mittleren Schiene des Ofens garen, Pommes in dieser Zeit zweimal wenden.",
+      "instructionsHTML": "<p>Kartoffeln waschen, schälen und in ca. 1 cm breite Streifen (Pommes) schneiden. 2 EL Öl auf einem tiefen Backblech verteilen und für 2 Min. im Ofen erhitzen. Anschließend Pommes vorsichtig im heißen Öl wenden, mit Salz und Pfeffer würzen und ca. 25–30 Min. auf der mittleren Schiene des Ofens garen, Pommes in dieser Zeit zweimal wenden.</p>",
+      "instructions": "Kartoffeln waschen, schälen und in ca. 1 cm breite Streifen (Pommes) schneiden. 2 EL Öl auf einem tiefen Backblech verteilen und für 2 Min. im Ofen erhitzen. Anschließend Pommes vorsichtig im heißen Öl wenden, mit Salz und Pfeffer würzen und ca. 25–30 Min. auf der mittleren Schiene des Ofens garen, Pommes in dieser Zeit zweimal wenden.",
+      "timers": [
+        {
+          "name": "Pommes im Ofen",
+          "duration": "PT30M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/556ee6214dab71fe558b4567/step_557f1c10b5b78.jpg",
+          "caption": "Pommes auf Backblech verteilen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567",
+        "554b1bf6f8b25eef3e8b4570",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Ein Viertel der Limette entsaften, den Rest in feine Spalten schneiden, diese beiseite stellen. Knoblauch abziehen und klein schneiden. Limettensaft mit TABASCO® Sauce, Kreuzkümmel, 1 TL Öl, 1 TL Honig, 1 TL Senf und Knoblauch in einer Schüssel verrühren. Steaks darin wenden, dann in der Sauce marinieren lassen und die Schüssel mit Frischhaltefolie überziehen, mind. 10 Min. ziehen lassen.",
+      "instructionsHTML": "<p>Ein Viertel der Limette entsaften, den Rest in feine Spalten schneiden, diese beiseite stellen. Knoblauch abziehen und klein schneiden. Limettensaft mit TABASCO® Sauce, Kreuzkümmel, 1 TL Öl, 1 TL Honig, 1 TL Senf und Knoblauch in einer Schüssel verrühren. Steaks darin wenden, dann in der Sauce marinieren lassen und die Schüssel mit Frischhaltefolie überziehen, mind. 10 Min. ziehen lassen.</p>",
+      "instructions": "Ein Viertel der Limette entsaften, den Rest in feine Spalten schneiden, diese beiseite stellen. Knoblauch abziehen und klein schneiden. Limettensaft mit TABASCO® Sauce, Kreuzkümmel, 1 TL Öl, 1 TL Honig, 1 TL Senf und Knoblauch in einer Schüssel verrühren. Steaks darin wenden, dann in der Sauce marinieren lassen und die Schüssel mit Frischhaltefolie überziehen, mind. 10 Min. ziehen lassen.",
+      "timers": [
+        {
+          "name": "Marinade einziehen lassen",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/556ee6214dab71fe558b4567/step_557f1c10d1b96.jpg",
+          "caption": "Fleisch in Marinade ziehen lassen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55704ae24dab71b7688b4569",
+        "555357a3f8b25e89038b456a",
+        "554b268ffd2cb983608b4568",
+        "55704b3c4dab71a8688b4568",
+        "55685e4cf8b25e68408b456a",
+        "556c1a254dab71af3b8b4567",
+        "55535e24f8b25e78738b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536a"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Stangenbohnen waschen und die Enden abschneiden. Falls Fäden zu sehen sind, diese abziehen. Anschließend schräg in kleinere Stücke schneiden. Rote Zwiebel abziehen und in feine Streifen schneiden.",
+      "instructionsHTML": "<p>Stangenbohnen waschen und die Enden abschneiden. Falls Fäden zu sehen sind, diese abziehen. Anschließend schräg in kleinere Stücke schneiden. Rote Zwiebel abziehen und in feine Streifen schneiden.</p>",
+      "instructions": "Stangenbohnen waschen und die Enden abschneiden. Falls Fäden zu sehen sind, diese abziehen. Anschließend schräg in kleinere Stücke schneiden. Rote Zwiebel abziehen und in feine Streifen schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/556ee6214dab71fe558b4567/step_557f1c10e4665.jpg",
+          "caption": "Bohnen putzen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55704b7bfd2cb9f0288b4569",
+        "554b2abcf8b25eef3e8b4573"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einer beschichteten Pfanne ½ EL Butter erwärmen. Zwiebel darin ca. 4–5 Min. glasig andünsten. Bohnenstücke dazugeben, abdecken und ca. 5–10 Min. weich braten. Schmand mit Sweet Chili-Soße verrühren.",
+      "instructionsHTML": "<p>In einer beschichteten Pfanne ½ EL Butter erwärmen. Zwiebel darin ca. 4–5 Min. glasig andünsten. Bohnenstücke dazugeben, abdecken und ca. 5–10 Min. weich braten. Schmand mit Sweet Chili-Soße verrühren.</p>",
+      "instructions": "In einer beschichteten Pfanne ½ EL Butter erwärmen. Zwiebel darin ca. 4–5 Min. glasig andünsten. Bohnenstücke dazugeben, abdecken und ca. 5–10 Min. weich braten. Schmand mit Sweet Chili-Soße verrühren.",
+      "timers": [
+        {
+          "name": "Zwiebeln dünsten",
+          "duration": "PT04M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        },
+        {
+          "name": "Bohnen braten",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/556ee6214dab71fe558b4567/step_557f1c9781289.jpg",
+          "caption": "Bohnen anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55704b7bfd2cb9f0288b4569",
+        "554b2abcf8b25eef3e8b4573",
+        "554b7480fd2cb911618b4568",
+        "556c1a254dab71af3b8b4567",
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Die Grillpfanne ohne Zusatz von Fett erhitzen. Steaks mit Marinade darin 2–3 Min. je Seite braten.",
+      "instructionsHTML": "<p>Die Grillpfanne ohne Zusatz von Fett erhitzen. Steaks mit Marinade darin 2–3 Min. je Seite braten.</p>",
+      "instructions": "Die Grillpfanne ohne Zusatz von Fett erhitzen. Steaks mit Marinade darin 2–3 Min. je Seite braten.",
+      "timers": [
+        {
+          "name": "Steaks anbraten",
+          "duration": "PT03M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "55704ae24dab71b7688b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536f"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Ofen-Pommes, „Tex-Mex“-Steaks und gebratene Bohnen auf Tellern verteilen. Mit etwas Sweet-Chili-Schmand beträufeln und mit je einer Limettenspalte genießen!",
+      "instructionsHTML": "<p>Ofen-Pommes, „Tex-Mex“-Steaks und gebratene Bohnen auf Tellern verteilen. Mit etwas Sweet-Chili-Schmand beträufeln und mit je einer Limettenspalte genießen!</p>",
+      "instructions": "Ofen-Pommes, „Tex-Mex“-Steaks und gebratene Bohnen auf Tellern verteilen. Mit etwas Sweet-Chili-Schmand beträufeln und mit je einer Limettenspalte genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.5,
+  "ratingsCount": 1092,
+  "favoritesCount": 451,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/wurzige-tex-mex-steaks-mit-ofen-pommes-556ee6214dab71fe558b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

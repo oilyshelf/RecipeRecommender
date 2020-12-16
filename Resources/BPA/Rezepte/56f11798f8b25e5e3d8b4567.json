@@ -1,0 +1,985 @@
+{
+  "country": "DE",
+  "id": "56f11798f8b25e5e3d8b4567",
+  "name": "Mit Lachs gefüllte Spinat-Pfannkuchen,",
+  "seoName": null,
+  "category": null,
+  "slug": "mit-lachs-gefullte-spinat-pfannkuchen",
+  "headline": "dazu Tomatensalat",
+  "description": "Nicht erst seit Popeye gilt Spinat als gesundes, starkmachendes Lebensmittel. Es ist wissenscha\u001fftlich bewiesen, dass er den Sauersto\u001efftransport im Blut fördert. Dazu kommt die tägliche Dosis gesunder Fettsäuren im Lachs neben frischem Tomatensalat. Eine echte Fit-Food-Mahlzeit!",
+  "descriptionHTML": "<p>Nicht erst seit Popeye gilt Spinat als gesundes, starkmachendes Lebensmittel. Es ist wissenscha\u001fftlich bewiesen, dass er den Sauersto\u001efftransport im Blut fördert. Dazu kommt die tägliche Dosis gesunder Fettsäuren im Lachs neben frischem Tomatensalat. Eine echte Fit-Food-Mahlzeit!</p>",
+  "descriptionMarkdown": "Nicht erst seit Popeye gilt Spinat als gesundes, starkmachendes Lebensmittel. Es ist wissenscha\u001fftlich bewiesen, dass er den Sauersto\u001efftransport im Blut fördert. Dazu kommt die tägliche Dosis gesunder Fettsäuren im Lachs neben frischem Tomatensalat. Eine echte Fit-Food-Mahlzeit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT20M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-03-22T09:59:52+00:00",
+  "updatedAt": "2017-04-14T12:25:53+00:00",
+  "link": "https://hellofresh.com/recipes/56f11798f8b25e5e3d8b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/56f11798f8b25e5e3d8b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/56f11798f8b25e5e3d8b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2117.1040000000003,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 506,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "56c5ac2afd2cb997438b4567",
+      "type": "baby-spinat",
+      "name": "Babyspinat",
+      "slug": "baby-spinat",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/56c5ac2afd2cb997438b4567.png",
+      "usage": 210,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc34",
+        "type": "spinach",
+        "name": "Spinat",
+        "slug": "spinat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc34-2105763d.png",
+        "usageByCountry": {
+          "AT": 279,
+          "AU": 393,
+          "BE": 203,
+          "CA": 89,
+          "CH": 61,
+          "DE": 266,
+          "ER": 0,
+          "FR": 63,
+          "GB": 243,
+          "LU": 261,
+          "NL": 228,
+          "NZ": 108,
+          "ML": 157,
+          "US": 141
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566f93cfd2cb97e018b4568",
+      "type": "schalotte",
+      "name": "Schalotte",
+      "slug": "schalotte",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566f93cfd2cb97e018b4568.png",
+      "usage": 156,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1f134dab71aa058b456e",
+      "type": "crème fraîche",
+      "name": "Crème fraîche",
+      "slug": "creme-fraiche",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1f134dab71aa058b456e.png",
+      "usage": 305,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb86",
+        "type": "creme-fraiche",
+        "name": "Crème Fraîche",
+        "slug": "creme-fraiche",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb86-533fc64c.png",
+        "usageByCountry": {
+          "AT": 321,
+          "AU": 0,
+          "BE": 119,
+          "CA": 0,
+          "CH": 81,
+          "DE": 305,
+          "ER": 0,
+          "FR": 21,
+          "GB": 328,
+          "LU": 127,
+          "NL": 144,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dbfe6f8b25e406a8b4569",
+      "type": "dill",
+      "name": "Dill",
+      "slug": "dill",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dbfe6f8b25e406a8b4569.png",
+      "usage": 65,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb8d",
+        "type": "dill",
+        "name": "Dill",
+        "slug": "dill",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb8d-ba6242c3.png",
+        "usageByCountry": {
+          "AT": 58,
+          "AU": 26,
+          "BE": 58,
+          "CA": 22,
+          "CH": 9,
+          "DE": 65,
+          "ER": 0,
+          "FR": 15,
+          "GB": 31,
+          "LU": 78,
+          "NL": 69,
+          "NZ": 6,
+          "ML": 117,
+          "US": 58
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d60a3f8b25ea8718b4567",
+      "type": "räucherlachs",
+      "name": "Räucherlachs",
+      "slug": "raucherlachs",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d60a3f8b25ea8718b4567.png",
+      "usage": 11,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f7",
+          "type": "fish",
+          "name": "Fisch",
+          "slug": "fisch",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+          "usage": 299
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb9c",
+        "type": "fish",
+        "name": "Fisch",
+        "slug": "fisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb9c-8b041158.png",
+        "usageByCountry": {
+          "AT": 72,
+          "AU": 96,
+          "BE": 373,
+          "CA": 37,
+          "CH": 15,
+          "DE": 65,
+          "ER": 2,
+          "FR": 83,
+          "GB": 179,
+          "LU": 509,
+          "NL": 463,
+          "NZ": 17,
+          "ML": 246,
+          "US": 137
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "56f11739f8b25e723d8b4567",
+      "type": "wasser (mit kohlensäure)",
+      "name": "Wasser (mit Kohlensäure)",
+      "slug": "wasser-mit-kohlensaure",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/56f11739f8b25e723d8b4567.png",
+      "usage": 1,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc51",
+        "type": "water",
+        "name": "Wasser",
+        "slug": "wasser",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc51-471f721a.png",
+        "usageByCountry": {
+          "AT": 285,
+          "AU": 1002,
+          "BE": 2,
+          "CA": 1,
+          "CH": 19,
+          "DE": 250,
+          "ER": 0,
+          "FR": 0,
+          "GB": 930,
+          "LU": 1,
+          "NL": 3,
+          "NZ": 287,
+          "ML": 0,
+          "US": 1
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "56f117134dab7127338b4567",
+      "type": "backpulver-home",
+      "name": "Backpulver",
+      "slug": "backpulver",
+      "description": null,
+      "internalName": "Backpulver (home)",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/56f117134dab7127338b4567.png",
+      "usage": 2,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb41",
+        "type": "baking-soda",
+        "name": "Backsoda",
+        "slug": "backsoda",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb41-30c27440.png",
+        "usageByCountry": {
+          "AT": 31,
+          "AU": 0,
+          "BE": 0,
+          "CA": 0,
+          "CH": 0,
+          "DE": 2,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dc1a9fd2cb944758b4569",
+      "type": "mehl-home",
+      "name": "Mehl*",
+      "slug": "mehl",
+      "description": null,
+      "internalName": "Mehl home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dc1a9fd2cb944758b4569.png",
+      "usage": 156,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba0",
+        "type": "flour",
+        "name": "Mehl",
+        "slug": "mehl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba0-03891dce.png",
+        "usageByCountry": {
+          "AT": 391,
+          "AU": 201,
+          "BE": 10,
+          "CA": 106,
+          "CH": 74,
+          "DE": 383,
+          "ER": 19,
+          "FR": 0,
+          "GB": 141,
+          "LU": 5,
+          "NL": 14,
+          "NZ": 74,
+          "ML": 9,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f7",
+      "type": "fish",
+      "name": "Fisch",
+      "slug": "fisch",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f7-feb8e168.png",
+      "usage": 299
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Kleine Schale"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305372",
+      "type": "largebowl",
+      "name": "Große Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538e",
+      "type": "mixingbowl",
+      "name": "Rührschüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "56c5ac2afd2cb997438b4567",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "5566f93cfd2cb97e018b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1f134dab71aa058b456e",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "555dbfe6f8b25e406a8b4569",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "556d60a3f8b25ea8718b4567",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "56f11739f8b25e723d8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "56f117134dab7127338b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555dc1a9fd2cb944758b4569",
+          "amount": 100,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Babyspinat waschen, abtropfen lassen und grob zerkleinern. Zitrone halbieren und auspressen.",
+      "instructionsHTML": "<p>Babyspinat waschen, abtropfen lassen und grob zerkleinern. Zitrone halbieren und auspressen.</p>",
+      "instructions": "Babyspinat waschen, abtropfen lassen und grob zerkleinern. Zitrone halbieren und auspressen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "56c5ac2afd2cb997438b4567",
+        "554b1de2f8b25ef93e8b456b"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Tomate waschen, halbieren, Strunk entfernen und würfeln. Schalotte abziehen und klein schneiden. Beides in eine große Schüssel geben und ⅓ des Spinats untermischen. Für das Dressing in einer kleinen Schüssel 2 EL Zitronensaft, 1 EL Olivenöl, 1 TL Salz und ½ TL Pfeffer gut miteinander verrühren, dann mit dem Salat vermischen.",
+      "instructionsHTML": "<p>Tomate waschen, halbieren, Strunk entfernen und würfeln. Schalotte abziehen und klein schneiden. Beides in eine große Schüssel geben und ⅓ des Spinats untermischen. Für das Dressing in einer kleinen Schüssel 2 EL Zitronensaft, 1 EL Olivenöl, 1 TL Salz und ½ TL Pfeffer gut miteinander verrühren, dann mit dem Salat vermischen.</p>",
+      "instructions": "Tomate waschen, halbieren, Strunk entfernen und würfeln. Schalotte abziehen und klein schneiden. Beides in eine große Schüssel geben und ⅓ des Spinats untermischen. Für das Dressing in einer kleinen Schüssel 2 EL Zitronensaft, 1 EL Olivenöl, 1 TL Salz und ½ TL Pfeffer gut miteinander verrühren, dann mit dem Salat vermischen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "56c5ac2afd2cb997438b4567",
+        "554b1de2f8b25ef93e8b456b",
+        "554b2621fd2cb99c598b4576",
+        "5566f93cfd2cb97e018b4568",
+        "554b22cb4dab71c8058b4570",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305380",
+        "57e2674fb7e8697d4b305372"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Für den Pfannkuchen-Teig: In einem hohen Rührgefäß restlichen Spinat mit 150 ml Wasser, ⅓ der Crème fraîche und 1 TL Zitronensaft fein pürieren. Dann 100 g Mehl, 1 Messerspitze Backpulver und 1/4 TL Salz in einer Schüssel mischen und zum pürierten Spinat geben. Gut miteinander verrühren und ein wenig ruhen lassen.\n\nTipp: Wenn Du Wasser mit Kohlensäure verwendest, dann wird der Teig schön locker und flu\u001effig.",
+      "instructionsHTML": "<p>Für den Pfannkuchen-Teig: In einem hohen Rührgefäß restlichen Spinat mit 150 ml Wasser, ⅓ der Crème fraîche und 1 TL Zitronensaft fein pürieren. Dann 100 g Mehl, 1 Messerspitze Backpulver und 1/4 TL Salz in einer Schüssel mischen und zum pürierten Spinat geben. Gut miteinander verrühren und ein wenig ruhen lassen.</p>\n<p>Tipp: Wenn Du Wasser mit Kohlensäure verwendest, dann wird der Teig schön locker und flu\u001effig.</p>",
+      "instructions": "Für den Pfannkuchen-Teig: In einem hohen Rührgefäß restlichen Spinat mit 150 ml Wasser, ⅓ der Crème fraîche und 1 TL Zitronensaft fein pürieren. Dann 100 g Mehl, 1 Messerspitze Backpulver und 1/4 TL Salz in einer Schüssel mischen und zum pürierten Spinat geben. Gut miteinander verrühren und ein wenig ruhen lassen.\nTipp: Wenn Du Wasser mit Kohlensäure verwendest, dann wird der Teig schön locker und flu\u001effig.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56f11798f8b25e5e3d8b4567/step_56f1437c2f40d.jpg",
+          "caption": "Spinat-Teig zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "56c5ac2afd2cb997438b4567",
+        "554b1de2f8b25ef93e8b456b",
+        "554b1c284dab71a9058b456b",
+        "56f11739f8b25e723d8b4567",
+        "56f117134dab7127338b4567",
+        "555dc1a9fd2cb944758b4569",
+        "554b1f134dab71aa058b456e"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30538e",
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer kleinen Schüssel restliche Crème Fraîche mit 1 EL Zitronensaft verrühren, mit Salz und Pfeffer abschmecken und beiseitestellen. Dill hacken.",
+      "instructionsHTML": "<p>In einer kleinen Schüssel restliche Crème Fraîche mit 1 EL Zitronensaft verrühren, mit Salz und Pfeffer abschmecken und beiseitestellen. Dill hacken.</p>",
+      "instructions": "In einer kleinen Schüssel restliche Crème Fraîche mit 1 EL Zitronensaft verrühren, mit Salz und Pfeffer abschmecken und beiseitestellen. Dill hacken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56f11798f8b25e5e3d8b4567/step_56f1437c4a247.jpg",
+          "caption": "Dill hacken"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1de2f8b25ef93e8b456b",
+        "555dbfe6f8b25e406a8b4569",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b1f134dab71aa058b456e"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einer großen Pfanne einen Schuss Öl erhitzen. Mit dem Teig vier Pfannkuchen backen.",
+      "instructionsHTML": "<p>In einer großen Pfanne einen Schuss Öl erhitzen. Mit dem Teig vier Pfannkuchen backen.</p>",
+      "instructions": "In einer großen Pfanne einen Schuss Öl erhitzen. Mit dem Teig vier Pfannkuchen backen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56f11798f8b25e5e3d8b4567/step_56f1437c62b7e.jpg",
+          "caption": "Spinat-Pfannkuchen backen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Jeden Pfannkuchen mit einem Viertel der Crème Fraîche-Mischung bestreichen. Den Räucherlachs klein zupfen und gleichmäßig darüber verteilen, dann die Pfannkuchen zusammenklappen.",
+      "instructionsHTML": "<p>Jeden Pfannkuchen mit einem Viertel der Crème Fraîche-Mischung bestreichen. Den Räucherlachs klein zupfen und gleichmäßig darüber verteilen, dann die Pfannkuchen zusammenklappen.</p>",
+      "instructions": "Jeden Pfannkuchen mit einem Viertel der Crème Fraîche-Mischung bestreichen. Den Räucherlachs klein zupfen und gleichmäßig darüber verteilen, dann die Pfannkuchen zusammenklappen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56f11798f8b25e5e3d8b4567/step_56f1437c7ed2a.jpg",
+          "caption": "Räucherlachs aufteilen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556d60a3f8b25ea8718b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Je zwei Pfannkuchen auf Tellern verteilen und mit Dill bestreuen, Tomatensalat daneben anrichten und zusammen genießen!",
+      "instructionsHTML": "<p>Je zwei Pfannkuchen auf Tellern verteilen und mit Dill bestreuen, Tomatensalat daneben anrichten und zusammen genießen!</p>",
+      "instructions": "Je zwei Pfannkuchen auf Tellern verteilen und mit Dill bestreuen, Tomatensalat daneben anrichten und zusammen genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3,
+  "ratingsCount": 782,
+  "favoritesCount": 1363,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/mit-lachs-gefullte-spinat-pfannkuchen-56f11798f8b25e5e3d8b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

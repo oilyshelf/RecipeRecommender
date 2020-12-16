@@ -1,0 +1,997 @@
+{
+  "country": "DE",
+  "id": "55f925d2fd2cb90e638b4567",
+  "name": "Cremiges Putenbrust-Thai-Curry mit lockerem Basmatireis",
+  "seoName": null,
+  "category": null,
+  "slug": "cremiges-putenbrust-thai-curry-mit-lockerem-basmatireis",
+  "headline": "und Koriander",
+  "description": "In Asien weiß man einfach, wie man köstliches Essen auf den Tisch bringt, ohne sich Gedanken über die richtige Kruste auf dem Schweinebraten zu machen. Alles kleinschneiden, Kokos, Erdnuss und Limette dazu geben und, ganz wichtig, die richtige Gewürzmischung. Lass es Dir schmecken!",
+  "descriptionHTML": "<p>In Asien weiß man einfach, wie man köstliches Essen auf den Tisch bringt, ohne sich Gedanken über die richtige Kruste auf dem Schweinebraten zu machen. Alles kleinschneiden, Kokos, Erdnuss und Limette dazu geben und, ganz wichtig, die richtige Gewürzmischung. Lass es Dir schmecken!</p>",
+  "descriptionMarkdown": "In Asien weiß man einfach, wie man köstliches Essen auf den Tisch bringt, ohne sich Gedanken über die richtige Kruste auf dem Schweinebraten zu machen. Alles kleinschneiden, Kokos, Erdnuss und Limette dazu geben und, ganz wichtig, die richtige Gewürzmischung. Lass es Dir schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT40M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-09-16T08:18:26+00:00",
+  "updatedAt": "2017-06-12T11:26:10+00:00",
+  "link": "https://hellofresh.com/recipes/55f925d2fd2cb90e638b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/55f925d2fd2cb90e638b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/55f925d2fd2cb90e638b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3610.792,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 863,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 43,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 72,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 42,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b6070f8b25e49448b4568",
+      "type": "putenbrust",
+      "name": "Putenbrust",
+      "slug": "putenbrust",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b6070f8b25e49448b4568.png",
+      "usage": 125,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc47",
+        "type": "turkey",
+        "name": "Truthahn",
+        "slug": "truthahn",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc47-151890c5.png",
+        "usageByCountry": {
+          "AT": 171,
+          "AU": 0,
+          "BE": 20,
+          "CA": 24,
+          "CH": 46,
+          "DE": 171,
+          "ER": 0,
+          "FR": 2,
+          "GB": 33,
+          "LU": 11,
+          "NL": 23,
+          "NZ": 0,
+          "ML": 26,
+          "US": 42
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3534f8b25ef53e8b4575",
+      "type": "basmatireis",
+      "name": "Basmatireis",
+      "slug": "basmatireis",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3534f8b25ef53e8b4575.png",
+      "usage": 194,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1c",
+        "type": "rice",
+        "name": "Reis",
+        "slug": "reis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1c-0b4adebd.png",
+        "usageByCountry": {
+          "AT": 540,
+          "AU": 405,
+          "BE": 265,
+          "CA": 169,
+          "CH": 114,
+          "DE": 505,
+          "ER": 39,
+          "FR": 79,
+          "GB": 480,
+          "LU": 361,
+          "NL": 319,
+          "NZ": 107,
+          "ML": 328,
+          "US": 527
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535721f8b25e8a038b4569",
+      "type": "braune champignons",
+      "name": "braune Champignons",
+      "slug": "braune-champignons",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55535721f8b25e8a038b4569-22f6a90e.png",
+      "usage": 399,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbde",
+        "type": "mushrooms",
+        "name": "Pilze",
+        "slug": "pilze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbde-4d22942c.png",
+        "usageByCountry": {
+          "AT": 558,
+          "AU": 96,
+          "BE": 230,
+          "CA": 75,
+          "CH": 86,
+          "DE": 484,
+          "ER": 1,
+          "FR": 60,
+          "GB": 207,
+          "LU": 251,
+          "NL": 280,
+          "NZ": 21,
+          "ML": 17,
+          "US": 209
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5582cd024dab71bf498b4567",
+      "type": "speisestarke",
+      "name": "Kartoffelstärke",
+      "slug": "speisestarke",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5582cd024dab71bf498b4567.png",
+      "usage": 114,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba0",
+        "type": "flour",
+        "name": "Mehl",
+        "slug": "mehl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba0-03891dce.png",
+        "usageByCountry": {
+          "AT": 391,
+          "AU": 201,
+          "BE": 10,
+          "CA": 106,
+          "CH": 74,
+          "DE": 383,
+          "ER": 19,
+          "FR": 0,
+          "GB": 141,
+          "LU": 5,
+          "NL": 14,
+          "NZ": 74,
+          "ML": 9,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55cb81f8fd2cb950488b4567",
+      "type": "massaman-curry-paste",
+      "name": "Massaman-Curry-Paste",
+      "slug": "massaman-curry-paste",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55cb81f8fd2cb950488b4567-7438c255.png",
+      "usage": 26,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb8a",
+        "type": "curry",
+        "name": "Curry",
+        "slug": "curry",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb8a-43199cbe.png",
+        "usageByCountry": {
+          "AT": 166,
+          "AU": 61,
+          "BE": 155,
+          "CA": 16,
+          "CH": 36,
+          "DE": 148,
+          "ER": 0,
+          "FR": 35,
+          "GB": 159,
+          "LU": 163,
+          "NL": 177,
+          "NZ": 14,
+          "ML": 0,
+          "US": 21
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dbbe8fd2cb9c9768b4567",
+      "type": "kokosmilch",
+      "name": "Kokosmilch",
+      "slug": "kokosmilch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dbbe8fd2cb9c9768b4567.png",
+      "usage": 322,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb7e",
+        "type": "coconut-milk",
+        "name": "Kokosmilch",
+        "slug": "kokosmilch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb7e-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 374,
+          "AU": 60,
+          "BE": 137,
+          "CA": 27,
+          "CH": 66,
+          "DE": 322,
+          "ER": 0,
+          "FR": 30,
+          "GB": 115,
+          "LU": 157,
+          "NL": 160,
+          "NZ": 24,
+          "ML": 0,
+          "US": 22
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555343affd2cb990798b4568",
+      "type": "erdnussbutter",
+      "name": "Erdnussbutter",
+      "slug": "erdnussbutter",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555343affd2cb990798b4568.png",
+      "usage": 67,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f8",
+          "type": "peanuts",
+          "name": "Erdnüsse",
+          "slug": "erdnusse",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+          "usage": 120
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc01",
+        "type": "peanut-butter",
+        "name": "Erdnussbutter",
+        "slug": "erdnussbutter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc01-0ad0cf66.png",
+        "usageByCountry": {
+          "AT": 73,
+          "AU": 0,
+          "BE": 38,
+          "CA": 15,
+          "CH": 17,
+          "DE": 67,
+          "ER": 1,
+          "FR": 7,
+          "GB": 6,
+          "LU": 35,
+          "NL": 46,
+          "NZ": 0,
+          "ML": 0,
+          "US": 24
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1e654dab71a6058b4571",
+      "type": "koriander",
+      "name": "Koriander",
+      "slug": "koriander",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1e654dab71a6058b4571.png",
+      "usage": 240,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb79",
+        "type": "cilantro-coriander",
+        "name": "Cilantro / Koriander",
+        "slug": "cilantro-koriander",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb79-7a34459a.png",
+        "usageByCountry": {
+          "AT": 253,
+          "AU": 387,
+          "BE": 166,
+          "CA": 173,
+          "CH": 75,
+          "DE": 240,
+          "ER": 3,
+          "FR": 66,
+          "GB": 542,
+          "LU": 305,
+          "NL": 193,
+          "NZ": 102,
+          "ML": 8,
+          "US": 432
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555357a3f8b25e89038b456a",
+      "type": "limette",
+      "name": "Limette",
+      "slug": "limette",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555357a3f8b25e89038b456a.png",
+      "usage": 350,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc8",
+        "type": "lime",
+        "name": "Limette",
+        "slug": "limette",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc8-7cbce945.png",
+        "usageByCountry": {
+          "AT": 383,
+          "AU": 227,
+          "BE": 132,
+          "CA": 137,
+          "CH": 82,
+          "DE": 351,
+          "ER": 61,
+          "FR": 68,
+          "GB": 407,
+          "LU": 224,
+          "NL": 155,
+          "NZ": 63,
+          "ML": 87,
+          "US": 604
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556edad9f8b25ed4068b4567",
+      "type": "erdnusse",
+      "name": "Erdnüsse",
+      "slug": "erdnusse",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556edad9f8b25ed4068b4567.png",
+      "usage": 61,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f8",
+          "type": "peanuts",
+          "name": "Erdnüsse",
+          "slug": "erdnusse",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+          "usage": 120
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5568443bfd2cb985278b4569",
+      "type": "geflügelbrühe",
+      "name": "Geflügelbrühe",
+      "slug": "geflugelbruhe",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5568443bfd2cb985278b4569.png",
+      "usage": 35,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f8",
+      "type": "peanuts",
+      "name": "Erdnüsse",
+      "slug": "erdnusse",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+      "usage": 120
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Küchenpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b3",
+      "type": "thai",
+      "name": "Thailändisch",
+      "slug": "thailandisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b3-3b2b2add.jpg",
+      "usage": 477
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b6070f8b25e49448b4568",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b3534f8b25ef53e8b4575",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "55535721f8b25e8a038b4569",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "5582cd024dab71bf498b4567",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "id": "55cb81f8fd2cb950488b4567",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "id": "555dbbe8fd2cb9c9768b4567",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "555343affd2cb990798b4568",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "id": "554b1e654dab71a6058b4571",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "555357a3f8b25e89038b456a",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "556edad9f8b25ed4068b4567",
+          "amount": 25,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "5568443bfd2cb985278b4569",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Putenbrust aus dem Kühlschrank nehmen, damit sie Zimmertemperatur annehmen kann. Basmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. In einem großen Topf 300 ml Wasser mit etwas Salz zum Kochen bringen. Reis einrühren und einmal aufkochen lassen. Deckel aufsetzen und bei niedriger Hitze ca. 10 Min. köcheln lassen. Dann vom Herd nehmen und 10 Min. zugedeckt ruhen lassen.",
+      "instructionsHTML": "<p>Putenbrust aus dem Kühlschrank nehmen, damit sie Zimmertemperatur annehmen kann. Basmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. In einem großen Topf 300 ml Wasser mit etwas Salz zum Kochen bringen. Reis einrühren und einmal aufkochen lassen. Deckel aufsetzen und bei niedriger Hitze ca. 10 Min. köcheln lassen. Dann vom Herd nehmen und 10 Min. zugedeckt ruhen lassen.</p>",
+      "instructions": "Putenbrust aus dem Kühlschrank nehmen, damit sie Zimmertemperatur annehmen kann. Basmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. In einem großen Topf 300 ml Wasser mit etwas Salz zum Kochen bringen. Reis einrühren und einmal aufkochen lassen. Deckel aufsetzen und bei niedriger Hitze ca. 10 Min. köcheln lassen. Dann vom Herd nehmen und 10 Min. zugedeckt ruhen lassen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b6070f8b25e49448b4568",
+        "554b3534f8b25ef53e8b4575",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Putenbrust mit Küchenpapier trocken tupfen und in ca. 2 cm große Würfel schneiden. Champignons putzen und klein schneiden. In einem kleinen Topf 200 ml heiße Geflügelbrühe zubereiten.",
+      "instructionsHTML": "<p>Putenbrust mit Küchenpapier trocken tupfen und in ca. 2 cm große Würfel schneiden. Champignons putzen und klein schneiden. In einem kleinen Topf 200 ml heiße Geflügelbrühe zubereiten.</p>",
+      "instructions": "Putenbrust mit Küchenpapier trocken tupfen und in ca. 2 cm große Würfel schneiden. Champignons putzen und klein schneiden. In einem kleinen Topf 200 ml heiße Geflügelbrühe zubereiten.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55f925d2fd2cb90e638b4567/step_55fa68b4c401c.jpg",
+          "caption": "Champignons schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5568443bfd2cb985278b4569",
+        "55535721f8b25e8a038b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305376",
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Putenbrust in der Speisestärke wenden und mit etwas Salz und Pfeffer würzen. In einer großen beschichteten Pfanne 1 EL Öl erhitzen. Sobald das Öl etwas raucht, Putenbrust hineingeben und 3–5 Min. rundherum scharf anbraten (evtl. in zwei Schüben, falls die Pfanne zu klein ist). Anschließend aus der Pfanne nehmen und kurz beiseite stellen.",
+      "instructionsHTML": "<p>Putenbrust in der Speisestärke wenden und mit etwas Salz und Pfeffer würzen. In einer großen beschichteten Pfanne 1 EL Öl erhitzen. Sobald das Öl etwas raucht, Putenbrust hineingeben und 3–5 Min. rundherum scharf anbraten (evtl. in zwei Schüben, falls die Pfanne zu klein ist). Anschließend aus der Pfanne nehmen und kurz beiseite stellen.</p>",
+      "instructions": "Putenbrust in der Speisestärke wenden und mit etwas Salz und Pfeffer würzen. In einer großen beschichteten Pfanne 1 EL Öl erhitzen. Sobald das Öl etwas raucht, Putenbrust hineingeben und 3–5 Min. rundherum scharf anbraten (evtl. in zwei Schüben, falls die Pfanne zu klein ist). Anschließend aus der Pfanne nehmen und kurz beiseite stellen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55f925d2fd2cb90e638b4567/step_55fa68b4e2def.jpg",
+          "caption": "Putenbrust in Speisestärke wenden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5582cd024dab71bf498b4567",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Pfanne mit Küchenpapier auswischen, dann darin erneut 1 TL Öl erhitzen. Je nach gewünschter Schärfe ½–1 EL Massaman Curry-Paste kurz darin anbraten. Champignons zugeben und ca. 2 Min. mitbraten, mit Kokosmilch und Geflügelbrühe ablöschen. Alles einmal aufkochen lassen, dann Erdnussbutter unterrühren. Hitze herunterstufen und 6–10 Min. weiterköcheln lassen. Für die letzten 2 Min. der Garzeit Putenbrust wieder hinzufügen und in der Curry-Soße noch einmal erwärmen.",
+      "instructionsHTML": "<p>Pfanne mit Küchenpapier auswischen, dann darin erneut 1 TL Öl erhitzen. Je nach gewünschter Schärfe ½–1 EL Massaman Curry-Paste kurz darin anbraten. Champignons zugeben und ca. 2 Min. mitbraten, mit Kokosmilch und Geflügelbrühe ablöschen. Alles einmal aufkochen lassen, dann Erdnussbutter unterrühren. Hitze herunterstufen und 6–10 Min. weiterköcheln lassen. Für die letzten 2 Min. der Garzeit Putenbrust wieder hinzufügen und in der Curry-Soße noch einmal erwärmen.</p>",
+      "instructions": "Pfanne mit Küchenpapier auswischen, dann darin erneut 1 TL Öl erhitzen. Je nach gewünschter Schärfe ½–1 EL Massaman Curry-Paste kurz darin anbraten. Champignons zugeben und ca. 2 Min. mitbraten, mit Kokosmilch und Geflügelbrühe ablöschen. Alles einmal aufkochen lassen, dann Erdnussbutter unterrühren. Hitze herunterstufen und 6–10 Min. weiterköcheln lassen. Für die letzten 2 Min. der Garzeit Putenbrust wieder hinzufügen und in der Curry-Soße noch einmal erwärmen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55f925d2fd2cb90e638b4567/step_55fa68b500acb.jpg",
+          "caption": "Champignons braten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b6070f8b25e49448b4568",
+        "55cb81f8fd2cb950488b4567",
+        "555dbbe8fd2cb9c9768b4567",
+        "555343affd2cb990798b4568",
+        "5568443bfd2cb985278b4569",
+        "554b1bf6f8b25eef3e8b4570",
+        "55535721f8b25e8a038b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305376",
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Koriander waschen, trocken schütteln, Blätter abzupfen und grob hacken. Hälfte der Limette entsaften, den Rest in Spalten schneiden. Erdnüsse grob hacken.",
+      "instructionsHTML": "<p>Koriander waschen, trocken schütteln, Blätter abzupfen und grob hacken. Hälfte der Limette entsaften, den Rest in Spalten schneiden. Erdnüsse grob hacken.</p>",
+      "instructions": "Koriander waschen, trocken schütteln, Blätter abzupfen und grob hacken. Hälfte der Limette entsaften, den Rest in Spalten schneiden. Erdnüsse grob hacken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55f925d2fd2cb90e638b4567/step_55fa68b515379.jpg",
+          "caption": "Koriander zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1e654dab71a6058b4571",
+        "556edad9f8b25ed4068b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Thai-Curry vom Herd nehmen und ein wenig Limettensaft unterrühren. Basmatireis mit einer Gabel auflockern und auf Tellern verteilen. Curry darauf anrichten und mit etwas Koriander (Vorsicht: Mag nicht jeder!) bestreuen. Zusammen mit je einer Limettenspalte genießen!",
+      "instructionsHTML": "<p>Thai-Curry vom Herd nehmen und ein wenig Limettensaft unterrühren. Basmatireis mit einer Gabel auflockern und auf Tellern verteilen. Curry darauf anrichten und mit etwas Koriander (Vorsicht: Mag nicht jeder!) bestreuen. Zusammen mit je einer Limettenspalte genießen!</p>",
+      "instructions": "Thai-Curry vom Herd nehmen und ein wenig Limettensaft unterrühren. Basmatireis mit einer Gabel auflockern und auf Tellern verteilen. Curry darauf anrichten und mit etwas Koriander (Vorsicht: Mag nicht jeder!) bestreuen. Zusammen mit je einer Limettenspalte genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.5,
+  "ratingsCount": 1499,
+  "favoritesCount": 1278,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/cremiges-putenbrust-thai-curry-mit-lockerem-basmatireis-55f925d2fd2cb90e638b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

@@ -1,0 +1,979 @@
+{
+  "country": "DE",
+  "id": "561d1bd4f8b25ed8038b4567",
+  "name": "Spicy: Lecker gewürzte Kokos-Hähnchenspieße",
+  "seoName": null,
+  "category": null,
+  "slug": "spicy-lecker-gewurzte-kokos-hahnchenspiesze",
+  "headline": "mit Brokkoli und Reis",
+  "description": "Bei diesem Rezept liegt das Geheimnis wieder in der Gewürzmischung. Gewürzmischungen stellen wir meistens\nselber zusammen und mischen, testen und kosten jeden Tag um die Wette. Wir hoffen Deine Geschmacksknospen sind genauso begeistert wie unsere. Guten Appetit wünscht Dir Deine Sonja",
+  "descriptionHTML": "<p>Bei diesem Rezept liegt das Geheimnis wieder in der Gewürzmischung. Gewürzmischungen stellen wir meistens\nselber zusammen und mischen, testen und kosten jeden Tag um die Wette. Wir hoffen Deine Geschmacksknospen sind genauso begeistert wie unsere. Guten Appetit wünscht Dir Deine Sonja</p>",
+  "descriptionMarkdown": "Bei diesem Rezept liegt das Geheimnis wieder in der Gewürzmischung. Gewürzmischungen stellen wir meistens\nselber zusammen und mischen, testen und kosten jeden Tag um die Wette. Wir hoffen Deine Geschmacksknospen sind genauso begeistert wie unsere. Guten Appetit wünscht Dir Deine Sonja",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT40M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-10-13T14:57:24+00:00",
+  "updatedAt": "2017-04-25T11:52:05+00:00",
+  "link": "https://hellofresh.com/recipes/561d1bd4f8b25ed8038b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/561d1bd4f8b25ed8038b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/561d1bd4f8b25ed8038b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2292.832,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 548,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 71,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 38,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "561e06df4dab71417b8b4567",
+      "type": "hähnchenkeulenragout",
+      "name": "Hähnchenkeulenragout",
+      "slug": "hahnchenkeulenragout",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/561e06df4dab71417b8b4567-da3199be.png",
+      "usage": 2,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6b",
+        "type": "chicken",
+        "name": "Hähnchen",
+        "slug": "hahnchen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6b-8f15f243.png",
+        "usageByCountry": {
+          "AT": 293,
+          "AU": 427,
+          "BE": 305,
+          "CA": 214,
+          "CH": 94,
+          "DE": 262,
+          "ER": 62,
+          "FR": 92,
+          "GB": 486,
+          "LU": 380,
+          "NL": 282,
+          "NZ": 125,
+          "ML": 653,
+          "US": 668
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d83f9fd2cb937088b4567",
+      "type": "schaschlikspieße",
+      "name": "Schaschlikspieße",
+      "slug": "schaschlikspiesze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d83f9fd2cb937088b4567.png",
+      "usage": 14,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc2d",
+        "type": "skewers",
+        "name": "Spieße",
+        "slug": "spiesze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc2d-f0aa9e09.png",
+        "usageByCountry": {
+          "AT": 98,
+          "AU": 13,
+          "BE": 3,
+          "CA": 18,
+          "CH": 22,
+          "DE": 81,
+          "ER": 0,
+          "FR": 0,
+          "GB": 30,
+          "LU": 2,
+          "NL": 3,
+          "NZ": 0,
+          "ML": 0,
+          "US": 31
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2a674dab71c8058b4572",
+      "type": "gewürzmischung \"linsen-suppe\"",
+      "name": "Gewürzmischung \"Linsen-Suppe\"",
+      "slug": "gewurzmischung-linsen-suppe",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2a674dab71c8058b4572.png",
+      "usage": 62,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc32",
+        "type": "spice-mix",
+        "name": "Gewürzmischung",
+        "slug": "gewurzmischung",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc32-7154509f.png",
+        "usageByCountry": {
+          "AT": 594,
+          "AU": 114,
+          "BE": 15,
+          "CA": 34,
+          "CH": 92,
+          "DE": 475,
+          "ER": 36,
+          "FR": 10,
+          "GB": 42,
+          "LU": 10,
+          "NL": 25,
+          "NZ": 48,
+          "ML": 10,
+          "US": 366
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7d36fd2cb9d8608b4570",
+      "type": "sojasoße",
+      "name": "Sojasoße",
+      "slug": "sojasosze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/554b7d36fd2cb9d8608b4570-f4ba216b.png",
+      "usage": 287,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f9",
+          "type": "soya",
+          "name": "Soja",
+          "slug": "soja",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+          "usage": 390
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc30",
+        "type": "soy-sauce",
+        "name": "Sojasauce",
+        "slug": "sojasauce",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc30-32ed361d.png",
+        "usageByCountry": {
+          "AT": 343,
+          "AU": 281,
+          "BE": 313,
+          "CA": 104,
+          "CH": 80,
+          "DE": 287,
+          "ER": 30,
+          "FR": 79,
+          "GB": 283,
+          "LU": 353,
+          "NL": 307,
+          "NZ": 116,
+          "ML": 6,
+          "US": 323
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566f2f5fd2cb952018b456d",
+      "type": "zitronengras",
+      "name": "Zitronengras",
+      "slug": "zitronengras",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566f2f5fd2cb952018b456d.png",
+      "usage": 91,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc6",
+        "type": "lemon-grass",
+        "name": "Zitronengras",
+        "slug": "zitronengras",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc6-7903fabf.png",
+        "usageByCountry": {
+          "AT": 111,
+          "AU": 9,
+          "BE": 57,
+          "CA": 1,
+          "CH": 16,
+          "DE": 91,
+          "ER": 0,
+          "FR": 9,
+          "GB": 24,
+          "LU": 59,
+          "NL": 63,
+          "NZ": 1,
+          "ML": 0,
+          "US": 14
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3534f8b25ef53e8b4575",
+      "type": "basmatireis",
+      "name": "Basmatireis",
+      "slug": "basmatireis",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3534f8b25ef53e8b4575.png",
+      "usage": 194,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1c",
+        "type": "rice",
+        "name": "Reis",
+        "slug": "reis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1c-0b4adebd.png",
+        "usageByCountry": {
+          "AT": 540,
+          "AU": 405,
+          "BE": 265,
+          "CA": 169,
+          "CH": 114,
+          "DE": 505,
+          "ER": 39,
+          "FR": 79,
+          "GB": 480,
+          "LU": 361,
+          "NL": 319,
+          "NZ": 107,
+          "ML": 328,
+          "US": 527
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7b9efd2cb9d0608b456f",
+      "type": "brokkoli",
+      "name": "Brokkoli",
+      "slug": "brokkoli",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7b9efd2cb9d0608b456f.png",
+      "usage": 107,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb56",
+        "type": "broccoli",
+        "name": "Brokkoli",
+        "slug": "brokkoli",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb56-a0e5977e.png",
+        "usageByCountry": {
+          "AT": 149,
+          "AU": 177,
+          "BE": 137,
+          "CA": 77,
+          "CH": 35,
+          "DE": 150,
+          "ER": 18,
+          "FR": 47,
+          "GB": 224,
+          "LU": 219,
+          "NL": 178,
+          "NZ": 44,
+          "ML": 176,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27e6fd2cb983608b4569",
+      "type": "fruhlingszwiebeln",
+      "name": "Frühlingszwiebel",
+      "slug": "fruhlingszwiebeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27e6fd2cb983608b4569.png",
+      "usage": 514,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc35",
+        "type": "spring-onion",
+        "name": "Frühlingszwiebel",
+        "slug": "fruhlingszwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc35-03c06826.png",
+        "usageByCountry": {
+          "AT": 575,
+          "AU": 0,
+          "BE": 15,
+          "CA": 0,
+          "CH": 113,
+          "DE": 514,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 421,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "type": "soya",
+      "name": "Soja",
+      "slug": "soja",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "usage": 390
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Kleine Schale"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539b",
+      "type": "sieve",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536d",
+      "type": "fork",
+      "name": "Gabel"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiatisch",
+      "slug": "asiatisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg",
+      "usage": 2484
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "561e06df4dab71417b8b4567",
+          "amount": 6,
+          "unit": "Stück"
+        },
+        {
+          "id": "556d83f9fd2cb937088b4567",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2a674dab71c8058b4572",
+          "amount": 7.5,
+          "unit": "g"
+        },
+        {
+          "id": "554b7d36fd2cb9d8608b4570",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "id": "5566f2f5fd2cb952018b456d",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b3534f8b25ef53e8b4575",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b7b9efd2cb9d0608b456f",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Backofen auf 200 °C Ober-/Unterhitze vorheizen. Hähnchenragout aus dem Kühlschrank nehmen, damit es Zimmertemperatur annehmen kann. Schaschlik-Spieße in einem tiefen Teller in ein wenig Wasser einweichen. Das verhindert, dass sie später im Ofen anbrennen.",
+      "instructionsHTML": "<p>Backofen auf 200 °C Ober-/Unterhitze vorheizen. Hähnchenragout aus dem Kühlschrank nehmen, damit es Zimmertemperatur annehmen kann. Schaschlik-Spieße in einem tiefen Teller in ein wenig Wasser einweichen. Das verhindert, dass sie später im Ofen anbrennen.</p>",
+      "instructions": "Backofen auf 200 °C Ober-/Unterhitze vorheizen. Hähnchenragout aus dem Kühlschrank nehmen, damit es Zimmertemperatur annehmen kann. Schaschlik-Spieße in einem tiefen Teller in ein wenig Wasser einweichen. Das verhindert, dass sie später im Ofen anbrennen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "561e06df4dab71417b8b4567",
+        "556d83f9fd2cb937088b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305374",
+        "57e2674fb7e8697d4b30537b"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Knoblauch abziehen und fein hacken. In einer kleinen Schüssel 5-Spice-Gewürzmischung mit Sojasoße, Knoblauch und 3 EL Öl vermischen. Hähnchenragoutstücke evtl. noch einmal halbieren, in der Gewürzmarinade wenden und kurz darin ziehen lassen.",
+      "instructionsHTML": "<p>Knoblauch abziehen und fein hacken. In einer kleinen Schüssel 5-Spice-Gewürzmischung mit Sojasoße, Knoblauch und 3 EL Öl vermischen. Hähnchenragoutstücke evtl. noch einmal halbieren, in der Gewürzmarinade wenden und kurz darin ziehen lassen.</p>",
+      "instructions": "Knoblauch abziehen und fein hacken. In einer kleinen Schüssel 5-Spice-Gewürzmischung mit Sojasoße, Knoblauch und 3 EL Öl vermischen. Hähnchenragoutstücke evtl. noch einmal halbieren, in der Gewürzmarinade wenden und kurz darin ziehen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/561d1bd4f8b25ed8038b4567/step_561e170a7324c.jpg",
+          "caption": "Marinade vorbereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b268ffd2cb983608b4568",
+        "554b2a674dab71c8058b4572",
+        "554b7d36fd2cb9d8608b4570",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Zitronengras mit dem Boden eines Topfes leicht andrücken, dann äußere Schale entfernen, waschen und in sehr feine Ringe schneiden. Basmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. In einem großen Topf 300 ml Wasser mit ein wenig Salz zum Kochen bringen. Reis und Zitronengras darin einmal aufkochen lassen, dann Deckel aufsetzen und bei niedriger Hitze ca. 10 Min. weiterköcheln lassen. Anschließend vom Herd nehmen und mind. 10 Min. zugedeckt ziehen lassen.",
+      "instructionsHTML": "<p>Zitronengras mit dem Boden eines Topfes leicht andrücken, dann äußere Schale entfernen, waschen und in sehr feine Ringe schneiden. Basmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. In einem großen Topf 300 ml Wasser mit ein wenig Salz zum Kochen bringen. Reis und Zitronengras darin einmal aufkochen lassen, dann Deckel aufsetzen und bei niedriger Hitze ca. 10 Min. weiterköcheln lassen. Anschließend vom Herd nehmen und mind. 10 Min. zugedeckt ziehen lassen.</p>",
+      "instructions": "Zitronengras mit dem Boden eines Topfes leicht andrücken, dann äußere Schale entfernen, waschen und in sehr feine Ringe schneiden. Basmatireis in einem Sieb mit kaltem Wasser abspülen, bis dieses klar hindurchfließt. In einem großen Topf 300 ml Wasser mit ein wenig Salz zum Kochen bringen. Reis und Zitronengras darin einmal aufkochen lassen, dann Deckel aufsetzen und bei niedriger Hitze ca. 10 Min. weiterköcheln lassen. Anschließend vom Herd nehmen und mind. 10 Min. zugedeckt ziehen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/561d1bd4f8b25ed8038b4567/step_561e170a90364.jpg",
+          "caption": "Zitronengrad vorbereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5566f2f5fd2cb952018b456d",
+        "554b3534f8b25ef53e8b4575",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Mariniertes Hähnchenfleisch auf Schaschlik-Spießen verteilen und auf ein mit Backpapier belegtes Backblech\nlegen, dann im Ofen 15–20 Min. garen.",
+      "instructionsHTML": "<p>Mariniertes Hähnchenfleisch auf Schaschlik-Spießen verteilen und auf ein mit Backpapier belegtes Backblech\nlegen, dann im Ofen 15–20 Min. garen.</p>",
+      "instructions": "Mariniertes Hähnchenfleisch auf Schaschlik-Spießen verteilen und auf ein mit Backpapier belegtes Backblech\nlegen, dann im Ofen 15–20 Min. garen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/561d1bd4f8b25ed8038b4567/step_561e170aa1147.jpg",
+          "caption": "Hähnchen-Spieße vorbereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556d83f9fd2cb937088b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305377",
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einem großen Topf reichlich Salzwasser zum Kochen bringen. Brokkoli waschen, in Röschen aufteilen, diese in ca. 1 cm dicke Scheiben schneiden. Brokkoli im kochenden Wasser 3–5 Min. weich garen. Dann in ein Sieb abgießen und kurz abtropfen lassen.",
+      "instructionsHTML": "<p>In einem großen Topf reichlich Salzwasser zum Kochen bringen. Brokkoli waschen, in Röschen aufteilen, diese in ca. 1 cm dicke Scheiben schneiden. Brokkoli im kochenden Wasser 3–5 Min. weich garen. Dann in ein Sieb abgießen und kurz abtropfen lassen.</p>",
+      "instructions": "In einem großen Topf reichlich Salzwasser zum Kochen bringen. Brokkoli waschen, in Röschen aufteilen, diese in ca. 1 cm dicke Scheiben schneiden. Brokkoli im kochenden Wasser 3–5 Min. weich garen. Dann in ein Sieb abgießen und kurz abtropfen lassen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b7b9efd2cb9d0608b456f"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539b",
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Frühlingszwiebel von welkem Grün befreien, waschen und in dünne Ringe schneiden. In einer großen Pfanne 1 EL Butter erhitzen, weißen und hellgrünen Teil der Frühlingszwiebeln 1 Min. darin anbraten. Dann Brokkoli zugeben und 2–3 Min. lang mitbraten.",
+      "instructionsHTML": "<p>Frühlingszwiebel von welkem Grün befreien, waschen und in dünne Ringe schneiden. In einer großen Pfanne 1 EL Butter erhitzen, weißen und hellgrünen Teil der Frühlingszwiebeln 1 Min. darin anbraten. Dann Brokkoli zugeben und 2–3 Min. lang mitbraten.</p>",
+      "instructions": "Frühlingszwiebel von welkem Grün befreien, waschen und in dünne Ringe schneiden. In einer großen Pfanne 1 EL Butter erhitzen, weißen und hellgrünen Teil der Frühlingszwiebeln 1 Min. darin anbraten. Dann Brokkoli zugeben und 2–3 Min. lang mitbraten.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/561d1bd4f8b25ed8038b4567/step_561e170ab0208.jpg",
+          "caption": "Brokkoli und Frühlingszwiebeln anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b27e6fd2cb983608b4569",
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Basmatireis nach der Garzeit mit einer Gabel ein wenig auflockern und 1 TL Butter unterrühren.",
+      "instructionsHTML": "<p>Basmatireis nach der Garzeit mit einer Gabel ein wenig auflockern und 1 TL Butter unterrühren.</p>",
+      "instructions": "Basmatireis nach der Garzeit mit einer Gabel ein wenig auflockern und 1 TL Butter unterrühren.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b3534f8b25ef53e8b4575",
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536d"
+      ]
+    },
+    {
+      "index": 8,
+      "instructionsMarkdown": "Brokkoli, Reis und Kokos-Hähnchenspieße auf Tellern verteilen, mit grünem Teil der Frühlingszwiebeln bestreuen und genießen!",
+      "instructionsHTML": "<p>Brokkoli, Reis und Kokos-Hähnchenspieße auf Tellern verteilen, mit grünem Teil der Frühlingszwiebeln bestreuen und genießen!</p>",
+      "instructions": "Brokkoli, Reis und Kokos-Hähnchenspieße auf Tellern verteilen, mit grünem Teil der Frühlingszwiebeln bestreuen und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.5,
+  "ratingsCount": 1579,
+  "favoritesCount": 1127,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/spicy-lecker-gewurzte-kokos-hahnchenspiesze-561d1bd4f8b25ed8038b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

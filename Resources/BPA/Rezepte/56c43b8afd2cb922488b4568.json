@@ -1,0 +1,1157 @@
+{
+  "country": "DE",
+  "id": "56c43b8afd2cb922488b4568",
+  "name": "Klassiker: Schweinefilet mit Champignons-Soße",
+  "seoName": null,
+  "category": null,
+  "slug": "klassiker-schweinefilet-mit-champignons-sose",
+  "headline": "und Röstzwiebel-Kartoffelstampf",
+  "description": "Unser heutiges Gericht versetzt Dich zurück in Omas Zeiten! Selbstgemachter Kartoffelstampf mit Röstzwiebeln, grüne Bohnen und fein gebratene Medaillons mit Champignonsoße – da werden Kindheitserinnerungen wach. Lass es Dir schmecken!",
+  "descriptionHTML": "<p>Unser heutiges Gericht versetzt Dich zurück in Omas Zeiten! Selbstgemachter Kartoffelstampf mit Röstzwiebeln, grüne Bohnen und fein gebratene Medaillons mit Champignonsoße – da werden Kindheitserinnerungen wach. Lass es Dir schmecken!</p>",
+  "descriptionMarkdown": "Unser heutiges Gericht versetzt Dich zurück in Omas Zeiten! Selbstgemachter Kartoffelstampf mit Röstzwiebeln, grüne Bohnen und fein gebratene Medaillons mit Champignonsoße – da werden Kindheitserinnerungen wach. Lass es Dir schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT40M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-02-17T09:21:14+00:00",
+  "updatedAt": "2017-06-12T11:26:11+00:00",
+  "link": "https://hellofresh.com/recipes/56c43b8afd2cb922488b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/56c43b8afd2cb922488b4568.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/56c43b8afd2cb922488b4568.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3573.136,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 854,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 47,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 58,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 44,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 1,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b6b664dab71160d8b4569",
+      "type": "schweinefilet",
+      "name": "Schweinefilet",
+      "slug": "schweinefilet",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b6b664dab71160d8b4569.png",
+      "usage": 128,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc12",
+        "type": "pork",
+        "name": "Schweinefleisch",
+        "slug": "schweinefleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc12-bdd443ff.png",
+        "usageByCountry": {
+          "AT": 486,
+          "AU": 290,
+          "BE": 179,
+          "CA": 134,
+          "CH": 113,
+          "DE": 455,
+          "ER": 54,
+          "FR": 58,
+          "GB": 613,
+          "LU": 212,
+          "NL": 191,
+          "NZ": 97,
+          "ML": 289,
+          "US": 624
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556843e14dab71ca1c8b4568",
+      "type": "rosmarin zweig",
+      "name": "Rosmarin Zweig",
+      "slug": "rosmarin-zweig",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556843e14dab71ca1c8b4568.png",
+      "usage": 38,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1f",
+        "type": "rosemary",
+        "name": "Rosmarin",
+        "slug": "rosmarin",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1f-4ba602ae.png",
+        "usageByCountry": {
+          "AT": 225,
+          "AU": 75,
+          "BE": 121,
+          "CA": 52,
+          "CH": 43,
+          "DE": 221,
+          "ER": 2,
+          "FR": 29,
+          "GB": 104,
+          "LU": 131,
+          "NL": 145,
+          "NZ": 19,
+          "ML": 0,
+          "US": 126
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55704b7bfd2cb9f0288b4569",
+      "type": "stangenbohnen",
+      "name": "Stangenbohnen",
+      "slug": "stangenbohnen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55704b7bfd2cb9f0288b4569.png",
+      "usage": 2,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbad",
+        "type": "green-beans",
+        "name": "Green Beans",
+        "slug": "green-beans",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbad-a709ebee.png",
+        "usageByCountry": {
+          "AT": 259,
+          "AU": 199,
+          "BE": 150,
+          "CA": 106,
+          "CH": 55,
+          "DE": 217,
+          "ER": 19,
+          "FR": 42,
+          "GB": 200,
+          "LU": 193,
+          "NL": 186,
+          "NZ": 59,
+          "ML": 464,
+          "US": 345
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535721f8b25e8a038b4569",
+      "type": "braune champignons",
+      "name": "braune Champignons",
+      "slug": "braune-champignons",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55535721f8b25e8a038b4569-22f6a90e.png",
+      "usage": 399,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbde",
+        "type": "mushrooms",
+        "name": "Pilze",
+        "slug": "pilze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbde-4d22942c.png",
+        "usageByCountry": {
+          "AT": 558,
+          "AU": 96,
+          "BE": 230,
+          "CA": 75,
+          "CH": 86,
+          "DE": 484,
+          "ER": 1,
+          "FR": 60,
+          "GB": 207,
+          "LU": 251,
+          "NL": 280,
+          "NZ": 21,
+          "ML": 17,
+          "US": 209
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55534596f8b25ea1038b4569",
+      "type": "schnittlauch",
+      "name": "Schnittlauch",
+      "slug": "schnittlauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55534596f8b25ea1038b4569.png",
+      "usage": 358,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb74",
+        "type": "chives",
+        "name": "Schnittlauch",
+        "slug": "schnittlauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb74-921bfcce.png",
+        "usageByCountry": {
+          "AT": 382,
+          "AU": 32,
+          "BE": 85,
+          "CA": 38,
+          "CH": 68,
+          "DE": 358,
+          "ER": 0,
+          "FR": 30,
+          "GB": 71,
+          "LU": 117,
+          "NL": 104,
+          "NZ": 20,
+          "ML": 0,
+          "US": 80
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c0e3efd2cb9692b8b4568",
+      "type": "sahne",
+      "name": "Sahne",
+      "slug": "sahne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c0e3efd2cb9692b8b4568.png",
+      "usage": 176,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535e24f8b25e78738b4569",
+      "type": "senf",
+      "name": "Senf",
+      "slug": "senf",
+      "description": null,
+      "internalName": "Senf home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55535e24f8b25e78738b4569.png",
+      "usage": 102,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fd",
+          "type": "mustard",
+          "name": "Senf",
+          "slug": "senf",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+          "usage": 158
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbdf",
+        "type": "mustard",
+        "name": "Senf",
+        "slug": "senf",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbdf-bd28b3fe.png",
+        "usageByCountry": {
+          "AT": 411,
+          "AU": 149,
+          "BE": 262,
+          "CA": 135,
+          "CH": 75,
+          "DE": 361,
+          "ER": 7,
+          "FR": 68,
+          "GB": 159,
+          "LU": 354,
+          "NL": 295,
+          "NZ": 42,
+          "ML": 1,
+          "US": 175
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5568443bfd2cb985278b4569",
+      "type": "geflügelbrühe",
+      "name": "Geflügelbrühe",
+      "slug": "geflugelbruhe",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5568443bfd2cb985278b4569.png",
+      "usage": 35,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "type": "mustard",
+      "name": "Senf",
+      "slug": "senf",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "usage": 158
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Küchenpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a1",
+      "type": "smallpot",
+      "name": "Kleiner Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305393",
+      "type": "potato-masher",
+      "name": "Kartoffelstampfer"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b6b664dab71160d8b4569",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "id": "556843e14dab71ca1c8b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55704b7bfd2cb9f0288b4569",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "55535721f8b25e8a038b4569",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "556c0e3efd2cb9692b8b4568",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55535e24f8b25e78738b4569",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "5568443bfd2cb985278b4569",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Schweinefilet aus dem Kühlschrank nehmen, damit es Zimmertemperatur annehmen kann. Kartoffeln waschen, schälen und je nach Größe halbieren oder vierteln. In einem großen Topf mit reichlich Salzwasser bedecken. Einmal aufkochen lassen und in 10–20 Min. weich garen.",
+      "instructionsHTML": "<p>Schweinefilet aus dem Kühlschrank nehmen, damit es Zimmertemperatur annehmen kann. Kartoffeln waschen, schälen und je nach Größe halbieren oder vierteln. In einem großen Topf mit reichlich Salzwasser bedecken. Einmal aufkochen lassen und in 10–20 Min. weich garen.</p>",
+      "instructions": "Schweinefilet aus dem Kühlschrank nehmen, damit es Zimmertemperatur annehmen kann. Kartoffeln waschen, schälen und je nach Größe halbieren oder vierteln. In einem großen Topf mit reichlich Salzwasser bedecken. Einmal aufkochen lassen und in 10–20 Min. weich garen.",
+      "timers": [
+        {
+          "name": "Kartoffeln garen",
+          "duration": "PT20M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b6b664dab71160d8b4569",
+        "554b25fcfd2cb973608b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Schweinefilet mit Küchenpapier trocken tupfen und in ca. 2 cm breite Medaillons schneiden. Für die Marinade: Rosmarin waschen, trocken schütteln, Nadeln abzupfen und sehr fein hacken. In einer Schüssel 1½ EL Olivenöl, 1 TL Senf, Rosmarin, etwas Salz und Pfeffer verrühren. Medaillons in der Marinade wenden und ca. 10 Min. darin ziehen lassen.",
+      "instructionsHTML": "<p>Schweinefilet mit Küchenpapier trocken tupfen und in ca. 2 cm breite Medaillons schneiden. Für die Marinade: Rosmarin waschen, trocken schütteln, Nadeln abzupfen und sehr fein hacken. In einer Schüssel 1½ EL Olivenöl, 1 TL Senf, Rosmarin, etwas Salz und Pfeffer verrühren. Medaillons in der Marinade wenden und ca. 10 Min. darin ziehen lassen.</p>",
+      "instructions": "Schweinefilet mit Küchenpapier trocken tupfen und in ca. 2 cm breite Medaillons schneiden. Für die Marinade: Rosmarin waschen, trocken schütteln, Nadeln abzupfen und sehr fein hacken. In einer Schüssel 1½ EL Olivenöl, 1 TL Senf, Rosmarin, etwas Salz und Pfeffer verrühren. Medaillons in der Marinade wenden und ca. 10 Min. darin ziehen lassen.",
+      "timers": [
+        {
+          "name": "Fleisch marinieren",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56c43b8afd2cb922488b4568/step_56c456aef3e24.jpg",
+          "caption": "Filets marinieren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b6b664dab71160d8b4569",
+        "556843e14dab71ca1c8b4568",
+        "554b1c284dab71a9058b456b",
+        "554b22cb4dab71c8058b4570",
+        "55535e24f8b25e78738b4569",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305376",
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Zwiebel abziehen und klein schneiden. In einer großen Pfanne 1 TL Öl und 1 TL Butter bei mittlerer Hitze erwärmen, Zwiebel darin unter mehrfachem Wenden 8–10 Min. goldbraun rösten. Anschließend auf Küchenpapier abtropfen lassen.",
+      "instructionsHTML": "<p>Zwiebel abziehen und klein schneiden. In einer großen Pfanne 1 TL Öl und 1 TL Butter bei mittlerer Hitze erwärmen, Zwiebel darin unter mehrfachem Wenden 8–10 Min. goldbraun rösten. Anschließend auf Küchenpapier abtropfen lassen.</p>",
+      "instructions": "Zwiebel abziehen und klein schneiden. In einer großen Pfanne 1 TL Öl und 1 TL Butter bei mittlerer Hitze erwärmen, Zwiebel darin unter mehrfachem Wenden 8–10 Min. goldbraun rösten. Anschließend auf Küchenpapier abtropfen lassen.",
+      "timers": [
+        {
+          "name": "Zwiebel rösten",
+          "duration": "PT8M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b34554dab71a6058b4576",
+        "554b2288f8b25ef93e8b456c",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373",
+        "57e2674fb7e8697d4b305376"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Stangenbohnen waschen, Enden abschneiden und in schräge Stücke schneiden. Champignons putzen und grob zerkleinern. Knoblauch abziehen und fein hacken. Schnittlauch waschen, trocken schütteln und in Röllchen schneiden.",
+      "instructionsHTML": "<p>Stangenbohnen waschen, Enden abschneiden und in schräge Stücke schneiden. Champignons putzen und grob zerkleinern. Knoblauch abziehen und fein hacken. Schnittlauch waschen, trocken schütteln und in Röllchen schneiden.</p>",
+      "instructions": "Stangenbohnen waschen, Enden abschneiden und in schräge Stücke schneiden. Champignons putzen und grob zerkleinern. Knoblauch abziehen und fein hacken. Schnittlauch waschen, trocken schütteln und in Röllchen schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56c43b8afd2cb922488b4568/step_56c456af26daa.jpg",
+          "caption": "Stangenbohnen schräg schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55704b7bfd2cb9f0288b4569",
+        "554b268ffd2cb983608b4568",
+        "55534596f8b25ea1038b4569",
+        "55535721f8b25e8a038b4569"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einem kleinen Topf 100 ml Geflügelbrühe zubereiten. Pfanne mit Küchenpapier auswischen, dann 1 EL Öl bei starker Hitze erwärmen. Schweinefilets ca. 2 Min. auf einer Seite anbraten, dann wenden und Champignons zufügen, 3–4 Min. weiterbraten. Knoblauch zugeben und ca. 1 Min. mitbraten. Dann mit 100 ml Sahne und Geflügelbrühe ablöschen und 3–4 Min. einkochen lassen. Zum Schluss die Hälfte des Schnittlauchs unterrühren.",
+      "instructionsHTML": "<p>In einem kleinen Topf 100 ml Geflügelbrühe zubereiten. Pfanne mit Küchenpapier auswischen, dann 1 EL Öl bei starker Hitze erwärmen. Schweinefilets ca. 2 Min. auf einer Seite anbraten, dann wenden und Champignons zufügen, 3–4 Min. weiterbraten. Knoblauch zugeben und ca. 1 Min. mitbraten. Dann mit 100 ml Sahne und Geflügelbrühe ablöschen und 3–4 Min. einkochen lassen. Zum Schluss die Hälfte des Schnittlauchs unterrühren.</p>",
+      "instructions": "In einem kleinen Topf 100 ml Geflügelbrühe zubereiten. Pfanne mit Küchenpapier auswischen, dann 1 EL Öl bei starker Hitze erwärmen. Schweinefilets ca. 2 Min. auf einer Seite anbraten, dann wenden und Champignons zufügen, 3–4 Min. weiterbraten. Knoblauch zugeben und ca. 1 Min. mitbraten. Dann mit 100 ml Sahne und Geflügelbrühe ablöschen und 3–4 Min. einkochen lassen. Zum Schluss die Hälfte des Schnittlauchs unterrühren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56c43b8afd2cb922488b4568/step_56c456af4e696.jpg",
+          "caption": "Champignons zugeben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b6b664dab71160d8b4569",
+        "554b268ffd2cb983608b4568",
+        "55534596f8b25ea1038b4569",
+        "556c0e3efd2cb9692b8b4568",
+        "5568443bfd2cb985278b4569",
+        "554b1bf6f8b25eef3e8b4570",
+        "55535721f8b25e8a038b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373",
+        "57e2674fb7e8697d4b3053a1",
+        "57e2674fb7e8697d4b305376"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Währenddessen: In einem kleinen Topf reichlich Salzwasser zum Kochen bringen und Stangenbohnen darin 6–8 Min. garen. Nach der Garzeit in ein Sieb abgießen und in einer Schüssel mit ein wenig Olivenöl beträufeln, mit Salz und Pfeffer abschmecken.",
+      "instructionsHTML": "<p>Währenddessen: In einem kleinen Topf reichlich Salzwasser zum Kochen bringen und Stangenbohnen darin 6–8 Min. garen. Nach der Garzeit in ein Sieb abgießen und in einer Schüssel mit ein wenig Olivenöl beträufeln, mit Salz und Pfeffer abschmecken.</p>",
+      "instructions": "Währenddessen: In einem kleinen Topf reichlich Salzwasser zum Kochen bringen und Stangenbohnen darin 6–8 Min. garen. Nach der Garzeit in ein Sieb abgießen und in einer Schüssel mit ein wenig Olivenöl beträufeln, mit Salz und Pfeffer abschmecken.",
+      "timers": [
+        {
+          "name": "Stangenbohnen garen",
+          "duration": "PT6M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "55704b7bfd2cb9f0288b4569",
+        "554b1c284dab71a9058b456b",
+        "554b22cb4dab71c8058b4570",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a1",
+        "57e2674fb7e8697d4b305369",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Kartoffeln abgießen und zurück in den Topf geben. Restliche Sahne, ½ EL Butter, etwas Salz und Pfeffer zufügen und mit einem Kartoffelstampfer zu einem feinen Püree verarbeiten. Dann geröstete Zwiebeln unterheben.",
+      "instructionsHTML": "<p>Kartoffeln abgießen und zurück in den Topf geben. Restliche Sahne, ½ EL Butter, etwas Salz und Pfeffer zufügen und mit einem Kartoffelstampfer zu einem feinen Püree verarbeiten. Dann geröstete Zwiebeln unterheben.</p>",
+      "instructions": "Kartoffeln abgießen und zurück in den Topf geben. Restliche Sahne, ½ EL Butter, etwas Salz und Pfeffer zufügen und mit einem Kartoffelstampfer zu einem feinen Püree verarbeiten. Dann geröstete Zwiebeln unterheben.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56c43b8afd2cb922488b4568/step_56c456af62e5f.jpg",
+          "caption": "Kartoffeln stampfen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567",
+        "554b34554dab71a6058b4576",
+        "556c0e3efd2cb9692b8b4568",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c",
+        "57e2674fb7e8697d4b305393"
+      ]
+    },
+    {
+      "index": 8,
+      "instructionsMarkdown": "Schweinefilet mit Röstzwiebel-Kartoffelstampf und Stangenbohnen auf Tellern verteilen. Champignons-Soße auf dem Fleisch verteilen, mit restlichem Schnittlauch bestreuen und genießen!",
+      "instructionsHTML": "<p>Schweinefilet mit Röstzwiebel-Kartoffelstampf und Stangenbohnen auf Tellern verteilen. Champignons-Soße auf dem Fleisch verteilen, mit restlichem Schnittlauch bestreuen und genießen!</p>",
+      "instructions": "Schweinefilet mit Röstzwiebel-Kartoffelstampf und Stangenbohnen auf Tellern verteilen. Champignons-Soße auf dem Fleisch verteilen, mit restlichem Schnittlauch bestreuen und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b6b664dab71160d8b4569",
+        "554b25fcfd2cb973608b4567",
+        "554b34554dab71a6058b4576",
+        "55704b7bfd2cb9f0288b4569",
+        "55534596f8b25ea1038b4569",
+        "55535721f8b25e8a038b4569"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.7,
+  "ratingsCount": 1608,
+  "favoritesCount": 2348,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/klassiker-schweinefilet-mit-champignons-sose-56c43b8afd2cb922488b4568",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

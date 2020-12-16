@@ -1,0 +1,879 @@
+{
+  "country": "DE",
+  "id": "54edcf676ced6e1f198b4574",
+  "name": "Rosarotes Steak",
+  "seoName": null,
+  "category": null,
+  "slug": "rosarotes-steak",
+  "headline": "mit Kartoffelsalat Italia",
+  "description": "Kartoffeln sollten nicht im Kühlschrank aufbewahrt werden, da die enthaltene Stärke bei Kälte in Zucker umgewandelt wird. Davon abgesehen sollten Kartoffeln nicht mit Zwiebeln gelagert werden, da Zwiebeln Gase abgeben, die den Kartoffeln nicht gefallen und sie werden schneller schlecht.",
+  "descriptionHTML": "<p>Kartoffeln sollten nicht im Kühlschrank aufbewahrt werden, da die enthaltene Stärke bei Kälte in Zucker umgewandelt wird. Davon abgesehen sollten Kartoffeln nicht mit Zwiebeln gelagert werden, da Zwiebeln Gase abgeben, die den Kartoffeln nicht gefallen und sie werden schneller schlecht.</p>",
+  "descriptionMarkdown": "Kartoffeln sollten nicht im Kühlschrank aufbewahrt werden, da die enthaltene Stärke bei Kälte in Zucker umgewandelt wird. Davon abgesehen sollten Kartoffeln nicht mit Zwiebeln gelagert werden, da Zwiebeln Gase abgeben, die den Kartoffeln nicht gefallen und sie werden schneller schlecht.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-02-25T13:34:31+00:00",
+  "updatedAt": "2017-03-30T08:39:06+00:00",
+  "link": "https://hellofresh.com/recipes/54edcf676ced6e1f198b4574",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/54edcf676ced6e1f198b4574.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/54edcf676ced6e1f198b4574.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2380.696,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 569,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 22,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 53,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 36,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b19befd2cb959598b4576",
+      "type": "rinderhüftsteak",
+      "name": "Rinderhüftsteak",
+      "slug": "rinderhuftsteak",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b19befd2cb959598b4576.png",
+      "usage": 94,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4e",
+        "type": "beef",
+        "name": "Rindfleisch",
+        "slug": "rindfleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4e-125de8b7.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 363,
+          "BE": 168,
+          "CA": 192,
+          "CH": 81,
+          "DE": 313,
+          "ER": 66,
+          "FR": 51,
+          "GB": 276,
+          "LU": 167,
+          "NL": 187,
+          "NZ": 103,
+          "ML": 494,
+          "US": 655
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b32d1f8b25ef93e8b456e",
+      "type": "basilikum",
+      "name": "Basilikum",
+      "slug": "basilikum",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b32d1f8b25ef93e8b456e.png",
+      "usage": 428,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb45",
+        "type": "basil",
+        "name": "Basilikum",
+        "slug": "basilikum",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb45-a1061353.png",
+        "usageByCountry": {
+          "AT": 475,
+          "AU": 94,
+          "BE": 150,
+          "CA": 72,
+          "CH": 92,
+          "DE": 459,
+          "ER": 0,
+          "FR": 44,
+          "GB": 167,
+          "LU": 168,
+          "NL": 191,
+          "NZ": 14,
+          "ML": 0,
+          "US": 172
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Pürierstab"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305366",
+      "type": "aluminumfoil",
+      "name": "Alufolie"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305318",
+      "type": "lactose-free",
+      "name": "laktosefrei",
+      "slug": "laktosefrei",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-lactose%403x.png",
+      "numberOfRecipes": 2675,
+      "numberOfRecipesByCountry": {
+        "AT": 41,
+        "AU": 161,
+        "BE": 430,
+        "CA": 61,
+        "CH": 8,
+        "DE": 43,
+        "ER": 0,
+        "FR": 109,
+        "GB": 276,
+        "LU": 524,
+        "NL": 501,
+        "NZ": 0,
+        "ML": 45,
+        "US": 476
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a4",
+      "type": "american",
+      "name": "Amerikanisch",
+      "slug": "amerikanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a4-aafc03e6.jpg",
+      "usage": 3895
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italienisch",
+      "slug": "italienisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg",
+      "usage": 4262
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053b1",
+      "type": "latin",
+      "name": "Südamerikanisch",
+      "slug": "sudamerikanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b1-86a0be4b.jpg",
+      "usage": 260
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b19befd2cb959598b4576",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b32d1f8b25ef93e8b456e",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 0.5,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b19befd2cb959598b4576",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 1200,
+          "unit": "g"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b32d1f8b25ef93e8b456e",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.25,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Rindersteak aus dem Kühlschrank nehmen, damit dieses Zimmertemperatur erreichen kann. Wenn die Stücke unterschiedlich dick sind, mit dem Handballen in gleich dicke Stücke drücken.",
+      "instructionsHTML": "<p>Rindersteak aus dem Kühlschrank nehmen, damit dieses Zimmertemperatur erreichen kann. Wenn die Stücke unterschiedlich dick sind, mit dem Handballen in gleich dicke Stücke drücken.</p>",
+      "instructions": "Rindersteak aus dem Kühlschrank nehmen, damit dieses Zimmertemperatur erreichen kann. Wenn die Stücke unterschiedlich dick sind, mit dem Handballen in gleich dicke Stücke drücken.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b19befd2cb959598b4576"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Kartoffeln waschen, schälen und in ca. 2 cm große Würfel schneiden.",
+      "instructionsHTML": "<p>Kartoffeln waschen, schälen und in ca. 2 cm große Würfel schneiden.</p>",
+      "instructions": "Kartoffeln waschen, schälen und in ca. 2 cm große Würfel schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54edcf676ced6e1f198b4574/step_556c5aef437c7.jpg",
+          "caption": "Kartoffeln in kleine Stücke schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Kartoffeln in einen Topf geben und mit reichlich Wasser bedecken, aufkochen lassen, Hitze herunterstufen und in ca. 10-15 Min. bissfest kochen.",
+      "instructionsHTML": "<p>Kartoffeln in einen Topf geben und mit reichlich Wasser bedecken, aufkochen lassen, Hitze herunterstufen und in ca. 10-15 Min. bissfest kochen.</p>",
+      "instructions": "Kartoffeln in einen Topf geben und mit reichlich Wasser bedecken, aufkochen lassen, Hitze herunterstufen und in ca. 10-15 Min. bissfest kochen.",
+      "timers": [
+        {
+          "name": "Kartoffeln kochen",
+          "duration": "PT15M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Tomaten waschen, Strunk entfernen und grob hacken. Basilikum waschen, trocken schütteln und Blätter grob hacken. Zwiebel und Knoblauch abziehen und ebenfalls grob hacken.",
+      "instructionsHTML": "<p>Tomaten waschen, Strunk entfernen und grob hacken. Basilikum waschen, trocken schütteln und Blätter grob hacken. Zwiebel und Knoblauch abziehen und ebenfalls grob hacken.</p>",
+      "instructions": "Tomaten waschen, Strunk entfernen und grob hacken. Basilikum waschen, trocken schütteln und Blätter grob hacken. Zwiebel und Knoblauch abziehen und ebenfalls grob hacken.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b2621fd2cb99c598b4576",
+        "554b32d1f8b25ef93e8b456e",
+        "554b2abcf8b25eef3e8b4573",
+        "554b268ffd2cb983608b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Tomate, Basilikum (etwas Basilikum für die Garnierung beiseitelegen), Zwiebel und Knoblauch mit 21⁄2 EL Olivenöl mithilfe eines Pürierstabs oder in einem Mixer zu einer gleichmäßigen Masse verarbeiten. Mit Salz, Pfeffer und 1 Prise Zucker abschmecken und bis zum Anrichten ziehen lassen.",
+      "instructionsHTML": "<p>Tomate, Basilikum (etwas Basilikum für die Garnierung beiseitelegen), Zwiebel und Knoblauch mit 21⁄2 EL Olivenöl mithilfe eines Pürierstabs oder in einem Mixer zu einer gleichmäßigen Masse verarbeiten. Mit Salz, Pfeffer und 1 Prise Zucker abschmecken und bis zum Anrichten ziehen lassen.</p>",
+      "instructions": "Tomate, Basilikum (etwas Basilikum für die Garnierung beiseitelegen), Zwiebel und Knoblauch mit 21⁄2 EL Olivenöl mithilfe eines Pürierstabs oder in einem Mixer zu einer gleichmäßigen Masse verarbeiten. Mit Salz, Pfeffer und 1 Prise Zucker abschmecken und bis zum Anrichten ziehen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54edcf676ced6e1f198b4574/step_556c5aef59005.jpg",
+          "caption": "Tomaten-Mischung mit Purierstab zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2621fd2cb99c598b4576",
+        "554b32d1f8b25ef93e8b456e",
+        "554b2abcf8b25eef3e8b4573",
+        "554b268ffd2cb983608b4568",
+        "554b22cb4dab71c8058b4570",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573",
+        "554b2319fd2cb9ba598b456d"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a0"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "1⁄2 EL Olivenöl in einer Pfanne erhitzen. Steaks nach Geschmack mit Salz und Pfeffer bestreuen und in der heißen Pfanne ca. 1-2 Min. für rare, 2-3 Min. für medium und ca. 3-4 Min. für well done je Seite braten. Anschließend bis zum Anrichten in Alufolie gewickelt ruhen lassen.",
+      "instructionsHTML": "<p>1⁄2 EL Olivenöl in einer Pfanne erhitzen. Steaks nach Geschmack mit Salz und Pfeffer bestreuen und in der heißen Pfanne ca. 1-2 Min. für rare, 2-3 Min. für medium und ca. 3-4 Min. für well done je Seite braten. Anschließend bis zum Anrichten in Alufolie gewickelt ruhen lassen.</p>",
+      "instructions": "1⁄2 EL Olivenöl in einer Pfanne erhitzen. Steaks nach Geschmack mit Salz und Pfeffer bestreuen und in der heißen Pfanne ca. 1-2 Min. für rare, 2-3 Min. für medium und ca. 3-4 Min. für well done je Seite braten. Anschließend bis zum Anrichten in Alufolie gewickelt ruhen lassen.",
+      "timers": [
+        {
+          "name": "Steak braten",
+          "duration": "PT08M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54edcf676ced6e1f198b4574/step_556c5aef7e86b.jpg",
+          "caption": "Steak zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b19befd2cb959598b4576",
+        "554b22cb4dab71c8058b4570",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305366"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Kartoffeln abgießen und kurz ausdampfen lassen. Dann bei schwacher Hitze erneut auf die Herdplatte setzen. Tomaten-Mischung unterrühren und kurz durchwärmen.",
+      "instructionsHTML": "<p>Kartoffeln abgießen und kurz ausdampfen lassen. Dann bei schwacher Hitze erneut auf die Herdplatte setzen. Tomaten-Mischung unterrühren und kurz durchwärmen.</p>",
+      "instructions": "Kartoffeln abgießen und kurz ausdampfen lassen. Dann bei schwacher Hitze erneut auf die Herdplatte setzen. Tomaten-Mischung unterrühren und kurz durchwärmen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/54edcf676ced6e1f198b4574/step_556c5aef92d0a.jpg",
+          "caption": "Tomaten-Mischung mit den Kartoffeln unterrühren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567",
+        "554b2621fd2cb99c598b4576",
+        "554b32d1f8b25ef93e8b456e"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 8,
+      "instructionsMarkdown": "Kartoffelsalat Italia mit Steak auf flachen Tellern verteilen, mit verbliebenem Basilikum garnieren und genießen.",
+      "instructionsHTML": "<p>Kartoffelsalat Italia mit Steak auf flachen Tellern verteilen, mit verbliebenem Basilikum garnieren und genießen.</p>",
+      "instructions": "Kartoffelsalat Italia mit Steak auf flachen Tellern verteilen, mit verbliebenem Basilikum garnieren und genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3,
+  "ratingsCount": 1229,
+  "favoritesCount": 297,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/rosarotes-steak-54edcf676ced6e1f198b4574",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

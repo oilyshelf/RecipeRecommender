@@ -1,0 +1,651 @@
+{
+  "country": "DE",
+  "id": "52ea6aad453bc09a398b4567",
+  "name": "Cremige Champignon-Bandnudeln in Sahnesoße",
+  "seoName": null,
+  "category": null,
+  "slug": "cremige-champignon-bandnudeln-in-sahnesosze",
+  "headline": "verfeinert mit Thymian und Petersilie",
+  "description": "",
+  "descriptionHTML": "",
+  "descriptionMarkdown": "",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT25M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2014-01-30T15:07:25+00:00",
+  "updatedAt": "2017-06-21T13:05:38+00:00",
+  "link": "https://hellofresh.com/recipes/52ea6aad453bc09a398b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/52ea6aad453bc09a398b4567.jpg",
+  "cardLink": null,
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2004,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 479,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 27,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 47,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 14,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "55682e06fd2cb9d8268b4567",
+      "type": "bandnudeln",
+      "name": "Bandnudeln",
+      "slug": "bandnudeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55682e06fd2cb9d8268b4567.png",
+      "usage": 7,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbfd",
+        "type": "pasta",
+        "name": "Pasta",
+        "slug": "pasta",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbfd-6aeaecc6.png",
+        "usageByCountry": {
+          "AT": 442,
+          "AU": 193,
+          "BE": 394,
+          "CA": 103,
+          "CH": 92,
+          "DE": 427,
+          "ER": 30,
+          "FR": 113,
+          "GB": 276,
+          "LU": 485,
+          "NL": 454,
+          "NZ": 48,
+          "ML": 420,
+          "US": 506
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535721f8b25e8a038b4569",
+      "type": "braune champignons",
+      "name": "braune Champignons",
+      "slug": "braune-champignons",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55535721f8b25e8a038b4569-22f6a90e.png",
+      "usage": 399,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbde",
+        "type": "mushrooms",
+        "name": "Pilze",
+        "slug": "pilze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbde-4d22942c.png",
+        "usageByCountry": {
+          "AT": 558,
+          "AU": 96,
+          "BE": 230,
+          "CA": 75,
+          "CH": 86,
+          "DE": 484,
+          "ER": 1,
+          "FR": 60,
+          "GB": 207,
+          "LU": 251,
+          "NL": 280,
+          "NZ": 21,
+          "ML": 17,
+          "US": 209
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c0e3efd2cb9692b8b4568",
+      "type": "sahne",
+      "name": "Sahne",
+      "slug": "sahne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c0e3efd2cb9692b8b4568.png",
+      "usage": 176,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "567270cdf8b25e663f8b4567",
+      "type": "knoblauchzehe",
+      "name": "Knoblauchzehe",
+      "slug": "knoblauchzehe",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/567270cdf8b25e663f8b4567.png",
+      "usage": 1222,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da357fd2cb943758b4567",
+      "type": "thymian",
+      "name": "Thymian",
+      "slug": "thymian",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da357fd2cb943758b4567.png",
+      "usage": 245,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc43",
+        "type": "thyme",
+        "name": "Thymian",
+        "slug": "thymian",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc43-d0cc4199.png",
+        "usageByCountry": {
+          "AT": 252,
+          "AU": 94,
+          "BE": 243,
+          "CA": 96,
+          "CH": 34,
+          "DE": 252,
+          "ER": 0,
+          "FR": 73,
+          "GB": 187,
+          "LU": 346,
+          "NL": 288,
+          "NZ": 38,
+          "ML": 213,
+          "US": 322
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34b64dab71aa058b4573",
+      "type": "petersilie",
+      "name": "Petersilie",
+      "slug": "petersilie",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34b64dab71aa058b4573.png",
+      "usage": 861,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566f93cfd2cb97e018b4568",
+      "type": "schalotte",
+      "name": "Schalotte",
+      "slug": "schalotte",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566f93cfd2cb97e018b4568.png",
+      "usage": 156,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    }
+  ],
+  "utensils": [],
+  "tags": [
+    {
+      "id": "58aeb96c99052d5fee3dd712",
+      "type": "chefs-choice",
+      "name": "Chef's Choice",
+      "slug": "chef-s-choice",
+      "iconLink": null,
+      "numberOfRecipes": 961,
+      "numberOfRecipesByCountry": {
+        "AT": 0,
+        "AU": 1,
+        "BE": 239,
+        "CA": 0,
+        "CH": 0,
+        "DE": 2,
+        "ER": 2,
+        "FR": 10,
+        "GB": 2,
+        "LU": 380,
+        "NL": 266,
+        "NZ": 0,
+        "ML": 58,
+        "US": 1
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italienisch",
+      "slug": "italienisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg",
+      "usage": 4262
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "55682e06fd2cb9d8268b4567",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "55535721f8b25e8a038b4569",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "556c0e3efd2cb9692b8b4568",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "id": "567270cdf8b25e663f8b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "555da357fd2cb943758b4567",
+          "amount": 2,
+          "unit": "Zweig"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "5566f93cfd2cb97e018b4568",
+          "amount": 1,
+          "unit": "Stück"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "55682e06fd2cb9d8268b4567",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "55535721f8b25e8a038b4569",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "556c0e3efd2cb9692b8b4568",
+          "amount": null,
+          "unit": "ml"
+        },
+        {
+          "id": "567270cdf8b25e663f8b4567",
+          "amount": null,
+          "unit": "Stück"
+        },
+        {
+          "id": "555da357fd2cb943758b4567",
+          "amount": null,
+          "unit": "Zweig"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": null,
+          "unit": "g"
+        },
+        {
+          "id": "5566f93cfd2cb97e018b4568",
+          "amount": null,
+          "unit": "Stück"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Reichlich Salzwasser in einem großen Topf zum Kochen bringen. **Knoblauch** und **Schalotte** abziehen und fein hacken.",
+      "instructionsHTML": "<p>Reichlich Salzwasser in einem großen Topf zum Kochen bringen. <strong>Knoblauch</strong> und <strong>Schalotte</strong> abziehen und fein hacken.</p>",
+      "instructions": "Reichlich Salzwasser in einem großen Topf zum Kochen bringen. Knoblauch und Schalotte abziehen und fein hacken.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "**Champignons** putzen und in Scheiben schneiden. 100 ml heiße **Gemüsebrühe** zubereiten. **Thymianblätter** abziehen. **Petersilie** grob hacken.",
+      "instructionsHTML": "<p><strong>Champignons</strong> putzen und in Scheiben schneiden. 100 ml heiße <strong>Gemüsebrühe</strong> zubereiten. <strong>Thymianblätter</strong> abziehen. <strong>Petersilie</strong> grob hacken.</p>",
+      "instructions": "Champignons putzen und in Scheiben schneiden. 100 ml heiße Gemüsebrühe zubereiten. Thymianblätter abziehen. Petersilie grob hacken.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "**Bandnudeln** im kochenden Wasser ca. 7-10 Min. bissfest garen. 1/2 El **Butter** in einer großen beschichteten Pfanne erwärmen. **Knoblauch** und **Schalotte** darin ca. 3 Min. bei mittlerer Hitze glasig dünsten.",
+      "instructionsHTML": "<p><strong>Bandnudeln</strong> im kochenden Wasser ca. 7-10 Min. bissfest garen. 1/2 El <strong>Butter</strong> in einer großen beschichteten Pfanne erwärmen. <strong>Knoblauch</strong> und <strong>Schalotte</strong> darin ca. 3 Min. bei mittlerer Hitze glasig dünsten.</p>",
+      "instructions": "Bandnudeln im kochenden Wasser ca. 7-10 Min. bissfest garen. 1/2 El Butter in einer großen beschichteten Pfanne erwärmen. Knoblauch und Schalotte darin ca. 3 Min. bei mittlerer Hitze glasig dünsten.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "**Champignons** und **Thymian** zugeben und ca. 5 weitere Min. garen. 1 TL **Mehl** darüber stäuben. Mit **Sahne** und vorbereiteter **Brühe** ablöschen und gründlich verrühren (die Soße sollte klumpenfrei sein).",
+      "instructionsHTML": "<p><strong>Champignons</strong> und <strong>Thymian</strong> zugeben und ca. 5 weitere Min. garen. 1 TL <strong>Mehl</strong> darüber stäuben. Mit <strong>Sahne</strong> und vorbereiteter <strong>Brühe</strong> ablöschen und gründlich verrühren (die Soße sollte klumpenfrei sein).</p>",
+      "instructions": "Champignons und Thymian zugeben und ca. 5 weitere Min. garen. 1 TL Mehl darüber stäuben. Mit Sahne und vorbereiteter Brühe ablöschen und gründlich verrühren (die Soße sollte klumpenfrei sein).",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Ca. 2-3 Min. einkochen lassen bis die Soße eine etwas dickere Konsistenz erreicht hat. Mit **Salz** und **Pfeffer** abschmecken.",
+      "instructionsHTML": "<p>Ca. 2-3 Min. einkochen lassen bis die Soße eine etwas dickere Konsistenz erreicht hat. Mit <strong>Salz</strong> und <strong>Pfeffer</strong> abschmecken.</p>",
+      "instructions": "Ca. 2-3 Min. einkochen lassen bis die Soße eine etwas dickere Konsistenz erreicht hat. Mit Salz und Pfeffer abschmecken.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "**Bandnudeln** abgießen. 1 TL **Butter** und den Großteil der **Petersilie** untermischen. Anschließend auf Tellern verteilen, Champignonsoße darauf geben und mit restlicher **Petersilie** bestreut genießen!",
+      "instructionsHTML": "<p><strong>Bandnudeln</strong> abgießen. 1 TL <strong>Butter</strong> und den Großteil der <strong>Petersilie</strong> untermischen. Anschließend auf Tellern verteilen, Champignonsoße darauf geben und mit restlicher <strong>Petersilie</strong> bestreut genießen!</p>",
+      "instructions": "Bandnudeln abgießen. 1 TL Butter und den Großteil der Petersilie untermischen. Anschließend auf Tellern verteilen, Champignonsoße darauf geben und mit restlicher Petersilie bestreut genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.6,
+  "ratingsCount": 42,
+  "favoritesCount": 193,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/cremige-champignon-bandnudeln-in-sahnesosze-52ea6aad453bc09a398b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

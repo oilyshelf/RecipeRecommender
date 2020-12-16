@@ -1,0 +1,978 @@
+{
+  "country": "DE",
+  "id": "552e16d26ced6ede3e8b4568",
+  "name": "Feine Kalbsmaultaschen",
+  "seoName": null,
+  "category": null,
+  "slug": "feine-kalbsmaultaschen",
+  "headline": "auf Lauchgemüse, serviert mit Tomaten-Salbei-Salat",
+  "description": "Salbei ist eine der ältesten Heilpflanzen der Welt. Er wird in der Naturheilkunde bei allerlei Beschwerden empfohlen und soll antibakteriell, pilzfeindlich und sogar schweißhemmend wirken. Und da wir bekanntlich altem Wissen misstrauen, wurde das alles mittlerweile wissenschaftlich belegt. Guten Appetit.",
+  "descriptionHTML": "<p>Salbei ist eine der ältesten Heilpflanzen der Welt. Er wird in der Naturheilkunde bei allerlei Beschwerden empfohlen und soll antibakteriell, pilzfeindlich und sogar schweißhemmend wirken. Und da wir bekanntlich altem Wissen misstrauen, wurde das alles mittlerweile wissenschaftlich belegt. Guten Appetit.</p>",
+  "descriptionMarkdown": "Salbei ist eine der ältesten Heilpflanzen der Welt. Er wird in der Naturheilkunde bei allerlei Beschwerden empfohlen und soll antibakteriell, pilzfeindlich und sogar schweißhemmend wirken. Und da wir bekanntlich altem Wissen misstrauen, wurde das alles mittlerweile wissenschaftlich belegt. Guten Appetit.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-04-15T07:44:18+00:00",
+  "updatedAt": "2016-09-20T08:20:56+00:00",
+  "link": "https://hellofresh.com/recipes/552e16d26ced6ede3e8b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/552e16d26ced6ede3e8b4568.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/552e16d26ced6ede3e8b4568.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2380.696,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 569,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 59,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "556ed825fd2cb9c5148b4567",
+      "type": "kalbsmaultaschen",
+      "name": "Kalbsmaultaschen",
+      "slug": "kalbsmaultaschen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556ed825fd2cb9c5148b4567.png",
+      "usage": 3,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        },
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbfd",
+        "type": "pasta",
+        "name": "Pasta",
+        "slug": "pasta",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbfd-6aeaecc6.png",
+        "usageByCountry": {
+          "AT": 442,
+          "AU": 193,
+          "BE": 394,
+          "CA": 103,
+          "CH": 92,
+          "DE": 427,
+          "ER": 30,
+          "FR": 113,
+          "GB": 276,
+          "LU": 485,
+          "NL": 454,
+          "NZ": 48,
+          "ML": 420,
+          "US": 506
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b21914dab71c8058b456f",
+      "type": "salbei",
+      "name": "Salbei",
+      "slug": "salbei",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b21914dab71c8058b456f.png",
+      "usage": 87,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc21",
+        "type": "sage",
+        "name": "Salbei",
+        "slug": "salbei",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc21-1ebb9dee.png",
+        "usageByCountry": {
+          "AT": 85,
+          "AU": 27,
+          "BE": 29,
+          "CA": 17,
+          "CH": 11,
+          "DE": 87,
+          "ER": 2,
+          "FR": 4,
+          "GB": 42,
+          "LU": 29,
+          "NL": 30,
+          "NZ": 4,
+          "ML": 1,
+          "US": 61
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1adef8b25ef93e8b456a",
+      "type": "rote-chili",
+      "name": "roter Chili",
+      "slug": "rote-chili",
+      "description": null,
+      "internalName": "roter Chili",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1adef8b25ef93e8b456a.png",
+      "usage": 325,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6d",
+        "type": "chili",
+        "name": "Chili",
+        "slug": "chili",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6d-270fd94b.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 223,
+          "BE": 0,
+          "CA": 48,
+          "CH": 61,
+          "DE": 326,
+          "ER": 0,
+          "FR": 0,
+          "GB": 75,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 55,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556736ccfd2cb964078b4568",
+      "type": "lauch",
+      "name": "Lauch",
+      "slug": "lauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556736ccfd2cb964078b4568.png",
+      "usage": 8,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc4",
+        "type": "leek",
+        "name": "Lauch",
+        "slug": "lauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc4-1460799d.png",
+        "usageByCountry": {
+          "AT": 212,
+          "AU": 43,
+          "BE": 129,
+          "CA": 14,
+          "CH": 41,
+          "DE": 199,
+          "ER": 0,
+          "FR": 25,
+          "GB": 148,
+          "LU": 118,
+          "NL": 150,
+          "NZ": 13,
+          "ML": 0,
+          "US": 7
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556da575fd2cb9d1088b456a",
+      "type": "große tomate",
+      "name": "Große Tomate",
+      "slug": "grosze-tomate",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556da575fd2cb9d1088b456a.png",
+      "usage": 8,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3639f8b25eef3e8b4575",
+      "type": "gemusebruhe-home",
+      "name": "Gemüsebrühe*",
+      "slug": "gemusebruhe",
+      "description": null,
+      "internalName": "Gemüsebrühe home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3639f8b25eef3e8b4575.png",
+      "usage": 441,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Kleine Schale"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "556ed825fd2cb9c5148b4567",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "554b21914dab71c8058b456f",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "554b1adef8b25ef93e8b456a",
+          "amount": 0.5,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556736ccfd2cb964078b4568",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556da575fd2cb9d1088b456a",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b3639f8b25eef3e8b4575",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "556ed825fd2cb9c5148b4567",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "id": "554b21914dab71c8058b456f",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b1adef8b25ef93e8b456a",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556736ccfd2cb964078b4568",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556da575fd2cb9d1088b456a",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.25,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b3639f8b25eef3e8b4575",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Liter Brühe zubereiten und zum Kochen bringen. Maultaschen darin 7–10 Min. oder nach Packungsangabe köcheln lassen.",
+      "instructionsHTML": "<p>Liter Brühe zubereiten und zum Kochen bringen. Maultaschen darin 7–10 Min. oder nach Packungsangabe köcheln lassen.</p>",
+      "instructions": "Liter Brühe zubereiten und zum Kochen bringen. Maultaschen darin 7–10 Min. oder nach Packungsangabe köcheln lassen.",
+      "timers": [
+        {
+          "name": "Maultauschen köcheln",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/552e16d26ced6ede3e8b4568/step_556edc007c173.jpg",
+          "caption": "Maultauschen in Gemüsebrühe köcheln"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556ed825fd2cb9c5148b4567",
+        "554b3639f8b25eef3e8b4575"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Salbei waschen, trocken schütteln, Blätter abzupfen und längs in dünne Streifen schneiden. Chili waschen und in dünne Ringe schneiden. Knoblauch abziehen und fein hacken. Lauch waschen, nur den weißen und hellgrünen Teil in dünne Ringe schneiden. Tomaten waschen, Strunk entfernen und in dünne Scheiben schneiden.",
+      "instructionsHTML": "<p>Salbei waschen, trocken schütteln, Blätter abzupfen und längs in dünne Streifen schneiden. Chili waschen und in dünne Ringe schneiden. Knoblauch abziehen und fein hacken. Lauch waschen, nur den weißen und hellgrünen Teil in dünne Ringe schneiden. Tomaten waschen, Strunk entfernen und in dünne Scheiben schneiden.</p>",
+      "instructions": "Salbei waschen, trocken schütteln, Blätter abzupfen und längs in dünne Streifen schneiden. Chili waschen und in dünne Ringe schneiden. Knoblauch abziehen und fein hacken. Lauch waschen, nur den weißen und hellgrünen Teil in dünne Ringe schneiden. Tomaten waschen, Strunk entfernen und in dünne Scheiben schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/552e16d26ced6ede3e8b4568/step_556edc008f63a.jpg",
+          "caption": "Gemüse schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b21914dab71c8058b456f",
+        "554b1adef8b25ef93e8b456a",
+        "556736ccfd2cb964078b4568",
+        "556da575fd2cb9d1088b456a"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Maultaschen nach der Garzeit aus der Brühe nehmen (Brühe nicht weggießen!) und quer in ca. 2 cm dicke Stücke schneiden.",
+      "instructionsHTML": "<p>Maultaschen nach der Garzeit aus der Brühe nehmen (Brühe nicht weggießen!) und quer in ca. 2 cm dicke Stücke schneiden.</p>",
+      "instructions": "Maultaschen nach der Garzeit aus der Brühe nehmen (Brühe nicht weggießen!) und quer in ca. 2 cm dicke Stücke schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/552e16d26ced6ede3e8b4568/step_556edc00a45c7.jpg",
+          "caption": "Maultauschen in 2 cm dicke Stücke schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556ed825fd2cb9c5148b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer Pfanne 1 EL Olivenöl erhitzen und Salbei darin 1–2 Min. anbraten. Mit Salz und Pfeffer abschmecken, mit dem Öl beiseite stellen.",
+      "instructionsHTML": "<p>In einer Pfanne 1 EL Olivenöl erhitzen und Salbei darin 1–2 Min. anbraten. Mit Salz und Pfeffer abschmecken, mit dem Öl beiseite stellen.</p>",
+      "instructions": "In einer Pfanne 1 EL Olivenöl erhitzen und Salbei darin 1–2 Min. anbraten. Mit Salz und Pfeffer abschmecken, mit dem Öl beiseite stellen.",
+      "timers": [
+        {
+          "name": "Salbei anbraten",
+          "duration": "PT2M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b21914dab71c8058b456f",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Die Pfanne erneut mit 1 TL Butter erhitzen und Maultaschen 2–3 Min. von jeder Seite goldbraun darin anbraten, ebenfalls zur Seite stellen.",
+      "instructionsHTML": "<p>Die Pfanne erneut mit 1 TL Butter erhitzen und Maultaschen 2–3 Min. von jeder Seite goldbraun darin anbraten, ebenfalls zur Seite stellen.</p>",
+      "instructions": "Die Pfanne erneut mit 1 TL Butter erhitzen und Maultaschen 2–3 Min. von jeder Seite goldbraun darin anbraten, ebenfalls zur Seite stellen.",
+      "timers": [
+        {
+          "name": "Maultaschen anbraten",
+          "duration": "PT6M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556ed825fd2cb9c5148b4567",
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Die Pfanne ein weiteres Mal mit 1 TL Butter auf den Herd stellen, zunächst Chili und Knoblauch kurz darin anrösten. Dann Lauch zugeben und mit 10 EL Brühe ablöschen. Weitere 5–7 Min. köcheln lassen, eventuell mit Salz abschmecken.",
+      "instructionsHTML": "<p>Die Pfanne ein weiteres Mal mit 1 TL Butter auf den Herd stellen, zunächst Chili und Knoblauch kurz darin anrösten. Dann Lauch zugeben und mit 10 EL Brühe ablöschen. Weitere 5–7 Min. köcheln lassen, eventuell mit Salz abschmecken.</p>",
+      "instructions": "Die Pfanne ein weiteres Mal mit 1 TL Butter auf den Herd stellen, zunächst Chili und Knoblauch kurz darin anrösten. Dann Lauch zugeben und mit 10 EL Brühe ablöschen. Weitere 5–7 Min. köcheln lassen, eventuell mit Salz abschmecken.",
+      "timers": [
+        {
+          "name": "Lauch köcheln",
+          "duration": "PT7M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b1adef8b25ef93e8b456a",
+        "556736ccfd2cb964078b4568",
+        "554b268ffd2cb983608b4568",
+        "554b1c284dab71a9058b456b",
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Für den Salat: Tomaten, Salbei mit Öl, Salz und Pfeffer gut vermischen.",
+      "instructionsHTML": "<p>Für den Salat: Tomaten, Salbei mit Öl, Salz und Pfeffer gut vermischen.</p>",
+      "instructions": "Für den Salat: Tomaten, Salbei mit Öl, Salz und Pfeffer gut vermischen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/552e16d26ced6ede3e8b4568/step_556edc00ba347.jpg",
+          "caption": "Salat zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556da575fd2cb9d1088b456a",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305380"
+      ]
+    },
+    {
+      "index": 8,
+      "instructionsMarkdown": "Maultaschen zum Lauch in die Pfanne geben und kurz erwärmen. Anschließend auf Tellern verteilen und mit Tomaten-Salbei-Salat genießen.",
+      "instructionsHTML": "<p>Maultaschen zum Lauch in die Pfanne geben und kurz erwärmen. Anschließend auf Tellern verteilen und mit Tomaten-Salbei-Salat genießen.</p>",
+      "instructions": "Maultaschen zum Lauch in die Pfanne geben und kurz erwärmen. Anschließend auf Tellern verteilen und mit Tomaten-Salbei-Salat genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3,
+  "ratingsCount": 148,
+  "favoritesCount": 102,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/feine-kalbsmaultaschen-552e16d26ced6ede3e8b4568",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

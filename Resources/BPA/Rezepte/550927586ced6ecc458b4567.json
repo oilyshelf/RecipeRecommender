@@ -1,0 +1,936 @@
+{
+  "country": "DE",
+  "id": "550927586ced6ecc458b4567",
+  "name": "Grillido-Würstchen",
+  "seoName": null,
+  "category": null,
+  "slug": "grillido-wurstchen",
+  "headline": "mit Kartoffelsalat",
+  "description": "Diese Woche ist die Wurst-Revolution in Eurer Box: Grillido. Geschmack wie im Gourmetrestaurant, 1/3 der Kalorien, 20 % Eiweiß und 0 Zusatzstoffe - das zeichnet die 30 Variationen aus, die mit Spitzenköchen entwickelt wurden. Getreu dem Motto des Startups: Fett raus, Geschmack rein. Guten Appetit!",
+  "descriptionHTML": "<p>Diese Woche ist die Wurst-Revolution in Eurer Box: Grillido. Geschmack wie im Gourmetrestaurant, 1/3 der Kalorien, 20 % Eiweiß und 0 Zusatzstoffe - das zeichnet die 30 Variationen aus, die mit Spitzenköchen entwickelt wurden. Getreu dem Motto des Startups: Fett raus, Geschmack rein. Guten Appetit!</p>",
+  "descriptionMarkdown": "Diese Woche ist die Wurst-Revolution in Eurer Box: Grillido. Geschmack wie im Gourmetrestaurant, 1/3 der Kalorien, 20 % Eiweiß und 0 Zusatzstoffe - das zeichnet die 30 Variationen aus, die mit Spitzenköchen entwickelt wurden. Getreu dem Motto des Startups: Fett raus, Geschmack rein. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-03-18T07:20:56+00:00",
+  "updatedAt": "2017-01-23T15:17:40+00:00",
+  "link": "https://hellofresh.com/recipes/550927586ced6ecc458b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/550927586ced6ecc458b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/550927586ced6ecc458b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2539.688,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 607,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 34,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 53,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 20,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d77624dab7150498b4568",
+      "type": "radieschen",
+      "name": "Radieschen",
+      "slug": "radieschen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d77624dab7150498b4568.png",
+      "usage": 73,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc19",
+        "type": "radish",
+        "name": "Rettich",
+        "slug": "rettich",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc19-7a28dd12.png",
+        "usageByCountry": {
+          "AT": 99,
+          "AU": 5,
+          "BE": 65,
+          "CA": 21,
+          "CH": 19,
+          "DE": 82,
+          "ER": 2,
+          "FR": 7,
+          "GB": 18,
+          "LU": 39,
+          "NL": 64,
+          "NZ": 1,
+          "ML": 0,
+          "US": 56
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55534596f8b25ea1038b4569",
+      "type": "schnittlauch",
+      "name": "Schnittlauch",
+      "slug": "schnittlauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55534596f8b25ea1038b4569.png",
+      "usage": 358,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb74",
+        "type": "chives",
+        "name": "Schnittlauch",
+        "slug": "schnittlauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb74-921bfcce.png",
+        "usageByCountry": {
+          "AT": 382,
+          "AU": 32,
+          "BE": 85,
+          "CA": 38,
+          "CH": 68,
+          "DE": 358,
+          "ER": 0,
+          "FR": 30,
+          "GB": 71,
+          "LU": 117,
+          "NL": 104,
+          "NZ": 20,
+          "ML": 0,
+          "US": 80
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556dab834dab71e04a8b4567",
+      "type": "brunnenkresse",
+      "name": "Brunnenkresse",
+      "slug": "brunnenkresse",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556dab834dab71e04a8b4567.png",
+      "usage": 4,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556dac14f8b25e2c738b4568",
+      "type": "grillwürstchen (hähnchen/schwein)",
+      "name": "Grillwürstchen",
+      "slug": "grillwurstchen-hahnchen-schwein",
+      "description": null,
+      "internalName": "Grillwürstchen (Hähnchen/Schwein)",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556dac14f8b25e2c738b4568.png",
+      "usage": 1,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc28",
+        "type": "sausage",
+        "name": "Wurst",
+        "slug": "wurst",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc28-0372e034.png",
+        "usageByCountry": {
+          "AT": 61,
+          "AU": 16,
+          "BE": 38,
+          "CA": 42,
+          "CH": 58,
+          "DE": 59,
+          "ER": 1,
+          "FR": 18,
+          "GB": 80,
+          "LU": 80,
+          "NL": 62,
+          "NZ": 3,
+          "ML": 0,
+          "US": 20
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7480fd2cb911618b4568",
+      "type": "schmand",
+      "name": "Schmand",
+      "slug": "schmand",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b7480fd2cb911618b4568-52e9ad6e.png",
+      "usage": 248,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536e",
+      "type": "grater",
+      "name": "Reibe"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536d",
+      "type": "fork",
+      "name": "Gabel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Küchenpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b30530e",
+      "type": "under-30-minutes",
+      "name": "Zeit sparen",
+      "slug": "zeit-sparen",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/HF_Icon_App_LessThan30min.png",
+      "numberOfRecipes": 4370,
+      "numberOfRecipesByCountry": {
+        "AT": 1140,
+        "AU": 141,
+        "BE": 540,
+        "CA": 0,
+        "CH": 201,
+        "DE": 989,
+        "ER": 0,
+        "FR": 128,
+        "GB": 0,
+        "LU": 581,
+        "NL": 644,
+        "NZ": 0,
+        "ML": 0,
+        "US": 6
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a4",
+      "type": "american",
+      "name": "Amerikanisch",
+      "slug": "amerikanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a4-aafc03e6.jpg",
+      "usage": 3895
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 0.5,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556d77624dab7150498b4568",
+          "amount": 0.5,
+          "unit": "Bund"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "556dab834dab71e04a8b4567",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "556dac14f8b25e2c738b4568",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b7480fd2cb911618b4568",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 1200,
+          "unit": "g"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "556d77624dab7150498b4568",
+          "amount": 1,
+          "unit": "Bund"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "556dab834dab71e04a8b4567",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "556dac14f8b25e2c738b4568",
+          "amount": 8,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b7480fd2cb911618b4568",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Kartoffeln waschen und samt der Schale in ca. 2 cm große Ecken schneiden. In einem kleinen Topf mit Salzwasser bedecken und in ca. 10-15 Min. gar kochen.",
+      "instructionsHTML": "<p>Kartoffeln waschen und samt der Schale in ca. 2 cm große Ecken schneiden. In einem kleinen Topf mit Salzwasser bedecken und in ca. 10-15 Min. gar kochen.</p>",
+      "instructions": "Kartoffeln waschen und samt der Schale in ca. 2 cm große Ecken schneiden. In einem kleinen Topf mit Salzwasser bedecken und in ca. 10-15 Min. gar kochen.",
+      "timers": [
+        {
+          "name": "Kartoffeln kochen",
+          "duration": "PT15M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Zwiebel abziehen und in feine Streifen schneiden. Radieschen putzen, waschen und mit einer Reibe in feine Scheiben hobeln. Dabei sehr vorsichtig sein und nicht den Daumen mithobeln! Mir ist das leider passiert, ich hoffe, es sind keine roten Tropfen auf dem Bild zu sehen.",
+      "instructionsHTML": "<p>Zwiebel abziehen und in feine Streifen schneiden. Radieschen putzen, waschen und mit einer Reibe in feine Scheiben hobeln. Dabei sehr vorsichtig sein und nicht den Daumen mithobeln! Mir ist das leider passiert, ich hoffe, es sind keine roten Tropfen auf dem Bild zu sehen.</p>",
+      "instructions": "Zwiebel abziehen und in feine Streifen schneiden. Radieschen putzen, waschen und mit einer Reibe in feine Scheiben hobeln. Dabei sehr vorsichtig sein und nicht den Daumen mithobeln! Mir ist das leider passiert, ich hoffe, es sind keine roten Tropfen auf dem Bild zu sehen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/550927586ced6ecc458b4567/step_556db0bd91619.jpg",
+          "caption": "Radieschen mit Reibe in Scheiben hobeln"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2abcf8b25eef3e8b4573",
+        "556d77624dab7150498b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b30536e"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Schnittlauch waschen, trocken schütteln und in dünne Röllchen schneiden. Stängel von Brunnenkresse entfernen, waschen und abtropfen lassen.",
+      "instructionsHTML": "<p>Schnittlauch waschen, trocken schütteln und in dünne Röllchen schneiden. Stängel von Brunnenkresse entfernen, waschen und abtropfen lassen.</p>",
+      "instructions": "Schnittlauch waschen, trocken schütteln und in dünne Röllchen schneiden. Stängel von Brunnenkresse entfernen, waschen und abtropfen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/550927586ced6ecc458b4567/step_556db0bda6d67.jpg",
+          "caption": "Schnittlauch in dünne Röllchen schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55534596f8b25ea1038b4569",
+        "556dab834dab71e04a8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Kartoffeln mit einer Gabel anpieksen, um zu testen, ob sie schon gar sind. Wenn die Gabel leicht in die Kartoffel gleitet, dann sind die Kartoffeln fertig. Abgießen und kurz ausdampfen lassen.",
+      "instructionsHTML": "<p>Kartoffeln mit einer Gabel anpieksen, um zu testen, ob sie schon gar sind. Wenn die Gabel leicht in die Kartoffel gleitet, dann sind die Kartoffeln fertig. Abgießen und kurz ausdampfen lassen.</p>",
+      "instructions": "Kartoffeln mit einer Gabel anpieksen, um zu testen, ob sie schon gar sind. Wenn die Gabel leicht in die Kartoffel gleitet, dann sind die Kartoffeln fertig. Abgießen und kurz ausdampfen lassen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536d",
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einer großen Pfanne 1 TL Butter erhitzen und Zwiebeln 2-3 Min. bei mittlerer Hitze glasig dünsten. Kartoffeln hinzugeben und kurz zusammen erhitzen. Die Pfanne vom Herd ziehen, Schmand und Radieschen zugeben, mit Salz und Pfeffer abschmecken und bis zum Anrichten zur Seite stellen.",
+      "instructionsHTML": "<p>In einer großen Pfanne 1 TL Butter erhitzen und Zwiebeln 2-3 Min. bei mittlerer Hitze glasig dünsten. Kartoffeln hinzugeben und kurz zusammen erhitzen. Die Pfanne vom Herd ziehen, Schmand und Radieschen zugeben, mit Salz und Pfeffer abschmecken und bis zum Anrichten zur Seite stellen.</p>",
+      "instructions": "In einer großen Pfanne 1 TL Butter erhitzen und Zwiebeln 2-3 Min. bei mittlerer Hitze glasig dünsten. Kartoffeln hinzugeben und kurz zusammen erhitzen. Die Pfanne vom Herd ziehen, Schmand und Radieschen zugeben, mit Salz und Pfeffer abschmecken und bis zum Anrichten zur Seite stellen.",
+      "timers": [
+        {
+          "name": "Kartoffeln anbraten",
+          "duration": "PT3M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/550927586ced6ecc458b4567/step_556db1179018d.jpg",
+          "caption": "Kartoffeln mit Zwiebeln anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567",
+        "554b2abcf8b25eef3e8b4573",
+        "556d77624dab7150498b4568",
+        "554b7480fd2cb911618b4568",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Pfanne mit Küchenpapier auswischen und erneut mit 1 TL Butter erhitzen. Grillwürste 8-10 Min. anbraten, bis sie leicht bräunlich sind.",
+      "instructionsHTML": "<p>Pfanne mit Küchenpapier auswischen und erneut mit 1 TL Butter erhitzen. Grillwürste 8-10 Min. anbraten, bis sie leicht bräunlich sind.</p>",
+      "instructions": "Pfanne mit Küchenpapier auswischen und erneut mit 1 TL Butter erhitzen. Grillwürste 8-10 Min. anbraten, bis sie leicht bräunlich sind.",
+      "timers": [
+        {
+          "name": "Würste anbraten",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/550927586ced6ecc458b4567/step_556db0bdbda3f.jpg",
+          "caption": "Würste in Butter anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "556dac14f8b25e2c738b4568",
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305376",
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Vor dem Anrichten Schnittlauch unter den Kartoffelsalat mischen und Brunnenkresse unterheben.",
+      "instructionsHTML": "<p>Vor dem Anrichten Schnittlauch unter den Kartoffelsalat mischen und Brunnenkresse unterheben.</p>",
+      "instructions": "Vor dem Anrichten Schnittlauch unter den Kartoffelsalat mischen und Brunnenkresse unterheben.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "55534596f8b25ea1038b4569",
+        "556dab834dab71e04a8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 8,
+      "instructionsMarkdown": "Kartoffelsalat auf Tellern verteilen und mit Grillido-Würstchen genießen.",
+      "instructionsHTML": "<p>Kartoffelsalat auf Tellern verteilen und mit Grillido-Würstchen genießen.</p>",
+      "instructions": "Kartoffelsalat auf Tellern verteilen und mit Grillido-Würstchen genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.2,
+  "ratingsCount": 193,
+  "favoritesCount": 185,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/grillido-wurstchen-550927586ced6ecc458b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

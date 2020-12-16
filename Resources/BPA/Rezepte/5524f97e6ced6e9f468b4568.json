@@ -1,0 +1,903 @@
+{
+  "country": "DE",
+  "id": "5524f97e6ced6e9f468b4568",
+  "name": "Hähnchenbrust mit knuspriger Cornflakes-Panade",
+  "seoName": null,
+  "category": null,
+  "slug": "hahnchenbrust-mit-knuspriger-cornflakes-panade",
+  "headline": "und mit Gouda überbackenem Kartoffel-Tomaten-Auflauf",
+  "description": "Knusper, Knusper, Knäuschen ... Hähnchenschnitzel in Cornflakes-Panade und dazu auch noch Fett gespart, weil es im Ofen zubereitet wird und nicht in der Pfanne. Bald gibt es bei uns Geflügel mit einer Panade aus Nachos, Salzbrezeln oder viel- leicht auch wieder klassisch. Guten Appetit.",
+  "descriptionHTML": "<p>Knusper, Knusper, Knäuschen ... Hähnchenschnitzel in Cornflakes-Panade und dazu auch noch Fett gespart, weil es im Ofen zubereitet wird und nicht in der Pfanne. Bald gibt es bei uns Geflügel mit einer Panade aus Nachos, Salzbrezeln oder viel- leicht auch wieder klassisch. Guten Appetit.</p>",
+  "descriptionMarkdown": "Knusper, Knusper, Knäuschen ... Hähnchenschnitzel in Cornflakes-Panade und dazu auch noch Fett gespart, weil es im Ofen zubereitet wird und nicht in der Pfanne. Bald gibt es bei uns Geflügel mit einer Panade aus Nachos, Salzbrezeln oder viel- leicht auch wieder klassisch. Guten Appetit.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-04-08T09:48:46+00:00",
+  "updatedAt": "2017-01-04T11:32:09+00:00",
+  "link": "https://hellofresh.com/recipes/5524f97e6ced6e9f468b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/5524f97e6ced6e9f468b4568.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/5524f97e6ced6e9f468b4568.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3338.8320000000003,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 798,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 29,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 65,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 47,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b1db1fd2cb99c598b4574",
+      "type": "hähnchenbrust",
+      "name": "Hähnchenbrust",
+      "slug": "hahnchenbrust",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1db1fd2cb99c598b4574.png",
+      "usage": 81,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6b",
+        "type": "chicken",
+        "name": "Hähnchen",
+        "slug": "hahnchen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6b-8f15f243.png",
+        "usageByCountry": {
+          "AT": 293,
+          "AU": 427,
+          "BE": 305,
+          "CA": 214,
+          "CH": 94,
+          "DE": 262,
+          "ER": 62,
+          "FR": 92,
+          "GB": 486,
+          "LU": 380,
+          "NL": 282,
+          "NZ": 125,
+          "ML": 653,
+          "US": 668
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556da911f8b25e2d738b456b",
+      "type": "cornflakes",
+      "name": "Cornflakes",
+      "slug": "cornflakes",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556da911f8b25e2d738b456b.png",
+      "usage": 4,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb66",
+        "type": "cereal",
+        "name": "Müsli",
+        "slug": "musli",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb66-38cad40e.png",
+        "usageByCountry": {
+          "AT": 32,
+          "AU": 0,
+          "BE": 73,
+          "CA": 6,
+          "CH": 3,
+          "DE": 18,
+          "ER": 1,
+          "FR": 0,
+          "GB": 0,
+          "LU": 73,
+          "NL": 96,
+          "NZ": 0,
+          "ML": 0,
+          "US": 1
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27b5f8b25e42438b4568",
+      "type": "rucola",
+      "name": "Rucola",
+      "slug": "rucola",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27b5f8b25e42438b4568.png",
+      "usage": 266,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555353fa4dab71893e8b456d",
+      "type": "gouda",
+      "name": "Gouda",
+      "slug": "gouda",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555353fa4dab71893e8b456d.png",
+      "usage": 8,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b780e4dab71db0d8b4568",
+      "type": "brühe",
+      "name": "Brühe",
+      "slug": "bruhe",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b780e4dab71db0d8b4568.png",
+      "usage": 31,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305314",
+      "type": "eat-me-first",
+      "name": "Zuerst essen",
+      "slug": "zuerst-essen",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/eat-me-first%403x.png",
+      "numberOfRecipes": 3099,
+      "numberOfRecipesByCountry": {
+        "AT": 61,
+        "AU": 71,
+        "BE": 588,
+        "CA": 62,
+        "CH": 16,
+        "DE": 54,
+        "ER": 0,
+        "FR": 281,
+        "GB": 37,
+        "LU": 1066,
+        "NL": 748,
+        "NZ": 0,
+        "ML": 12,
+        "US": 103
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b1db1fd2cb99c598b4574",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "556da911f8b25e2d738b456b",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "554b27b5f8b25e42438b4568",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 0.5,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555353fa4dab71893e8b456d",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b780e4dab71db0d8b4568",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b1db1fd2cb99c598b4574",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "556da911f8b25e2d738b456b",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 1000,
+          "unit": "g"
+        },
+        {
+          "id": "554b27b5f8b25e42438b4568",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555353fa4dab71893e8b456d",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b780e4dab71db0d8b4568",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Ofen auf 220 °C Ober-/Unterhitze (200 °C Umluft) vorheizen. In einem kleinen Topf 1 EL Butter schmelzen und abkühlen lassen. Kartoffeln waschen, schälen, in 2 cm große Würfel schneiden und in reichlich Salzwasser ca. 8-10 Min. bissfest garen. Abgießen und ausdamp- fen lassen. Hähnchenbrust mit Küchenpapier trocken tupfen, zwischen Frischhaltefolie legen und behutsam mit dem Boden einer Pfanne flacher klopfen. Zwiebel abziehen und grob hacken. Tomaten waschen und grob würfeln. 100 ml Brühe zubereiten. Rucola waschen und abtropfen lassen.",
+      "instructionsHTML": "<p>Ofen auf 220 °C Ober-/Unterhitze (200 °C Umluft) vorheizen. In einem kleinen Topf 1 EL Butter schmelzen und abkühlen lassen. Kartoffeln waschen, schälen, in 2 cm große Würfel schneiden und in reichlich Salzwasser ca. 8-10 Min. bissfest garen. Abgießen und ausdamp- fen lassen. Hähnchenbrust mit Küchenpapier trocken tupfen, zwischen Frischhaltefolie legen und behutsam mit dem Boden einer Pfanne flacher klopfen. Zwiebel abziehen und grob hacken. Tomaten waschen und grob würfeln. 100 ml Brühe zubereiten. Rucola waschen und abtropfen lassen.</p>",
+      "instructions": "Ofen auf 220 °C Ober-/Unterhitze (200 °C Umluft) vorheizen. In einem kleinen Topf 1 EL Butter schmelzen und abkühlen lassen. Kartoffeln waschen, schälen, in 2 cm große Würfel schneiden und in reichlich Salzwasser ca. 8-10 Min. bissfest garen. Abgießen und ausdamp- fen lassen. Hähnchenbrust mit Küchenpapier trocken tupfen, zwischen Frischhaltefolie legen und behutsam mit dem Boden einer Pfanne flacher klopfen. Zwiebel abziehen und grob hacken. Tomaten waschen und grob würfeln. 100 ml Brühe zubereiten. Rucola waschen und abtropfen lassen.",
+      "timers": [
+        {
+          "name": "Kartoffeln kochen",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5524f97e6ced6e9f468b4568/step_556daacf87aad.jpg",
+          "caption": "Rucola waschen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1db1fd2cb99c598b4574",
+        "554b25fcfd2cb973608b4567",
+        "554b27b5f8b25e42438b4568",
+        "554b34554dab71a6058b4576",
+        "554b2621fd2cb99c598b4576",
+        "554b780e4dab71db0d8b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "1 Ei mit 1 EL Wasser und etwas Salz und Pfeffer verquirlen. Cornflakes zerdrücken und mit geschmolzener Butter in einer Schüssel vermischen. Hähnchenbrust durch die Ei-Wasser-Mischung ziehen, dann rundher- um mit den Cornflakes panieren (dabei die Cornflakes gut andrücken). Anschließend auf ein leicht mit Olivenöl gefettetes Backblech geben und ca. 25–30 Min. auf mittlerer Schiene im Ofen garen.",
+      "instructionsHTML": "<p>1 Ei mit 1 EL Wasser und etwas Salz und Pfeffer verquirlen. Cornflakes zerdrücken und mit geschmolzener Butter in einer Schüssel vermischen. Hähnchenbrust durch die Ei-Wasser-Mischung ziehen, dann rundher- um mit den Cornflakes panieren (dabei die Cornflakes gut andrücken). Anschließend auf ein leicht mit Olivenöl gefettetes Backblech geben und ca. 25–30 Min. auf mittlerer Schiene im Ofen garen.</p>",
+      "instructions": "1 Ei mit 1 EL Wasser und etwas Salz und Pfeffer verquirlen. Cornflakes zerdrücken und mit geschmolzener Butter in einer Schüssel vermischen. Hähnchenbrust durch die Ei-Wasser-Mischung ziehen, dann rundher- um mit den Cornflakes panieren (dabei die Cornflakes gut andrücken). Anschließend auf ein leicht mit Olivenöl gefettetes Backblech geben und ca. 25–30 Min. auf mittlerer Schiene im Ofen garen.",
+      "timers": [
+        {
+          "name": "Hähnchenbrust marinieren",
+          "duration": "PT30M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5524f97e6ced6e9f468b4568/step_556daacfa734c.jpg",
+          "caption": "Hähnchenbrust marinieren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1db1fd2cb99c598b4574",
+        "556da911f8b25e2d738b456b",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "1/2 EL Butter in einer großen beschichteten Pfanne erwärmen. Zwiebel darin ca. 3 Min. glasig dünsten. Tomaten zugeben und ca. 5 Min. mitbraten. Mit Salz, Pfeffer und 1 Prise Zucker abschmecken. Brühe und den Großteil des Goudas zugeben, kurz einkochen lassen.",
+      "instructionsHTML": "<p>1/2 EL Butter in einer großen beschichteten Pfanne erwärmen. Zwiebel darin ca. 3 Min. glasig dünsten. Tomaten zugeben und ca. 5 Min. mitbraten. Mit Salz, Pfeffer und 1 Prise Zucker abschmecken. Brühe und den Großteil des Goudas zugeben, kurz einkochen lassen.</p>",
+      "instructions": "1/2 EL Butter in einer großen beschichteten Pfanne erwärmen. Zwiebel darin ca. 3 Min. glasig dünsten. Tomaten zugeben und ca. 5 Min. mitbraten. Mit Salz, Pfeffer und 1 Prise Zucker abschmecken. Brühe und den Großteil des Goudas zugeben, kurz einkochen lassen.",
+      "timers": [
+        {
+          "name": null,
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5524f97e6ced6e9f468b4568/step_556daacfbc14f.jpg",
+          "caption": "Gouda hinzufügen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b34554dab71a6058b4576",
+        "554b2621fd2cb99c598b4576",
+        "555353fa4dab71893e8b456d",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573",
+        "554b780e4dab71db0d8b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Kartoffeln mit Tomatensoße in eine leicht gefettete Auflaufform geben, mit restlichem Gouda bestreuen und kurz beiseitestellen. Rucola mit 1 EL Olivenöl, 1 TL Essig und Salz und Pfeffer abschmecken und bis zum Anrichten ziehen lassen. Hähnchenbrust aus dem Ofen nehmen und in Alufolie gewickelt warm halten. Ofen auf 180 °C Grillfunktion umstel- len. Kartoffel-Auflauf auf dem höchsten Einschub ca. 2–4 Min. überbacken, bis der Käse zerlaufen ist.",
+      "instructionsHTML": "<p>Kartoffeln mit Tomatensoße in eine leicht gefettete Auflaufform geben, mit restlichem Gouda bestreuen und kurz beiseitestellen. Rucola mit 1 EL Olivenöl, 1 TL Essig und Salz und Pfeffer abschmecken und bis zum Anrichten ziehen lassen. Hähnchenbrust aus dem Ofen nehmen und in Alufolie gewickelt warm halten. Ofen auf 180 °C Grillfunktion umstel- len. Kartoffel-Auflauf auf dem höchsten Einschub ca. 2–4 Min. überbacken, bis der Käse zerlaufen ist.</p>",
+      "instructions": "Kartoffeln mit Tomatensoße in eine leicht gefettete Auflaufform geben, mit restlichem Gouda bestreuen und kurz beiseitestellen. Rucola mit 1 EL Olivenöl, 1 TL Essig und Salz und Pfeffer abschmecken und bis zum Anrichten ziehen lassen. Hähnchenbrust aus dem Ofen nehmen und in Alufolie gewickelt warm halten. Ofen auf 180 °C Grillfunktion umstel- len. Kartoffel-Auflauf auf dem höchsten Einschub ca. 2–4 Min. überbacken, bis der Käse zerlaufen ist.",
+      "timers": [
+        {
+          "name": "Kartoffel-Auflauf überbacken",
+          "duration": "PT04M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5524f97e6ced6e9f468b4568/step_556daacfd2904.jpg",
+          "caption": "Kartoffel-Auflauf überbacken"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1db1fd2cb99c598b4574",
+        "554b25fcfd2cb973608b4567",
+        "554b27b5f8b25e42438b4568",
+        "555353fa4dab71893e8b456d",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Hähnchenbrust mit Cornflakes-Panade und Tomaten-Kartoffel-Auflauf auf Tellern verteilen, mit Rucolasalat anrichten und genießen.",
+      "instructionsHTML": "<p>Hähnchenbrust mit Cornflakes-Panade und Tomaten-Kartoffel-Auflauf auf Tellern verteilen, mit Rucolasalat anrichten und genießen.</p>",
+      "instructions": "Hähnchenbrust mit Cornflakes-Panade und Tomaten-Kartoffel-Auflauf auf Tellern verteilen, mit Rucolasalat anrichten und genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b1db1fd2cb99c598b4574",
+        "556da911f8b25e2d738b456b",
+        "554b25fcfd2cb973608b4567",
+        "554b27b5f8b25e42438b4568",
+        "554b34554dab71a6058b4576",
+        "554b2621fd2cb99c598b4576",
+        "555353fa4dab71893e8b456d",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573",
+        "554b780e4dab71db0d8b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.5,
+  "ratingsCount": 1089,
+  "favoritesCount": 625,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/hahnchenbrust-mit-knuspriger-cornflakes-panade-5524f97e6ced6e9f468b4568",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

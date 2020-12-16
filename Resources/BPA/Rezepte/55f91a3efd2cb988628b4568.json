@@ -1,0 +1,1052 @@
+{
+  "country": "DE",
+  "id": "55f91a3efd2cb988628b4568",
+  "name": "Grünes Club-Sandwich mit selbstgemachtem Hummus",
+  "seoName": null,
+  "category": null,
+  "slug": "grunes-club-sandwich-mit-selbstgemachtem-hummus",
+  "headline": "und Karotten-Pommes",
+  "description": "Heute genießt Du das Essen auf britische Art, geschmacklich erinnert es aber nicht an britisches Essen. Das\nGeheimnis eines guten Sandwichs ist der richtige Belag. Und dank Kichererbsen und Avocado bekommst du auch reichlich gesunde Energie geliefert. Lass es Dir schmecken!",
+  "descriptionHTML": "<p>Heute genießt Du das Essen auf britische Art, geschmacklich erinnert es aber nicht an britisches Essen. Das\nGeheimnis eines guten Sandwichs ist der richtige Belag. Und dank Kichererbsen und Avocado bekommst du auch reichlich gesunde Energie geliefert. Lass es Dir schmecken!</p>",
+  "descriptionMarkdown": "Heute genießt Du das Essen auf britische Art, geschmacklich erinnert es aber nicht an britisches Essen. Das\nGeheimnis eines guten Sandwichs ist der richtige Belag. Und dank Kichererbsen und Avocado bekommst du auch reichlich gesunde Energie geliefert. Lass es Dir schmecken!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT35M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-09-16T07:29:02+00:00",
+  "updatedAt": "2017-03-03T23:29:01+00:00",
+  "link": "https://hellofresh.com/recipes/55f91a3efd2cb988628b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/55f91a3efd2cb988628b4568.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/55f91a3efd2cb988628b4568.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3481.088,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 832,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 39,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 79,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 39,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 23,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b23dff8b25ef53e8b456f",
+      "type": "karotten",
+      "name": "Karotte",
+      "slug": "karotten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b23dff8b25ef53e8b456f.png",
+      "usage": 566,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb62",
+        "type": "carrot",
+        "name": "Karotte",
+        "slug": "karotte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb62-c4a1f62d.png",
+        "usageByCountry": {
+          "AT": 679,
+          "AU": 553,
+          "BE": 225,
+          "CA": 127,
+          "CH": 130,
+          "DE": 627,
+          "ER": 27,
+          "FR": 49,
+          "GB": 343,
+          "LU": 220,
+          "NL": 263,
+          "NZ": 175,
+          "ML": 243,
+          "US": 318
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5582cd024dab71bf498b4567",
+      "type": "speisestarke",
+      "name": "Kartoffelstärke",
+      "slug": "speisestarke",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5582cd024dab71bf498b4567.png",
+      "usage": 114,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba0",
+        "type": "flour",
+        "name": "Mehl",
+        "slug": "mehl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba0-03891dce.png",
+        "usageByCountry": {
+          "AT": 391,
+          "AU": 201,
+          "BE": 10,
+          "CA": 106,
+          "CH": 74,
+          "DE": 383,
+          "ER": 19,
+          "FR": 0,
+          "GB": 141,
+          "LU": 5,
+          "NL": 14,
+          "NZ": 74,
+          "ML": 9,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dc6b1fd2cb944758b456a",
+      "type": "kichererbsen",
+      "name": "Kichererbsen",
+      "slug": "kichererbsen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dc6b1fd2cb944758b456a.png",
+      "usage": 88,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6c",
+        "type": "chickpeas",
+        "name": "Kichererbsen",
+        "slug": "kichererbsen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6c-7142aee3.png",
+        "usageByCountry": {
+          "AT": 87,
+          "AU": 73,
+          "BE": 6,
+          "CA": 20,
+          "CH": 22,
+          "DE": 88,
+          "ER": 1,
+          "FR": 2,
+          "GB": 53,
+          "LU": 18,
+          "NL": 37,
+          "NZ": 7,
+          "ML": 6,
+          "US": 81
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b268ffd2cb983608b4568",
+      "type": "knoblauch",
+      "name": "Knoblauch",
+      "slug": "knoblauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b268ffd2cb983608b4568.png",
+      "usage": 479,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1de2f8b25ef93e8b456b",
+      "type": "zitrone",
+      "name": "Zitrone",
+      "slug": "zitrone",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1de2f8b25ef93e8b456b.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d72274dab712c498b4568",
+      "type": "paprikapulver edelsüß",
+      "name": "Paprikapulver edelsüß",
+      "slug": "paprikapulver-edelsusz",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d72274dab712c498b4568.png",
+      "usage": 31,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf8",
+        "type": "paprika-powder",
+        "name": "Paprikapulver",
+        "slug": "paprikapulver",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf8-57ddbd04.png",
+        "usageByCountry": {
+          "AT": 105,
+          "AU": 15,
+          "BE": 162,
+          "CA": 6,
+          "CH": 26,
+          "DE": 105,
+          "ER": 1,
+          "FR": 42,
+          "GB": 35,
+          "LU": 213,
+          "NL": 182,
+          "NZ": 0,
+          "ML": 0,
+          "US": 31
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55534d6dfd2cb92b1a8b456c",
+      "type": "spinat",
+      "name": "Spinat",
+      "slug": "spinat",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55534d6dfd2cb92b1a8b456c.png",
+      "usage": 55,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc34",
+        "type": "spinach",
+        "name": "Spinat",
+        "slug": "spinat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc34-2105763d.png",
+        "usageByCountry": {
+          "AT": 279,
+          "AU": 393,
+          "BE": 203,
+          "CA": 89,
+          "CH": 61,
+          "DE": 266,
+          "ER": 0,
+          "FR": 63,
+          "GB": 243,
+          "LU": 261,
+          "NL": 228,
+          "NZ": 108,
+          "ML": 157,
+          "US": 141
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b73b14dab71160d8b456a",
+      "type": "avocado",
+      "name": "Avocado",
+      "slug": "avocado",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/554b73b14dab71160d8b456a-0d84328a.png",
+      "usage": 181,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb3c",
+        "type": "avocado",
+        "name": "Avocado",
+        "slug": "avocado",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb3c-5ad65fb5.png",
+        "usageByCountry": {
+          "AT": 193,
+          "AU": 80,
+          "BE": 73,
+          "CA": 51,
+          "CH": 45,
+          "DE": 181,
+          "ER": 0,
+          "FR": 6,
+          "GB": 58,
+          "LU": 92,
+          "NL": 81,
+          "NZ": 21,
+          "ML": 14,
+          "US": 152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555353ca4dab719f3e8b456c",
+      "type": "vollkorntoast",
+      "name": "Vollkorntoast",
+      "slug": "vollkorntoast",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555353ca4dab719f3e8b456c.png",
+      "usage": 11,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb54",
+        "type": "bread",
+        "name": "Brot",
+        "slug": "brot",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb54-1e82dfa9.png",
+        "usageByCountry": {
+          "AT": 713,
+          "AU": 371,
+          "BE": 426,
+          "CA": 175,
+          "CH": 131,
+          "DE": 651,
+          "ER": 50,
+          "FR": 118,
+          "GB": 330,
+          "LU": 588,
+          "NL": 514,
+          "NZ": 111,
+          "ML": 181,
+          "US": 755
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7fb3fd2cb9d8608b4571",
+      "type": "sahne-joghurt",
+      "name": "Sahne-Joghurt",
+      "slug": "sahne-joghurt",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7fb3fd2cb9d8608b4571.png",
+      "usage": 18,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc57",
+        "type": "yoghurt",
+        "name": "Jo­ghurt",
+        "slug": "joghurt",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc57-825533d1.png",
+        "usageByCountry": {
+          "AT": 464,
+          "AU": 272,
+          "BE": 368,
+          "CA": 43,
+          "CH": 101,
+          "DE": 434,
+          "ER": 0,
+          "FR": 31,
+          "GB": 207,
+          "LU": 341,
+          "NL": 408,
+          "NZ": 78,
+          "ML": 8,
+          "US": 48
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Pürierstab"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a4",
+      "type": "american",
+      "name": "Amerikanisch",
+      "slug": "amerikanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a4-aafc03e6.jpg",
+      "usage": 3895
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 6,
+          "unit": "Stück"
+        },
+        {
+          "id": "5582cd024dab71bf498b4567",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "555dc6b1fd2cb944758b456a",
+          "amount": 1,
+          "unit": "Dose"
+        },
+        {
+          "id": "554b268ffd2cb983608b4568",
+          "amount": 0.125,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1de2f8b25ef93e8b456b",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "556d72274dab712c498b4568",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "55534d6dfd2cb92b1a8b456c",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b73b14dab71160d8b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "555353ca4dab719f3e8b456c",
+          "amount": 6,
+          "unit": "Stück"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b7fb3fd2cb9d8608b4571",
+          "amount": 100,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Backofen auf 200° C Ober-/Unterhitze vorheizen. Karotten schälen und in feine, ca. 1 cm breite Stäbchen (Pommes) schneiden.",
+      "instructionsHTML": "<p>Backofen auf 200° C Ober-/Unterhitze vorheizen. Karotten schälen und in feine, ca. 1 cm breite Stäbchen (Pommes) schneiden.</p>",
+      "instructions": "Backofen auf 200° C Ober-/Unterhitze vorheizen. Karotten schälen und in feine, ca. 1 cm breite Stäbchen (Pommes) schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55f91a3efd2cb988628b4568/step_55f968924fc91.jpg",
+          "caption": "Karotten schälen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b23dff8b25ef53e8b456f"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "In einer kleinen Schüssel Speisestärke mit ein wenig Pfeffer vermengen. Karotten-Pommes darin wenden, dann in ein wenig Öl wenden. Gleichmäßig auf einem mit Backpapier belegten tiefen Backblech verteilen\nund auf der mittleren Schiene 25–30 Min. knusprig braun backen (in dieser Zeit zweimal wenden).",
+      "instructionsHTML": "<p>In einer kleinen Schüssel Speisestärke mit ein wenig Pfeffer vermengen. Karotten-Pommes darin wenden, dann in ein wenig Öl wenden. Gleichmäßig auf einem mit Backpapier belegten tiefen Backblech verteilen\nund auf der mittleren Schiene 25–30 Min. knusprig braun backen (in dieser Zeit zweimal wenden).</p>",
+      "instructions": "In einer kleinen Schüssel Speisestärke mit ein wenig Pfeffer vermengen. Karotten-Pommes darin wenden, dann in ein wenig Öl wenden. Gleichmäßig auf einem mit Backpapier belegten tiefen Backblech verteilen\nund auf der mittleren Schiene 25–30 Min. knusprig braun backen (in dieser Zeit zweimal wenden).",
+      "timers": [
+        {
+          "name": null,
+          "duration": "PT25M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55f91a3efd2cb988628b4568/step_55f968926ad32.jpg",
+          "caption": "Speisestärke mit Karotten vermengen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5582cd024dab71bf498b4567",
+        "55b0a135fd2cb9121e8b4567",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305377",
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Für den Hummus: Kichererbsen durch ein Sieb abgießen und mit kaltem Wasser abspülen. Knoblauch abziehen und grob hacken. Zitrone entsaften. In einem hohen Rührgefäß Kichererbsen mit Knoblauch, 5 EL Wasser, 2 EL Olivenöl, ein wenig Zitronensaft, edelsüßem Paprika, etwas Salz und Pfeffer mit einem Pürierstab zu einer gleichmäßigen, cremigen Masse verarbeiten. Danach bis zum Anrichten ziehen lassen.",
+      "instructionsHTML": "<p>Für den Hummus: Kichererbsen durch ein Sieb abgießen und mit kaltem Wasser abspülen. Knoblauch abziehen und grob hacken. Zitrone entsaften. In einem hohen Rührgefäß Kichererbsen mit Knoblauch, 5 EL Wasser, 2 EL Olivenöl, ein wenig Zitronensaft, edelsüßem Paprika, etwas Salz und Pfeffer mit einem Pürierstab zu einer gleichmäßigen, cremigen Masse verarbeiten. Danach bis zum Anrichten ziehen lassen.</p>",
+      "instructions": "Für den Hummus: Kichererbsen durch ein Sieb abgießen und mit kaltem Wasser abspülen. Knoblauch abziehen und grob hacken. Zitrone entsaften. In einem hohen Rührgefäß Kichererbsen mit Knoblauch, 5 EL Wasser, 2 EL Olivenöl, ein wenig Zitronensaft, edelsüßem Paprika, etwas Salz und Pfeffer mit einem Pürierstab zu einer gleichmäßigen, cremigen Masse verarbeiten. Danach bis zum Anrichten ziehen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55f91a3efd2cb988628b4568/step_55f968927ac9b.jpg",
+          "caption": "Humus zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555dc6b1fd2cb944758b456a",
+        "554b268ffd2cb983608b4568",
+        "554b1de2f8b25ef93e8b456b",
+        "556d72274dab712c498b4568",
+        "55b0a135fd2cb9121e8b4567",
+        "554b22cb4dab71c8058b4570",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b3053a0",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Spinat waschen und in einem Sieb abtropfen lassen. Tomaten waschen und in dünne Scheiben schneiden. Schale und Kern der Avocado entfernen, Fruchtfleisch in feine Scheiben schneiden.Toastbrot im Toaster oder Backofen (auf Grillfunktion) rösten. Tomaten und Avocado in einer Schüssel mit Salz und Pfeffer würzen.",
+      "instructionsHTML": "<p>Spinat waschen und in einem Sieb abtropfen lassen. Tomaten waschen und in dünne Scheiben schneiden. Schale und Kern der Avocado entfernen, Fruchtfleisch in feine Scheiben schneiden.Toastbrot im Toaster oder Backofen (auf Grillfunktion) rösten. Tomaten und Avocado in einer Schüssel mit Salz und Pfeffer würzen.</p>",
+      "instructions": "Spinat waschen und in einem Sieb abtropfen lassen. Tomaten waschen und in dünne Scheiben schneiden. Schale und Kern der Avocado entfernen, Fruchtfleisch in feine Scheiben schneiden.Toastbrot im Toaster oder Backofen (auf Grillfunktion) rösten. Tomaten und Avocado in einer Schüssel mit Salz und Pfeffer würzen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "55534d6dfd2cb92b1a8b456c",
+        "554b2621fd2cb99c598b4576",
+        "554b73b14dab71160d8b456a",
+        "555353ca4dab719f3e8b456c",
+        "55b0a135fd2cb9121e8b4567",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Alle Toastbrotscheiben auf einer Seite mit Humus bestreichen. Zwei der Scheiben mit je ¼ der Avocado-, Tomaten- und Spinatmenge belegen. Dann je eine zweite Toastscheibe (Humus-Seite nach unten) darauf legen. Vorgang mit den restlichen Zutaten wiederholen und mit einem Stück Toast abschließen, so dass drei Schichten entstehen. Dann die Sandwiches einmal quer in der Mitte durchschneiden.",
+      "instructionsHTML": "<p>Alle Toastbrotscheiben auf einer Seite mit Humus bestreichen. Zwei der Scheiben mit je ¼ der Avocado-, Tomaten- und Spinatmenge belegen. Dann je eine zweite Toastscheibe (Humus-Seite nach unten) darauf legen. Vorgang mit den restlichen Zutaten wiederholen und mit einem Stück Toast abschließen, so dass drei Schichten entstehen. Dann die Sandwiches einmal quer in der Mitte durchschneiden.</p>",
+      "instructions": "Alle Toastbrotscheiben auf einer Seite mit Humus bestreichen. Zwei der Scheiben mit je ¼ der Avocado-, Tomaten- und Spinatmenge belegen. Dann je eine zweite Toastscheibe (Humus-Seite nach unten) darauf legen. Vorgang mit den restlichen Zutaten wiederholen und mit einem Stück Toast abschließen, so dass drei Schichten entstehen. Dann die Sandwiches einmal quer in der Mitte durchschneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/55f91a3efd2cb988628b4568/step_55f968928d4b5.jpg",
+          "caption": "Toastbrot mit Humus bestreichen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b30537b"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Sahne-Joghurt mit ein wenig Salz und Pfeffer verrühren.",
+      "instructionsHTML": "<p>Sahne-Joghurt mit ein wenig Salz und Pfeffer verrühren.</p>",
+      "instructions": "Sahne-Joghurt mit ein wenig Salz und Pfeffer verrühren.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "55b0a135fd2cb9121e8b4567",
+        "554b1c284dab71a9058b456b",
+        "554b7fb3fd2cb9d8608b4571"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Club-Sandwiches mit Karotten-Pommes auf Tellern verteilen, ein wenig Joghurt-Soße dazu geben und genießen!",
+      "instructionsHTML": "<p>Club-Sandwiches mit Karotten-Pommes auf Tellern verteilen, ein wenig Joghurt-Soße dazu geben und genießen!</p>",
+      "instructions": "Club-Sandwiches mit Karotten-Pommes auf Tellern verteilen, ein wenig Joghurt-Soße dazu geben und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3.1,
+  "ratingsCount": 407,
+  "favoritesCount": 564,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/grunes-club-sandwich-mit-selbstgemachtem-hummus-55f91a3efd2cb988628b4568",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

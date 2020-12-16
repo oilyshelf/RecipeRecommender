@@ -1,0 +1,1069 @@
+{
+  "country": "DE",
+  "id": "556eea074dab71fd558b4568",
+  "name": "Knackiger, asiatischer Mango-Salat",
+  "seoName": null,
+  "category": null,
+  "slug": "knackiger-asiatischer-mango-salat",
+  "headline": "mit selbstgemachten Reiskräckern",
+  "description": "Auch aus Reis kann man allerlei zaubern, zum Beispiel Reiskräcker. Diese passen natürlich besonders gut zu asiatischen Gerichten, wie unserem Mangosalat mit schwarzem Sesam. Jetzt noch den passenden Film dazu, wie der Duft der grünen Papaya, und der Genuss ist perfekt. Guten Appetit!",
+  "descriptionHTML": "<p>Auch aus Reis kann man allerlei zaubern, zum Beispiel Reiskräcker. Diese passen natürlich besonders gut zu asiatischen Gerichten, wie unserem Mangosalat mit schwarzem Sesam. Jetzt noch den passenden Film dazu, wie der Duft der grünen Papaya, und der Genuss ist perfekt. Guten Appetit!</p>",
+  "descriptionMarkdown": "Auch aus Reis kann man allerlei zaubern, zum Beispiel Reiskräcker. Diese passen natürlich besonders gut zu asiatischen Gerichten, wie unserem Mangosalat mit schwarzem Sesam. Jetzt noch den passenden Film dazu, wie der Duft der grünen Papaya, und der Genuss ist perfekt. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 3,
+  "prepTime": "PT25M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-06-03T11:50:30+00:00",
+  "updatedAt": "2017-03-03T23:36:24+00:00",
+  "link": "https://hellofresh.com/recipes/556eea074dab71fd558b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/556eea074dab71fd558b4568.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/556eea074dab71fd558b4568.pdf",
+  "videoLink": "https://www.youtube.com/watch?v=xVv27oW3aJM",
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2213.3360000000002,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 529,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 26,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 52,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 13,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 15,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b3534f8b25ef53e8b4575",
+      "type": "basmatireis",
+      "name": "Basmatireis",
+      "slug": "basmatireis",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3534f8b25ef53e8b4575.png",
+      "usage": 194,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1c",
+        "type": "rice",
+        "name": "Reis",
+        "slug": "reis",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1c-0b4adebd.png",
+        "usageByCountry": {
+          "AT": 540,
+          "AU": 405,
+          "BE": 265,
+          "CA": 169,
+          "CH": 114,
+          "DE": 505,
+          "ER": 39,
+          "FR": 79,
+          "GB": 480,
+          "LU": 361,
+          "NL": 319,
+          "NZ": 107,
+          "ML": 328,
+          "US": 527
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1adef8b25ef93e8b456a",
+      "type": "rote-chili",
+      "name": "roter Chili",
+      "slug": "rote-chili",
+      "description": null,
+      "internalName": "roter Chili",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1adef8b25ef93e8b456a.png",
+      "usage": 325,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6d",
+        "type": "chili",
+        "name": "Chili",
+        "slug": "chili",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6d-270fd94b.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 223,
+          "BE": 0,
+          "CA": 48,
+          "CH": 61,
+          "DE": 326,
+          "ER": 0,
+          "FR": 0,
+          "GB": 75,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 55,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c2c89f8b25e9c658b4568",
+      "type": "gurke",
+      "name": "Gurke",
+      "slug": "gurke",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c2c89f8b25e9c658b4568.png",
+      "usage": 277,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb88",
+        "type": "cucumber",
+        "name": "Gurke",
+        "slug": "gurke",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb88-49b790ca.png",
+        "usageByCountry": {
+          "AT": 293,
+          "AU": 269,
+          "BE": 125,
+          "CA": 53,
+          "CH": 67,
+          "DE": 282,
+          "ER": 13,
+          "FR": 41,
+          "GB": 100,
+          "LU": 160,
+          "NL": 137,
+          "NZ": 128,
+          "ML": 1,
+          "US": 124
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c4c88fd2cb9f9488b4567",
+      "type": "mango",
+      "name": "Mango",
+      "slug": "mango",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c4c88fd2cb9f9488b4567.png",
+      "usage": 40,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbce",
+        "type": "mango",
+        "name": "Mango",
+        "slug": "mango",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbce-5d255655.png",
+        "usageByCountry": {
+          "AT": 45,
+          "AU": 5,
+          "BE": 36,
+          "CA": 6,
+          "CH": 9,
+          "DE": 40,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 26,
+          "NL": 53,
+          "NZ": 0,
+          "ML": 0,
+          "US": 11
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b23dff8b25ef53e8b456f",
+      "type": "karotten",
+      "name": "Karotte",
+      "slug": "karotten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b23dff8b25ef53e8b456f.png",
+      "usage": 566,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb62",
+        "type": "carrot",
+        "name": "Karotte",
+        "slug": "karotte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb62-c4a1f62d.png",
+        "usageByCountry": {
+          "AT": 679,
+          "AU": 553,
+          "BE": 225,
+          "CA": 127,
+          "CH": 130,
+          "DE": 627,
+          "ER": 27,
+          "FR": 49,
+          "GB": 343,
+          "LU": 220,
+          "NL": 263,
+          "NZ": 175,
+          "ML": 243,
+          "US": 318
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b383efd2cb983608b456b",
+      "type": "minze",
+      "name": "Minze",
+      "slug": "minze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b383efd2cb983608b456b.png",
+      "usage": 143,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbdb",
+        "type": "mint",
+        "name": "Minze",
+        "slug": "minze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbdb-560eacae.png",
+        "usageByCountry": {
+          "AT": 146,
+          "AU": 164,
+          "BE": 116,
+          "CA": 37,
+          "CH": 33,
+          "DE": 144,
+          "ER": 0,
+          "FR": 39,
+          "GB": 172,
+          "LU": 133,
+          "NL": 137,
+          "NZ": 35,
+          "ML": 0,
+          "US": 90
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555357a3f8b25e89038b456a",
+      "type": "limette",
+      "name": "Limette",
+      "slug": "limette",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555357a3f8b25e89038b456a.png",
+      "usage": 350,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc8",
+        "type": "lime",
+        "name": "Limette",
+        "slug": "limette",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc8-7cbce945.png",
+        "usageByCountry": {
+          "AT": 383,
+          "AU": 227,
+          "BE": 132,
+          "CA": 137,
+          "CH": 82,
+          "DE": 351,
+          "ER": 61,
+          "FR": 68,
+          "GB": 407,
+          "LU": 224,
+          "NL": 155,
+          "NZ": 63,
+          "ML": 87,
+          "US": 604
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7cfcfd2cb911618b4569",
+      "type": "sesam",
+      "name": "Sesam",
+      "slug": "sesam",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7cfcfd2cb911618b4569.png",
+      "usage": 129,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fe",
+          "type": "sesame",
+          "name": "Sesam",
+          "slug": "sesam",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+          "usage": 175
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc2c",
+        "type": "sesame-seeds",
+        "name": "Sesamsamen",
+        "slug": "sesamsamen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc2c-936d8226.png",
+        "usageByCountry": {
+          "AT": 151,
+          "AU": 141,
+          "BE": 43,
+          "CA": 35,
+          "CH": 29,
+          "DE": 131,
+          "ER": 0,
+          "FR": 20,
+          "GB": 51,
+          "LU": 74,
+          "NL": 55,
+          "NZ": 60,
+          "ML": 18,
+          "US": 124
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556edad9f8b25ed4068b4567",
+      "type": "erdnusse",
+      "name": "Erdnüsse",
+      "slug": "erdnusse",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556edad9f8b25ed4068b4567.png",
+      "usage": 61,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f8",
+          "type": "peanuts",
+          "name": "Erdnüsse",
+          "slug": "erdnusse",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+          "usage": 120
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe6",
+        "type": "nuts",
+        "name": "Nüsse",
+        "slug": "nusse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe6-fd79cfee.png",
+        "usageByCountry": {
+          "AT": 714,
+          "AU": 400,
+          "BE": 675,
+          "CA": 114,
+          "CH": 136,
+          "DE": 690,
+          "ER": 1,
+          "FR": 132,
+          "GB": 356,
+          "LU": 684,
+          "NL": 770,
+          "NZ": 120,
+          "ML": 72,
+          "US": 349
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7d36fd2cb9d8608b4570",
+      "type": "sojasoße",
+      "name": "Sojasoße",
+      "slug": "sojasosze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/554b7d36fd2cb9d8608b4570-f4ba216b.png",
+      "usage": 287,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f9",
+          "type": "soya",
+          "name": "Soja",
+          "slug": "soja",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+          "usage": 390
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc30",
+        "type": "soy-sauce",
+        "name": "Sojasauce",
+        "slug": "sojasauce",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc30-32ed361d.png",
+        "usageByCountry": {
+          "AT": 343,
+          "AU": 281,
+          "BE": 313,
+          "CA": 104,
+          "CH": 80,
+          "DE": 287,
+          "ER": 30,
+          "FR": 79,
+          "GB": 283,
+          "LU": 353,
+          "NL": 307,
+          "NZ": 116,
+          "ML": 6,
+          "US": 323
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "type": "sesame",
+      "name": "Sesam",
+      "slug": "sesam",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "usage": 175
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f8",
+      "type": "peanuts",
+      "name": "Erdnüsse",
+      "slug": "erdnusse",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f8-b2ad43cd.png",
+      "usage": 120
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "type": "soya",
+      "name": "Soja",
+      "slug": "soja",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "usage": 390
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30536e",
+      "type": "grater",
+      "name": "Reibe"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305311",
+      "type": "vegan",
+      "name": "Vegan",
+      "slug": "vegan",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200https://s3-eu-west-1.amazonaws.com/hf-recipes/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 229,
+      "numberOfRecipesByCountry": {
+        "AT": 61,
+        "AU": 16,
+        "BE": 1,
+        "CA": 1,
+        "CH": 6,
+        "DE": 59,
+        "ER": 0,
+        "FR": 0,
+        "GB": 40,
+        "LU": 0,
+        "NL": 0,
+        "NZ": 0,
+        "ML": 0,
+        "US": 45
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiatisch",
+      "slug": "asiatisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg",
+      "usage": 2484
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b3534f8b25ef53e8b4575",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "554b1adef8b25ef93e8b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556c2c89f8b25e9c658b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556c4c88fd2cb9f9488b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b383efd2cb983608b456b",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "555357a3f8b25e89038b456a",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7cfcfd2cb911618b4569",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "556edad9f8b25ed4068b4567",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "554b7d36fd2cb9d8608b4570",
+          "amount": 20,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b3534f8b25ef53e8b4575",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b1adef8b25ef93e8b456a",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "556c2c89f8b25e9c658b4568",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "556c4c88fd2cb9f9488b4567",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b383efd2cb983608b456b",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "555357a3f8b25e89038b456a",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7cfcfd2cb911618b4569",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "556edad9f8b25ed4068b4567",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b7d36fd2cb9d8608b4570",
+          "amount": 40,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Reis in einem kleinen Topf in 150 ml Salzwasser in ca. 10 Min. gar kochen. Dann Topf vom Herd nehmen und zugedeckt 10 Min. ziehen lassen.",
+      "instructionsHTML": "<p>Reis in einem kleinen Topf in 150 ml Salzwasser in ca. 10 Min. gar kochen. Dann Topf vom Herd nehmen und zugedeckt 10 Min. ziehen lassen.</p>",
+      "instructions": "Reis in einem kleinen Topf in 150 ml Salzwasser in ca. 10 Min. gar kochen. Dann Topf vom Herd nehmen und zugedeckt 10 Min. ziehen lassen.",
+      "timers": [
+        {
+          "name": "Reis kochen",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        },
+        {
+          "name": "Reis ziehen lassne",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [
+        {
+          "link": "https://www.youtube.com/watch?v=xVv27oW3aJM",
+          "caption": "HelloFresh Testimonials video."
+        }
+      ],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Chili waschen, erst in feine Ringe schneiden, dann fein hacken. Gurke waschen, Mango und Karotten schälen. Dann Gurke, Mango und Karotten in dünne Stifte hobeln. Minze waschen, Blätter abzupfen und in feine Streifen schneiden. Von der Limette die Schale fein abreiben und die Limette entsaften.",
+      "instructionsHTML": "<p>Chili waschen, erst in feine Ringe schneiden, dann fein hacken. Gurke waschen, Mango und Karotten schälen. Dann Gurke, Mango und Karotten in dünne Stifte hobeln. Minze waschen, Blätter abzupfen und in feine Streifen schneiden. Von der Limette die Schale fein abreiben und die Limette entsaften.</p>",
+      "instructions": "Chili waschen, erst in feine Ringe schneiden, dann fein hacken. Gurke waschen, Mango und Karotten schälen. Dann Gurke, Mango und Karotten in dünne Stifte hobeln. Minze waschen, Blätter abzupfen und in feine Streifen schneiden. Von der Limette die Schale fein abreiben und die Limette entsaften.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/556eea074dab71fd558b4568/step_557f2efda664a.jpg",
+          "caption": "Gemüse vorbereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1adef8b25ef93e8b456a",
+        "556c2c89f8b25e9c658b4568",
+        "556c4c88fd2cb9f9488b4567",
+        "554b23dff8b25ef53e8b456f",
+        "554b383efd2cb983608b456b",
+        "555357a3f8b25e89038b456a"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536e"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Backofen auf 160 °C Umluft vorheizen.",
+      "instructionsHTML": "<p>Backofen auf 160 °C Umluft vorheizen.</p>",
+      "instructions": "Backofen auf 160 °C Umluft vorheizen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Sesam-Erdnuss-Mischung in einer Pfanne ohne Fettzugabe anbraten, bis es duften, vom Herd nehmen.",
+      "instructionsHTML": "<p>Sesam-Erdnuss-Mischung in einer Pfanne ohne Fettzugabe anbraten, bis es duften, vom Herd nehmen.</p>",
+      "instructions": "Sesam-Erdnuss-Mischung in einer Pfanne ohne Fettzugabe anbraten, bis es duften, vom Herd nehmen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b7cfcfd2cb911618b4569",
+        "556edad9f8b25ed4068b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Für die Reiskräcker: Reis nach der Garzeit mit der Hälfte der schwarzen Sesams vermischen und mit einem Löffel auf einem mit Backpapier belegten Backblech verteilen. Ein zweites Backpapier darauf legen und den Reis mit einem Nudelholz so dünn drücken, bis dieser fast durchsichtig ist. Das obere Backpapier abnehmen und den Kräcker für ca. 10–12 Min. in den vorgeheizten Ofen schieben.",
+      "instructionsHTML": "<p>Für die Reiskräcker: Reis nach der Garzeit mit der Hälfte der schwarzen Sesams vermischen und mit einem Löffel auf einem mit Backpapier belegten Backblech verteilen. Ein zweites Backpapier darauf legen und den Reis mit einem Nudelholz so dünn drücken, bis dieser fast durchsichtig ist. Das obere Backpapier abnehmen und den Kräcker für ca. 10–12 Min. in den vorgeheizten Ofen schieben.</p>",
+      "instructions": "Für die Reiskräcker: Reis nach der Garzeit mit der Hälfte der schwarzen Sesams vermischen und mit einem Löffel auf einem mit Backpapier belegten Backblech verteilen. Ein zweites Backpapier darauf legen und den Reis mit einem Nudelholz so dünn drücken, bis dieser fast durchsichtig ist. Das obere Backpapier abnehmen und den Kräcker für ca. 10–12 Min. in den vorgeheizten Ofen schieben.",
+      "timers": [
+        {
+          "name": "Kräcker im Ofen zubereiten",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/556eea074dab71fd558b4568/step_557f2efdc958e.jpg",
+          "caption": "Reis auf Backpapier"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/556eea074dab71fd558b4568/step_557f2efdd959b.jpg",
+          "caption": "Reis plattdrücken"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/556eea074dab71fd558b4568/step_557f2efded4a8.jpg",
+          "caption": "Geformter Kräcker"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b3534f8b25ef53e8b4575",
+        "554b7cfcfd2cb911618b4569"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Für das Dressing: Limettensaft, etwas Limettenabrieb, Sojasoße, Chili, Minze und ½ TL Zucker vermischen. Gurken-, Karotten- und Mangostifte mit dem Dressing in einer Schüssel gut verrühren.",
+      "instructionsHTML": "<p>Für das Dressing: Limettensaft, etwas Limettenabrieb, Sojasoße, Chili, Minze und ½ TL Zucker vermischen. Gurken-, Karotten- und Mangostifte mit dem Dressing in einer Schüssel gut verrühren.</p>",
+      "instructions": "Für das Dressing: Limettensaft, etwas Limettenabrieb, Sojasoße, Chili, Minze und ½ TL Zucker vermischen. Gurken-, Karotten- und Mangostifte mit dem Dressing in einer Schüssel gut verrühren.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b1adef8b25ef93e8b456a",
+        "556c2c89f8b25e9c658b4568",
+        "556c4c88fd2cb9f9488b4567",
+        "554b23dff8b25ef53e8b456f",
+        "554b383efd2cb983608b456b",
+        "555357a3f8b25e89038b456a",
+        "554b7d36fd2cb9d8608b4570",
+        "554b2319fd2cb9ba598b456d"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Reiskräcker aus dem Ofen nehmen und vorsichtig in 4–6 kleinere Stücke zerbrechen.",
+      "instructionsHTML": "<p>Reiskräcker aus dem Ofen nehmen und vorsichtig in 4–6 kleinere Stücke zerbrechen.</p>",
+      "instructions": "Reiskräcker aus dem Ofen nehmen und vorsichtig in 4–6 kleinere Stücke zerbrechen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 8,
+      "instructionsMarkdown": "Mango-Salat mit restlichem schwarzem Sesam und Sesam-Erdnuss- Mischung mischen, auf Tellern verteilen und mit den Reiskräckern genießen!",
+      "instructionsHTML": "<p>Mango-Salat mit restlichem schwarzem Sesam und Sesam-Erdnuss- Mischung mischen, auf Tellern verteilen und mit den Reiskräckern genießen!</p>",
+      "instructions": "Mango-Salat mit restlichem schwarzem Sesam und Sesam-Erdnuss- Mischung mischen, auf Tellern verteilen und mit den Reiskräckern genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 2.6,
+  "ratingsCount": 74,
+  "favoritesCount": 304,
+  "active": true,
+  "highlighted": true,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/knackiger-asiatischer-mango-salat-556eea074dab71fd558b4568",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

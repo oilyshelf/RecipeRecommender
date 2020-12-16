@@ -1,0 +1,1153 @@
+{
+  "country": "DE",
+  "id": "578e02b9f31cf1b86b8b4568",
+  "name": "Vegetarischer Shepherd Pie",
+  "seoName": null,
+  "category": null,
+  "slug": "vegetarischer-shepherd-pie",
+  "headline": "mit Kartoffelstampf und Röstzwiebeln",
+  "description": "Dieser leckere Gemüse-Auflauf ist die perfekte Mischung aus würzig-aromatisch und lecker-herzha\u001fft . Die Besonderheit dieses Auflaufs ist der würzige Kartoffelstampf, der diesem Gericht eine ganz besondere Geschmackskomponente verleiht! Lass es Dir schmecken.",
+  "descriptionHTML": "<p>Dieser leckere Gemüse-Auflauf ist die perfekte Mischung aus würzig-aromatisch und lecker-herzha\u001fft . Die Besonderheit dieses Auflaufs ist der würzige Kartoffelstampf, der diesem Gericht eine ganz besondere Geschmackskomponente verleiht! Lass es Dir schmecken.</p>",
+  "descriptionMarkdown": "Dieser leckere Gemüse-Auflauf ist die perfekte Mischung aus würzig-aromatisch und lecker-herzha\u001fft . Die Besonderheit dieses Auflaufs ist der würzige Kartoffelstampf, der diesem Gericht eine ganz besondere Geschmackskomponente verleiht! Lass es Dir schmecken.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT40M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-07-19T10:36:41+00:00",
+  "updatedAt": "2017-03-09T17:32:35+00:00",
+  "link": "https://hellofresh.com/recipes/578e02b9f31cf1b86b8b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/vegetarischer-shepherd-pie-6850d8f9.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/vegetarischer-shepherd-pie-5f008d06.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2836.752,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 678,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 27,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 89,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 17,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7b9efd2cb9d0608b456f",
+      "type": "brokkoli",
+      "name": "Brokkoli",
+      "slug": "brokkoli",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7b9efd2cb9d0608b456f.png",
+      "usage": 107,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb56",
+        "type": "broccoli",
+        "name": "Brokkoli",
+        "slug": "brokkoli",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb56-a0e5977e.png",
+        "usageByCountry": {
+          "AT": 149,
+          "AU": 177,
+          "BE": 137,
+          "CA": 77,
+          "CH": 35,
+          "DE": 150,
+          "ER": 18,
+          "FR": 47,
+          "GB": 224,
+          "LU": 219,
+          "NL": 178,
+          "NZ": 44,
+          "ML": 176,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b23dff8b25ef53e8b456f",
+      "type": "karotten",
+      "name": "Karotte",
+      "slug": "karotten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b23dff8b25ef53e8b456f.png",
+      "usage": 566,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb62",
+        "type": "carrot",
+        "name": "Karotte",
+        "slug": "karotte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb62-c4a1f62d.png",
+        "usageByCountry": {
+          "AT": 679,
+          "AU": 553,
+          "BE": 225,
+          "CA": 127,
+          "CH": 130,
+          "DE": 627,
+          "ER": 27,
+          "FR": 49,
+          "GB": 343,
+          "LU": 220,
+          "NL": 263,
+          "NZ": 175,
+          "ML": 243,
+          "US": 318
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dc1a9fd2cb944758b4569",
+      "type": "mehl-home",
+      "name": "Mehl*",
+      "slug": "mehl",
+      "description": null,
+      "internalName": "Mehl home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dc1a9fd2cb944758b4569.png",
+      "usage": 156,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba0",
+        "type": "flour",
+        "name": "Mehl",
+        "slug": "mehl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba0-03891dce.png",
+        "usageByCountry": {
+          "AT": 391,
+          "AU": 201,
+          "BE": 10,
+          "CA": 106,
+          "CH": 74,
+          "DE": 383,
+          "ER": 19,
+          "FR": 0,
+          "GB": 141,
+          "LU": 5,
+          "NL": 14,
+          "NZ": 74,
+          "ML": 9,
+          "US": 205
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dc6b1fd2cb944758b456a",
+      "type": "kichererbsen",
+      "name": "Kichererbsen",
+      "slug": "kichererbsen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dc6b1fd2cb944758b456a.png",
+      "usage": 88,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6c",
+        "type": "chickpeas",
+        "name": "Kichererbsen",
+        "slug": "kichererbsen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6c-7142aee3.png",
+        "usageByCountry": {
+          "AT": 87,
+          "AU": 73,
+          "BE": 6,
+          "CA": 20,
+          "CH": 22,
+          "DE": 88,
+          "ER": 1,
+          "FR": 2,
+          "GB": 53,
+          "LU": 18,
+          "NL": 37,
+          "NZ": 7,
+          "ML": 6,
+          "US": 81
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b343a4dab71aa058b4572",
+      "type": "gelbe paprika",
+      "name": "gelbe Paprika",
+      "slug": "gelbe-paprika",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b343a4dab71aa058b4572.png",
+      "usage": 284,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf7",
+        "type": "paprika",
+        "name": "Paprika",
+        "slug": "paprika",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf7-e6b2d1a6.png",
+        "usageByCountry": {
+          "AT": 581,
+          "AU": 50,
+          "BE": 613,
+          "CA": 64,
+          "CH": 21,
+          "DE": 536,
+          "ER": 7,
+          "FR": 166,
+          "GB": 539,
+          "LU": 769,
+          "NL": 388,
+          "NZ": 6,
+          "ML": 38,
+          "US": 79
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27e6fd2cb983608b4569",
+      "type": "fruhlingszwiebeln",
+      "name": "Frühlingszwiebel",
+      "slug": "fruhlingszwiebeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27e6fd2cb983608b4569.png",
+      "usage": 514,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc35",
+        "type": "spring-onion",
+        "name": "Frühlingszwiebel",
+        "slug": "fruhlingszwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc35-03c06826.png",
+        "usageByCountry": {
+          "AT": 575,
+          "AU": 0,
+          "BE": 15,
+          "CA": 0,
+          "CH": 113,
+          "DE": 514,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 421,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55ad12de4dab71066f8b4567",
+      "type": "maggikraut",
+      "name": "Maggikraut",
+      "slug": "maggikraut",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55ad12de4dab71066f8b4567.png",
+      "usage": 5,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbcc",
+        "type": "lovage",
+        "name": "Lovage",
+        "slug": "lovage",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbcc-2edd58dc.png",
+        "usageByCountry": {
+          "AT": 6,
+          "AU": 0,
+          "BE": 0,
+          "CA": 0,
+          "CH": 0,
+          "DE": 6,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "56026d50f8b25e406f8b4567",
+      "type": "gewürzmischung, cafè de paris",
+      "name": "Gewürzmischung \"Cafè de Paris\"",
+      "slug": "gewurzmischung-cafe-de-paris",
+      "description": null,
+      "internalName": "Gewürzmischung, Cafè de Paris",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/56026d50f8b25e406f8b4567-7caf0965.png",
+      "usage": 4,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc32",
+        "type": "spice-mix",
+        "name": "Gewürzmischung",
+        "slug": "gewurzmischung",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc32-7154509f.png",
+        "usageByCountry": {
+          "AT": 594,
+          "AU": 114,
+          "BE": 15,
+          "CA": 34,
+          "CH": 92,
+          "DE": 475,
+          "ER": 36,
+          "FR": 10,
+          "GB": 42,
+          "LU": 10,
+          "NL": 25,
+          "NZ": 48,
+          "ML": 10,
+          "US": 366
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c0e3efd2cb9692b8b4568",
+      "type": "sahne",
+      "name": "Sahne",
+      "slug": "sahne",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c0e3efd2cb9692b8b4568.png",
+      "usage": 176,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566f045fd2cb952018b456b",
+      "type": "muskatnuss, gemahlen",
+      "name": "Muskatnuss, gemahlen",
+      "slug": "muskatnuss-gemahlen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566f045fd2cb952018b456b.png",
+      "usage": 44,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe5",
+        "type": "nutmeg",
+        "name": "Muskatnuss",
+        "slug": "muskatnuss",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe5-5da7071b.png",
+        "usageByCountry": {
+          "AT": 89,
+          "AU": 2,
+          "BE": 28,
+          "CA": 1,
+          "CH": 16,
+          "DE": 88,
+          "ER": 0,
+          "FR": 6,
+          "GB": 1,
+          "LU": 49,
+          "NL": 41,
+          "NZ": 0,
+          "ML": 0,
+          "US": 23
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305367",
+      "type": "bakingdish",
+      "name": "Auflaufform"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Kleine Schale"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Küchenpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053c6",
+      "type": "australian",
+      "name": "Australisch",
+      "slug": "australisch",
+      "iconLink": null,
+      "usage": 15
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "id": "554b7b9efd2cb9d0608b456f",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "555dc1a9fd2cb944758b4569",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555dc6b1fd2cb944758b456a",
+          "amount": 1,
+          "unit": "Dose"
+        },
+        {
+          "id": "554b343a4dab71aa058b4572",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55ad12de4dab71066f8b4567",
+          "amount": 2,
+          "unit": "Zweig"
+        },
+        {
+          "id": "56026d50f8b25e406f8b4567",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "556c0e3efd2cb9692b8b4568",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "id": "5566f045fd2cb952018b456b",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Wasser im Wasserkocher erhitzen. Gemüse und Kräuter waschen und putzen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.\n\nKartoffeln schälen und in ca. 1,5 cm große Würfel schneiden. In einem großen Topf reichlich Salzwasser zum Kochen bringen, Kartoffeln darin ca. 10 Min. weich garen. Brokkoli in Röschen aufteilen. Karotte schälen, längs halbieren und in Scheiben schneiden. Ca. 5 Min. vor Ende der Kartoffel-Garzeit Brokkoli und Karotte in ein Sieb geben, über den Topf hängen und zugedeckt dämpfen lassen. Danach beides in einer leicht gefetteten Auflaufform verteilen. Kartoffeln in ein Sieb abgießen und gleich wieder zurück in den Topf geben, kurz beiseitestellen.",
+      "instructionsHTML": "<p>Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Wasser im Wasserkocher erhitzen. Gemüse und Kräuter waschen und putzen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.</p>\n<p>Kartoffeln schälen und in ca. 1,5 cm große Würfel schneiden. In einem großen Topf reichlich Salzwasser zum Kochen bringen, Kartoffeln darin ca. 10 Min. weich garen. Brokkoli in Röschen aufteilen. Karotte schälen, längs halbieren und in Scheiben schneiden. Ca. 5 Min. vor Ende der Kartoffel-Garzeit Brokkoli und Karotte in ein Sieb geben, über den Topf hängen und zugedeckt dämpfen lassen. Danach beides in einer leicht gefetteten Auflaufform verteilen. Kartoffeln in ein Sieb abgießen und gleich wieder zurück in den Topf geben, kurz beiseitestellen.</p>",
+      "instructions": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Wasser im Wasserkocher erhitzen. Gemüse und Kräuter waschen und putzen. Backofen auf 200 °C Ober-/Unterhitze (180 °C Umluft) vorheizen.\nKartoffeln schälen und in ca. 1,5 cm große Würfel schneiden. In einem großen Topf reichlich Salzwasser zum Kochen bringen, Kartoffeln darin ca. 10 Min. weich garen. Brokkoli in Röschen aufteilen. Karotte schälen, längs halbieren und in Scheiben schneiden. Ca. 5 Min. vor Ende der Kartoffel-Garzeit Brokkoli und Karotte in ein Sieb geben, über den Topf hängen und zugedeckt dämpfen lassen. Danach beides in einer leicht gefetteten Auflaufform verteilen. Kartoffeln in ein Sieb abgießen und gleich wieder zurück in den Topf geben, kurz beiseitestellen.",
+      "timers": [
+        {
+          "name": "Garzeit Kartoffel",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/578e02b9f31cf1b86b8b4568/step_578e54ecbc1f6.jpg",
+          "caption": "Gemüse dämpfen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567",
+        "554b7b9efd2cb9d0608b456f",
+        "554b23dff8b25ef53e8b456f",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305367",
+        "57e2674fb7e8697d4b30539c",
+        "57e2674fb7e8697d4b305374",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Für die Röstzwiebeln: Zwiebeln abziehen, halbieren und in sehr feine Streifen schneiden. In einer kleinen Schüssel mit 1 EL Mehl vermischen. In einer kleinen Pfanne 1 TL Öl erhitzen, Zwiebeln (Mehl zuvor abschütteln) zugeben und bei mittlerer Hitze ca. 10 Min. rösten, bis sie schön knusprig braun sind. Aus der Pfanne nehmen und auf Küchenpapier abtropfen lassen.",
+      "instructionsHTML": "<p>Für die Röstzwiebeln: Zwiebeln abziehen, halbieren und in sehr feine Streifen schneiden. In einer kleinen Schüssel mit 1 EL Mehl vermischen. In einer kleinen Pfanne 1 TL Öl erhitzen, Zwiebeln (Mehl zuvor abschütteln) zugeben und bei mittlerer Hitze ca. 10 Min. rösten, bis sie schön knusprig braun sind. Aus der Pfanne nehmen und auf Küchenpapier abtropfen lassen.</p>",
+      "instructions": "Für die Röstzwiebeln: Zwiebeln abziehen, halbieren und in sehr feine Streifen schneiden. In einer kleinen Schüssel mit 1 EL Mehl vermischen. In einer kleinen Pfanne 1 TL Öl erhitzen, Zwiebeln (Mehl zuvor abschütteln) zugeben und bei mittlerer Hitze ca. 10 Min. rösten, bis sie schön knusprig braun sind. Aus der Pfanne nehmen und auf Küchenpapier abtropfen lassen.",
+      "timers": [
+        {
+          "name": "Garzeit Röstzwiebeln",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/578e02b9f31cf1b86b8b4568/step_578e54ece9e01.jpg",
+          "caption": "Röstzwiebeln zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b34554dab71a6058b4576",
+        "555dc1a9fd2cb944758b4569",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305380",
+        "57e2674fb7e8697d4b305376",
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In der Zwischenzeit: Kichererbsen mit kaltem Wasser abspülen und in einem Sieb abtropfen lassen. Paprika halbieren, Kerngehäuse entfernen und in ca. 2 cm große Stücke schneiden. Frühlingszwiebel in Ringe schneiden. Liebstöckel trocken schütteln, Blätter abzupfen und grob hacken. Kichererbsen, Paprika, Frühlingszwiebel und Gewürzmischung auch in die Auflaufform geben und alles gut mischen.",
+      "instructionsHTML": "<p>In der Zwischenzeit: Kichererbsen mit kaltem Wasser abspülen und in einem Sieb abtropfen lassen. Paprika halbieren, Kerngehäuse entfernen und in ca. 2 cm große Stücke schneiden. Frühlingszwiebel in Ringe schneiden. Liebstöckel trocken schütteln, Blätter abzupfen und grob hacken. Kichererbsen, Paprika, Frühlingszwiebel und Gewürzmischung auch in die Auflaufform geben und alles gut mischen.</p>",
+      "instructions": "In der Zwischenzeit: Kichererbsen mit kaltem Wasser abspülen und in einem Sieb abtropfen lassen. Paprika halbieren, Kerngehäuse entfernen und in ca. 2 cm große Stücke schneiden. Frühlingszwiebel in Ringe schneiden. Liebstöckel trocken schütteln, Blätter abzupfen und grob hacken. Kichererbsen, Paprika, Frühlingszwiebel und Gewürzmischung auch in die Auflaufform geben und alles gut mischen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/578e02b9f31cf1b86b8b4568/step_578e54ed0d839.jpg",
+          "caption": "Gemüse mischen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "555dc6b1fd2cb944758b456a",
+        "554b343a4dab71aa058b4572",
+        "554b27e6fd2cb983608b4569",
+        "55ad12de4dab71066f8b4567",
+        "56026d50f8b25e406f8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305367",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Im großen Topf Kartoffeln, Sahne, Muskatnuss, die Hälfte des Liebstöckels (Achtung: Nimm lieber zuerst eine kleinere Menge, wenn Du noch nicht oft mit Liebstöckel gekocht hast!), 1 EL Butter, Salz und Pfeffer mit einem Kartoffelstampfer zu einer cremigen Masse stampfen, ½ der Röstzwiebeln vorsichtig unterheben. Kartoffelmasse über dem Gemüse in der Auflaufform verteilen und glattstreichen. Backofen auf Grillfunktion umstellen und Auflauf auf der mittleren Schiene im Backofen ca. 10 Min. backen.",
+      "instructionsHTML": "<p>Im großen Topf Kartoffeln, Sahne, Muskatnuss, die Hälfte des Liebstöckels (Achtung: Nimm lieber zuerst eine kleinere Menge, wenn Du noch nicht oft mit Liebstöckel gekocht hast!), 1 EL Butter, Salz und Pfeffer mit einem Kartoffelstampfer zu einer cremigen Masse stampfen, ½ der Röstzwiebeln vorsichtig unterheben. Kartoffelmasse über dem Gemüse in der Auflaufform verteilen und glattstreichen. Backofen auf Grillfunktion umstellen und Auflauf auf der mittleren Schiene im Backofen ca. 10 Min. backen.</p>",
+      "instructions": "Im großen Topf Kartoffeln, Sahne, Muskatnuss, die Hälfte des Liebstöckels (Achtung: Nimm lieber zuerst eine kleinere Menge, wenn Du noch nicht oft mit Liebstöckel gekocht hast!), 1 EL Butter, Salz und Pfeffer mit einem Kartoffelstampfer zu einer cremigen Masse stampfen, ½ der Röstzwiebeln vorsichtig unterheben. Kartoffelmasse über dem Gemüse in der Auflaufform verteilen und glattstreichen. Backofen auf Grillfunktion umstellen und Auflauf auf der mittleren Schiene im Backofen ca. 10 Min. backen.",
+      "timers": [
+        {
+          "name": "Backzeit",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/578e02b9f31cf1b86b8b4568/step_578e54ed263c9.jpg",
+          "caption": "Kartoffeln stampfen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567",
+        "554b34554dab71a6058b4576",
+        "55ad12de4dab71066f8b4567",
+        "556c0e3efd2cb9692b8b4568",
+        "5566f045fd2cb952018b456b",
+        "554b1c284dab71a9058b456b",
+        "554b2288f8b25ef93e8b456c",
+        "55b0a135fd2cb9121e8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b30539c",
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Auflauf auf Tellern verteilen, mit den restlichen Röstzwiebeln und Liebstöckel bestreuen und genießen!",
+      "instructionsHTML": "<p>Auflauf auf Tellern verteilen, mit den restlichen Röstzwiebeln und Liebstöckel bestreuen und genießen!</p>",
+      "instructions": "Auflauf auf Tellern verteilen, mit den restlichen Röstzwiebeln und Liebstöckel bestreuen und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b34554dab71a6058b4576",
+        "55ad12de4dab71066f8b4567"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3,
+  "ratingsCount": 43,
+  "favoritesCount": 305,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/vegetarischer-shepherd-pie-578e02b9f31cf1b86b8b4568",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

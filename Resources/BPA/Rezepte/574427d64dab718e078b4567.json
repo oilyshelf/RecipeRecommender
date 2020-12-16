@@ -1,0 +1,1101 @@
+{
+  "country": "DE",
+  "id": "574427d64dab718e078b4567",
+  "name": "EM-Fieber Russland:",
+  "seoName": null,
+  "category": null,
+  "slug": "tm-em-fieber-russland",
+  "headline": "Putengeschnetzeltes à la Stroganoff mit würzig-cremiger Champignonssoße und Fusilli (Thermomix)",
+  "description": "Auch wir bei HelloFresh sind im EM-Fieber. In dieser Woche tritt Frankreich gegen Russland an. Daher gibt es heute mit unserer Putenbrust à la Stroganoff einen echten Klassiker für Dich. Guten Appetit!",
+  "descriptionHTML": "<p>Auch wir bei HelloFresh sind im EM-Fieber. In dieser Woche tritt Frankreich gegen Russland an. Daher gibt es heute mit unserer Putenbrust à la Stroganoff einen echten Klassiker für Dich. Guten Appetit!</p>",
+  "descriptionMarkdown": "Auch wir bei HelloFresh sind im EM-Fieber. In dieser Woche tritt Frankreich gegen Russland an. Daher gibt es heute mit unserer Putenbrust à la Stroganoff einen echten Klassiker für Dich. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT30M",
+  "totalTime": "PT35M",
+  "servingSize": 0,
+  "createdAt": "2016-05-24T10:07:18+00:00",
+  "updatedAt": "2017-02-19T09:05:43+00:00",
+  "link": "https://hellofresh.com/recipes/574427d64dab718e078b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/em-fieber-russland-a8998a49.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/em-fieber-russland-83e54089.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2502.032,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 598,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 16,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 90,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "56d03f6cfd2cb95f588b4567",
+      "type": "putenbrustfilet",
+      "name": "Putenbrustfilet",
+      "slug": "putenbrustfilet",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/56d03f6cfd2cb95f588b4567.png",
+      "usage": 43,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc47",
+        "type": "turkey",
+        "name": "Truthahn",
+        "slug": "truthahn",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc47-151890c5.png",
+        "usageByCountry": {
+          "AT": 171,
+          "AU": 0,
+          "BE": 20,
+          "CA": 24,
+          "CH": 46,
+          "DE": 171,
+          "ER": 0,
+          "FR": 2,
+          "GB": 33,
+          "LU": 11,
+          "NL": 23,
+          "NZ": 0,
+          "ML": 26,
+          "US": 42
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55535721f8b25e8a038b4569",
+      "type": "braune champignons",
+      "name": "braune Champignons",
+      "slug": "braune-champignons",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55535721f8b25e8a038b4569-22f6a90e.png",
+      "usage": 399,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbde",
+        "type": "mushrooms",
+        "name": "Pilze",
+        "slug": "pilze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbde-4d22942c.png",
+        "usageByCountry": {
+          "AT": 558,
+          "AU": 96,
+          "BE": 230,
+          "CA": 75,
+          "CH": 86,
+          "DE": 484,
+          "ER": 1,
+          "FR": 60,
+          "GB": 207,
+          "LU": 251,
+          "NL": 280,
+          "NZ": 21,
+          "ML": 17,
+          "US": 209
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34b64dab71aa058b4573",
+      "type": "petersilie",
+      "name": "Petersilie",
+      "slug": "petersilie",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34b64dab71aa058b4573.png",
+      "usage": 861,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da357fd2cb943758b4567",
+      "type": "thymian",
+      "name": "Thymian",
+      "slug": "thymian",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da357fd2cb943758b4567.png",
+      "usage": 245,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc43",
+        "type": "thyme",
+        "name": "Thymian",
+        "slug": "thymian",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc43-d0cc4199.png",
+        "usageByCountry": {
+          "AT": 252,
+          "AU": 94,
+          "BE": 243,
+          "CA": 96,
+          "CH": 34,
+          "DE": 252,
+          "ER": 0,
+          "FR": 73,
+          "GB": 187,
+          "LU": 346,
+          "NL": 288,
+          "NZ": 38,
+          "ML": 213,
+          "US": 322
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556d7ad34dab7176498b4568",
+      "type": "dijon senf",
+      "name": "Dijon Senf",
+      "slug": "dijon-senf",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556d7ad34dab7176498b4568.png",
+      "usage": 32,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fd",
+          "type": "mustard",
+          "name": "Senf",
+          "slug": "senf",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+          "usage": 158
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbdf",
+        "type": "mustard",
+        "name": "Senf",
+        "slug": "senf",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbdf-bd28b3fe.png",
+        "usageByCountry": {
+          "AT": 411,
+          "AU": 149,
+          "BE": 262,
+          "CA": 135,
+          "CH": 75,
+          "DE": 361,
+          "ER": 7,
+          "FR": 68,
+          "GB": 159,
+          "LU": 354,
+          "NL": 295,
+          "NZ": 42,
+          "ML": 1,
+          "US": 175
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566f13b4dab7138088b4568",
+      "type": "sauerrahm",
+      "name": "Sauerrahm",
+      "slug": "sauerrahm",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566f13b4dab7138088b4568.png",
+      "usage": 19,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb85",
+        "type": "cream",
+        "name": "Sahne",
+        "slug": "sahne",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb85-4c2b627f.png",
+        "usageByCountry": {
+          "AT": 598,
+          "AU": 48,
+          "BE": 122,
+          "CA": 175,
+          "CH": 95,
+          "DE": 525,
+          "ER": 76,
+          "FR": 32,
+          "GB": 206,
+          "LU": 93,
+          "NL": 193,
+          "NZ": 40,
+          "ML": 45,
+          "US": 835
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "569f9da64dab719d278b4568",
+      "type": "fusilli-pasta",
+      "name": "Fusilli-Pasta",
+      "slug": "fusilli-pasta",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/569f9da64dab719d278b4568.png",
+      "usage": 5,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbfd",
+        "type": "pasta",
+        "name": "Pasta",
+        "slug": "pasta",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbfd-6aeaecc6.png",
+        "usageByCountry": {
+          "AT": 442,
+          "AU": 193,
+          "BE": 394,
+          "CA": 103,
+          "CH": 92,
+          "DE": 427,
+          "ER": 30,
+          "FR": 113,
+          "GB": 276,
+          "LU": 485,
+          "NL": 454,
+          "NZ": 48,
+          "ML": 420,
+          "US": 506
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2288f8b25ef93e8b456c",
+      "type": "butter",
+      "name": "Butter*",
+      "slug": "butter",
+      "description": null,
+      "internalName": "Butter [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2288f8b25ef93e8b456c-10f3c76d.png",
+      "usage": 720,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5b",
+        "type": "butter",
+        "name": "Butter",
+        "slug": "butter",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5b-10d0b09a.png",
+        "usageByCountry": {
+          "AT": 768,
+          "AU": 384,
+          "BE": 831,
+          "CA": 177,
+          "CH": 167,
+          "DE": 735,
+          "ER": 121,
+          "FR": 206,
+          "GB": 166,
+          "LU": 1013,
+          "NL": 1004,
+          "NZ": 126,
+          "ML": 289,
+          "US": 1152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "568cf05ff8b25e722d8b4567",
+      "type": "weißwein",
+      "name": "Weißwein",
+      "slug": "weiszwein",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/568cf05ff8b25e722d8b4567.png",
+      "usage": 5,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052ff",
+          "type": "sulphites",
+          "name": "Schwefel",
+          "slug": "schwefel",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+          "usage": 178
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc54",
+        "type": "wine",
+        "name": "Wein",
+        "slug": "wein",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc54-e93fccf0.png",
+        "usageByCountry": {
+          "AT": 7,
+          "AU": 36,
+          "BE": 9,
+          "CA": 0,
+          "CH": 4,
+          "DE": 8,
+          "ER": 0,
+          "FR": 1,
+          "GB": 0,
+          "LU": 4,
+          "NL": 30,
+          "NZ": 0,
+          "ML": 0,
+          "US": 1
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b3639f8b25eef3e8b4575",
+      "type": "gemusebruhe-home",
+      "name": "Gemüsebrühe*",
+      "slug": "gemusebruhe",
+      "description": null,
+      "internalName": "Gemüsebrühe home",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b3639f8b25eef3e8b4575.png",
+      "usage": 441,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22f4f8b25e42438b4567",
+      "type": "essig",
+      "name": "Essig*",
+      "slug": "essig",
+      "description": null,
+      "internalName": "Essig [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22f4f8b25e42438b4567.png",
+      "usage": 323,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052ff",
+          "type": "sulphites",
+          "name": "Schwefel",
+          "slug": "schwefel",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+          "usage": 178
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc4e",
+        "type": "vinegar",
+        "name": "Essig",
+        "slug": "essig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc4e-487a2c2e.png",
+        "usageByCountry": {
+          "AT": 946,
+          "AU": 556,
+          "BE": 739,
+          "CA": 272,
+          "CH": 185,
+          "DE": 877,
+          "ER": 16,
+          "FR": 209,
+          "GB": 406,
+          "LU": 884,
+          "NL": 855,
+          "NZ": 199,
+          "ML": 77,
+          "US": 710
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fd",
+      "type": "mustard",
+      "name": "Senf",
+      "slug": "senf",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fd-feb8e168.png",
+      "usage": 158
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "type": "sulphites",
+      "name": "Schwefel",
+      "slug": "schwefel",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "usage": 178
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305380",
+      "type": "smallbowl",
+      "name": "Kleine Schale"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a2",
+      "type": "thermomix",
+      "name": "Thermomix"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305376",
+      "type": "papertowel",
+      "name": "Küchenpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305328",
+      "type": "thermomix",
+      "name": "Thermomix",
+      "slug": "thermomix",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200https://s3-eu-west-1.amazonaws.com/hf-recipes/tags/icon-thermomix.png",
+      "numberOfRecipes": 1034,
+      "numberOfRecipesByCountry": {
+        "AT": 568,
+        "AU": 0,
+        "BE": 0,
+        "CA": 0,
+        "CH": 3,
+        "DE": 463,
+        "ER": 0,
+        "FR": 0,
+        "GB": 0,
+        "LU": 0,
+        "NL": 0,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053b0",
+      "type": "russian",
+      "name": "Russisch",
+      "slug": "russisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b0-b6855b74.jpg",
+      "usage": 21
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": "thermomix",
+  "label": {
+    "text": "Thermomix",
+    "handle": "thermomix",
+    "backgroundColor": "#009747",
+    "foregroundColor": "#ffffff"
+  },
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "56d03f6cfd2cb95f588b4567",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55535721f8b25e8a038b4569",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 2,
+          "unit": "Zweig"
+        },
+        {
+          "id": "555da357fd2cb943758b4567",
+          "amount": 3,
+          "unit": "Zweig"
+        },
+        {
+          "id": "556d7ad34dab7176498b4568",
+          "amount": 1,
+          "unit": "Esslöffel"
+        },
+        {
+          "id": "5566f13b4dab7138088b4568",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "569f9da64dab719d278b4568",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b2288f8b25ef93e8b456c",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "568cf05ff8b25e722d8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b3639f8b25eef3e8b4575",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22f4f8b25e42438b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Wasser\nim Wasserkocher erhitzen. Gemüse und Kräuter waschen und putzen.\n\nPetersilie in den Mixtopf geben, 5 Sek./Stufe 6 zerkleinern und in eine\nkleine Schüssel umfüllen.",
+      "instructionsHTML": "<p>Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Wasser\nim Wasserkocher erhitzen. Gemüse und Kräuter waschen und putzen.</p>\n<p>Petersilie in den Mixtopf geben, 5 Sek./Stufe 6 zerkleinern und in eine\nkleine Schüssel umfüllen.</p>",
+      "instructions": "Vorbereitung: Alle Zutaten und Utensilien bereitstellen. Wasser\nim Wasserkocher erhitzen. Gemüse und Kräuter waschen und putzen.\nPetersilie in den Mixtopf geben, 5 Sek./Stufe 6 zerkleinern und in eine\nkleine Schüssel umfüllen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/574427d64dab718e078b4567/step_57643cb3e62cb.jpg",
+          "caption": "Petersilie zerkleinern"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b34b64dab71aa058b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305380",
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Zwiebel in den Mixtopf geben, 3 Sek./Stufe 5 zerkleinern und mit dem\nSpatel nach unten schieben.",
+      "instructionsHTML": "<p>Zwiebel in den Mixtopf geben, 3 Sek./Stufe 5 zerkleinern und mit dem\nSpatel nach unten schieben.</p>",
+      "instructions": "Zwiebel in den Mixtopf geben, 3 Sek./Stufe 5 zerkleinern und mit dem\nSpatel nach unten schieben.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/574427d64dab718e078b4567/step_57643cb431b61.jpg",
+          "caption": "Zwiebel zerkleinern"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b34554dab71a6058b4576"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "1 TL Butter zugeben und 3 Min./120 °C/Stufe 1 dünsten. In dieser Zeit\nPutenbrust mit Küchenpapier trocken tupfen und in 1 cm dicke, längliche\nStreifen schneiden.",
+      "instructionsHTML": "<p>1 TL Butter zugeben und 3 Min./120 °C/Stufe 1 dünsten. In dieser Zeit\nPutenbrust mit Küchenpapier trocken tupfen und in 1 cm dicke, längliche\nStreifen schneiden.</p>",
+      "instructions": "1 TL Butter zugeben und 3 Min./120 °C/Stufe 1 dünsten. In dieser Zeit\nPutenbrust mit Küchenpapier trocken tupfen und in 1 cm dicke, längliche\nStreifen schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/574427d64dab718e078b4567/step_57643cb443b52.jpg",
+          "caption": "Putenbrust schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "56d03f6cfd2cb95f588b4567",
+        "554b2288f8b25ef93e8b456c"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305376",
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Putengeschnetzeltes und Thymianblätter zugeben und\n5 Min./120 °C/:thermomix-reverse-on-off:/Stufe 1 dünsten. Währenddessen Champignons in ca. 0,5 cm dünne Scheiben schneiden.",
+      "instructionsHTML": "<p>Putengeschnetzeltes und Thymianblätter zugeben und\n5 Min./120 °C/<span class=\"thermomix-reverse-on-off\"></span>/Stufe 1 dünsten. Währenddessen Champignons in ca. 0,5 cm dünne Scheiben schneiden.</p>",
+      "instructions": "Putengeschnetzeltes und Thymianblätter zugeben und\n5 Min./120 °C//Stufe 1 dünsten. Währenddessen Champignons in ca. 0,5 cm dünne Scheiben schneiden.",
+      "timers": [
+        {
+          "name": "Garzeit",
+          "duration": "PT5M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "56d03f6cfd2cb95f588b4567",
+        "55535721f8b25e8a038b4569",
+        "555da357fd2cb943758b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Champignonscheiben, 75 g Weißwein und 110 g Gemüsebrühe zugeben,\nanstelle des Messbechers Gareinsatz als Spritzschutz auf\nden Mixtopfdeckel setzen und 10 Min./100 °C/:thermomix-reverse-on-off:/Stufe 1 garen. In der Zwischenzeit: Kochendes Wasser in einen großen Topf geben, salzen, Fusilli darin 8 – 12 Min. bissfest kochen. Nach der Garzeit in ein Sieb abschütten und kurz abtropfen lassen.\n\nTipp: Wenn Du keinen Weißwein magst, kannst Du ihn einfach durch\nGemüsebrühe ersetzen.",
+      "instructionsHTML": "<p>Champignonscheiben, 75 g Weißwein und 110 g Gemüsebrühe zugeben,\nanstelle des Messbechers Gareinsatz als Spritzschutz auf\nden Mixtopfdeckel setzen und 10 Min./100 °C/<span class=\"thermomix-reverse-on-off\"></span>/Stufe 1 garen. In der Zwischenzeit: Kochendes Wasser in einen großen Topf geben, salzen, Fusilli darin 8 – 12 Min. bissfest kochen. Nach der Garzeit in ein Sieb abschütten und kurz abtropfen lassen.</p>\n<p>Tipp: Wenn Du keinen Weißwein magst, kannst Du ihn einfach durch\nGemüsebrühe ersetzen.</p>",
+      "instructions": "Champignonscheiben, 75 g Weißwein und 110 g Gemüsebrühe zugeben,\nanstelle des Messbechers Gareinsatz als Spritzschutz auf\nden Mixtopfdeckel setzen und 10 Min./100 °C//Stufe 1 garen. In der Zwischenzeit: Kochendes Wasser in einen großen Topf geben, salzen, Fusilli darin 8 – 12 Min. bissfest kochen. Nach der Garzeit in ein Sieb abschütten und kurz abtropfen lassen.\nTipp: Wenn Du keinen Weißwein magst, kannst Du ihn einfach durch\nGemüsebrühe ersetzen.",
+      "timers": [
+        {
+          "name": "Garzeit",
+          "duration": "PT10M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "55535721f8b25e8a038b4569",
+        "569f9da64dab719d278b4568",
+        "568cf05ff8b25e722d8b4567",
+        "554b3639f8b25eef3e8b4575",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c",
+        "57e2674fb7e8697d4b305382",
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Dijon-Senf und Sauerrahm in den Mixtopf zugeben und 2 Min./100 °C/\n:thermomix-reverse-on-off:/Stufe 1 kurz aufkochen.",
+      "instructionsHTML": "<p>Dijon-Senf und Sauerrahm in den Mixtopf zugeben und 2 Min./100 °C/\n<span class=\"thermomix-reverse-on-off\"></span>/Stufe 1 kurz aufkochen.</p>",
+      "instructions": "Dijon-Senf und Sauerrahm in den Mixtopf zugeben und 2 Min./100 °C/\n/Stufe 1 kurz aufkochen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "556d7ad34dab7176498b4568",
+        "5566f13b4dab7138088b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b3053a2"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Fusilli auf Tellern verteilen. Putengeschnetzeltes mit Salz, Pfeffer\nund evtl. etwas Essig abschmecken und über der Pasta verteilen. Mit\nPetersilie bestreuen und genießen.",
+      "instructionsHTML": "<p>Fusilli auf Tellern verteilen. Putengeschnetzeltes mit Salz, Pfeffer\nund evtl. etwas Essig abschmecken und über der Pasta verteilen. Mit\nPetersilie bestreuen und genießen.</p>",
+      "instructions": "Fusilli auf Tellern verteilen. Putengeschnetzeltes mit Salz, Pfeffer\nund evtl. etwas Essig abschmecken und über der Pasta verteilen. Mit\nPetersilie bestreuen und genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b34b64dab71aa058b4573",
+        "554b1c284dab71a9058b456b",
+        "55b0a135fd2cb9121e8b4567",
+        "554b22f4f8b25e42438b4567"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 2.8,
+  "ratingsCount": 156,
+  "favoritesCount": 349,
+  "active": true,
+  "highlighted": true,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/tm-em-fieber-russland-574427d64dab718e078b4567",
+  "clonedFrom": null,
+  "canonical": "5744057bfd2cb9a3708b4567",
+  "canonicalLink": "https://www.hellofresh.de/recipes/em-fieber-russland-5744057bfd2cb9a3708b4567"
+}

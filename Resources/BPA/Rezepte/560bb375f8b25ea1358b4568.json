@@ -1,0 +1,916 @@
+{
+  "country": "DE",
+  "id": "560bb375f8b25ea1358b4568",
+  "name": "Japanische Yaki Udon-Pfanne mit Shiitake-Pilzen,",
+  "seoName": null,
+  "category": null,
+  "slug": "japanische-yaki-udon-pfanne-mit-shiitake-pilzen",
+  "headline": "Paprika und Chinakohl",
+  "description": "In Japan werden die Menschen ja bekanntlich älter als bei uns. Und weil man ist, was man isst, liegt das Geheimnis auch im Essen. Daher darfst du dich heute mal über eine etwas andere asiatische Gemüsepfanne freuen, inklusive der in Japan beliebten Udon-Nudeln und, natürlich, Sojasoße. Guten Appetit!",
+  "descriptionHTML": "<p>In Japan werden die Menschen ja bekanntlich älter als bei uns. Und weil man ist, was man isst, liegt das Geheimnis auch im Essen. Daher darfst du dich heute mal über eine etwas andere asiatische Gemüsepfanne freuen, inklusive der in Japan beliebten Udon-Nudeln und, natürlich, Sojasoße. Guten Appetit!</p>",
+  "descriptionMarkdown": "In Japan werden die Menschen ja bekanntlich älter als bei uns. Und weil man ist, was man isst, liegt das Geheimnis auch im Essen. Daher darfst du dich heute mal über eine etwas andere asiatische Gemüsepfanne freuen, inklusive der in Japan beliebten Udon-Nudeln und, natürlich, Sojasoße. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT25M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-09-30T10:03:33+00:00",
+  "updatedAt": "2017-03-03T23:27:36+00:00",
+  "link": "https://hellofresh.com/recipes/560bb375f8b25ea1358b4568",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/560bb375f8b25ea1358b4568.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/560bb375f8b25ea1358b4568.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2271.9120000000003,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 543,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 15,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 82,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b34554dab71a6058b4576",
+      "type": "zwiebel",
+      "name": "Zwiebel",
+      "slug": "zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34554dab71a6058b4576.png",
+      "usage": 783,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55e847c379a23c4b7e8b4567",
+      "type": "rote-paprika",
+      "name": "rote Paprika",
+      "slug": "paprika-rot",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55e847c379a23c4b7e8b4567-25c291a3.png",
+      "usage": 86,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc06",
+        "type": "pepper-vegetable",
+        "name": "Pfeffer (Gemüse)",
+        "slug": "pfeffer-gemuse",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc06-d58f09de.png",
+        "usageByCountry": {
+          "AT": 216,
+          "AU": 285,
+          "BE": 95,
+          "CA": 188,
+          "CH": 92,
+          "DE": 215,
+          "ER": 51,
+          "FR": 30,
+          "GB": 307,
+          "LU": 126,
+          "NL": 108,
+          "NZ": 62,
+          "ML": 428,
+          "US": 579
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b27e6fd2cb983608b4569",
+      "type": "fruhlingszwiebeln",
+      "name": "Frühlingszwiebel",
+      "slug": "fruhlingszwiebeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b27e6fd2cb983608b4569.png",
+      "usage": 514,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc35",
+        "type": "spring-onion",
+        "name": "Frühlingszwiebel",
+        "slug": "fruhlingszwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc35-03c06826.png",
+        "usageByCountry": {
+          "AT": 575,
+          "AU": 0,
+          "BE": 15,
+          "CA": 0,
+          "CH": 113,
+          "DE": 514,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 1,
+          "NL": 1,
+          "NZ": 0,
+          "ML": 421,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556840d24dab71d81c8b4567",
+      "type": "chinakohl",
+      "name": "Chinakohl",
+      "slug": "chinakohl",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556840d24dab71d81c8b4567.png",
+      "usage": 29,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb5c",
+        "type": "cabbage",
+        "name": "Kohl",
+        "slug": "kohl",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb5c-cdcdf3fe.png",
+        "usageByCountry": {
+          "AT": 93,
+          "AU": 56,
+          "BE": 59,
+          "CA": 43,
+          "CH": 16,
+          "DE": 82,
+          "ER": 7,
+          "FR": 6,
+          "GB": 40,
+          "LU": 35,
+          "NL": 61,
+          "NZ": 16,
+          "ML": 8,
+          "US": 83
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "560cebe8f8b25e885f8b4568",
+      "type": "shiitake-pilze",
+      "name": "Shiitake-Pilze",
+      "slug": "shiitake-pilze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/560cebe8f8b25e885f8b4568-6283c2b7.png",
+      "usage": 1,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbde",
+        "type": "mushrooms",
+        "name": "Pilze",
+        "slug": "pilze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbde-4d22942c.png",
+        "usageByCountry": {
+          "AT": 558,
+          "AU": 96,
+          "BE": 230,
+          "CA": 75,
+          "CH": 86,
+          "DE": 484,
+          "ER": 1,
+          "FR": 60,
+          "GB": 207,
+          "LU": 251,
+          "NL": 280,
+          "NZ": 21,
+          "ML": 17,
+          "US": 209
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "560cec2879a23caa378b4567",
+      "type": "udon-nudeln",
+      "name": "Udon-Nudeln",
+      "slug": "udon-nudeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/560cec2879a23caa378b4567-b0ced4e1.png",
+      "usage": 10,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe4",
+        "type": "noodles",
+        "name": "Nudeln",
+        "slug": "nudeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe4-6d4a9c00.png",
+        "usageByCountry": {
+          "AT": 147,
+          "AU": 107,
+          "BE": 168,
+          "CA": 55,
+          "CH": 33,
+          "DE": 125,
+          "ER": 0,
+          "FR": 27,
+          "GB": 106,
+          "LU": 141,
+          "NL": 185,
+          "NZ": 13,
+          "ML": 121,
+          "US": 53
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "560cec5bf8b25e9a5f8b4567",
+      "type": "sesamöl",
+      "name": "Sesamöl",
+      "slug": "sesamol",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/560cec5bf8b25e9a5f8b4567-9a7ea867.png",
+      "usage": 29,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fe",
+          "type": "sesame",
+          "name": "Sesam",
+          "slug": "sesam",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+          "usage": 175
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc2b",
+        "type": "sesame-oil",
+        "name": "Sesamöl",
+        "slug": "sesamol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc2b-7b7c199a.png",
+        "usageByCountry": {
+          "AT": 28,
+          "AU": 63,
+          "BE": 22,
+          "CA": 36,
+          "CH": 8,
+          "DE": 29,
+          "ER": 11,
+          "FR": 4,
+          "GB": 23,
+          "LU": 19,
+          "NL": 23,
+          "NZ": 12,
+          "ML": 0,
+          "US": 108
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7d36fd2cb9d8608b4570",
+      "type": "sojasoße",
+      "name": "Sojasoße",
+      "slug": "sojasosze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/554b7d36fd2cb9d8608b4570-f4ba216b.png",
+      "usage": 287,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f9",
+          "type": "soya",
+          "name": "Soja",
+          "slug": "soja",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+          "usage": 390
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc30",
+        "type": "soy-sauce",
+        "name": "Sojasauce",
+        "slug": "sojasauce",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc30-32ed361d.png",
+        "usageByCountry": {
+          "AT": 343,
+          "AU": 281,
+          "BE": 313,
+          "CA": 104,
+          "CH": 80,
+          "DE": 287,
+          "ER": 30,
+          "FR": 79,
+          "GB": 283,
+          "LU": 353,
+          "NL": 307,
+          "NZ": 116,
+          "ML": 6,
+          "US": 323
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2319fd2cb9ba598b456d",
+      "type": "zucker",
+      "name": "Zucker*",
+      "slug": "zucker",
+      "description": null,
+      "internalName": "Zucker [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2319fd2cb9ba598b456d.png",
+      "usage": 842,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc3b",
+        "type": "sugar",
+        "name": "Zucker",
+        "slug": "zucker",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc3b-20b617ed.png",
+        "usageByCountry": {
+          "AT": 956,
+          "AU": 351,
+          "BE": 205,
+          "CA": 264,
+          "CH": 163,
+          "DE": 868,
+          "ER": 0,
+          "FR": 50,
+          "GB": 59,
+          "LU": 172,
+          "NL": 242,
+          "NZ": 138,
+          "ML": 0,
+          "US": 26
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22f4f8b25e42438b4567",
+      "type": "essig",
+      "name": "Essig*",
+      "slug": "essig",
+      "description": null,
+      "internalName": "Essig [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22f4f8b25e42438b4567.png",
+      "usage": 323,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052ff",
+          "type": "sulphites",
+          "name": "Schwefel",
+          "slug": "schwefel",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+          "usage": 178
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc4e",
+        "type": "vinegar",
+        "name": "Essig",
+        "slug": "essig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc4e-487a2c2e.png",
+        "usageByCountry": {
+          "AT": 946,
+          "AU": 556,
+          "BE": 739,
+          "CA": 272,
+          "CH": 185,
+          "DE": 877,
+          "ER": 16,
+          "FR": 209,
+          "GB": 406,
+          "LU": 884,
+          "NL": 855,
+          "NZ": 199,
+          "ML": 77,
+          "US": 710
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fe",
+      "type": "sesame",
+      "name": "Sesam",
+      "slug": "sesam",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fe-feb8e168.png",
+      "usage": 175
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f9",
+      "type": "soya",
+      "name": "Soja",
+      "slug": "soja",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f9-feb8e168.png",
+      "usage": 390
+    },
+    {
+      "id": "57962a07b7e8697d4b3052ff",
+      "type": "sulphites",
+      "name": "Schwefel",
+      "slug": "schwefel",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052ff-04104ef2.png",
+      "usage": 178
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537c",
+      "type": "pot",
+      "name": "Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiatisch",
+      "slug": "asiatisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg",
+      "usage": 2484
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b34554dab71a6058b4576",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "55e847c379a23c4b7e8b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b27e6fd2cb983608b4569",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "556840d24dab71d81c8b4567",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "560cebe8f8b25e885f8b4568",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "560cec2879a23caa378b4567",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "560cec5bf8b25e9a5f8b4567",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "id": "554b7d36fd2cb9d8608b4570",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2319fd2cb9ba598b456d",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22f4f8b25e42438b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Zwiebel abziehen und in ca. 1 cm breite Ringe schneiden. Paprika waschen, halbieren, entkernen und in feine Spalten schneiden. Frühlingszwiebeln waschen, welkes Grün entfernen und in feine Ringe schneiden. Äußere Schicht vom Chinakohl entfernen, halbieren, dann inneren, harten Strunk herausschneiden. Anschließend in feine Streifen schneiden. Shiitake-Pilze putzen und je nach Größe vierteln oder halbieren.",
+      "instructionsHTML": "<p>Zwiebel abziehen und in ca. 1 cm breite Ringe schneiden. Paprika waschen, halbieren, entkernen und in feine Spalten schneiden. Frühlingszwiebeln waschen, welkes Grün entfernen und in feine Ringe schneiden. Äußere Schicht vom Chinakohl entfernen, halbieren, dann inneren, harten Strunk herausschneiden. Anschließend in feine Streifen schneiden. Shiitake-Pilze putzen und je nach Größe vierteln oder halbieren.</p>",
+      "instructions": "Zwiebel abziehen und in ca. 1 cm breite Ringe schneiden. Paprika waschen, halbieren, entkernen und in feine Spalten schneiden. Frühlingszwiebeln waschen, welkes Grün entfernen und in feine Ringe schneiden. Äußere Schicht vom Chinakohl entfernen, halbieren, dann inneren, harten Strunk herausschneiden. Anschließend in feine Streifen schneiden. Shiitake-Pilze putzen und je nach Größe vierteln oder halbieren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/560bb375f8b25ea1358b4568/step_560cf34451f12.jpg",
+          "caption": "Paprika schneiden"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/560bb375f8b25ea1358b4568/step_560cf3446d093.jpg",
+          "caption": "Chinakohl zubereiten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b34554dab71a6058b4576",
+        "55e847c379a23c4b7e8b4567",
+        "554b27e6fd2cb983608b4569",
+        "556840d24dab71d81c8b4567",
+        "560cebe8f8b25e885f8b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "In einem großen Topf Udon-Nudeln nach Packungsangabe in reichlich kochendem Salzwasser bissfest garen. Anschließend durch ein Sieb abgießen und abtropfen lassen.",
+      "instructionsHTML": "<p>In einem großen Topf Udon-Nudeln nach Packungsangabe in reichlich kochendem Salzwasser bissfest garen. Anschließend durch ein Sieb abgießen und abtropfen lassen.</p>",
+      "instructions": "In einem großen Topf Udon-Nudeln nach Packungsangabe in reichlich kochendem Salzwasser bissfest garen. Anschließend durch ein Sieb abgießen und abtropfen lassen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "560cec2879a23caa378b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30537c",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einer großen Pfanne oder Wok 1 EL Öl erhitzen. Zwiebel, Paprika und Chinakohl zugeben und ca. 5 Min. unter Wenden braten. Shiitake und Großteil der Frühlingszwiebeln zugeben und ca. 1 Min. mitbraten. Sesamöl, Sojasoße, 1 EL Wasser, 1 TL Zucker und 1 EL Essig zugeben. Udon-Nudeln zufügen und alles zusammen ca. 3 Min. weiterkochen.",
+      "instructionsHTML": "<p>In einer großen Pfanne oder Wok 1 EL Öl erhitzen. Zwiebel, Paprika und Chinakohl zugeben und ca. 5 Min. unter Wenden braten. Shiitake und Großteil der Frühlingszwiebeln zugeben und ca. 1 Min. mitbraten. Sesamöl, Sojasoße, 1 EL Wasser, 1 TL Zucker und 1 EL Essig zugeben. Udon-Nudeln zufügen und alles zusammen ca. 3 Min. weiterkochen.</p>",
+      "instructions": "In einer großen Pfanne oder Wok 1 EL Öl erhitzen. Zwiebel, Paprika und Chinakohl zugeben und ca. 5 Min. unter Wenden braten. Shiitake und Großteil der Frühlingszwiebeln zugeben und ca. 1 Min. mitbraten. Sesamöl, Sojasoße, 1 EL Wasser, 1 TL Zucker und 1 EL Essig zugeben. Udon-Nudeln zufügen und alles zusammen ca. 3 Min. weiterkochen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/560bb375f8b25ea1358b4568/step_560cf3447e1a7.jpg",
+          "caption": "Gemüse braten"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/560bb375f8b25ea1358b4568/step_560cf3448fdeb.jpg",
+          "caption": "Nudeln hinzufügen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b34554dab71a6058b4576",
+        "55e847c379a23c4b7e8b4567",
+        "554b27e6fd2cb983608b4569",
+        "560cec5bf8b25e9a5f8b4567",
+        "554b7d36fd2cb9d8608b4570",
+        "554b1bf6f8b25eef3e8b4570",
+        "554b2319fd2cb9ba598b456d",
+        "554b22f4f8b25e42438b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Yaki Udon-Pfanne auf Tellern verteilen, mit restlichen Frühlingszwiebeln bestreuen und genießen!",
+      "instructionsHTML": "<p>Yaki Udon-Pfanne auf Tellern verteilen, mit restlichen Frühlingszwiebeln bestreuen und genießen!</p>",
+      "instructions": "Yaki Udon-Pfanne auf Tellern verteilen, mit restlichen Frühlingszwiebeln bestreuen und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 2.9,
+  "ratingsCount": 61,
+  "favoritesCount": 254,
+  "active": true,
+  "highlighted": true,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/japanische-yaki-udon-pfanne-mit-shiitake-pilzen-560bb375f8b25ea1358b4568",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

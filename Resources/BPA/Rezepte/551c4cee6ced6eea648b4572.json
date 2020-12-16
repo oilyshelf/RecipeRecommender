@@ -1,0 +1,739 @@
+{
+  "country": "DE",
+  "id": "551c4cee6ced6eea648b4572",
+  "name": "Bratwurst mit dreierlei Gemüse-Pommes",
+  "seoName": null,
+  "category": null,
+  "slug": "bratwurst-mit-dreierlei-gemuse-pommes",
+  "headline": "aus Petersilienwurzel, Karotten und Kartoffeln",
+  "description": "Und? Welche magst Du lieber, die revolutionäre Wurst von Grillido aus Hähnchenfleisch oder etwa mit Feta gefüllt? Oder liebst Du es klassisch und bevorzugst die Wurst aus dieser Box? Ich freue mich über jedes Feedback, ob auf Facebook oder bei der Rezeptbewertung! Weiterhin guten Appetit!",
+  "descriptionHTML": "<p>Und? Welche magst Du lieber, die revolutionäre Wurst  von Grillido aus Hähnchenfleisch oder etwa mit Feta gefüllt? Oder liebst Du es klassisch und bevorzugst die Wurst aus dieser Box? Ich freue mich über jedes Feedback, ob auf Facebook oder bei der Rezeptbewertung! Weiterhin guten Appetit!</p>",
+  "descriptionMarkdown": "Und? Welche magst Du lieber, die revolutionäre Wurst  von Grillido aus Hähnchenfleisch oder etwa mit Feta gefüllt? Oder liebst Du es klassisch und bevorzugst die Wurst aus dieser Box? Ich freue mich über jedes Feedback, ob auf Facebook oder bei der Rezeptbewertung! Weiterhin guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 3,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-04-01T19:54:22+00:00",
+  "updatedAt": "2016-09-12T20:16:14+00:00",
+  "link": "https://hellofresh.com/recipes/551c4cee6ced6eea648b4572",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/551c4cee6ced6eea648b4572.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/551c4cee6ced6eea648b4572.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2966.456,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 709,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 47,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 34,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 27,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b1a5b4dab71c8058b456d",
+      "type": "rosmarin",
+      "name": "Rosmarin",
+      "slug": "rosmarin",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1a5b4dab71c8058b456d.png",
+      "usage": 183,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1f",
+        "type": "rosemary",
+        "name": "Rosmarin",
+        "slug": "rosmarin",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1f-4ba602ae.png",
+        "usageByCountry": {
+          "AT": 225,
+          "AU": 75,
+          "BE": 121,
+          "CA": 52,
+          "CH": 43,
+          "DE": 221,
+          "ER": 2,
+          "FR": 29,
+          "GB": 104,
+          "LU": 131,
+          "NL": 145,
+          "NZ": 19,
+          "ML": 0,
+          "US": 126
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5638d5ec79a23c64688b4567",
+      "type": "petersilienwurzeln",
+      "name": "Petersilienwurzeln",
+      "slug": "petersilienwurzeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5638d5ec79a23c64688b4567.png",
+      "usage": 14,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b23dff8b25ef53e8b456f",
+      "type": "karotten",
+      "name": "Karotte",
+      "slug": "karotten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b23dff8b25ef53e8b456f.png",
+      "usage": 566,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb62",
+        "type": "carrot",
+        "name": "Karotte",
+        "slug": "karotte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb62-c4a1f62d.png",
+        "usageByCountry": {
+          "AT": 679,
+          "AU": 553,
+          "BE": 225,
+          "CA": 127,
+          "CH": 130,
+          "DE": 627,
+          "ER": 27,
+          "FR": 49,
+          "GB": 343,
+          "LU": 220,
+          "NL": 263,
+          "NZ": 175,
+          "ML": 243,
+          "US": 318
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34b64dab71aa058b4573",
+      "type": "petersilie",
+      "name": "Petersilie",
+      "slug": "petersilie",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34b64dab71aa058b4573.png",
+      "usage": 861,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2ae2fd2cb983608b456a",
+      "type": "geflügelwürste",
+      "name": "Geflügelwürste",
+      "slug": "geflugelwurste",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2ae2fd2cb983608b456a.png",
+      "usage": 5,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6b",
+        "type": "chicken",
+        "name": "Hähnchen",
+        "slug": "hahnchen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6b-8f15f243.png",
+        "usageByCountry": {
+          "AT": 293,
+          "AU": 427,
+          "BE": 305,
+          "CA": 214,
+          "CH": 94,
+          "DE": 262,
+          "ER": 62,
+          "FR": 92,
+          "GB": 486,
+          "LU": 380,
+          "NL": 282,
+          "NZ": 125,
+          "ML": 653,
+          "US": 668
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305370",
+      "type": "knife",
+      "name": "Messer"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305369",
+      "type": "bowl",
+      "name": "Schüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305375",
+      "type": "pan",
+      "name": "Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b3053a0",
+      "type": "immersionblender",
+      "name": "Pürierstab"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30537b",
+      "type": "plate",
+      "name": "Teller"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b1a5b4dab71c8058b456d",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "id": "5638d5ec79a23c64688b4567",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b2ae2fd2cb983608b456a",
+          "amount": 4,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b1a5b4dab71c8058b456d",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "5638d5ec79a23c64688b4567",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "id": "554b2ae2fd2cb983608b456a",
+          "amount": 8,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Ofen auf 200 °C Ober-/Unterhitze vorheizen.",
+      "instructionsHTML": "<p>Ofen auf 200 °C Ober-/Unterhitze vorheizen.</p>",
+      "instructions": "Ofen auf 200 °C Ober-/Unterhitze vorheizen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Rosmarin waschen, trocken schütteln, Nadeln abziehen und fein hacken. Petersilienwurzeln, Kartoffeln und Karotten schälen und in ca. 1 cm dicke und 5 cm lange Gemüse-Pommes schneiden. Gemüse- Pommes und Rosmarin in eine Schüssel geben und mit 2 EL Olivenöl, Salz und Pfeffer mischen. Dann auf einem mit Backpapier belegten Backblech verteilen und ca. 20 Min. backen.",
+      "instructionsHTML": "<p>Rosmarin waschen, trocken schütteln, Nadeln abziehen und fein hacken. Petersilienwurzeln, Kartoffeln und Karotten schälen und in ca. 1 cm dicke und 5 cm lange Gemüse-Pommes schneiden. Gemüse- Pommes und Rosmarin in eine Schüssel geben und mit 2 EL Olivenöl, Salz und Pfeffer mischen. Dann auf einem mit Backpapier belegten Backblech verteilen und ca. 20 Min. backen.</p>",
+      "instructions": "Rosmarin waschen, trocken schütteln, Nadeln abziehen und fein hacken. Petersilienwurzeln, Kartoffeln und Karotten schälen und in ca. 1 cm dicke und 5 cm lange Gemüse-Pommes schneiden. Gemüse- Pommes und Rosmarin in eine Schüssel geben und mit 2 EL Olivenöl, Salz und Pfeffer mischen. Dann auf einem mit Backpapier belegten Backblech verteilen und ca. 20 Min. backen.",
+      "timers": [
+        {
+          "name": "Gemüse-Pommes backen",
+          "duration": "PT20M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/551c4cee6ced6eea648b4572/step_556dc9d573bf3.jpg",
+          "caption": "Karotten und Kartoffeln zu Gemüse-Pommes schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1a5b4dab71c8058b456d",
+        "5638d5ec79a23c64688b4567",
+        "554b25fcfd2cb973608b4567",
+        "554b23dff8b25ef53e8b456f"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305377",
+        "57e2674fb7e8697d4b305370",
+        "57e2674fb7e8697d4b305369"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In der Zwischenzeit: Zwiebel abziehen, halbieren und in dünne Scheiben schneiden. Tomaten waschen, Strunk entfernen und in grobe Stücke schneiden. Petersilie waschen und trocken schütteln.",
+      "instructionsHTML": "<p>In der Zwischenzeit: Zwiebel abziehen, halbieren und in dünne Scheiben schneiden. Tomaten waschen, Strunk entfernen und in grobe Stücke schneiden. Petersilie waschen und trocken schütteln.</p>",
+      "instructions": "In der Zwischenzeit: Zwiebel abziehen, halbieren und in dünne Scheiben schneiden. Tomaten waschen, Strunk entfernen und in grobe Stücke schneiden. Petersilie waschen und trocken schütteln.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b2abcf8b25eef3e8b4573",
+        "554b2621fd2cb99c598b4576",
+        "554b34b64dab71aa058b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305370"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "In einer Pfanne 1 EL Olivenöl erhitzen und Zwiebeln bei schwacher Hitze etwa 3-4 Min. dünsten. Dann Zwiebeln, Tomaten, 1/2 TL Zucker, Petersilie samt Stiel sowie Salz und Pfeffer mit einem Mixer/Pürierstab pürieren. Kurz zur Seite stellen.",
+      "instructionsHTML": "<p>In einer Pfanne 1 EL Olivenöl erhitzen und Zwiebeln bei schwacher Hitze etwa 3-4 Min. dünsten. Dann Zwiebeln, Tomaten, 1/2 TL Zucker, Petersilie samt Stiel sowie Salz und Pfeffer mit einem Mixer/Pürierstab pürieren. Kurz zur Seite stellen.</p>",
+      "instructions": "In einer Pfanne 1 EL Olivenöl erhitzen und Zwiebeln bei schwacher Hitze etwa 3-4 Min. dünsten. Dann Zwiebeln, Tomaten, 1/2 TL Zucker, Petersilie samt Stiel sowie Salz und Pfeffer mit einem Mixer/Pürierstab pürieren. Kurz zur Seite stellen.",
+      "timers": [
+        {
+          "name": "Zwiebeln dünsten",
+          "duration": "PT4M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/551c4cee6ced6eea648b4572/step_556dcba4f01f8.jpg",
+          "caption": "Zutaten mit Pürierstab pürieren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2abcf8b25eef3e8b4573",
+        "554b2621fd2cb99c598b4576",
+        "554b34b64dab71aa058b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375",
+        "57e2674fb7e8697d4b3053a0"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Pfanne mit einem Küchenpapier auswischen und mit 1 EL ÖL erneut erhitzen. Bratwürste von allen Seiten bräunlich anbraten. Dann Tomatensoße zugeben und ca. 1 Min. zusammen erhitzen.",
+      "instructionsHTML": "<p>Pfanne mit einem Küchenpapier auswischen und mit 1 EL ÖL erneut erhitzen. Bratwürste von allen Seiten bräunlich anbraten. Dann Tomatensoße zugeben und ca. 1 Min. zusammen erhitzen.</p>",
+      "instructions": "Pfanne mit einem Küchenpapier auswischen und mit 1 EL ÖL erneut erhitzen. Bratwürste von allen Seiten bräunlich anbraten. Dann Tomatensoße zugeben und ca. 1 Min. zusammen erhitzen.",
+      "timers": [
+        {
+          "name": "Bratwürste mit Tomatensoße erhitzen",
+          "duration": "PT1M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/551c4cee6ced6eea648b4572/step_556dcbcb485dc.jpg",
+          "caption": "Pfanne mit Küchentuch auswischen"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/551c4cee6ced6eea648b4572/step_556dce4c2e317.jpg",
+          "caption": "1 Minute mit Tomatensoße erhitzen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2ae2fd2cb983608b456a"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305375"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Nach der Garzeit die Rosmarin-Gemüse-Pommes aus dem Ofen nehmen. Bratwürste mit Soße auf Tellern verteilen und mit den Pommes genießen.",
+      "instructionsHTML": "<p>Nach der Garzeit die Rosmarin-Gemüse-Pommes aus dem Ofen nehmen. Bratwürste mit Soße auf Tellern verteilen und mit den Pommes genießen.</p>",
+      "instructions": "Nach der Garzeit die Rosmarin-Gemüse-Pommes aus dem Ofen nehmen. Bratwürste mit Soße auf Tellern verteilen und mit den Pommes genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30537b"
+      ]
+    }
+  ],
+  "averageRating": 3,
+  "ratingsCount": 196,
+  "favoritesCount": 98,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/bratwurst-mit-dreierlei-gemuse-pommes-551c4cee6ced6eea648b4572",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

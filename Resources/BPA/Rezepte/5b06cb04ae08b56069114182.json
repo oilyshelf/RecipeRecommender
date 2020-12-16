@@ -1,0 +1,957 @@
+{
+  "country": "DE",
+  "id": "5b06cb04ae08b56069114182",
+  "name": "Schweizer Rösti",
+  "seoName": "Schweizer Rösti",
+  "category": null,
+  "slug": "kartoffelpuffer-mit-portobello-pilzpfanne",
+  "headline": "mit Portobello-Pilzpfanne, dazu Quark mit frischen Kräutern",
+  "description": "Reibekuchen, Kartoffelpuffer oder doch eher Rösti – dieser herzhafte Leckerbissen hat viele Namen. Wir verfeinern den knusprigen Kartoffelpuffer mit würzigen Portobello-Pilzen und einem erfrischenden Kräuterquark. Lass Dir dieses kalorienarme und ballaststoffreiche Gericht schmecken.",
+  "descriptionHTML": "<p>Reibekuchen, Kartoffelpuffer oder doch eher Rösti – dieser herzhafte Leckerbissen hat viele Namen. Wir verfeinern den knusprigen Kartoffelpuffer mit würzigen Portobello-Pilzen und einem erfrischenden Kräuterquark. Lass Dir dieses kalorienarme und ballaststoffreiche Gericht schmecken.</p>",
+  "descriptionMarkdown": "Reibekuchen, Kartoffelpuffer oder doch eher Rösti – dieser herzhafte Leckerbissen hat viele Namen. Wir verfeinern den knusprigen Kartoffelpuffer mit würzigen Portobello-Pilzen und einem erfrischenden Kräuterquark. Lass Dir dieses kalorienarme und ballaststoffreiche Gericht schmecken.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT40M",
+  "totalTime": null,
+  "servingSize": 650,
+  "createdAt": "2018-05-24T14:24:04+00:00",
+  "updatedAt": "2018-05-24T14:25:33+00:00",
+  "link": "https://hellofresh.com/recipes/5b06cb04ae08b56069114182",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/kartoffelpuffer-mit-portobello-pilzpfanne-2b6228d3.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/kartoffelpuffer-mit-portobello-pilzpfanne-n-5b06cb04ae08b56069114182-a627574a.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2498,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 597,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 19,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 73,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 30,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 1,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b25fcfd2cb973608b4567",
+      "type": "kartoffeln",
+      "name": "Kartoffeln",
+      "slug": "kartoffeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b25fcfd2cb973608b4567.png",
+      "usage": 478,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc13",
+        "type": "potatoes",
+        "name": "Kartoffeln",
+        "slug": "kartoffeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc13-d5b74be4.png",
+        "usageByCountry": {
+          "AT": 1126,
+          "AU": 548,
+          "BE": 711,
+          "CA": 260,
+          "CH": 213,
+          "DE": 1009,
+          "ER": 81,
+          "FR": 197,
+          "GB": 773,
+          "LU": 934,
+          "NL": 814,
+          "NZ": 160,
+          "ML": 1017,
+          "US": 829
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5566f93cfd2cb97e018b4568",
+      "type": "schalotte",
+      "name": "Schalotte",
+      "slug": "schalotte",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5566f93cfd2cb97e018b4568.png",
+      "usage": 156,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "575e7ac7fd2cb95f3b8b4567",
+      "type": "rote frühlingszwiebeln",
+      "name": "rote Frühlingszwiebeln",
+      "slug": "rote-fruhlingszwiebeln",
+      "description": null,
+      "internalName": "Rote Frühlingszwiebeln",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/575e7ac7fd2cb95f3b8b4567-783a4a29.png",
+      "usage": 14,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55798feb4dab71e4468b4568",
+      "type": "portobello-pilze",
+      "name": "Portobello-Pilze",
+      "slug": "portobello-pilze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/55798feb4dab71e4468b4568-802d5477.png",
+      "usage": 57,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbde",
+        "type": "mushrooms",
+        "name": "Pilze",
+        "slug": "pilze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbde-4d22942c.png",
+        "usageByCountry": {
+          "AT": 558,
+          "AU": 96,
+          "BE": 230,
+          "CA": 75,
+          "CH": 86,
+          "DE": 484,
+          "ER": 1,
+          "FR": 60,
+          "GB": 207,
+          "LU": 251,
+          "NL": 280,
+          "NZ": 21,
+          "ML": 17,
+          "US": 209
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b32d1f8b25ef93e8b456e",
+      "type": "basilikum",
+      "name": "Basilikum",
+      "slug": "basilikum",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b32d1f8b25ef93e8b456e.png",
+      "usage": 428,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb45",
+        "type": "basil",
+        "name": "Basilikum",
+        "slug": "basilikum",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb45-a1061353.png",
+        "usageByCountry": {
+          "AT": 475,
+          "AU": 94,
+          "BE": 150,
+          "CA": 72,
+          "CH": 92,
+          "DE": 459,
+          "ER": 0,
+          "FR": 44,
+          "GB": 167,
+          "LU": 168,
+          "NL": 191,
+          "NZ": 14,
+          "ML": 0,
+          "US": 172
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b34b64dab71aa058b4573",
+      "type": "petersilie",
+      "name": "Petersilie",
+      "slug": "petersilie",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b34b64dab71aa058b4573.png",
+      "usage": 861,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbf9",
+        "type": "parsley",
+        "name": "Petersilie",
+        "slug": "petersilie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbf9-f38cbfcd.png",
+        "usageByCountry": {
+          "AT": 1051,
+          "AU": 441,
+          "BE": 263,
+          "CA": 156,
+          "CH": 193,
+          "DE": 961,
+          "ER": 27,
+          "FR": 90,
+          "GB": 464,
+          "LU": 298,
+          "NL": 300,
+          "NZ": 60,
+          "ML": 7,
+          "US": 389
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55534596f8b25ea1038b4569",
+      "type": "schnittlauch",
+      "name": "Schnittlauch",
+      "slug": "schnittlauch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55534596f8b25ea1038b4569.png",
+      "usage": 358,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb74",
+        "type": "chives",
+        "name": "Schnittlauch",
+        "slug": "schnittlauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb74-921bfcce.png",
+        "usageByCountry": {
+          "AT": 382,
+          "AU": 32,
+          "BE": 85,
+          "CA": 38,
+          "CH": 68,
+          "DE": 358,
+          "ER": 0,
+          "FR": 30,
+          "GB": 71,
+          "LU": 117,
+          "NL": 104,
+          "NZ": 20,
+          "ML": 0,
+          "US": 80
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555d950c4dab714a1b8b4567",
+      "type": "quark",
+      "name": "Quark",
+      "slug": "quark",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555d950c4dab714a1b8b4567.png",
+      "usage": 8,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "58aecd92c6243b36ac39c7c3",
+      "type": "gewurzmischung-kartoffelpuffer",
+      "name": "Gewürzmischung \"Kartoffelpuffer\"",
+      "slug": "gewurzmischung-kartoffelpuffer",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/58aecd92c6243b36ac39c7c3-7caf0965.png",
+      "usage": 3,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        },
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc32",
+        "type": "spice-mix",
+        "name": "Gewürzmischung",
+        "slug": "gewurzmischung",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc32-7154509f.png",
+        "usageByCountry": {
+          "AT": 594,
+          "AU": 114,
+          "BE": 15,
+          "CA": 34,
+          "CH": 92,
+          "DE": 475,
+          "ER": 36,
+          "FR": 10,
+          "GB": 42,
+          "LU": 10,
+          "NL": 25,
+          "NZ": 48,
+          "ML": 10,
+          "US": 366
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b30530e",
+      "type": "under-30-minutes",
+      "name": "Zeit sparen",
+      "slug": "zeit-sparen",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/HF_Icon_App_LessThan30min.png",
+      "numberOfRecipes": 4370,
+      "numberOfRecipesByCountry": {
+        "AT": 1140,
+        "AU": 141,
+        "BE": 540,
+        "CA": 0,
+        "CH": 201,
+        "DE": 989,
+        "ER": 0,
+        "FR": 128,
+        "GB": 0,
+        "LU": 581,
+        "NL": 644,
+        "NZ": 0,
+        "ML": 0,
+        "US": 6
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305317",
+      "type": "vegetarian",
+      "name": "Vegetarisch",
+      "slug": "vegetarisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-veggie%403x.png",
+      "numberOfRecipes": 7556,
+      "numberOfRecipesByCountry": {
+        "AT": 1623,
+        "AU": 346,
+        "BE": 752,
+        "CA": 165,
+        "CH": 258,
+        "DE": 1507,
+        "ER": 0,
+        "FR": 207,
+        "GB": 368,
+        "LU": 1011,
+        "NL": 893,
+        "NZ": 10,
+        "ML": 61,
+        "US": 355
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305320",
+      "type": "high-fiber",
+      "name": "ballaststoffreich",
+      "slug": "ballaststoffreich",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 817,
+      "numberOfRecipesByCountry": {
+        "AT": 303,
+        "AU": 121,
+        "BE": 17,
+        "CA": 0,
+        "CH": 47,
+        "DE": 310,
+        "ER": 0,
+        "FR": 0,
+        "GB": 1,
+        "LU": 1,
+        "NL": 17,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b30531a",
+      "type": "low-calorie",
+      "name": "leichter Genuss",
+      "slug": "leichter-genuss",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 4438,
+      "numberOfRecipesByCountry": {
+        "AT": 1377,
+        "AU": 144,
+        "BE": 299,
+        "CA": 0,
+        "CH": 139,
+        "DE": 1205,
+        "ER": 0,
+        "FR": 128,
+        "GB": 111,
+        "LU": 576,
+        "NL": 380,
+        "NZ": 79,
+        "ML": 0,
+        "US": 0
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b25fcfd2cb973608b4567",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "id": "5566f93cfd2cb97e018b4568",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "id": "575e7ac7fd2cb95f3b8b4567",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "55798feb4dab71e4468b4568",
+          "amount": 3,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b32d1f8b25ef93e8b456e",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b34b64dab71aa058b4573",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55534596f8b25ea1038b4569",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "555d950c4dab714a1b8b4567",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "58aecd92c6243b36ac39c7c3",
+          "amount": 51,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Wasche Gemüse und Kräuter ab, putze die Pilze. Und schon kann`s losgehen...\n\nKartoffeln schälen und grob reiben. In einer großen Schüssel geriebene Kartoffelmasse mit etwas Salz bis zur Weiterverarbeitung ziehen lassen. In der Zwischenzeit kannst Du mit der Zubereitung fortfahren.",
+      "instructionsHTML": "<p>Wasche Gemüse und Kräuter ab, putze die Pilze. Und schon kann`s losgehen...</p>\n<p>Kartoffeln schälen und grob reiben. In einer großen Schüssel geriebene Kartoffelmasse mit etwas Salz bis zur Weiterverarbeitung ziehen lassen. In der Zwischenzeit kannst Du mit der Zubereitung fortfahren.</p>",
+      "instructions": "Wasche Gemüse und Kräuter ab, putze die Pilze. Und schon kann`s losgehen...\nKartoffeln schälen und grob reiben. In einer großen Schüssel geriebene Kartoffelmasse mit etwas Salz bis zur Weiterverarbeitung ziehen lassen. In der Zwischenzeit kannst Du mit der Zubereitung fortfahren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5b06cb04ae08b56069114182/step-bcabd159.jpg",
+          "caption": "Kartoffeln reiben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b25fcfd2cb973608b4567",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Schalotte abziehen und grob reiben. Frühlingszwiebeln schräg in ca. ½ cm dicke Ringe schneiden. Portobello-Pilze halbieren und in dünne Scheiben schneiden. Blätter von Basilikum und Petersilie abzupfen und zusammen mit dem Schnittlauch (einige Schnittlauchröllchen für die Dekoration beiseitelegen) fein hacken.",
+      "instructionsHTML": "<p>Schalotte abziehen und grob reiben. Frühlingszwiebeln schräg in ca. ½ cm dicke Ringe schneiden. Portobello-Pilze halbieren und in dünne Scheiben schneiden. Blätter von Basilikum und Petersilie abzupfen und zusammen mit dem Schnittlauch (einige Schnittlauchröllchen für die Dekoration beiseitelegen) fein hacken.</p>",
+      "instructions": "Schalotte abziehen und grob reiben. Frühlingszwiebeln schräg in ca. ½ cm dicke Ringe schneiden. Portobello-Pilze halbieren und in dünne Scheiben schneiden. Blätter von Basilikum und Petersilie abzupfen und zusammen mit dem Schnittlauch (einige Schnittlauchröllchen für die Dekoration beiseitelegen) fein hacken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5b06cb04ae08b56069114182/step-3ae0bdf9.jpg",
+          "caption": "Pilze schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b32d1f8b25ef93e8b456e",
+        "554b34b64dab71aa058b4573",
+        "55798feb4dab71e4468b4568",
+        "575e7ac7fd2cb95f3b8b4567",
+        "5566f93cfd2cb97e018b4568",
+        "55534596f8b25ea1038b4569"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einer kleinen Schüssel Quark mit gehackten Kräutern, Salz und Pfeffer vermischen.",
+      "instructionsHTML": "<p>In einer kleinen Schüssel Quark mit gehackten Kräutern, Salz und Pfeffer vermischen.</p>",
+      "instructions": "In einer kleinen Schüssel Quark mit gehackten Kräutern, Salz und Pfeffer vermischen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5b06cb04ae08b56069114182/step-65d11e78.jpg",
+          "caption": "Quark abschmecken"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "55b0a135fd2cb9121e8b4567",
+        "555d950c4dab714a1b8b4567",
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Mit den Händen das überschüssige Wasser aus der Kartoffelmasse herausdrücken. Dann mit Gewürzmischung, geriebener Schalotte, Salz und Pfeffer vermengen",
+      "instructionsHTML": "<p>Mit den Händen das überschüssige Wasser aus der Kartoffelmasse herausdrücken. Dann mit Gewürzmischung, geriebener Schalotte, Salz und Pfeffer vermengen</p>",
+      "instructions": "Mit den Händen das überschüssige Wasser aus der Kartoffelmasse herausdrücken. Dann mit Gewürzmischung, geriebener Schalotte, Salz und Pfeffer vermengen",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5b06cb04ae08b56069114182/step-565f03db.jpg",
+          "caption": "Kartoffeln würzen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "58aecd92c6243b36ac39c7c3"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "In einer kleinen Pfanne 1 – 2 EL Öl bei mittlerer Stufe erwärmen, ½ der Kartoffelmasse zugeben, mit einem Esslöffel flachdrücken und jede Seite 3 – 4 Min. goldbraun braten. Anschließend Puffer herausnehmen und mit der restlichen Masse genauso verfahren. Anschließend alle Puffer in der abgedeckten Pfanne bei geringer Hitze warmhalten.\n\nTipp: Wenn Du die überstehenden Kartoffelraspel an den Rändern mit dem Löffel fest drückst, können sie beim Braten nicht verbrennen.",
+      "instructionsHTML": "<p>In einer kleinen Pfanne 1 – 2 EL Öl bei mittlerer Stufe erwärmen, ½ der Kartoffelmasse zugeben, mit einem Esslöffel flachdrücken und jede Seite 3 – 4 Min. goldbraun braten. Anschließend Puffer herausnehmen und mit der restlichen Masse genauso verfahren. Anschließend alle Puffer in der abgedeckten Pfanne bei geringer Hitze warmhalten.</p>\n<p>Tipp: Wenn Du die überstehenden Kartoffelraspel an den Rändern mit dem Löffel fest drückst, können sie beim Braten nicht verbrennen.</p>",
+      "instructions": "In einer kleinen Pfanne 1 – 2 EL Öl bei mittlerer Stufe erwärmen, ½ der Kartoffelmasse zugeben, mit einem Esslöffel flachdrücken und jede Seite 3 – 4 Min. goldbraun braten. Anschließend Puffer herausnehmen und mit der restlichen Masse genauso verfahren. Anschließend alle Puffer in der abgedeckten Pfanne bei geringer Hitze warmhalten.\nTipp: Wenn Du die überstehenden Kartoffelraspel an den Rändern mit dem Löffel fest drückst, können sie beim Braten nicht verbrennen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5b06cb04ae08b56069114182/step-36b17bef.jpg",
+          "caption": "Kartoffelpuffer braten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "In einer großen Pfanne ½ EL Öl auf mittlerer Stufe erwärmen, Pilzscheiben darin ca. 5 Min. braten. Frühlingszwiebelringe erst zum Schluss unterheben, so bleiben sie schön knackig. Mit Salz und Pfeffer abschmecken. Kartoffelpuffer auf Teller anrichten, Portobello-Pilzpfanne darauf verteilen, mit restlichen Schnittlauchröllchen bestreuen und zusammen mit Kräuterquark genießen.",
+      "instructionsHTML": "<p>In einer großen Pfanne ½ EL Öl auf mittlerer Stufe erwärmen, Pilzscheiben darin ca. 5 Min. braten. Frühlingszwiebelringe erst zum Schluss unterheben, so bleiben sie schön knackig. Mit Salz und Pfeffer abschmecken. Kartoffelpuffer auf Teller anrichten, Portobello-Pilzpfanne darauf verteilen, mit restlichen Schnittlauchröllchen bestreuen und zusammen mit Kräuterquark genießen.</p>",
+      "instructions": "In einer großen Pfanne ½ EL Öl auf mittlerer Stufe erwärmen, Pilzscheiben darin ca. 5 Min. braten. Frühlingszwiebelringe erst zum Schluss unterheben, so bleiben sie schön knackig. Mit Salz und Pfeffer abschmecken. Kartoffelpuffer auf Teller anrichten, Portobello-Pilzpfanne darauf verteilen, mit restlichen Schnittlauchröllchen bestreuen und zusammen mit Kräuterquark genießen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5b06cb04ae08b56069114182/step-04940f78.jpg",
+          "caption": "Pilze anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 0,
+  "ratingsCount": 0,
+  "favoritesCount": 0,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/kartoffelpuffer-mit-portobello-pilzpfanne-5b06cb04ae08b56069114182",
+  "clonedFrom": "58aece5ec9fd0803f9471c53",
+  "canonical": "58aece5ec9fd0803f9471c53",
+  "canonicalLink": "https://www.hellofresh.de/recipes/kartoffelpuffer-mit-portobello-pilzpfanne-n-58aece5ec9fd0803f9471c53"
+}

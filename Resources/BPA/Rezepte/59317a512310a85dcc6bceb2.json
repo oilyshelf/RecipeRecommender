@@ -1,0 +1,971 @@
+{
+  "country": "DE",
+  "id": "59317a512310a85dcc6bceb2",
+  "name": "Rauchfleisch-Pizza",
+  "seoName": "Rauchfleisch-Pizza mit frischen Tomaten",
+  "category": null,
+  "slug": "thin-crisp-rauchfleisch-pizza",
+  "headline": "mit saftigen Himbeertomaten und Salat",
+  "description": "Für uns ist der perfekte Pizzaboden hauchdünn und herrlich knusprig. Damit dies auch funktioniert, haben wir uns für einen Flammkuchenteig entschieden. Herzhaft belegt mit rauchigem Rindfleisch, frischen Tomaten, Mozzarella und frischen Kräutern macht Dich diese Pizza satt und glücklich.",
+  "descriptionHTML": "<p>Für uns ist der perfekte Pizzaboden hauchdünn und herrlich knusprig. Damit dies auch funktioniert, haben wir uns für einen Flammkuchenteig entschieden. Herzhaft belegt mit rauchigem Rindfleisch, frischen Tomaten, Mozzarella und frischen Kräutern macht Dich diese Pizza satt und glücklich.</p>",
+  "descriptionMarkdown": "Für uns ist der perfekte Pizzaboden hauchdünn und herrlich knusprig. Damit dies auch funktioniert, haben wir uns für einen Flammkuchenteig entschieden. Herzhaft belegt mit rauchigem Rindfleisch, frischen Tomaten, Mozzarella und frischen Kräutern macht Dich diese Pizza satt und glücklich.",
+  "seoDescription": "Herzhaft belegt mit rauchigem Rindfleisch, frischen Tomaten, Mozzarella und frischen Kräutern macht Dich diese Pizza satt und glücklich.",
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 500,
+  "createdAt": "2017-06-02T14:46:41+00:00",
+  "updatedAt": "2017-11-26T21:41:32+00:00",
+  "link": "https://hellofresh.com/recipes/59317a512310a85dcc6bceb2",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/thin-crisp-rauchfleisch-pizza-a5b1618f.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/thin-crisp-rauchfleisch-pizza-35318c04.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2707,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 647,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 14,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 67,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 36,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 4,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "567270cdf8b25e663f8b4567",
+      "type": "knoblauchzehe",
+      "name": "Knoblauchzehe",
+      "slug": "knoblauchzehe",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/567270cdf8b25e663f8b4567.png",
+      "usage": 1222,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba4",
+        "type": "garlic",
+        "name": "Knoblauch",
+        "slug": "knoblauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba4-20b617ed.png",
+        "usageByCountry": {
+          "AT": 1835,
+          "AU": 1130,
+          "BE": 998,
+          "CA": 560,
+          "CH": 362,
+          "DE": 1709,
+          "ER": 148,
+          "FR": 320,
+          "GB": 1260,
+          "LU": 1326,
+          "NL": 1183,
+          "NZ": 324,
+          "ML": 239,
+          "US": 1433
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2621fd2cb99c598b4576",
+      "type": "tomaten",
+      "name": "Tomate",
+      "slug": "tomaten",
+      "description": null,
+      "internalName": "Tomate",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2621fd2cb99c598b4576.png",
+      "usage": 577,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b32d1f8b25ef93e8b456e",
+      "type": "basilikum",
+      "name": "Basilikum",
+      "slug": "basilikum",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b32d1f8b25ef93e8b456e.png",
+      "usage": 428,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb45",
+        "type": "basil",
+        "name": "Basilikum",
+        "slug": "basilikum",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb45-a1061353.png",
+        "usageByCountry": {
+          "AT": 475,
+          "AU": 94,
+          "BE": 150,
+          "CA": 72,
+          "CH": 92,
+          "DE": 459,
+          "ER": 0,
+          "FR": 44,
+          "GB": 167,
+          "LU": 168,
+          "NL": 191,
+          "NZ": 14,
+          "ML": 0,
+          "US": 172
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1a5b4dab71c8058b456d",
+      "type": "rosmarin",
+      "name": "Rosmarin",
+      "slug": "rosmarin",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1a5b4dab71c8058b456d.png",
+      "usage": 183,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc1f",
+        "type": "rosemary",
+        "name": "Rosmarin",
+        "slug": "rosmarin",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc1f-4ba602ae.png",
+        "usageByCountry": {
+          "AT": 225,
+          "AU": 75,
+          "BE": 121,
+          "CA": 52,
+          "CH": 43,
+          "DE": 221,
+          "ER": 2,
+          "FR": 29,
+          "GB": 104,
+          "LU": 131,
+          "NL": 145,
+          "NZ": 19,
+          "ML": 0,
+          "US": 126
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da357fd2cb943758b4567",
+      "type": "thymian",
+      "name": "Thymian",
+      "slug": "thymian",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da357fd2cb943758b4567.png",
+      "usage": 245,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc43",
+        "type": "thyme",
+        "name": "Thymian",
+        "slug": "thymian",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc43-d0cc4199.png",
+        "usageByCountry": {
+          "AT": 252,
+          "AU": 94,
+          "BE": 243,
+          "CA": 96,
+          "CH": 34,
+          "DE": 252,
+          "ER": 0,
+          "FR": 73,
+          "GB": 187,
+          "LU": 346,
+          "NL": 288,
+          "NZ": 38,
+          "ML": 213,
+          "US": 322
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556ecabbf8b25e04068b4568",
+      "type": "flammkuchenteig",
+      "name": "Flammkuchenteig",
+      "slug": "flammkuchenteig",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556ecabbf8b25e04068b4568.png",
+      "usage": 68,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        },
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc0d",
+        "type": "pizza-dough",
+        "name": "Pizza-Teig",
+        "slug": "pizza-teig",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc0d-784518af.png",
+        "usageByCountry": {
+          "AT": 95,
+          "AU": 50,
+          "BE": 2,
+          "CA": 13,
+          "CH": 18,
+          "DE": 83,
+          "ER": 0,
+          "FR": 0,
+          "GB": 18,
+          "LU": 0,
+          "NL": 2,
+          "NZ": 5,
+          "ML": 0,
+          "US": 28
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b31684dab71a6058b4573",
+      "type": "mozzarella",
+      "name": "Mozzarella",
+      "slug": "mozzarella",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b31684dab71a6058b4573.png",
+      "usage": 163,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb68",
+        "type": "cheese",
+        "name": "Greyerzer",
+        "slug": "greyerzer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb68-b56fbaaf.png",
+        "usageByCountry": {
+          "AT": 1889,
+          "AU": 708,
+          "BE": 959,
+          "CA": 367,
+          "CH": 331,
+          "DE": 1778,
+          "ER": 91,
+          "FR": 267,
+          "GB": 876,
+          "LU": 1325,
+          "NL": 1163,
+          "NZ": 169,
+          "ML": 648,
+          "US": 1675
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5818e085c72628590b0ed472",
+      "type": "rinderrauchfleisch",
+      "name": "Rinderrauchfleisch",
+      "slug": "rinderrauchfleisch",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/5818e085c72628590b0ed472-d81e360f.png",
+      "usage": 4,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb4e",
+        "type": "beef",
+        "name": "Rindfleisch",
+        "slug": "rindfleisch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb4e-125de8b7.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 363,
+          "BE": 168,
+          "CA": 192,
+          "CH": 81,
+          "DE": 313,
+          "ER": 66,
+          "FR": 51,
+          "GB": 276,
+          "LU": 167,
+          "NL": 187,
+          "NZ": 103,
+          "ML": 494,
+          "US": 655
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556ecf1b4dab7194558b4568",
+      "type": "kopfsalat",
+      "name": "Kopfsalat",
+      "slug": "kopfsalat",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556ecf1b4dab7194558b4568.png",
+      "usage": 37,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc22",
+        "type": "salad",
+        "name": "Salat",
+        "slug": "salat",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc22-d5b9cc88.png",
+        "usageByCountry": {
+          "AT": 933,
+          "AU": 445,
+          "BE": 460,
+          "CA": 159,
+          "CH": 198,
+          "DE": 850,
+          "ER": 5,
+          "FR": 99,
+          "GB": 392,
+          "LU": 472,
+          "NL": 542,
+          "NZ": 127,
+          "ML": 0,
+          "US": 393
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    }
+  ],
+  "utensils": [],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b30531a",
+      "type": "low-calorie",
+      "name": "leichter Genuss",
+      "slug": "leichter-genuss",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 4438,
+      "numberOfRecipesByCountry": {
+        "AT": 1377,
+        "AU": 144,
+        "BE": 299,
+        "CA": 0,
+        "CH": 139,
+        "DE": 1205,
+        "ER": 0,
+        "FR": 128,
+        "GB": 111,
+        "LU": 576,
+        "NL": 380,
+        "NZ": 79,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b30530e",
+      "type": "under-30-minutes",
+      "name": "Zeit sparen",
+      "slug": "zeit-sparen",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/HF_Icon_App_LessThan30min.png",
+      "numberOfRecipes": 4370,
+      "numberOfRecipesByCountry": {
+        "AT": 1140,
+        "AU": 141,
+        "BE": 540,
+        "CA": 0,
+        "CH": 201,
+        "DE": 989,
+        "ER": 0,
+        "FR": 128,
+        "GB": 0,
+        "LU": 581,
+        "NL": 644,
+        "NZ": 0,
+        "ML": 0,
+        "US": 6
+      }
+    },
+    {
+      "id": "58aeb949c9fd0851d339ede2",
+      "type": "discovery",
+      "name": "Neuentdeckung",
+      "slug": "neuentdeckung",
+      "iconLink": null,
+      "numberOfRecipes": 2647,
+      "numberOfRecipesByCountry": {
+        "AT": 1045,
+        "AU": 0,
+        "BE": 131,
+        "CA": 0,
+        "CH": 105,
+        "DE": 897,
+        "ER": 0,
+        "FR": 0,
+        "GB": 4,
+        "LU": 133,
+        "NL": 139,
+        "NZ": 0,
+        "ML": 193,
+        "US": 0
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053ac",
+      "type": "italian",
+      "name": "Italienisch",
+      "slug": "italienisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053ac-ed3b5276.jpg",
+      "usage": 4262
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "567270cdf8b25e663f8b4567",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b32d1f8b25ef93e8b456e",
+          "amount": 6.6,
+          "unit": "g"
+        },
+        {
+          "id": "554b1a5b4dab71c8058b456d",
+          "amount": 6.6,
+          "unit": "g"
+        },
+        {
+          "id": "555da357fd2cb943758b4567",
+          "amount": 6.6,
+          "unit": "g"
+        },
+        {
+          "id": "556ecabbf8b25e04068b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b31684dab71a6058b4573",
+          "amount": 125,
+          "unit": "g"
+        },
+        {
+          "id": "5818e085c72628590b0ed472",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "id": "556ecf1b4dab7194558b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "567270cdf8b25e663f8b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b2621fd2cb99c598b4576",
+          "amount": 4,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b32d1f8b25ef93e8b456e",
+          "amount": 13.2,
+          "unit": "g"
+        },
+        {
+          "id": "554b1a5b4dab71c8058b456d",
+          "amount": 13.2,
+          "unit": "g"
+        },
+        {
+          "id": "555da357fd2cb943758b4567",
+          "amount": 13.2,
+          "unit": "g"
+        },
+        {
+          "id": "556ecabbf8b25e04068b4568",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b31684dab71a6058b4573",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "5818e085c72628590b0ed472",
+          "amount": 160,
+          "unit": "g"
+        },
+        {
+          "id": "556ecf1b4dab7194558b4568",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": null
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": null
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Wasche Gemüse und Kräuter ab. Heize den Backofen auf 220 °C Ober-/Unterhitze (200 °C Umluft) vor. Zum Kochen benötigst Du außerdem ein hohes Rührgefäß, einen Pürierstab, ein Backblech und 1 große Schüssel.\n\n**Knoblauch** abziehen. **Himbeertomaten** halbieren, Strunk entfernen, 1 [2] Hälfte in 1,5 cm große Würfel schneiden und beiseitestellen. **Basilikumblätter, Thymianblättchen** und **Rosmarinnadeln** abzupfen, dabei die **Basilikumblätter** separat beiseitelegen. In einem hohen Rührgefäß die restlichen **Tomatenhälften, Knoblauch, Rosmarinnadeln, Thymianblättchen** und ½ EL [1 EL] **Olivenöl** zu einer **Soße** pürieren. Mit **Salz** und **Pfeffer** abschmecken.",
+      "instructionsHTML": "<p>Wasche Gemüse und Kräuter ab. Heize den Backofen auf 220 °C Ober-/Unterhitze (200 °C Umluft) vor. Zum Kochen benötigst Du außerdem ein hohes Rührgefäß, einen Pürierstab, ein Backblech und 1 große Schüssel.</p>\n<p><strong>Knoblauch</strong> abziehen. <strong>Himbeertomaten</strong> halbieren, Strunk entfernen, 1 [2] Hälfte in 1,5 cm große Würfel schneiden und beiseitestellen. <strong>Basilikumblätter, Thymianblättchen</strong> und <strong>Rosmarinnadeln</strong> abzupfen, dabei die <strong>Basilikumblätter</strong> separat beiseitelegen. In einem hohen Rührgefäß die restlichen <strong>Tomatenhälften, Knoblauch, Rosmarinnadeln, Thymianblättchen</strong> und ½ EL [1 EL] <strong>Olivenöl</strong> zu einer <strong>Soße</strong> pürieren. Mit <strong>Salz</strong> und <strong>Pfeffer</strong> abschmecken.</p>",
+      "instructions": "Wasche Gemüse und Kräuter ab. Heize den Backofen auf 220 °C Ober-/Unterhitze (200 °C Umluft) vor. Zum Kochen benötigst Du außerdem ein hohes Rührgefäß, einen Pürierstab, ein Backblech und 1 große Schüssel.\nKnoblauch abziehen. Himbeertomaten halbieren, Strunk entfernen, 1 [2] Hälfte in 1,5 cm große Würfel schneiden und beiseitestellen. Basilikumblätter, Thymianblättchen und Rosmarinnadeln abzupfen, dabei die Basilikumblätter separat beiseitelegen. In einem hohen Rührgefäß die restlichen Tomatenhälften, Knoblauch, Rosmarinnadeln, Thymianblättchen und ½ EL [1 EL] Olivenöl zu einer Soße pürieren. Mit Salz und Pfeffer abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/59317a512310a85dcc6bceb2-0-0-30d65db4.jpg",
+          "caption": "zu beginn"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "**Flammkuchenteig** auf ein Backblech ausrollen. **Tomatensoße** daraufstreichen (am Rand ca. 1 cm frei lassen) und **Pizza** ca. 10 Min. auf der mittleren Schiene im Backofen backen, bis die **Soße** an den Rändern leicht getrocknet ist.",
+      "instructionsHTML": "<p><strong>Flammkuchenteig</strong> auf ein Backblech ausrollen. <strong>Tomatensoße</strong> daraufstreichen (am Rand ca. 1 cm frei lassen) und <strong>Pizza</strong> ca. 10 Min. auf der mittleren Schiene im Backofen backen, bis die <strong>Soße</strong> an den Rändern leicht getrocknet ist.</p>",
+      "instructions": "Flammkuchenteig auf ein Backblech ausrollen. Tomatensoße daraufstreichen (am Rand ca. 1 cm frei lassen) und Pizza ca. 10 Min. auf der mittleren Schiene im Backofen backen, bis die Soße an den Rändern leicht getrocknet ist.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/59317a512310a85dcc6bceb2-1-0-d1cf7a50.jpg",
+          "caption": "pizza vorbacken"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "**Mozzarella** in dünne Scheiben schneiden. **Salatblätter** klein zupfen und mit 1 TL [1 EL] **Essig**, ½ EL [1 EL] **Olivenöl, Salz** und **Pfeffer** in einer großen Schüssel marinieren.",
+      "instructionsHTML": "<p><strong>Mozzarella</strong> in dünne Scheiben schneiden. <strong>Salatblätter</strong> klein zupfen und mit 1 TL [1 EL] <strong>Essig</strong>, ½ EL [1 EL] <strong>Olivenöl, Salz</strong> und <strong>Pfeffer</strong> in einer großen Schüssel marinieren.</p>",
+      "instructions": "Mozzarella in dünne Scheiben schneiden. Salatblätter klein zupfen und mit 1 TL [1 EL] Essig, ½ EL [1 EL] Olivenöl, Salz und Pfeffer in einer großen Schüssel marinieren.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/59317a512310a85dcc6bceb2-2-0-20dd696e.jpg",
+          "caption": "Währenddessen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Nach der Backzeit **Pizza** aus dem Backofen nehmen und **Mozzarellascheiben** darauf verteilen. Nochmals ca. 10 Min. in den Backofen geben, bis der **Mozzarella** zerlaufen ist und der Teigrand sich goldbraun färbt.",
+      "instructionsHTML": "<p>Nach der Backzeit <strong>Pizza</strong> aus dem Backofen nehmen und <strong>Mozzarellascheiben</strong> darauf verteilen. Nochmals ca. 10 Min. in den Backofen geben, bis der <strong>Mozzarella</strong> zerlaufen ist und der Teigrand sich goldbraun färbt.</p>",
+      "instructions": "Nach der Backzeit Pizza aus dem Backofen nehmen und Mozzarellascheiben darauf verteilen. Nochmals ca. 10 Min. in den Backofen geben, bis der Mozzarella zerlaufen ist und der Teigrand sich goldbraun färbt.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/59317a512310a85dcc6bceb2-3-0-b0d3a2f1.jpg",
+          "caption": "pizza belegen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "**Pizza** aus dem Backofen holen, mit restlichen **Basilikumblättern** und **Rauchfleischscheiben** belegen und in Stücke teilen.",
+      "instructionsHTML": "<p><strong>Pizza</strong> aus dem Backofen holen, mit restlichen <strong>Basilikumblättern</strong> und <strong>Rauchfleischscheiben</strong> belegen und in Stücke teilen.</p>",
+      "instructions": "Pizza aus dem Backofen holen, mit restlichen Basilikumblättern und Rauchfleischscheiben belegen und in Stücke teilen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/59317a512310a85dcc6bceb2-4-0-9d62e3b0.jpg",
+          "caption": "zum schluss"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "**Rauchfleisch-Pizza** und **Salat** auf Teller verteilen, **Salat** mit den **Tomatenwürfeln** bestreuen und zusammen genießen.\n\nEs muss nicht immer kompliziert sein, um wunderbar zu schmecken.",
+      "instructionsHTML": "<p><strong>Rauchfleisch-Pizza</strong> und <strong>Salat</strong> auf Teller verteilen, <strong>Salat</strong> mit den <strong>Tomatenwürfeln</strong> bestreuen und zusammen genießen.</p>\n<p>Es muss nicht immer kompliziert sein, um wunderbar zu schmecken.</p>",
+      "instructions": "Rauchfleisch-Pizza und Salat auf Teller verteilen, Salat mit den Tomatenwürfeln bestreuen und zusammen genießen.\nEs muss nicht immer kompliziert sein, um wunderbar zu schmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/59317a512310a85dcc6bceb2-5-0-1dc246f7.jpg",
+          "caption": "Anrichten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.2,
+  "ratingsCount": 483,
+  "favoritesCount": 182,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/thin-crisp-rauchfleisch-pizza-59317a512310a85dcc6bceb2",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

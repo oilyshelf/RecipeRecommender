@@ -1,0 +1,901 @@
+{
+  "country": "DE",
+  "id": "5549f0026ced6e77748b4567",
+  "name": "Bratwurst-Spieße mit knusprigen Maniok-Pommes",
+  "seoName": null,
+  "category": null,
+  "slug": "bratwurst-spiesze-mit-knusprigen-maniok-pommes",
+  "headline": "und Gewürz-Mayonnaise",
+  "description": "Was man aus einer guten alten Bratwurst auch ohne Grill alles zaubern kann! Mit dem knackigem Gemüse dazwischen schmeckt die Bratwurst auch gleich viel besser. Der Clou sind aber die Pommes aus Maniok, auch Cassava oder Yucca genannt. Öfter mal etwas anderes! Guten Appetit.",
+  "descriptionHTML": "<p>Was man aus einer guten alten Bratwurst auch ohne Grill alles zaubern kann! Mit dem knackigem Gemüse dazwischen schmeckt die Bratwurst auch gleich viel besser. Der Clou sind aber die Pommes aus Maniok, auch Cassava oder Yucca genannt. Öfter mal etwas anderes! Guten Appetit.</p>",
+  "descriptionMarkdown": "Was man aus einer guten alten Bratwurst auch ohne Grill alles zaubern kann! Mit dem knackigem Gemüse dazwischen schmeckt die Bratwurst auch gleich viel besser. Der Clou sind aber die Pommes aus Maniok, auch Cassava oder Yucca genannt. Öfter mal etwas anderes! Guten Appetit.",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 3,
+  "prepTime": "PT35M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2015-05-06T10:42:10+00:00",
+  "updatedAt": "2017-01-29T18:50:04+00:00",
+  "link": "https://hellofresh.com/recipes/5549f0026ced6e77748b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/5549f0026ced6e77748b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/5549f0026ced6e77748b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3548.032,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 848,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 49,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 77,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b2a3c4dab71a9058b456d",
+      "type": "maniok",
+      "name": "Maniok",
+      "slug": "maniok",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/554b2a3c4dab71a9058b456d-71e6173b.png",
+      "usage": 1,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb63",
+        "type": "cassava",
+        "name": "Maniok",
+        "slug": "maniok",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb63-88d5d495.png",
+        "usageByCountry": {
+          "AT": 1,
+          "AU": 0,
+          "BE": 0,
+          "CA": 0,
+          "CH": 0,
+          "DE": 1,
+          "ER": 0,
+          "FR": 0,
+          "GB": 1,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2a674dab71c8058b4572",
+      "type": "gewürzmischung \"linsen-suppe\"",
+      "name": "Gewürzmischung \"Linsen-Suppe\"",
+      "slug": "gewurzmischung-linsen-suppe",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2a674dab71c8058b4572.png",
+      "usage": 62,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc32",
+        "type": "spice-mix",
+        "name": "Gewürzmischung",
+        "slug": "gewurzmischung",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc32-7154509f.png",
+        "usageByCountry": {
+          "AT": 594,
+          "AU": 114,
+          "BE": 15,
+          "CA": 34,
+          "CH": 92,
+          "DE": 475,
+          "ER": 36,
+          "FR": 10,
+          "GB": 42,
+          "LU": 10,
+          "NL": 25,
+          "NZ": 48,
+          "ML": 10,
+          "US": 366
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2a87f8b25ef53e8b4573",
+      "type": "kirschtomaten",
+      "name": "Kirschtomaten",
+      "slug": "kirschtomaten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2a87f8b25ef53e8b4573.png",
+      "usage": 324,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc46",
+        "type": "tomatoes",
+        "name": "Tomaten",
+        "slug": "tomaten",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc46-7984cb37.png",
+        "usageByCountry": {
+          "AT": 1523,
+          "AU": 656,
+          "BE": 863,
+          "CA": 281,
+          "CH": 285,
+          "DE": 1452,
+          "ER": 55,
+          "FR": 247,
+          "GB": 788,
+          "LU": 1102,
+          "NL": 1019,
+          "NZ": 162,
+          "ML": 380,
+          "US": 1233
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2aa14dab71aa058b4570",
+      "type": "zucchini",
+      "name": "Zucchini",
+      "slug": "zucchini",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/554b2aa14dab71aa058b4570-0ba23f81.png",
+      "usage": 435,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc58",
+        "type": "zucchini",
+        "name": "Zucchini",
+        "slug": "zucchini",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc58-4066951c.png",
+        "usageByCountry": {
+          "AT": 449,
+          "AU": 407,
+          "BE": 0,
+          "CA": 103,
+          "CH": 74,
+          "DE": 439,
+          "ER": 23,
+          "FR": 0,
+          "GB": 0,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 110,
+          "ML": 163,
+          "US": 443
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2abcf8b25eef3e8b4573",
+      "type": "rote zwiebel",
+      "name": "rote Zwiebel",
+      "slug": "rote-zwiebel",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2abcf8b25eef3e8b4573.png",
+      "usage": 629,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbee",
+        "type": "onion",
+        "name": "Zwiebel",
+        "slug": "zwiebel",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbee-34de32d5.png",
+        "usageByCountry": {
+          "AT": 1698,
+          "AU": 1175,
+          "BE": 1213,
+          "CA": 672,
+          "CH": 321,
+          "DE": 1582,
+          "ER": 152,
+          "FR": 334,
+          "GB": 1502,
+          "LU": 1592,
+          "NL": 1429,
+          "NZ": 274,
+          "ML": 188,
+          "US": 2363
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2ae2fd2cb983608b456a",
+      "type": "geflügelwürste",
+      "name": "Geflügelwürste",
+      "slug": "geflugelwurste",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2ae2fd2cb983608b456a.png",
+      "usage": 5,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f3",
+          "type": "maycontaintracesofallergens",
+          "name": "kann Spuren von Allergenen enthalten",
+          "slug": "kann-spuren-von-allergenen-enthalten",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": true,
+          "iconLink": null,
+          "usage": 1649
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6b",
+        "type": "chicken",
+        "name": "Hähnchen",
+        "slug": "hahnchen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6b-8f15f243.png",
+        "usageByCountry": {
+          "AT": 293,
+          "AU": 427,
+          "BE": 305,
+          "CA": 214,
+          "CH": 94,
+          "DE": 262,
+          "ER": 62,
+          "FR": 92,
+          "GB": 486,
+          "LU": 380,
+          "NL": 282,
+          "NZ": 125,
+          "ML": 653,
+          "US": 668
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2b03f8b25ef93e8b456d",
+      "type": "mayonnaise",
+      "name": "Mayonnaise",
+      "slug": "mayonnaise",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2b03f8b25ef93e8b456d.png",
+      "usage": 140,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f6",
+          "type": "egg",
+          "name": "Ei",
+          "slug": "ei",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+          "usage": 365
+        },
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbd2",
+        "type": "mayonnaise",
+        "name": "Mayonnaise",
+        "slug": "mayonnaise",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbd2-9da5628e.png",
+        "usageByCountry": {
+          "AT": 166,
+          "AU": 135,
+          "BE": 0,
+          "CA": 114,
+          "CH": 20,
+          "DE": 140,
+          "ER": 17,
+          "FR": 0,
+          "GB": 58,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 55,
+          "ML": 11,
+          "US": 231
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b2b27f8b25ef53e8b4574",
+      "type": "holzspieße",
+      "name": "Holzspieße",
+      "slug": "holzspiesze",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b2b27f8b25ef53e8b4574.png",
+      "usage": 60,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc2d",
+        "type": "skewers",
+        "name": "Spieße",
+        "slug": "spiesze",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc2d-f0aa9e09.png",
+        "usageByCountry": {
+          "AT": 98,
+          "AU": 13,
+          "BE": 3,
+          "CA": 18,
+          "CH": 22,
+          "DE": 81,
+          "ER": 0,
+          "FR": 0,
+          "GB": 30,
+          "LU": 2,
+          "NL": 3,
+          "NZ": 0,
+          "ML": 0,
+          "US": 31
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c56fd2cb99c598b4573",
+      "type": "pfefferkörner",
+      "name": "Pfefferkörner",
+      "slug": "pfefferkorner",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c56fd2cb99c598b4573.png",
+      "usage": 190,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f6",
+      "type": "egg",
+      "name": "Ei",
+      "slug": "ei",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f6-63afd198.png",
+      "usage": 365
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    },
+    {
+      "id": "57962a07b7e8697d4b3052f3",
+      "type": "maycontaintracesofallergens",
+      "name": "kann Spuren von Allergenen enthalten",
+      "slug": "kann-spuren-von-allergenen-enthalten",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": true,
+      "iconLink": null,
+      "usage": 1649
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305374",
+      "type": "stove",
+      "name": "Ofen"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305368",
+      "type": "bakingsheet",
+      "name": "Backblech"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305377",
+      "type": "parchmentpaper",
+      "name": "Backpapier"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a3",
+      "type": "african",
+      "name": "Afrikanisch",
+      "slug": "afrikanisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a3-3f3a3d24.jpg",
+      "usage": 176
+    },
+    {
+      "id": "57ebbc17b7e8697d4b3053b4",
+      "type": "fusion",
+      "name": "Fusion",
+      "slug": "fusion",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053b4-38aecbd9.jpg",
+      "usage": 5280
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b2a3c4dab71a9058b456d",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "id": "554b2a674dab71c8058b4572",
+          "amount": 2,
+          "unit": "g"
+        },
+        {
+          "id": "554b2a87f8b25ef53e8b4573",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "id": "554b2aa14dab71aa058b4570",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 0.5,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2ae2fd2cb983608b456a",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2b03f8b25ef93e8b456d",
+          "amount": 40,
+          "unit": "ml"
+        },
+        {
+          "id": "554b2b27f8b25ef53e8b4574",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    },
+    {
+      "yields": 4,
+      "ingredients": [
+        {
+          "id": "554b2a3c4dab71a9058b456d",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "id": "554b2a674dab71c8058b4572",
+          "amount": 4,
+          "unit": "g"
+        },
+        {
+          "id": "554b2a87f8b25ef53e8b4573",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "id": "554b2aa14dab71aa058b4570",
+          "amount": 2,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2abcf8b25eef3e8b4573",
+          "amount": 1,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2ae2fd2cb983608b456a",
+          "amount": 4,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b2b03f8b25ef93e8b456d",
+          "amount": 80,
+          "unit": "ml"
+        },
+        {
+          "id": "554b2b27f8b25ef53e8b4574",
+          "amount": 8,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1c56fd2cb99c598b4573",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Backofen auf 200° C Ober-/Unterhitze vorheizen.",
+      "instructionsHTML": "<p>Backofen auf 200° C Ober-/Unterhitze vorheizen.</p>",
+      "instructions": "Backofen auf 200° C Ober-/Unterhitze vorheizen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Maniokwurzel schälen und in ca. 1 cm dicke und 10 cm lange „Pommes“ schneiden. Mit 2 EL Olivenöl, Gewürzmischung, Salz und Pfeffer mischen. Auf einem mit Backpapier belegten Backblech verteilen und für ca. 20–25 Min. im Ofen knusprig backen.",
+      "instructionsHTML": "<p>Maniokwurzel schälen und in ca. 1 cm dicke und 10 cm lange „Pommes“ schneiden. Mit 2 EL Olivenöl, Gewürzmischung, Salz und Pfeffer mischen. Auf einem mit Backpapier belegten Backblech verteilen und für ca. 20–25 Min. im Ofen knusprig backen.</p>",
+      "instructions": "Maniokwurzel schälen und in ca. 1 cm dicke und 10 cm lange „Pommes“ schneiden. Mit 2 EL Olivenöl, Gewürzmischung, Salz und Pfeffer mischen. Auf einem mit Backpapier belegten Backblech verteilen und für ca. 20–25 Min. im Ofen knusprig backen.",
+      "timers": [
+        {
+          "name": "Maniok im Ofen",
+          "duration": "PT20M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5549f0026ced6e77748b4567/step_555dcf447647d.jpg",
+          "caption": "Maniok schneiden"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5549f0026ced6e77748b4567/step_555dcf44935ef.jpg",
+          "caption": "Maniok marinieren"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b2a3c4dab71a9058b456d",
+        "554b2a674dab71c8058b4572",
+        "554b22cb4dab71c8058b4570",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305368",
+        "57e2674fb7e8697d4b305377",
+        "57e2674fb7e8697d4b305374"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In der Zwischenzeit: Kirschtomaten waschen. Zucchini waschen und in ca. 1 cm dicke Scheiben schneiden. Zwiebel abziehen, vierteln, jedes Viertel noch einmal in der Mitte durchschneiden. Bratwürste in ca. 2 cm dicke Stücke schneiden. Mayonnaise mit ein wenig Salz und Pfeffer verfeinern.",
+      "instructionsHTML": "<p>In der Zwischenzeit: Kirschtomaten waschen. Zucchini waschen und in ca. 1 cm dicke Scheiben schneiden. Zwiebel abziehen, vierteln, jedes Viertel noch einmal in der Mitte durchschneiden. Bratwürste in ca. 2 cm dicke Stücke schneiden. Mayonnaise mit ein wenig Salz und Pfeffer verfeinern.</p>",
+      "instructions": "In der Zwischenzeit: Kirschtomaten waschen. Zucchini waschen und in ca. 1 cm dicke Scheiben schneiden. Zwiebel abziehen, vierteln, jedes Viertel noch einmal in der Mitte durchschneiden. Bratwürste in ca. 2 cm dicke Stücke schneiden. Mayonnaise mit ein wenig Salz und Pfeffer verfeinern.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b2a87f8b25ef53e8b4573",
+        "554b2aa14dab71aa058b4570",
+        "554b2abcf8b25eef3e8b4573",
+        "554b2ae2fd2cb983608b456a",
+        "554b2b03f8b25ef93e8b456d",
+        "554b1c284dab71a9058b456b",
+        "554b1c56fd2cb99c598b4573"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Gemüse- und Bratwurststücke abwechselnd auf die Holzspieße stecken und mit etwas Olivenöl beträufeln. Dann mit Salz und Pfeffer bestreuen und für 10–15 Min. zu den Maniok-Pommes in den Ofen geben. Zu diesem Zeitpunkt können die Pommes einmal gewendet werden.",
+      "instructionsHTML": "<p>Gemüse- und Bratwurststücke abwechselnd auf die Holzspieße stecken und mit etwas Olivenöl beträufeln. Dann mit Salz und Pfeffer bestreuen und für 10–15 Min. zu den Maniok-Pommes in den Ofen geben. Zu diesem Zeitpunkt können die Pommes einmal gewendet werden.</p>",
+      "instructions": "Gemüse- und Bratwurststücke abwechselnd auf die Holzspieße stecken und mit etwas Olivenöl beträufeln. Dann mit Salz und Pfeffer bestreuen und für 10–15 Min. zu den Maniok-Pommes in den Ofen geben. Zu diesem Zeitpunkt können die Pommes einmal gewendet werden.",
+      "timers": [
+        {
+          "name": "Spießchen im Ofen",
+          "duration": "PT15M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5549f0026ced6e77748b4567/step_555dcf44a82b6.jpg",
+          "caption": "Gemüse schneiden"
+        },
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/5549f0026ced6e77748b4567/step_555dcf44bc6d6.jpg",
+          "caption": "Spießchen mit Öl beträufeln"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Bratwurst-Spieße und Maniok-Pommes nach der Garzeit auf Tellern verteilen und mit der Mayonnaise genießen!",
+      "instructionsHTML": "<p>Bratwurst-Spieße und Maniok-Pommes nach der Garzeit auf Tellern verteilen und mit der Mayonnaise genießen!</p>",
+      "instructions": "Bratwurst-Spieße und Maniok-Pommes nach der Garzeit auf Tellern verteilen und mit der Mayonnaise genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 2.8,
+  "ratingsCount": 169,
+  "favoritesCount": 137,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/bratwurst-spiesze-mit-knusprigen-maniok-pommes-5549f0026ced6e77748b4567",
+  "clonedFrom": null,
+  "canonical": null,
+  "canonicalLink": null
+}

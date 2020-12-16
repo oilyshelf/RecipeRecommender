@@ -1,0 +1,862 @@
+{
+  "country": "DE",
+  "id": "56c440084dab7178038b4567",
+  "name": "Fruchtig trifft auf pikant: Glasnudelsalat",
+  "seoName": null,
+  "category": null,
+  "slug": "fruchtig-trifft-auf-pikant-glasnudelsalat",
+  "headline": "mit gebratener Avocado",
+  "description": "Sie sehen nicht nur schön aus, sie schmecken auch noch wunderbar: Glasnudeln! Diese ostasiatische Spezialität zaubert Dir heute Exotik in die Küche. Zusammen mit gebratener Avocado, Passionsfrucht und Zitrone ist dieses Rezept die perfekte fruchtig-würzige Mischung. Guten Appetit!",
+  "descriptionHTML": "<p>Sie sehen nicht nur schön aus, sie schmecken auch noch wunderbar: Glasnudeln! Diese ostasiatische Spezialität zaubert Dir heute Exotik in die Küche. Zusammen mit gebratener Avocado, Passionsfrucht und Zitrone ist dieses Rezept die perfekte fruchtig-würzige Mischung. Guten Appetit!</p>",
+  "descriptionMarkdown": "Sie sehen nicht nur schön aus, sie schmecken auch noch wunderbar: Glasnudeln! Diese ostasiatische Spezialität zaubert Dir heute Exotik in die Küche. Zusammen mit gebratener Avocado, Passionsfrucht und Zitrone ist dieses Rezept die perfekte fruchtig-würzige Mischung. Guten Appetit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 1,
+  "prepTime": "PT30M",
+  "totalTime": null,
+  "servingSize": 0,
+  "createdAt": "2016-02-17T09:40:24+00:00",
+  "updatedAt": "2017-01-07T16:04:46+00:00",
+  "link": "https://hellofresh.com/recipes/56c440084dab7178038b4567",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/56c440084dab7178038b4567.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/56c440084dab7178038b4567.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 3008.2960000000003,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 719,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 115,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 0,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "569fb8104dab71fc2c8b4567",
+      "type": "glasnudeln",
+      "name": "Glasnudeln",
+      "slug": "glasnudeln",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/569fb8104dab71fc2c8b4567.png",
+      "usage": 6,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052f5",
+          "type": "gluten",
+          "name": "Weizen",
+          "slug": "weizen",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+          "usage": 1406
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe4",
+        "type": "noodles",
+        "name": "Nudeln",
+        "slug": "nudeln",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe4-6d4a9c00.png",
+        "usageByCountry": {
+          "AT": 147,
+          "AU": 107,
+          "BE": 168,
+          "CA": 55,
+          "CH": 33,
+          "DE": 125,
+          "ER": 0,
+          "FR": 27,
+          "GB": 106,
+          "LU": 141,
+          "NL": 185,
+          "NZ": 13,
+          "ML": 121,
+          "US": 53
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "56bdcfaa4dab71ac4b8b4567",
+      "type": "zitrone, bio",
+      "name": "Zitrone, bio",
+      "slug": "zitrone-bio",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/56bdcfaa4dab71ac4b8b4567.png",
+      "usage": 25,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc5",
+        "type": "lemon",
+        "name": "Zitrone",
+        "slug": "zitrone",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc5-ae27442b.png",
+        "usageByCountry": {
+          "AT": 621,
+          "AU": 517,
+          "BE": 209,
+          "CA": 190,
+          "CH": 140,
+          "DE": 602,
+          "ER": 34,
+          "FR": 71,
+          "GB": 446,
+          "LU": 282,
+          "NL": 257,
+          "NZ": 106,
+          "ML": 95,
+          "US": 714
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b73b14dab71160d8b456a",
+      "type": "avocado",
+      "name": "Avocado",
+      "slug": "avocado",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/554b73b14dab71160d8b456a-0d84328a.png",
+      "usage": 181,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb3c",
+        "type": "avocado",
+        "name": "Avocado",
+        "slug": "avocado",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb3c-5ad65fb5.png",
+        "usageByCountry": {
+          "AT": 193,
+          "AU": 80,
+          "BE": 73,
+          "CA": 51,
+          "CH": 45,
+          "DE": 181,
+          "ER": 0,
+          "FR": 6,
+          "GB": 58,
+          "LU": 92,
+          "NL": 81,
+          "NZ": 21,
+          "ML": 14,
+          "US": 152
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b7f33fd2cb96c628b456a",
+      "type": "ingwer",
+      "name": "Ingwer",
+      "slug": "ingwer",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b7f33fd2cb96c628b456a.png",
+      "usage": 241,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fba7",
+        "type": "ginger",
+        "name": "Ingwer",
+        "slug": "ingwer",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fba7-565cc248.png",
+        "usageByCountry": {
+          "AT": 278,
+          "AU": 225,
+          "BE": 200,
+          "CA": 107,
+          "CH": 52,
+          "DE": 241,
+          "ER": 20,
+          "FR": 57,
+          "GB": 231,
+          "LU": 241,
+          "NL": 220,
+          "NZ": 65,
+          "ML": 25,
+          "US": 246
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1adef8b25ef93e8b456a",
+      "type": "rote-chili",
+      "name": "roter Chili",
+      "slug": "rote-chili",
+      "description": null,
+      "internalName": "roter Chili",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1adef8b25ef93e8b456a.png",
+      "usage": 325,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6d",
+        "type": "chili",
+        "name": "Chili",
+        "slug": "chili",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6d-270fd94b.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 223,
+          "BE": 0,
+          "CA": 48,
+          "CH": 61,
+          "DE": 326,
+          "ER": 0,
+          "FR": 0,
+          "GB": 75,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 55,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1e654dab71a6058b4571",
+      "type": "koriander",
+      "name": "Koriander",
+      "slug": "koriander",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1e654dab71a6058b4571.png",
+      "usage": 240,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb79",
+        "type": "cilantro-coriander",
+        "name": "Cilantro / Koriander",
+        "slug": "cilantro-koriander",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb79-7a34459a.png",
+        "usageByCountry": {
+          "AT": 253,
+          "AU": 387,
+          "BE": 166,
+          "CA": 173,
+          "CH": 75,
+          "DE": 240,
+          "ER": 3,
+          "FR": 66,
+          "GB": 542,
+          "LU": 305,
+          "NL": 193,
+          "NZ": 102,
+          "ML": 8,
+          "US": 432
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555dbc35f8b25e406a8b4568",
+      "type": "thai-basilikum",
+      "name": "Thai-Basilikum",
+      "slug": "thai-basilikum",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555dbc35f8b25e406a8b4568.png",
+      "usage": 31,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb45",
+        "type": "basil",
+        "name": "Basilikum",
+        "slug": "basilikum",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb45-a1061353.png",
+        "usageByCountry": {
+          "AT": 475,
+          "AU": 94,
+          "BE": 150,
+          "CA": 72,
+          "CH": 92,
+          "DE": 459,
+          "ER": 0,
+          "FR": 44,
+          "GB": 167,
+          "LU": 168,
+          "NL": 191,
+          "NZ": 14,
+          "ML": 0,
+          "US": 172
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556dc5cafd2cb9b7098b4567",
+      "type": "passionsfrucht",
+      "name": "Passionsfrucht",
+      "slug": "passionsfrucht",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556dc5cafd2cb9b7098b4567.png",
+      "usage": 2,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbfc",
+        "type": "passion-fruit",
+        "name": "Passionsfrucht",
+        "slug": "passionsfrucht",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbfc-968a4e52.png",
+        "usageByCountry": {
+          "AT": 2,
+          "AU": 2,
+          "BE": 0,
+          "CA": 0,
+          "CH": 0,
+          "DE": 2,
+          "ER": 0,
+          "FR": 0,
+          "GB": 0,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "569fb8d8fd2cb9d0328b4567",
+      "type": "szechuan pfeffer",
+      "name": "Szechuan Pfeffer",
+      "slug": "szechuan-pfeffer",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredients/569fb8d8fd2cb9d0328b4567-532f7283.png",
+      "usage": 1,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6e",
+        "type": "chili-spice",
+        "name": "Chili (Gewürz)",
+        "slug": "chili-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6e-57ddbd04.png",
+        "usageByCountry": {
+          "AT": 67,
+          "AU": 111,
+          "BE": 0,
+          "CA": 73,
+          "CH": 26,
+          "DE": 71,
+          "ER": 42,
+          "FR": 0,
+          "GB": 115,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 51,
+          "ML": 81,
+          "US": 426
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b22cb4dab71c8058b4570",
+      "type": "olivenol",
+      "name": "Olivenöl*",
+      "slug": "olivenol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b22cb4dab71c8058b4570.png",
+      "usage": 1250,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052f5",
+      "type": "gluten",
+      "name": "Weizen",
+      "slug": "weizen",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052f5-e20d9ca4.png",
+      "usage": 1406
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b30539c",
+      "type": "largepot",
+      "name": "Großer Topf"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305382",
+      "type": "strainer",
+      "name": "Sieb"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30536e",
+      "type": "grater",
+      "name": "Reibe"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30538d",
+      "type": "saladbowl",
+      "name": "Salatschüssel"
+    },
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    }
+  ],
+  "tags": [],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053a5",
+      "type": "asian",
+      "name": "Asiatisch",
+      "slug": "asiatisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053a5-0483bf75.jpg",
+      "usage": 2484
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "569fb8104dab71fc2c8b4567",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "id": "56bdcfaa4dab71ac4b8b4567",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b73b14dab71160d8b456a",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b7f33fd2cb96c628b456a",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b1adef8b25ef93e8b456a",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1e654dab71a6058b4571",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "555dbc35f8b25e406a8b4568",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "556dc5cafd2cb9b7098b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "569fb8d8fd2cb9d0328b4567",
+          "amount": 1,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b22cb4dab71c8058b4570",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "In einem großen Topf reichlich Salzwasser zum Kochen bringen. Topf vom Herd nehmen, Glasnudeln darin 8–10 Minuten ziehen lassen. Danach in ein Sieb abgießen und mit kaltem Wasser abschrecken.",
+      "instructionsHTML": "<p>In einem großen Topf reichlich Salzwasser zum Kochen bringen. Topf vom Herd nehmen, Glasnudeln darin 8–10 Minuten ziehen lassen. Danach in ein Sieb abgießen und mit kaltem Wasser abschrecken.</p>",
+      "instructions": "In einem großen Topf reichlich Salzwasser zum Kochen bringen. Topf vom Herd nehmen, Glasnudeln darin 8–10 Minuten ziehen lassen. Danach in ein Sieb abgießen und mit kaltem Wasser abschrecken.",
+      "timers": [
+        {
+          "name": "Glasnudeln ziehen lassen",
+          "duration": "PT8M",
+          "temperature": null,
+          "temperatureUnit": null,
+          "ovenMode": null
+        }
+      ],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56c440084dab7178038b4567/step_56c5b52c22667.jpg",
+          "caption": "Glasnudeln abgießen"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "569fb8104dab71fc2c8b4567"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539c",
+        "57e2674fb7e8697d4b305382"
+      ]
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Zitrone heiß abwaschen, Schale fein abreiben, dann entsaften und in eine Salatschüssel geben.",
+      "instructionsHTML": "<p>Zitrone heiß abwaschen, Schale fein abreiben, dann entsaften und in eine Salatschüssel geben.</p>",
+      "instructions": "Zitrone heiß abwaschen, Schale fein abreiben, dann entsaften und in eine Salatschüssel geben.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56c440084dab7178038b4567/step_56d09fc6b2aed.jpg",
+          "caption": "Zitrone entsaften"
+        }
+      ],
+      "videos": [],
+      "ingredients": [],
+      "utensils": [
+        "57e2674fb7e8697d4b30536e",
+        "57e2674fb7e8697d4b30538d"
+      ]
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "Avocados halbieren, Kern herauslösen und Schale abschälen. Dann in Viertel schneiden, kurz im Zitronensaft wenden und beiseitestellen.",
+      "instructionsHTML": "<p>Avocados halbieren, Kern herauslösen und Schale abschälen. Dann in Viertel schneiden, kurz im Zitronensaft wenden und beiseitestellen.</p>",
+      "instructions": "Avocados halbieren, Kern herauslösen und Schale abschälen. Dann in Viertel schneiden, kurz im Zitronensaft wenden und beiseitestellen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b73b14dab71160d8b456a"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Schale vom Ingwer mit dem Rand eines Löffels abschaben, dann fein reiben. Chili waschen, halbieren, Kerngehäuse entfernen und fein hacken. Koriander und Thai-Basilikum waschen, trocken schütteln und Blätter abzupfen.",
+      "instructionsHTML": "<p>Schale vom Ingwer mit dem Rand eines Löffels abschaben, dann fein reiben. Chili waschen, halbieren, Kerngehäuse entfernen und fein hacken. Koriander und Thai-Basilikum waschen, trocken schütteln und Blätter abzupfen.</p>",
+      "instructions": "Schale vom Ingwer mit dem Rand eines Löffels abschaben, dann fein reiben. Chili waschen, halbieren, Kerngehäuse entfernen und fein hacken. Koriander und Thai-Basilikum waschen, trocken schütteln und Blätter abzupfen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b7f33fd2cb96c628b456a",
+        "554b1adef8b25ef93e8b456a",
+        "554b1e654dab71a6058b4571",
+        "555dbc35f8b25e406a8b4568"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30536e"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Passionsfrucht halbieren, Fruchtfleisch herauslöffeln und zum Zitronensaft geben. Zusammen mit 1 EL Olivenöl, ein wenig Chili und Ingwer zu einem Dressing verrühren. Glasnudeln und Kräuter untermischen und Salat bis zum Anrichten ziehen lassen.",
+      "instructionsHTML": "<p>Passionsfrucht halbieren, Fruchtfleisch herauslöffeln und zum Zitronensaft geben. Zusammen mit 1 EL Olivenöl, ein wenig Chili und Ingwer zu einem Dressing verrühren. Glasnudeln und Kräuter untermischen und Salat bis zum Anrichten ziehen lassen.</p>",
+      "instructions": "Passionsfrucht halbieren, Fruchtfleisch herauslöffeln und zum Zitronensaft geben. Zusammen mit 1 EL Olivenöl, ein wenig Chili und Ingwer zu einem Dressing verrühren. Glasnudeln und Kräuter untermischen und Salat bis zum Anrichten ziehen lassen.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56c440084dab7178038b4567/step_56c5b52c609b2.jpg",
+          "caption": "Fruchtfleisch herauslöffeln"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "569fb8104dab71fc2c8b4567",
+        "554b7f33fd2cb96c628b456a",
+        "554b1adef8b25ef93e8b456a",
+        "554b1e654dab71a6058b4571",
+        "555dbc35f8b25e406a8b4568",
+        "556dc5cafd2cb9b7098b4567",
+        "554b22cb4dab71c8058b4570"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "In einer großen Pfanne 1–2 TL Öl stark erhitzen, Avocados darin rundherum 2–3 Min. anbraten.",
+      "instructionsHTML": "<p>In einer großen Pfanne 1–2 TL Öl stark erhitzen, Avocados darin rundherum 2–3 Min. anbraten.</p>",
+      "instructions": "In einer großen Pfanne 1–2 TL Öl stark erhitzen, Avocados darin rundherum 2–3 Min. anbraten.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/56c440084dab7178038b4567/step_56c5b52c7b19f.jpg",
+          "caption": "Avocado anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b73b14dab71160d8b456a",
+        "554b1bf6f8b25eef3e8b4570"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 7,
+      "instructionsMarkdown": "Glasnudelsalat auf Tellern verteilen, gebratene Avocados darauf anrichten und mit ein wenig Szechuan-Pfeffer bestreuen und genießen!",
+      "instructionsHTML": "<p>Glasnudelsalat auf Tellern verteilen, gebratene Avocados darauf anrichten und mit ein wenig Szechuan-Pfeffer bestreuen und genießen!</p>",
+      "instructions": "Glasnudelsalat auf Tellern verteilen, gebratene Avocados darauf anrichten und mit ein wenig Szechuan-Pfeffer bestreuen und genießen!",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "569fb8104dab71fc2c8b4567",
+        "554b73b14dab71160d8b456a",
+        "569fb8d8fd2cb9d0328b4567"
+      ],
+      "utensils": []
+    }
+  ],
+  "averageRating": 1.9,
+  "ratingsCount": 91,
+  "favoritesCount": 668,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/fruchtig-trifft-auf-pikant-glasnudelsalat-56c440084dab7178038b4567",
+  "clonedFrom": null,
+  "canonical": "56c440084dab7178038b4567",
+  "canonicalLink": "https://www.hellofresh.de/recipes/fruchtig-trifft-auf-pikant-glasnudelsalat-56c440084dab7178038b4567"
+}

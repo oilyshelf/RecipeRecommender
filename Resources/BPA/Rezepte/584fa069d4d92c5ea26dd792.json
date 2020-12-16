@@ -1,0 +1,966 @@
+{
+  "country": "DE",
+  "id": "584fa069d4d92c5ea26dd792",
+  "name": "Gebratene Hähnchenbrust mit cremigem Lauch",
+  "seoName": null,
+  "category": null,
+  "slug": "gebratene-hahnchenbrust-mit-crem",
+  "headline": "und Linsen",
+  "description": "Linsen werden auch der Kaviar des armen Mannes genannt. Mit ihrem aromatischen Geschmack bringen sie nussige Nuancen in dieses bodenständige, leicht französisch angehauchte Gericht. Der Biss der Linsen ist ein Gaumenschmaus. Bon appétit!",
+  "descriptionHTML": "<p>Linsen werden auch der Kaviar des armen Mannes genannt. Mit ihrem aromatischen Geschmack bringen sie nussige Nuancen in dieses bodenständige, leicht französisch angehauchte Gericht. Der Biss der Linsen ist ein Gaumenschmaus. Bon appétit!</p>",
+  "descriptionMarkdown": "Linsen werden auch der Kaviar des armen Mannes genannt. Mit ihrem aromatischen Geschmack bringen sie nussige Nuancen in dieses bodenständige, leicht französisch angehauchte Gericht. Der Biss der Linsen ist ein Gaumenschmaus. Bon appétit!",
+  "seoDescription": null,
+  "comment": null,
+  "difficulty": 2,
+  "prepTime": "PT25M",
+  "totalTime": null,
+  "servingSize": 600,
+  "createdAt": "2016-12-13T07:16:55+00:00",
+  "updatedAt": "2017-04-29T17:11:58+00:00",
+  "link": "https://hellofresh.com/recipes/584fa069d4d92c5ea26dd792",
+  "imageLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/image/gebratene-hahnchenbrust-mit-crem-0d92f7cd.jpg",
+  "cardLink": "https://ddw4dkk7s1lkt.cloudfront.net/card/gebratene-hahnchenbrust-mit-crem-3daea71a.pdf",
+  "videoLink": null,
+  "nutrition": [
+    {
+      "type": "57b42a48b7e8697d4b30530d",
+      "name": "Energie (kJ)",
+      "amount": 2377,
+      "unit": "kJ"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305304",
+      "name": "Energie (kcal)",
+      "amount": 564,
+      "unit": "kcal"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305307",
+      "name": "Fett",
+      "amount": 23,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305308",
+      "name": "davon gesättigte Fettsäuren",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305305",
+      "name": "Kohlenhydrate",
+      "amount": 38,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305306",
+      "name": "davon Zucker",
+      "amount": 0,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530a",
+      "name": "Ballaststoffe",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b305309",
+      "name": "Eiweiß",
+      "amount": 48,
+      "unit": "g"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530c",
+      "name": "Cholesterol",
+      "amount": 0,
+      "unit": "mg"
+    },
+    {
+      "type": "57b42a48b7e8697d4b30530b",
+      "name": "Salz",
+      "amount": 1,
+      "unit": "g"
+    }
+  ],
+  "ingredients": [
+    {
+      "country": "DE",
+      "id": "554b23dff8b25ef53e8b456f",
+      "type": "karotten",
+      "name": "Karotte",
+      "slug": "karotten",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b23dff8b25ef53e8b456f.png",
+      "usage": 566,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb62",
+        "type": "carrot",
+        "name": "Karotte",
+        "slug": "karotte",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb62-c4a1f62d.png",
+        "usageByCountry": {
+          "AT": 679,
+          "AU": 553,
+          "BE": 225,
+          "CA": 127,
+          "CH": 130,
+          "DE": 627,
+          "ER": 27,
+          "FR": 49,
+          "GB": 343,
+          "LU": 220,
+          "NL": 263,
+          "NZ": 175,
+          "ML": 243,
+          "US": 318
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556eb8984dab71b7528b4567",
+      "type": "selleriestangen",
+      "name": "Selleriestangen",
+      "slug": "selleriestangen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556eb8984dab71b7528b4567.png",
+      "usage": 44,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fc",
+          "type": "celery",
+          "name": "Sellerie",
+          "slug": "sellerie",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": null,
+          "usage": 128
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb65",
+        "type": "celery",
+        "name": "Sellerie",
+        "slug": "sellerie",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb65-d7edf01c.png",
+        "usageByCountry": {
+          "AT": 82,
+          "AU": 41,
+          "BE": 47,
+          "CA": 17,
+          "CH": 13,
+          "DE": 79,
+          "ER": 0,
+          "FR": 4,
+          "GB": 102,
+          "LU": 43,
+          "NL": 48,
+          "NZ": 10,
+          "ML": 24,
+          "US": 30
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556c1f20fd2cb99f468b4568",
+      "type": "porree",
+      "name": "Porree",
+      "slug": "porree",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/556c1f20fd2cb99f468b4568.png",
+      "usage": 191,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc4",
+        "type": "leek",
+        "name": "Lauch",
+        "slug": "lauch",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc4-1460799d.png",
+        "usageByCountry": {
+          "AT": 212,
+          "AU": 43,
+          "BE": 129,
+          "CA": 14,
+          "CH": 41,
+          "DE": 199,
+          "ER": 0,
+          "FR": 25,
+          "GB": 148,
+          "LU": 118,
+          "NL": 150,
+          "NZ": 13,
+          "ML": 0,
+          "US": 7
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1adef8b25ef93e8b456a",
+      "type": "rote-chili",
+      "name": "roter Chili",
+      "slug": "rote-chili",
+      "description": null,
+      "internalName": "roter Chili",
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1adef8b25ef93e8b456a.png",
+      "usage": 325,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6d",
+        "type": "chili",
+        "name": "Chili",
+        "slug": "chili",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6d-270fd94b.png",
+        "usageByCountry": {
+          "AT": 348,
+          "AU": 223,
+          "BE": 0,
+          "CA": 48,
+          "CH": 61,
+          "DE": 326,
+          "ER": 0,
+          "FR": 0,
+          "GB": 75,
+          "LU": 0,
+          "NL": 0,
+          "NZ": 55,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "555da357fd2cb943758b4567",
+      "type": "thymian",
+      "name": "Thymian",
+      "slug": "thymian",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/555da357fd2cb943758b4567.png",
+      "usage": 245,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc43",
+        "type": "thyme",
+        "name": "Thymian",
+        "slug": "thymian",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc43-d0cc4199.png",
+        "usageByCountry": {
+          "AT": 252,
+          "AU": 94,
+          "BE": 243,
+          "CA": 96,
+          "CH": 34,
+          "DE": 252,
+          "ER": 0,
+          "FR": 73,
+          "GB": 187,
+          "LU": 346,
+          "NL": 288,
+          "NZ": 38,
+          "ML": 213,
+          "US": 322
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b21914dab71c8058b456f",
+      "type": "salbei",
+      "name": "Salbei",
+      "slug": "salbei",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b21914dab71c8058b456f.png",
+      "usage": 87,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc21",
+        "type": "sage",
+        "name": "Salbei",
+        "slug": "salbei",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc21-1ebb9dee.png",
+        "usageByCountry": {
+          "AT": 85,
+          "AU": 27,
+          "BE": 29,
+          "CA": 17,
+          "CH": 11,
+          "DE": 87,
+          "ER": 2,
+          "FR": 4,
+          "GB": 42,
+          "LU": 29,
+          "NL": 30,
+          "NZ": 4,
+          "ML": 1,
+          "US": 61
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "56c597a2fd2cb93b428b456b",
+      "type": "hahnchenbrustfilet",
+      "name": "Hähnchenbrustfilet",
+      "slug": "hahnchenbrustfilet",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/56c597a2fd2cb93b428b456b-f3c13014.png",
+      "usage": 114,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb6b",
+        "type": "chicken",
+        "name": "Hähnchen",
+        "slug": "hahnchen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb6b-8f15f243.png",
+        "usageByCountry": {
+          "AT": 293,
+          "AU": 427,
+          "BE": 305,
+          "CA": 214,
+          "CH": 94,
+          "DE": 262,
+          "ER": 62,
+          "FR": 92,
+          "GB": 486,
+          "LU": 380,
+          "NL": 282,
+          "NZ": 125,
+          "ML": 653,
+          "US": 668
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "556dbac04dab71524b8b4567",
+      "type": "linsen",
+      "name": "Linsen",
+      "slug": "linsen",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient/556dbac04dab71524b8b4567-270702b1.png",
+      "usage": 62,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbc7",
+        "type": "lentils",
+        "name": "Linsen",
+        "slug": "linsen",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbc7-e62e92da.png",
+        "usageByCountry": {
+          "AT": 111,
+          "AU": 77,
+          "BE": 63,
+          "CA": 27,
+          "CH": 29,
+          "DE": 114,
+          "ER": 0,
+          "FR": 18,
+          "GB": 155,
+          "LU": 128,
+          "NL": 67,
+          "NZ": 7,
+          "ML": 0,
+          "US": 14
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1f134dab71aa058b456e",
+      "type": "crème fraîche",
+      "name": "Crème fraîche",
+      "slug": "creme-fraiche",
+      "description": null,
+      "internalName": null,
+      "shipped": true,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1f134dab71aa058b456e.png",
+      "usage": 305,
+      "hasDuplicatedName": null,
+      "allergens": [
+        {
+          "id": "57962a07b7e8697d4b3052fa",
+          "type": "milk",
+          "name": "Milch",
+          "slug": "laktose",
+          "description": null,
+          "tracesOf": false,
+          "triggersTracesOf": false,
+          "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+          "usage": 1018
+        }
+      ],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb86",
+        "type": "creme-fraiche",
+        "name": "Crème Fraîche",
+        "slug": "creme-fraiche",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb86-533fc64c.png",
+        "usageByCountry": {
+          "AT": 321,
+          "AU": 0,
+          "BE": 119,
+          "CA": 0,
+          "CH": 81,
+          "DE": 305,
+          "ER": 0,
+          "FR": 21,
+          "GB": 328,
+          "LU": 127,
+          "NL": 144,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1c284dab71a9058b456b",
+      "type": "salz",
+      "name": "Salz*",
+      "slug": "salz",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1c284dab71a9058b456b.png",
+      "usage": 3019,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc25",
+        "type": "salt",
+        "name": "Salz",
+        "slug": "salz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc25-abd39ad0.png",
+        "usageByCountry": {
+          "AT": 3264,
+          "AU": 471,
+          "BE": 51,
+          "CA": 261,
+          "CH": 645,
+          "DE": 3024,
+          "ER": 178,
+          "FR": 2,
+          "GB": 122,
+          "LU": 31,
+          "NL": 66,
+          "NZ": 241,
+          "ML": 65,
+          "US": 2638
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "55b0a135fd2cb9121e8b4567",
+      "type": "pfeffer",
+      "name": "Pfeffer*",
+      "slug": "pfeffer",
+      "description": null,
+      "internalName": "Pfeffer [home]",
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/55b0a135fd2cb9121e8b4567.png",
+      "usage": 2774,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fc05",
+        "type": "pepper-spice",
+        "name": "Pfeffer (Gewürz)",
+        "slug": "pfeffer-gewurz",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fc05-00a37cd9.png",
+        "usageByCountry": {
+          "AT": 3237,
+          "AU": 122,
+          "BE": 12,
+          "CA": 142,
+          "CH": 628,
+          "DE": 3006,
+          "ER": 181,
+          "FR": 4,
+          "GB": 158,
+          "LU": 18,
+          "NL": 17,
+          "NZ": 7,
+          "ML": 71,
+          "US": 2674
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "554b1bf6f8b25eef3e8b4570",
+      "type": "ol",
+      "name": "Öl*",
+      "slug": "ol",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/554b1bf6f8b25eef3e8b4570.png",
+      "usage": 1499,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fbe8",
+        "type": "oil",
+        "name": "Öl",
+        "slug": "ol",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fbe8-34c502d3.png",
+        "usageByCountry": {
+          "AT": 3004,
+          "AU": 136,
+          "BE": 433,
+          "CA": 940,
+          "CH": 624,
+          "DE": 2780,
+          "ER": 171,
+          "FR": 109,
+          "GB": 4,
+          "LU": 555,
+          "NL": 503,
+          "NZ": 0,
+          "ML": 32,
+          "US": 978
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    },
+    {
+      "country": "DE",
+      "id": "5568443bfd2cb985278b4569",
+      "type": "geflügelbrühe",
+      "name": "Geflügelbrühe",
+      "slug": "geflugelbruhe",
+      "description": null,
+      "internalName": null,
+      "shipped": false,
+      "imageLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/image/5568443bfd2cb985278b4569.png",
+      "usage": 35,
+      "hasDuplicatedName": null,
+      "allergens": [],
+      "family": {
+        "id": "58877cf3ed71a76e9c03fb57",
+        "type": "broth",
+        "name": "Brühe",
+        "slug": "bruhe",
+        "description": null,
+        "priority": 0,
+        "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/ingredient-families/58877cf3ed71a76e9c03fb57-6d9f9ef5.png",
+        "usageByCountry": {
+          "AT": 867,
+          "AU": 0,
+          "BE": 13,
+          "CA": 10,
+          "CH": 35,
+          "DE": 816,
+          "ER": 0,
+          "FR": 5,
+          "GB": 92,
+          "LU": 7,
+          "NL": 22,
+          "NZ": 0,
+          "ML": 0,
+          "US": 0
+        },
+        "createdAt": "2017-01-24T16:12:35+00:00",
+        "updatedAt": "2017-01-24T16:12:35+00:00"
+      }
+    }
+  ],
+  "allergens": [
+    {
+      "id": "57962a07b7e8697d4b3052fc",
+      "type": "celery",
+      "name": "Sellerie",
+      "slug": "sellerie",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": null,
+      "usage": 128
+    },
+    {
+      "id": "57962a07b7e8697d4b3052fa",
+      "type": "milk",
+      "name": "Milch",
+      "slug": "laktose",
+      "description": null,
+      "tracesOf": false,
+      "triggersTracesOf": false,
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/allergens/57962a07b7e8697d4b3052fa-be127d3f.png",
+      "usage": 1018
+    }
+  ],
+  "utensils": [
+    {
+      "id": "57e2674fb7e8697d4b305373",
+      "type": "largepan",
+      "name": "Große Pfanne"
+    },
+    {
+      "id": "57e2674fb7e8697d4b30539b",
+      "type": "sieve",
+      "name": "Sieb"
+    }
+  ],
+  "tags": [
+    {
+      "id": "57d13370b7e8697d4b305320",
+      "type": "high-fiber",
+      "name": "ballaststoffreich",
+      "slug": "ballaststoffreich",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 817,
+      "numberOfRecipesByCountry": {
+        "AT": 303,
+        "AU": 121,
+        "BE": 17,
+        "CA": 0,
+        "CH": 47,
+        "DE": 310,
+        "ER": 0,
+        "FR": 0,
+        "GB": 1,
+        "LU": 1,
+        "NL": 17,
+        "NZ": 0,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b30531a",
+      "type": "low-calorie",
+      "name": "leichter Genuss",
+      "slug": "leichter-genuss",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-healthy%403x.png",
+      "numberOfRecipes": 4438,
+      "numberOfRecipesByCountry": {
+        "AT": 1377,
+        "AU": 144,
+        "BE": 299,
+        "CA": 0,
+        "CH": 139,
+        "DE": 1205,
+        "ER": 0,
+        "FR": 128,
+        "GB": 111,
+        "LU": 576,
+        "NL": 380,
+        "NZ": 79,
+        "ML": 0,
+        "US": 0
+      }
+    },
+    {
+      "id": "57d13370b7e8697d4b305319",
+      "type": "spicy",
+      "name": "scharf",
+      "slug": "scharf",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/200,200/tags/icon-spicy%403x.png",
+      "numberOfRecipes": 2399,
+      "numberOfRecipesByCountry": {
+        "AT": 200,
+        "AU": 107,
+        "BE": 147,
+        "CA": 71,
+        "CH": 53,
+        "DE": 211,
+        "ER": 103,
+        "FR": 0,
+        "GB": 497,
+        "LU": 54,
+        "NL": 149,
+        "NZ": 0,
+        "ML": 0,
+        "US": 807
+      }
+    }
+  ],
+  "cuisines": [
+    {
+      "id": "57ebbc17b7e8697d4b3053bf",
+      "type": "european",
+      "name": "Europäisch",
+      "slug": "europaisch",
+      "iconLink": "https://d3hvwccx09j84u.cloudfront.net/0,0/cuisines/57ebbc17b7e8697d4b3053bf-ae882118.jpg",
+      "usage": 1713
+    }
+  ],
+  "wines": [],
+  "marketplaceItems": [],
+  "author": null,
+  "label": null,
+  "yieldType": "servings",
+  "yields": [
+    {
+      "yields": 2,
+      "ingredients": [
+        {
+          "id": "554b23dff8b25ef53e8b456f",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556eb8984dab71b7528b4567",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "556c1f20fd2cb99f468b4568",
+          "amount": 1,
+          "unit": "Stück"
+        },
+        {
+          "id": "554b1adef8b25ef93e8b456a",
+          "amount": 0.5,
+          "unit": "Stück"
+        },
+        {
+          "id": "555da357fd2cb943758b4567",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "554b21914dab71c8058b456f",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "id": "56c597a2fd2cb93b428b456b",
+          "amount": 2,
+          "unit": "Stück"
+        },
+        {
+          "id": "556dbac04dab71524b8b4567",
+          "amount": 1,
+          "unit": "Dose"
+        },
+        {
+          "id": "554b1f134dab71aa058b456e",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "id": "554b1c284dab71a9058b456b",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "55b0a135fd2cb9121e8b4567",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "554b1bf6f8b25eef3e8b4570",
+          "amount": null,
+          "unit": "Einheit"
+        },
+        {
+          "id": "5568443bfd2cb985278b4569",
+          "amount": null,
+          "unit": "Einheit"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 1,
+      "instructionsMarkdown": "Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten.\n\nKarotte schälen. Karotte und Staudensellerie in kleine Würfel schneiden. Porree in ½ cm breite Ringe schneiden. Chili halbieren, Kerngehäuse entfernen und feine Streifen schneiden.",
+      "instructionsHTML": "<p>Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten.</p>\n<p>Karotte schälen. Karotte und Staudensellerie in kleine Würfel schneiden. Porree in ½ cm breite Ringe schneiden. Chili halbieren, Kerngehäuse entfernen und feine Streifen schneiden.</p>",
+      "instructions": "Vorbereitung: Gemüse und Kräuter waschen. Alle Zutaten und Utensilien bereitstellen. Wasserkocher füllen und anschalten.\nKarotte schälen. Karotte und Staudensellerie in kleine Würfel schneiden. Porree in ½ cm breite Ringe schneiden. Chili halbieren, Kerngehäuse entfernen und feine Streifen schneiden.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/584fa069d4d92c5ea26dd792-0-0-385d70bd.jpg",
+          "caption": "Porree schneiden"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b23dff8b25ef53e8b456f",
+        "556c1f20fd2cb99f468b4568",
+        "554b1adef8b25ef93e8b456a",
+        "556eb8984dab71b7528b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 2,
+      "instructionsMarkdown": "Blätter von Thymian und Salbei abzupfen, beides hacken.",
+      "instructionsHTML": "<p>Blätter von Thymian und Salbei abzupfen, beides hacken.</p>",
+      "instructions": "Blätter von Thymian und Salbei abzupfen, beides hacken.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [
+        "554b21914dab71c8058b456f",
+        "555da357fd2cb943758b4567"
+      ],
+      "utensils": []
+    },
+    {
+      "index": 3,
+      "instructionsMarkdown": "In einer großen Pfanne 1 EL [2 EL] Öl bei mittlerer Hitze erwärmen, Karotten- und Selleriewürfel, Porreeringe, Chilistreifen (Achtung: scharf!) und gehackte Kräuter darin ca. 8 Min. unter Wenden anbraten, mit etwas Salz abschmecken.",
+      "instructionsHTML": "<p>In einer großen Pfanne 1 EL [2 EL] Öl bei mittlerer Hitze erwärmen, Karotten- und Selleriewürfel, Porreeringe, Chilistreifen (Achtung: scharf!) und gehackte Kräuter darin ca. 8 Min. unter Wenden anbraten, mit etwas Salz abschmecken.</p>",
+      "instructions": "In einer großen Pfanne 1 EL [2 EL] Öl bei mittlerer Hitze erwärmen, Karotten- und Selleriewürfel, Porreeringe, Chilistreifen (Achtung: scharf!) und gehackte Kräuter darin ca. 8 Min. unter Wenden anbraten, mit etwas Salz abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/584fa069d4d92c5ea26dd792-2-0-e697ad1b.jpg",
+          "caption": "Gemüse anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "554b1c284dab71a9058b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 4,
+      "instructionsMarkdown": "Währenddessen: Hähnchenbrustfilet, mit Küchenpapier trocken tupfen. Mit dem Boden einer zweiten großen Pfanne auf eine Dicke von ca. 1 cm flach plattieren, von beiden Seiten salzen. Pfannenboden mit Küchenpapier säubern. Dann in dieser Pfanne 1 EL Öl bei mittlerer Hitze erwärmen, Hähnchenbrustfilet auf jeder Seite ca. 4 Min. anbraten. Danach aus der Pfanne nehmen und warmhalten.",
+      "instructionsHTML": "<p>Währenddessen: Hähnchenbrustfilet, mit Küchenpapier trocken tupfen. Mit dem Boden einer zweiten großen Pfanne auf eine Dicke von ca. 1 cm flach plattieren, von beiden Seiten salzen. Pfannenboden mit Küchenpapier säubern. Dann in dieser Pfanne 1 EL Öl bei mittlerer Hitze erwärmen, Hähnchenbrustfilet auf jeder Seite ca. 4 Min. anbraten. Danach aus der Pfanne nehmen und warmhalten.</p>",
+      "instructions": "Währenddessen: Hähnchenbrustfilet, mit Küchenpapier trocken tupfen. Mit dem Boden einer zweiten großen Pfanne auf eine Dicke von ca. 1 cm flach plattieren, von beiden Seiten salzen. Pfannenboden mit Küchenpapier säubern. Dann in dieser Pfanne 1 EL Öl bei mittlerer Hitze erwärmen, Hähnchenbrustfilet auf jeder Seite ca. 4 Min. anbraten. Danach aus der Pfanne nehmen und warmhalten.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/584fa069d4d92c5ea26dd792-3-0-2bbc70a7.jpg",
+          "caption": "Hähnchenbrust anbraten"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "56c597a2fd2cb93b428b456b"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b305373"
+      ]
+    },
+    {
+      "index": 5,
+      "instructionsMarkdown": "Linsen in einem Sieb mit kaltem Wasser abspülen und ein wenig abtropfen lassen, dann zum Lauchgemüse geben. ½ TL Geflügelbrühe in 4 EL warmem Wasser auflösen, zusammen mit Crème fraîche zum Gemüse geben. Mit Salz und Pfeffer abschmecken.",
+      "instructionsHTML": "<p>Linsen in einem Sieb mit kaltem Wasser abspülen und ein wenig abtropfen lassen, dann zum Lauchgemüse geben. ½ TL Geflügelbrühe in 4 EL warmem Wasser auflösen, zusammen mit Crème fraîche zum Gemüse geben. Mit Salz und Pfeffer abschmecken.</p>",
+      "instructions": "Linsen in einem Sieb mit kaltem Wasser abspülen und ein wenig abtropfen lassen, dann zum Lauchgemüse geben. ½ TL Geflügelbrühe in 4 EL warmem Wasser auflösen, zusammen mit Crème fraîche zum Gemüse geben. Mit Salz und Pfeffer abschmecken.",
+      "timers": [],
+      "images": [
+        {
+          "link": "https://d3hvwccx09j84u.cloudfront.net/0,0/step/584fa069d4d92c5ea26dd792-4-0-cebe7076.jpg",
+          "caption": "Crème fraîche zum Gemüse geben"
+        }
+      ],
+      "videos": [],
+      "ingredients": [
+        "5568443bfd2cb985278b4569",
+        "556dbac04dab71524b8b4567",
+        "55b0a135fd2cb9121e8b4567",
+        "554b1c284dab71a9058b456b",
+        "554b1f134dab71aa058b456e"
+      ],
+      "utensils": [
+        "57e2674fb7e8697d4b30539b"
+      ]
+    },
+    {
+      "index": 6,
+      "instructionsMarkdown": "Cremiges Lauch-Linsen-Gemüse auf Teller verteilen, Hähnchenbrustfilets in Scheiben schneiden, darauf platzieren und genießen.",
+      "instructionsHTML": "<p>Cremiges Lauch-Linsen-Gemüse auf Teller verteilen, Hähnchenbrustfilets in Scheiben schneiden, darauf platzieren und genießen.</p>",
+      "instructions": "Cremiges Lauch-Linsen-Gemüse auf Teller verteilen, Hähnchenbrustfilets in Scheiben schneiden, darauf platzieren und genießen.",
+      "timers": [],
+      "images": [],
+      "videos": [],
+      "ingredients": [],
+      "utensils": []
+    }
+  ],
+  "averageRating": 3.6,
+  "ratingsCount": 823,
+  "favoritesCount": 1186,
+  "active": true,
+  "highlighted": false,
+  "isDinnerToLunch": false,
+  "isExcludedFromIndex": false,
+  "isPremium": false,
+  "websiteUrl": "https://www.hellofresh.de/recipes/gebratene-hahnchenbrust-mit-crem-584fa069d4d92c5ea26dd792",
+  "clonedFrom": null,
+  "canonical": "584fa069d4d92c5ea26dd792",
+  "canonicalLink": "https://www.hellofresh.de/recipes/gebratene-hahnchenbrust-mit-crem-584fa069d4d92c5ea26dd792"
+}
