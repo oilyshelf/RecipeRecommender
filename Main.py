@@ -6,7 +6,7 @@ api = Api(app)
 
 class HelloWorld(Resource):
     def get(self):
-        return {'Hallo': 'du Hurensohn'}
+        return {'Hallo': 'Welt'}
 
 
 class webhook(Resource):
