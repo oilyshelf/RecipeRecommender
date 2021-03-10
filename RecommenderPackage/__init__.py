@@ -1,3 +1,4 @@
-__all__ = ["recommender"]
+__all__ = ["Recommender", 'DataBase']
 
 from .recommender import Recommender
+from .databaseConnection import DataBase
