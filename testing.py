@@ -1,8 +1,10 @@
 import sqlite3
-
+import sys, os
+from RecommenderPackage import Recommender
 
 
 
 
 if __name__ == '__main__':
-    con = sqlite3.connect('Resources/BPA/RecipeDB.db')
+    r = Recommender()
+    print(r.db.bool_df.head())

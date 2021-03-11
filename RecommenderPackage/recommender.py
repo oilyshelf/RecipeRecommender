@@ -54,8 +54,3 @@ class Recommender:
         return df.loc[index]['recID']
 
 
-
-#testing
-
-if __name__ == '__main__':
-    r = Recommender()

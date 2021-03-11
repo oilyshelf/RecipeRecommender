@@ -19,10 +19,18 @@ class webhook(Resource):
         some_json = request.get_json()
         print(some_json)
         action = some_json['queryResult']['action']
-        return self._switch(action), 201
+        return self._switch(action, some_json), 201
 
-    def _switch(self, action):
+    def _switch(self, action, json):
         response = {'fulfillmentText': 'This is a response from webhook.'}
+        if(action == 'DefaultWelcomeIntent.Rezeptwunsch'):
+            response = {'fulfillmentText': 'ok nenne mir bitte ein Paar Zutaten die dir nicht gefallen'}
+        elif action == 'zutaten.selector':
+            text = 'ok du magst also keine '+"".join(json['queryResult']['parameters']['ingredients']) + " hab ich dich richtig verstanden ?"
+            response = {'fulfillmentText': text}
+        elif action == 'zutaten.selector.DefaultWelcomeIntent-Rezeptwunsch-Zutaten-no':
+            response = {"followupEventInput": {'name': 'DefaultWelcomeIntent-Rezeptwunsch'}}
+
         return response
 
 

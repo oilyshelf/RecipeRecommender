@@ -6,8 +6,8 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import json
 
-#C:\Users\whyno\PycharmProjects\RecipeRecommender\Resources\BPA\RecipeDB.db
-path = './Resources/BPA/'
+#TODO change so you can use from what ever import
+path = 'Resources/BPA/'
 
 class DataBase(object):
     __instance = None
