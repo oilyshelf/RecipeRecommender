@@ -18,18 +18,77 @@ class webhook(Resource):
     def post(self):
         some_json = request.get_json()
         print(some_json)
-        action = some_json['queryResult']['action']
-        return self._switch(action, some_json), 201
+        return self._switch(some_json), 201
 
-    def _switch(self, action, json):
+    def _switch(self, json):
+        action = json['queryResult']['action']
+
         response = {'fulfillmentText': 'This is a response from webhook.'}
-        if(action == 'DefaultWelcomeIntent.Rezeptwunsch'):
-            response = {'fulfillmentText': 'ok nenne mir bitte ein Paar Zutaten die dir nicht gefallen'}
-        elif action == 'zutaten.selector':
-            text = 'ok du magst also keine '+"".join(json['queryResult']['parameters']['ingredients']) + " hab ich dich richtig verstanden ?"
-            response = {'fulfillmentText': text}
-        elif action == 'zutaten.selector.DefaultWelcomeIntent-Rezeptwunsch-Zutaten-no':
-            response = {"followupEventInput": {'name': 'DefaultWelcomeIntent-Rezeptwunsch'}}
+        if action == 'rezept.wunsch':
+            if recom.user.is_user():
+                response = {'fulfillmentText': 'Ok ich schlag dir was vor nach der alpha'}
+            else:
+                response = {'fulfillmentText' : 'Du hast noch kein UserProfil wir müssen eins erstellen Bitte nenne mir ein paar Zutaten die du nicht magst',
+                "followupEvent": {
+                    'name' : 'zutaten_wahl'
+                }}
+        elif action == 'Zutaten.Zutaten-no':
+            response = {
+                'fulfillmentText': 'Ok dann bitte wiederhole die Zutaten',
+                "followupEvent": 'zutaten_wahl'
+            }
+        elif action == 'Zutaten.Zutaten-yes':
+            recom.user.set_disliked_Ing(json['queryResult']['parameters']['ingredients'])
+            print(recom.user.disliked_ing)
+            response = {
+                'fulfillmentText': 'Ok hast du irgendwelche Allergien und wenn ja welche ?',
+                "followupEvent": 'allergien_wahl'
+            }
+        elif action == 'allergien.wahl':
+            temp = json['queryResult']['parameters']['Allergies']
+            if len(temp) == 0:
+                response['fulfillmentText'] = 'Du hast also keine Allergien'
+            else:
+                response['fulfillmentText'] = " ".join(temp) + (' sind also deine Allergien' if len(temp)>1 else ' ist also deine Allergie')
+        elif action == 'Allergien.Allergien-yes':
+            recom.user.set_allergies(json['queryResult']['parameters']['Allergies'])
+            print(recom.user.allergies)
+            response = {
+                'fulfillmentText': 'Ok hast du irgendeine besondere ernährungsweise ?',
+                'followupEvent': 'tags_wahl'
+            }
+        elif action == 'Allergien.Allergien-no':
+            response = {
+                'fulfillmentText': 'Ok bitte wiederhole deine Allergien',
+                'followupEvent': 'allergien_wahl'
+            }
+        elif action == 'tags_wahl':
+            temp = json['queryResult']['parameters']['Tags']
+            if len(temp) == 0:
+                response['fulfillmentText'] = 'Du hast also keine besondere Ernährungsweise'
+            else:
+                response['fulfillmentText'] = " ".join(temp) + ' ist also deine besondere Ernährungsweise'
+        elif action == 'Tags.Tags-yes':
+            recom.user.set_tags(json['queryResult']['parameters']['Tags'])
+            print(recom.user.prefered_tags)
+            response = {
+                'fulfillmentText': 'Ok hast du einen Thermomixer ?'
+
+            }
+        elif action == 'Tags.Tags-no':
+            response = {
+                'fulfillmentText': 'Ok bitte wiederhole deine besondere Ernährungsweise',
+                'followupEvent': 'tags_wahl'
+            }
+        elif action == 'thermomix-yes':
+            recom.user.set_thermo(True)
+            recom.create_userProfile(recom.user)
+            response['fulfillmentText'] = ' Ok dein Nutzerprofil wurde erstellt frage mich bitte noch einmal nach einem Rezeptvorschlag'
+        elif action == 'thermomix-no':
+            recom.user.set_thermo(False)
+            recom.create_userProfile(recom.user)
+            response['fulfillmentText'] = ' Ok dein Nutzerprofil wurde erstellt frage mich bitte noch einmal nach einem Rezeptvorschlag'
+
 
         return response
 

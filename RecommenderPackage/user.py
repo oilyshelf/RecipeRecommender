@@ -21,3 +21,6 @@ class User:
 
     def set_userprofile(self, userprofile):
         self.profile = userprofile
+    #user erstellung
+    def is_user(self):
+        return self.theromix is not None and self.profile is not None and self.prefered_tags is not None and self.allergies is not None and self.disliked_ing is not None
