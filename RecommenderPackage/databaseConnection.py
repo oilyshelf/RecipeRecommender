@@ -6,7 +6,8 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import json
 
-path = "./Resources/BPA/"
+#C:\Users\whyno\PycharmProjects\RecipeRecommender\Resources\BPA\RecipeDB.db
+path = './Resources/BPA/'
 
 class DataBase(object):
     __instance = None
@@ -20,7 +21,8 @@ class DataBase(object):
     #costum __init__ method to asure the singelton pattern
     def _inti(self):
         #connection to the sqlite and cursor
-        con = sqlite3.connect(path+"RecipeDB.db")
+
+        con = sqlite3.connect(path+'RecipeDB.db')
         cur = con.cursor()
 
         #load Dataframes and create needed Dataframes

@@ -1,12 +1,13 @@
 import RecommenderPackage.databaseConnection
 import numpy as np
 import pandas as pd
-from .user import User
+import RecommenderPackage.user
 
 class Recommender:
     def __init__(self):
         # TODO init the recommender
         self.db = RecommenderPackage.databaseConnection.DataBase()
+        self.user = RecommenderPackage.User()
 
     def know_recommender(self, user):
         res = self.db.bool_df.dot(user.profile)
