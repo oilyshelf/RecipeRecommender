@@ -3,19 +3,25 @@ import numpy as np
 import pandas as pd
 import RecommenderPackage.user
 
+
 class Recommender:
     def __init__(self):
         # TODO init the recommender
         self.db = RecommenderPackage.databaseConnection.DataBase()
         self.user = RecommenderPackage.User()
 
-    def know_recommender(self, user):
-        res = self.db.bool_df.dot(user.profile)
-        #1808 is the count of recipies
-        for i in res.nlargest(1808).iteritems():
-            yield i
-    #TODO change to class solution
+    def __next__(self):
+        if self.user.gen is None:
+            self.user.set_gen(self.know_recommender(self.user))
+        res = next(self.user.gen)
+        return self.db.recipe_response(res)
 
+    def know_recommender(self, user):
+        # 1808 is the count of recipies
+        for i in self.db.bool_df.dot(user.profile).nlargest(1808).iteritems():
+            yield i
+
+    # TODO change to class solution
     def contend_recommender(self, recipe_id, cosine_similarity_matrix, df):
         index = df[df['recID'] == recipe_id].index.values[0]
         similarity_scores = list(enumerate(cosine_similarity_matrix[index]))
@@ -25,32 +31,30 @@ class Recommender:
         for i in similarity_scores:
             yield self.index_to_recipeID(i[0], df)
 
-    def create_userProfile(self, user):
-        #creating empty dataframe
+    def create_userprofile(self, user):
+        # creating empty dataframe
         data = np.full([1, len(self.db.columns)], 0.25, dtype=np.float64)
-        user_Profile = pd.DataFrame(data=data, columns=self.db.columns)
+        user_profile = pd.DataFrame(data=data, columns=self.db.columns)
         for x in self.db.thermo.itertuples():
-            user_Profile[x.Index] = 1.0 if user.theromix else 0.0
+            user_profile[x.Index] = 1.0 if user.theromix else -1.0
         if user.disliked_ing is not None:
             for x in user.disliked_ing:
                 for i in self.db.ing_df[self.db.ing_df['info'].str.contains(x.lower())].itertuples():
-                    #print('ing :', x, ' id info', i.Index, ' ', i.info)
-                    user_Profile[i.Index] = 0
+                    # print('ing :', x, ' id info', i.Index, ' ', i.info)
+                    user_profile[i.Index] = 0
 
         if user.allergies is not None:
             for a in user.allergies:
                 for i in self.db.alg_df[self.db.alg_df['info'].str.contains(a.lower())].itertuples():
-                    #print('allergie :', a, ' id info', i.Index, ' ', i.info)
-                    user_Profile[i.Index] = -1.0
+                    # print('allergie :', a, ' id info', i.Index, ' ', i.info)
+                    user_profile[i.Index] = -1.0
 
         if user.prefered_tags is not None:
             for tag in user.prefered_tags:
                 for i in self.db.tags_df[self.db.tags_df['info'].str.contains(tag.lower())].itertuples():
-                    #print('tag :', tag, ' id info', i.Index, ' ', i.info)
-                    user_Profile[i.Index] = 5.0
-        user.set_userprofile(user_Profile)
+                    # print('tag :', tag, ' id info', i.Index, ' ', i.info)
+                    user_profile[i.Index] = 5.0
+        user.set_userprofile(user_profile.iloc[0])
 
     def index_to_recipeID(self, index, df):
         return df.loc[index]['recID']
-
-

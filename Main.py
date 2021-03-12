@@ -14,7 +14,7 @@ class HelloWorld(Resource):
         return {'Hallo': 'Welt'}
 
 
-class webhook(Resource):
+class Webhook(Resource):
     def post(self):
         some_json = request.get_json()
         print(some_json)
@@ -26,12 +26,13 @@ class webhook(Resource):
         response = {'fulfillmentText': 'This is a response from webhook.'}
         if action == 'rezept.wunsch':
             if recom.user.is_user():
-                response = {'fulfillmentText': 'Ok ich schlag dir was vor nach der alpha'}
+                response = next(recom)
             else:
-                response = {'fulfillmentText' : 'Du hast noch kein UserProfil wir müssen eins erstellen Bitte nenne mir ein paar Zutaten die du nicht magst',
-                "followupEvent": {
-                    'name' : 'zutaten_wahl'
-                }}
+                response = {
+                    'fulfillmentText': 'Du hast noch kein UserProfil wir müssen eins erstellen Bitte nenne mir ein paar Zutaten die du nicht magst',
+                    "followupEvent": {
+                        'name': 'zutaten_wahl'
+                    }}
         elif action == 'Zutaten.Zutaten-no':
             response = {
                 'fulfillmentText': 'Ok dann bitte wiederhole die Zutaten',
@@ -49,7 +50,8 @@ class webhook(Resource):
             if len(temp) == 0:
                 response['fulfillmentText'] = 'Du hast also keine Allergien'
             else:
-                response['fulfillmentText'] = " ".join(temp) + (' sind also deine Allergien' if len(temp)>1 else ' ist also deine Allergie')
+                response['fulfillmentText'] = " ".join(temp) + (
+                    ' sind also deine Allergien' if len(temp) > 1 else ' ist also deine Allergie')
         elif action == 'Allergien.Allergien-yes':
             recom.user.set_allergies(json['queryResult']['parameters']['Allergies'])
             print(recom.user.allergies)
@@ -82,19 +84,20 @@ class webhook(Resource):
             }
         elif action == 'thermomix-yes':
             recom.user.set_thermo(True)
-            recom.create_userProfile(recom.user)
-            response['fulfillmentText'] = ' Ok dein Nutzerprofil wurde erstellt frage mich bitte noch einmal nach einem Rezeptvorschlag'
+            recom.create_userprofile(recom.user)
+            response[
+                'fulfillmentText'] = ' Ok dein Nutzerprofil wurde erstellt frage mich bitte noch einmal nach einem Rezeptvorschlag'
         elif action == 'thermomix-no':
             recom.user.set_thermo(False)
-            recom.create_userProfile(recom.user)
-            response['fulfillmentText'] = ' Ok dein Nutzerprofil wurde erstellt frage mich bitte noch einmal nach einem Rezeptvorschlag'
-
+            recom.create_userprofile(recom.user)
+            response[
+                'fulfillmentText'] = ' Ok dein Nutzerprofil wurde erstellt frage mich bitte noch einmal nach einem Rezeptvorschlag'
 
         return response
 
 
 api.add_resource(HelloWorld, '/')
-api.add_resource(webhook, '/webhook')
+api.add_resource(Webhook, '/webhook')
 
 if __name__ == '__main__':
     app.run(debug=True)
