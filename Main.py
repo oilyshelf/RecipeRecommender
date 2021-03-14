@@ -29,39 +29,39 @@ class Webhook(Resource):
                 response = next(recom)
             else:
                 response = {
-                    'fulfillmentText': 'Du hast noch kein UserProfil wir müssen eins erstellen Bitte nenne mir ein paar Zutaten die du nicht magst',
+                    'fulfillmentText': 'Zur Einrichtung deines Profils, nenne mir bitte ein paar Zutaten, welche du nicht magst',
                     "followupEvent": {
                         'name': 'zutaten_wahl'
                     }}
         elif action == 'Zutaten.Zutaten-no':
             response = {
-                'fulfillmentText': 'Ok dann bitte wiederhole die Zutaten',
+                'fulfillmentText': 'Ok, bitte wiederhole die Zutaten',
                 "followupEvent": 'zutaten_wahl'
             }
         elif action == 'Zutaten.Zutaten-yes':
             recom.user.set_disliked_Ing(json['queryResult']['parameters']['ingredients'])
             print(recom.user.disliked_ing)
             response = {
-                'fulfillmentText': 'Ok hast du irgendwelche Allergien und wenn ja welche ?',
+                'fulfillmentText': 'Ok, hast du irgendwelche Allergien und wenn ja welche ?',
                 "followupEvent": 'allergien_wahl'
             }
         elif action == 'allergien.wahl':
             temp = json['queryResult']['parameters']['Allergies']
             if len(temp) == 0:
-                response['fulfillmentText'] = 'Du hast also keine Allergien'
+                response['fulfillmentText'] = 'Du hast also keine Allergien?'
             else:
                 response['fulfillmentText'] = " ".join(temp) + (
-                    ' sind also deine Allergien' if len(temp) > 1 else ' ist also deine Allergie')
+                    ' sind also deine Allergien?' if len(temp) > 1 else ' ist also deine Allergie?')
         elif action == 'Allergien.Allergien-yes':
             recom.user.set_allergies(json['queryResult']['parameters']['Allergies'])
             print(recom.user.allergies)
             response = {
-                'fulfillmentText': 'Ok hast du irgendeine besondere ernährungsweise ?',
+                'fulfillmentText': 'Ok hast du irgendeine besondere Ernährungsweise ?',
                 'followupEvent': 'tags_wahl'
             }
         elif action == 'Allergien.Allergien-no':
             response = {
-                'fulfillmentText': 'Ok bitte wiederhole deine Allergien',
+                'fulfillmentText': 'Ok, bitte wiederhole deine Allergien',
                 'followupEvent': 'allergien_wahl'
             }
         elif action == 'tags_wahl':
@@ -69,7 +69,7 @@ class Webhook(Resource):
             if len(temp) == 0:
                 response['fulfillmentText'] = 'Du hast also keine besondere Ernährungsweise'
             else:
-                response['fulfillmentText'] = " ".join(temp) + ' ist also deine besondere Ernährungsweise'
+                response['fulfillmentText'] = " ".join(temp) + ' ist also deine besondere Ernährungsweise?'
         elif action == 'Tags.Tags-yes':
             recom.user.set_tags(json['queryResult']['parameters']['Tags'])
             print(recom.user.prefered_tags)
@@ -86,12 +86,14 @@ class Webhook(Resource):
             recom.user.set_thermo(True)
             recom.create_userprofile(recom.user)
             response[
-                'fulfillmentText'] = ' Ok dein Nutzerprofil wurde erstellt frage mich bitte noch einmal nach einem Rezeptvorschlag'
+                'fulfillmentText'] = ' Ok dein Profil wurde erstellt, frage mich bitte noch einmal nach einem Rezeptvorschlag'
         elif action == 'thermomix-no':
             recom.user.set_thermo(False)
             recom.create_userprofile(recom.user)
             response[
-                'fulfillmentText'] = ' Ok dein Nutzerprofil wurde erstellt frage mich bitte noch einmal nach einem Rezeptvorschlag'
+                'fulfillmentText'] = ' Ok dein Profil wurde erstellt, frage mich bitte noch einmal nach einem Rezeptvorschlag'
+
+
 
         return response
 
