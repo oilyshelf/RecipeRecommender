@@ -13,3 +13,8 @@ if __name__ == '__main__':
     r.user.set_allergies([])
     r.create_userprofile(r.user)
     print(next(r))
+    c = r.contend_recommender(r.user.last[0])
+    cb = next(c)
+    print('org rezept',r.user.last[0],'recommended',cb)
+    print(r.db.recipe_response((cb,100)))
+

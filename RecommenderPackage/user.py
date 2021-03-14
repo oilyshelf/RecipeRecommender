@@ -8,6 +8,7 @@ class User:
     prefered_tags = None
     profile = None
     gen = None
+    last = None
 
     def set_thermo(self, has):
         self.theromix = has

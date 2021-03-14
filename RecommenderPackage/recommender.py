@@ -14,6 +14,7 @@ class Recommender:
         if self.user.gen is None:
             self.user.set_gen(self.know_recommender(self.user))
         res = next(self.user.gen)
+        self.user.last = res
         return self.db.recipe_response(res)
 
     def know_recommender(self, user):
@@ -21,15 +22,16 @@ class Recommender:
         for i in self.db.bool_df.dot(user.profile).nlargest(1808).iteritems():
             yield i
 
-    # TODO change to class solution
-    def contend_recommender(self, recipe_id, cosine_similarity_matrix, df):
+    def contend_recommender(self, recipe_id):
+        df = self.db.feature_set_df
+        cosine_similarity_matrix = self.db.cosine_similarity_matrix_count_based
         index = df[df['recID'] == recipe_id].index.values[0]
-        similarity_scores = list(enumerate(cosine_similarity_matrix[index]))
-        similarity_scores = sorted(similarity_scores, key=lambda x: x[1], reverse=True)
         # delete the first cuz it´s itself lol
-        print(similarity_scores.pop(0))
-        for i in similarity_scores:
-            yield self.index_to_recipeID(i[0], df)
+        for i in sorted(list(enumerate(cosine_similarity_matrix[index])), key=lambda x: x[1], reverse=True)[1:]:
+            yield self.index_to_recipe_id(i[0])
+
+    def hybrid_recommender(self, recipe_id):
+        return
 
     def create_userprofile(self, user):
         # creating empty dataframe
@@ -56,5 +58,5 @@ class Recommender:
                     user_profile[i.Index] = 5.0
         user.set_userprofile(user_profile.iloc[0])
 
-    def index_to_recipeID(self, index, df):
-        return df.loc[index]['recID']
+    def index_to_recipe_id(self, index):
+        return self.db.feature_set_df.loc[index]['recID']
