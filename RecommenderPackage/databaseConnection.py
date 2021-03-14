@@ -163,3 +163,30 @@ class DataBase(object):
         cur.close()
         con.close()
         return res
+
+    def recipe_card(self, rec):
+        con = sqlite3.connect(path + 'RecipeDB.db')
+        cur = con.cursor()
+        # print(rec)
+        card, title = cur.execute('SELECT recLink,recName From Recipe WHERE recID = ? ', (rec[0],)).fetchone()
+        res = {
+            "fulfillmentMessages": [
+                {
+                    "card": {
+                        "title": title,
+                        "imageUri": card
+                    }
+                },
+                {
+                    "text": {
+                        "text": [
+                            ""
+                        ]
+                    }
+                }
+            ]
+        }
+        # close db
+        cur.close()
+        con.close()
+        return res
