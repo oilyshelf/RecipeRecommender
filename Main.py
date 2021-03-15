@@ -93,8 +93,7 @@ class Webhook(Resource):
             response[
                 'fulfillmentText'] = ' Ok dein Profil wurde erstellt, frage mich bitte noch einmal nach einem Rezeptvorschlag'
         elif action == "rezept-yes":
-            # TODO change to a recommender function
-            response = recom.db.recipe_card(recom.user.last)
+            response = recom.recipe_card()
         elif action == "rezept-no":
             response = next(recom)
 

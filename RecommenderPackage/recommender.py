@@ -6,7 +6,6 @@ import RecommenderPackage.user
 
 class Recommender:
     def __init__(self):
-        # TODO init the recommender
         self.db = RecommenderPackage.databaseConnection.DataBase()
         self.user = RecommenderPackage.User()
 
@@ -31,6 +30,8 @@ class Recommender:
             yield self.index_to_recipe_id(i[0])
 
     def hybrid_recommender(self, recipe_id):
+        # todo creating an df with the top picks from the contend_recommender and then filter them with
+        #  a knowledge_based approach to get specific results
         return
 
     def create_userprofile(self, user):
@@ -60,3 +61,6 @@ class Recommender:
 
     def index_to_recipe_id(self, index):
         return self.db.feature_set_df.loc[index]['recID']
+
+    def recipe_card(self):
+        return self.db.recipe_card(self.user.last)
