@@ -1,6 +1,14 @@
-import sqlite3
-import sys, os
+# -*- coding: utf-8 -*-
+"""Unit-testing Module
+
+purely for testing Units
+
+@authors Rostislav Iskandirov(oilyshelf), Ali Gökkaya(ScarxFace06)
+"""
 from RecommenderPackage import Recommender
+from RecommenderPackage import DataBase
+
+
 
 
 
@@ -17,4 +25,6 @@ if __name__ == '__main__':
     cb = next(c)
     print('org rezept',r.user.last[0],'recommended',cb)
     print(r.db.recipe_response((cb,100)))
-
+    db = DataBase()
+    print(db.bool_df.head())
+    print(db == r.db)

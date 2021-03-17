@@ -1,17 +1,25 @@
+# -*- coding: utf-8 -*-
+"""Database Module
+
+holds Database-class which manages all access to Data from the Database and saved CSV-files
+providing additional functions related to get Information from Data-sources
+The Database-class is a singleton so all modules using this module are connected to the same data
+
+
+@authors Rostislav Iskandirov(oilyshelf), Ali Gökkaya(ScarxFace06)
+"""
+
 import sqlite3
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import json
-
-# TODO change so you can use from what ever import
-path = 'Resources/BPA/'
+import os
 
 
 class DataBase(object):
     __instance = None
 
-    # singelton pattern
     def __new__(cls):
         if DataBase.__instance is None:
             cls.__instance = super(DataBase, cls).__new__(cls)
@@ -19,20 +27,27 @@ class DataBase(object):
             cls.__instance._inti()
         return cls.__instance
 
-    # costum __init__ method to asure the singelton pattern
     def _inti(self):
+        """This is a costume __init__ methode used to manage the singleton pattern
+            this function should not be used else where
+
+        :return nothing:
+        """
+        path = os.path.realpath('.\Resources\Data')
+        print(path)
+
         # connection to the sqlite and cursor
 
-        con = sqlite3.connect(path + 'RecipeDB.db')
+        con = sqlite3.connect(path + '/RecipeDB.db')
         cur = con.cursor()
 
         # load Dataframes and create needed Dataframes
-        bool_df = pd.read_csv(path + "recipeBool.csv")
+        bool_df = pd.read_csv(path + "/recipeBool.csv")
         bool_df.index = bool_df["Unnamed: 0"]
         bool_df = bool_df.drop(["Unnamed: 0"], axis=1)
         columns = bool_df.columns
 
-        feature_set_df = pd.read_csv(path + 'recipe_feature_set.csv')
+        feature_set_df = pd.read_csv(path + '/recipe_feature_set.csv')
         feature_set_df.index = feature_set_df['Unnamed: 0']
         feature_set_df = feature_set_df.drop(["Unnamed: 0"], axis=1)
 
@@ -90,14 +105,20 @@ class DataBase(object):
         self.thermo = thermo
         self.cosine_similarity_matrix_count_based = cosine_similarity_matrix_count_based
         self.columns = columns
+        self.path = path
         # close db
         cur.close()
         con.close()
 
-    # function to convert recipies to json
     def recipe_json(self, recipe_id):
+        """Given a valid recipe_id this function creates with the help of the RecipeDB a json-obj containing
+            all needed information
+
+        :param recipe_id:string id of a recipe
+        :return: A json obj containing all necessary Information
+        """
         # create connection
-        con = sqlite3.connect(path + 'RecipeDB.db')
+        con = sqlite3.connect(self.path + '/RecipeDB.db')
         cur = con.cursor()
         res = {'id': recipe_id}
         sql = """ SELECT * FROM Recipe WHERE recID = ? ;"""
@@ -152,7 +173,13 @@ class DataBase(object):
         return json.dumps(res, indent=2, ensure_ascii=False)
 
     def recipe_response(self, rec):
-        con = sqlite3.connect(path + 'RecipeDB.db')
+        """Use to create a json response for googles dialogflow
+            Uses the RecipeDB to get the name and description of an recipe
+
+        :param rec: tuple with (recipe_id:string, score:float)
+        :return: google dialogflow conform json obj representing an recipe
+        """
+        con = sqlite3.connect(self.path + '/RecipeDB.db')
         cur = con.cursor()
         # print(rec)
         title, descr = cur.execute('SELECT recName, recDisc From Recipe WHERE recID = ? ', (rec[0],)).fetchone()
@@ -165,7 +192,13 @@ class DataBase(object):
         return res
 
     def recipe_card(self, rec):
-        con = sqlite3.connect(path + 'RecipeDB.db')
+        """Use to create a json response for googles dialogflow
+            Uses the RecipeDB to get the name and image of an recipe
+
+        :param rec: tuple with (recipe_id:string, score:float)
+        :return: google dialogflow conform json obj representing an recipe including an image
+        """
+        con = sqlite3.connect(self.path + '/RecipeDB.db')
         cur = con.cursor()
         # print(rec)
         card, title = cur.execute('SELECT recLink,recName From Recipe WHERE recID = ? ', (rec[0],)).fetchone()
@@ -190,3 +223,11 @@ class DataBase(object):
         cur.close()
         con.close()
         return res
+
+    def index_to_recipe_id(self, index):
+        """ given an index from the similarity matrix determines the recipe_id
+
+        :param index: int ( from matrix similarity matrix)
+        :return:recipe_id : string
+        """
+        return self.feature_set_df.loc[index]['recID']

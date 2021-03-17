@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+"""Recommender-Module
+
+contains the Recommender class which maneges users and create recommendations
+
+@authors Rostislav Iskandirov(oilyshelf), Ali Gökkaya(ScarxFace06)
+"""
+
 import RecommenderPackage.databaseConnection
 import numpy as np
 import pandas as pd
@@ -10,6 +18,13 @@ class Recommender:
         self.user = RecommenderPackage.User()
 
     def __next__(self):
+        """
+        costume __next__ methode to get an recipe recommendation
+        first checks if user has an recommendation generator and creates on if not
+        generates recommendation and safes it in user.last
+
+        :return: a json response with an recipe recommendation
+        """
         if self.user.gen is None:
             self.user.set_gen(self.know_recommender(self.user))
         res = next(self.user.gen)
@@ -17,17 +32,30 @@ class Recommender:
         return self.db.recipe_response(res)
 
     def know_recommender(self, user):
-        # 1808 is the count of recipies
+        """Generator for Knowledge based recommendations
+            by creating a dot product with the user_profile and the bool_df determines the best scoring recipe to
+            recommend the user
+        :param user: User
+        :return: tuple(recipe_id:string, score:float)
+        """
+        # 1808 is the count of recipes
         for i in self.db.bool_df.dot(user.profile).nlargest(1808).iteritems():
             yield i
 
     def contend_recommender(self, recipe_id):
+        """Generator for contend based recommendations
+        creates a recipe recommendation from a previously calculated similarity_matrix which is similar to
+        given recipe_id
+
+        :param recipe_id: string
+        :return: recipe_id:string
+        """
         df = self.db.feature_set_df
         cosine_similarity_matrix = self.db.cosine_similarity_matrix_count_based
         index = df[df['recID'] == recipe_id].index.values[0]
-        # delete the first cuz it´s itself lol
+        # delete the first cuz it´s itself
         for i in sorted(list(enumerate(cosine_similarity_matrix[index])), key=lambda x: x[1], reverse=True)[1:]:
-            yield self.index_to_recipe_id(i[0])
+            yield self.db.index_to_recipe_id(i[0])
 
     def hybrid_recommender(self, recipe_id):
         # todo creating an df with the top picks from the contend_recommender and then filter them with
@@ -35,6 +63,12 @@ class Recommender:
         return
 
     def create_userprofile(self, user):
+        """creates with in the User class saved preferences a pandas series (to use for the recommenders) and saves
+        it User
+
+        :param user:User
+        :return: None
+        """
         # creating empty dataframe
         data = np.full([1, len(self.db.columns)], 0.25, dtype=np.float64)
         user_profile = pd.DataFrame(data=data, columns=self.db.columns)
@@ -52,15 +86,17 @@ class Recommender:
                     # print('allergie :', a, ' id info', i.Index, ' ', i.info)
                     user_profile[i.Index] = -1.0
 
-        if user.prefered_tags is not None:
-            for tag in user.prefered_tags:
+        if user.preferred_tags is not None:
+            for tag in user.preferred_tags:
                 for i in self.db.tags_df[self.db.tags_df['info'].str.contains(tag.lower())].itertuples():
                     # print('tag :', tag, ' id info', i.Index, ' ', i.info)
                     user_profile[i.Index] = 5.0
         user.set_userprofile(user_profile.iloc[0])
 
-    def index_to_recipe_id(self, index):
-        return self.db.feature_set_df.loc[index]['recID']
-
     def recipe_card(self):
+        """using an Database function return a google dialogflow json response
+            only use to as an interface between the RestApi and the Database
+
+        :return: a Json response with recipe info´s and an image
+        """
         return self.db.recipe_card(self.user.last)
