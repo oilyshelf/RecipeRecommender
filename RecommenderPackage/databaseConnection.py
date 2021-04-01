@@ -189,7 +189,7 @@ class DataBase(object):
         # close db
         cur.close()
         con.close()
-        return res
+        return res['fulfillmentText']
 
     def recipe_card(self, rec):
         """Use to create a json response for googles dialogflow

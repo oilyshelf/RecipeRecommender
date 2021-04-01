@@ -18,6 +18,7 @@ app = Flask(__name__)
 api = Api(app)
 
 recom = Recommender()
+DYNAMIC = False
 
 
 class HelloWorld(Resource):
@@ -48,29 +49,48 @@ class Webhook(Resource):
         :return: a google dialogflow conform json response
         """
         action = json['queryResult']['action']
+        session = json['session']
+
 
         response = {'fulfillmentText': 'This is a response from webhook.'}
         if action == 'rezept.wunsch':
             if recom.user.is_user():
-                response = next(recom)
+                response = {
+                    'fulfillmentMessages': [{'text':
+                                                 {'text': [next(recom)]}
+                                             }],
+                    'outputContexts': [
+                        {'name': session+'/contexts/rezept_wahl', 'lifespanCount': 1}]
+                }
             else:
                 response = {
-                    'fulfillmentText': 'Zur Einrichtung deines Profils, nenne mir bitte ein paar Zutaten, welche du nicht magst',
-                    "followupEvent": {
-                        'name': 'zutaten_wahl'
-                    }}
+                    'fulfillmentMessages': [{'text':
+                                                 {'text': ['Zur Einrichtung deines Profils, beantworte mir bitte ein paar fragen, hast du irgendwelche Allergien und wenn ja welche ?']}
+                                             }],
+                    'outputContexts': [
+                        {'name': session+'/contexts/rezept_wunsch', 'lifespanCount': 1}]
+                }
         elif action == 'Zutaten.Zutaten-no':
-            response = {
-                'fulfillmentText': 'Ok, bitte wiederhole die Zutaten',
-                "followupEvent": 'zutaten_wahl'
-            }
+            if DYNAMIC:
+                pass
+            else:
+                response = {
+                    'fulfillmentMessages': [{'text':
+                                                 {'text': ['Ok, wiederhole bitte die Zutaten nochmal']}
+                                             }],
+                    'outputContexts': [
+                        {'name': session+'/contexts/thermomix_gewaehlt', 'lifespanCount': 1}]
+                }
         elif action == 'Zutaten.Zutaten-yes':
-            recom.user.set_disliked_ing(json['queryResult']['parameters']['ingredients'])
-            print(recom.user.disliked_ing)
-            response = {
-                'fulfillmentText': 'Ok, hast du irgendwelche Allergien und wenn ja welche ?',
-                "followupEvent": 'allergien_wahl'
-            }
+            if DYNAMIC:
+                pass
+            else:
+                recom.user.set_disliked_ing(json['queryResult']['parameters']['ingredients'])
+                # print(recom.user.disliked_ing)
+                recom.create_userprofile(recom.user)
+                response = {
+                    'fulfillmentText': ' Ok dein Profil wurde erstellt, frage mich bitte noch einmal nach einem Rezeptvorschlag'
+                }
         elif action == 'allergien.wahl':
             temp = json['queryResult']['parameters']['Allergies']
             if len(temp) == 0:
@@ -109,21 +129,35 @@ class Webhook(Resource):
                 'followupEvent': 'tags_wahl'
             }
         elif action == 'thermomix-yes':
-            recom.user.set_thermo(True)
-            recom.create_userprofile(recom.user)
-            response[
-                'fulfillmentText'] = ' Ok dein Profil wurde erstellt, frage mich bitte noch einmal nach einem Rezeptvorschlag'
+            #recom.create_userprofile(recom.user)
+            response = self.thermo_intent(True, session)
         elif action == 'thermomix-no':
-            recom.user.set_thermo(False)
-            recom.create_userprofile(recom.user)
-            response[
-                'fulfillmentText'] = ' Ok dein Profil wurde erstellt, frage mich bitte noch einmal nach einem Rezeptvorschlag'
+            response = self.thermo_intent(False, session)
         elif action == "rezept-yes":
             response = recom.recipe_card()
         elif action == "rezept-no":
-            response = next(recom)
+            response = {
+                'fulfillmentMessages': [{'text':
+                                             {'text': [next(recom)]}
+                                         }],
+                'outputContexts': [
+                    {'name': session + '/contexts/rezept_wahl', 'lifespanCount': 1}]
+            }
 
         return response
+
+    def thermo_intent(self, has, session):
+        recom.user.set_thermo(has)
+        if DYNAMIC:
+            pass
+        else:
+            return {
+                    'fulfillmentMessages': [{'text':
+                                                 {'text': ['Ok, Nennen mir bitte ein paar Zutaten die dir nicht gefallen']}
+                                             }],
+                    'outputContexts': [
+                        {'name': session+'/contexts/thermomix_gewaehlt', 'lifespanCount': 1}]
+                }
 
 
 # add classes to the rest api

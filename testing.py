@@ -15,7 +15,7 @@ from RecommenderPackage import DataBase
 
 if __name__ == '__main__':
     r = Recommender()
-    r.user.set_disliked_Ing(['Eier'])
+    r.user.set_disliked_ing(['Eier'])
     r.user.set_thermo(True)
     r.user.set_tags(['laktosefrei'])
     r.user.set_allergies([])
