@@ -51,6 +51,10 @@ class DataBase(object):
         feature_set_df.index = feature_set_df['Unnamed: 0']
         feature_set_df = feature_set_df.drop(["Unnamed: 0"], axis=1)
 
+        dy_df = pd.read_csv(path + '/dynamic.csv')
+        dy_df.index = dy_df['Unnamed: 0']
+        dy_df = dy_df.drop(["Unnamed: 0"], axis=1)
+
         # creating helping df´s for finden id´s
 
         # func to normalize text
@@ -106,6 +110,7 @@ class DataBase(object):
         self.cosine_similarity_matrix_count_based = cosine_similarity_matrix_count_based
         self.columns = columns
         self.path = path
+        self.dy_df = dy_df
         # close db
         cur.close()
         con.close()
@@ -231,3 +236,22 @@ class DataBase(object):
         :return:recipe_id : string
         """
         return self.feature_set_df.loc[index]['recID']
+
+    def id_to_fam_name(self, fam_id):
+        con = sqlite3.connect(self.path + '/RecipeDB.db')
+        cur = con.cursor()
+        res = cur.execute("Select familyName from IngFamily where familyID = ?", (fam_id,)).fetchone()[0]
+        # close db
+        cur.close()
+        con.close()
+        return res
+
+
+    def family_to_ing(self, fam_id):
+        con = sqlite3.connect(self.path + '/RecipeDB.db')
+        cur = con.cursor()
+        res = cur.execute("Select ingName from IngFamily NATURAL JOIN Ingredients where familyID = ?", (fam_id,)).fetchall()
+        # close db
+        cur.close()
+        con.close()
+        return [i[0] for i in res]

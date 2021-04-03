@@ -15,7 +15,7 @@ import RecommenderPackage.user
 class Recommender:
     def __init__(self):
         self.db = RecommenderPackage.databaseConnection.DataBase()
-        self.user = RecommenderPackage.User()
+        self.user = RecommenderPackage.User(self.db.dy_df)
 
     def __next__(self):
         """
@@ -100,3 +100,23 @@ class Recommender:
         :return: a Json response with recipe info´s and an image
         """
         return self.db.recipe_card(self.user.last)
+
+    def dynamic(self, likes= None):
+        if likes is not None:
+            self.user.update_df(likes)
+            if not likes:
+                self.user.extend_disliked(self.db.family_to_ing(self.user.last_ing))
+
+        df = self.user.dataframe
+        size = df.shape[0]
+        percentage_list = [(str(i), df[df[i] == True].shape[0] / size) for i in df.columns]
+        l = np.array([i[1] for i in percentage_list])
+        idx = (np.abs(l - 0.5)).argmin()
+        fam_id = percentage_list[idx]
+        self.user.update_ing(fam_id[0])
+        return self.db.id_to_fam_name(fam_id[0])
+
+
+
+# TODO count the dynamic calls and stop after 5 times , integrate to main.py
+

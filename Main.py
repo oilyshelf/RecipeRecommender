@@ -70,27 +70,7 @@ class Webhook(Resource):
                     'outputContexts': [
                         {'name': session+'/contexts/rezept_wunsch', 'lifespanCount': 1}]
                 }
-        elif action == 'Zutaten.Zutaten-no':
-            if DYNAMIC:
-                pass
-            else:
-                response = {
-                    'fulfillmentMessages': [{'text':
-                                                 {'text': ['Ok, wiederhole bitte die Zutaten nochmal']}
-                                             }],
-                    'outputContexts': [
-                        {'name': session+'/contexts/thermomix_gewaehlt', 'lifespanCount': 1}]
-                }
-        elif action == 'Zutaten.Zutaten-yes':
-            if DYNAMIC:
-                pass
-            else:
-                recom.user.set_disliked_ing(json['queryResult']['parameters']['ingredients'])
-                # print(recom.user.disliked_ing)
-                recom.create_userprofile(recom.user)
-                response = {
-                    'fulfillmentText': ' Ok dein Profil wurde erstellt, frage mich bitte noch einmal nach einem Rezeptvorschlag'
-                }
+
         elif action == 'allergien.wahl':
             temp = json['queryResult']['parameters']['Allergies']
             if len(temp) == 0:
@@ -110,6 +90,7 @@ class Webhook(Resource):
                 'fulfillmentText': 'Ok, bitte wiederhole deine Allergien',
                 'followupEvent': 'allergien_wahl'
             }
+
         elif action == 'tags_wahl':
             temp = json['queryResult']['parameters']['Tags']
             if len(temp) == 0:
@@ -128,6 +109,7 @@ class Webhook(Resource):
                 'fulfillmentText': 'Ok bitte wiederhole deine besondere Ernährungsweise',
                 'followupEvent': 'tags_wahl'
             }
+
         elif action == 'thermomix-yes':
             #recom.create_userprofile(recom.user)
             response = self.thermo_intent(True, session)
@@ -144,20 +126,57 @@ class Webhook(Resource):
                     {'name': session + '/contexts/rezept_wahl', 'lifespanCount': 1}]
             }
 
+        elif action == 'Zutaten.Zutaten-no':
+            response = self.ing_intent(False, session, json)
+
+        elif action == 'Zutaten.Zutaten-yes':
+            response = self.ing_intent(True, session, json)
+
         return response
 
     def thermo_intent(self, has, session):
         recom.user.set_thermo(has)
         if DYNAMIC:
-            pass
+            ingredient = ""
+
+
+
+            return {
+                'fulfillmentMessages': [{'text':
+                                             {'text': ['Ok, möchtest du ein Rezept mit ' + ingredient]}
+                                         }],
+                'outputContexts': [
+                    {'name': session + '/contexts/Zutaten-followup', 'lifespanCount': 1}]
+            }
         else:
             return {
                     'fulfillmentMessages': [{'text':
-                                                 {'text': ['Ok, Nennen mir bitte ein paar Zutaten die dir nicht gefallen']}
+                                                 {'text': ['Ok, nenn mir bitte ein paar Zutaten die dir nicht gefallen']}
                                              }],
                     'outputContexts': [
                         {'name': session+'/contexts/thermomix_gewaehlt', 'lifespanCount': 1}]
                 }
+
+    def ing_intent(self, chosen, session, json):
+        if DYNAMIC:
+            pass
+        else:
+            if not chosen:
+                return {
+                    'fulfillmentMessages': [{'text':
+                                                 {'text': ['Ok, wiederhole bitte die Zutaten nochmal']}
+                                             }],
+                    'outputContexts': [
+                        {'name': session + '/contexts/thermomix_gewaehlt', 'lifespanCount': 1}]
+                }
+            else:
+                recom.user.set_disliked_ing(json['queryResult']['parameters']['ingredients'])
+                recom.create_userprofile(recom.user)
+                return {
+                    'fulfillmentText': ' Ok dein Profil wurde erstellt, frage mich bitte noch einmal nach einem Rezeptvorschlag'
+                }
+
+
 
 
 # add classes to the rest api
