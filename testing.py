@@ -30,9 +30,6 @@ if __name__ == '__main__':
     # print(db == r.db)
 
     print(r.dynamic())
-    print(r.dynamic(likes=False))
-    print(r.user.disliked_ing)
-    print(r.dynamic(likes=True))
-    print(r.user.disliked_ing)
-    print(r.dynamic(likes=False))
-    print(r.user.disliked_ing)
+    if text := r.dynamic(likes=False):
+        print(text)
+    print(r.user.is_user())

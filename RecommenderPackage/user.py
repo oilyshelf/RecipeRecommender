@@ -16,6 +16,7 @@ class User:
     gen = None
     last = None
     last_ing = None
+    counter = 0
 
     def __init__(self, dataframe):
         self.dataframe = dataframe

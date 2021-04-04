@@ -18,7 +18,7 @@ app = Flask(__name__)
 api = Api(app)
 
 recom = Recommender()
-DYNAMIC = False
+DYNAMIC = True
 
 
 class HelloWorld(Resource):
@@ -137,16 +137,16 @@ class Webhook(Resource):
     def thermo_intent(self, has, session):
         recom.user.set_thermo(has)
         if DYNAMIC:
-            ingredient = ""
+            ingredient = recom.dynamic()
 
 
 
             return {
                 'fulfillmentMessages': [{'text':
-                                             {'text': ['Ok, möchtest du ein Rezept mit ' + ingredient]}
+                                             {'text': ['Ok, magst du ' + ingredient+' ?']}
                                          }],
                 'outputContexts': [
-                    {'name': session + '/contexts/Zutaten-followup', 'lifespanCount': 1}]
+                    {'name': session + '/contexts/zutaten-followup', 'lifespanCount': 1}]
             }
         else:
             return {
@@ -159,7 +159,19 @@ class Webhook(Resource):
 
     def ing_intent(self, chosen, session, json):
         if DYNAMIC:
-            pass
+            if ingredient := recom.dynamic(likes=chosen):
+                return {
+                    'fulfillmentMessages': [{'text':
+                                                 {'text': ['Ok, magst du ' + ingredient + ' ?']}
+                                             }],
+                    'outputContexts': [
+                        {'name': session + '/contexts/zutaten-followup', 'lifespanCount': 1}]
+                }
+            else:
+                return {
+                    'fulfillmentText': ' Ok dein Profil wurde erstellt, frage mich bitte noch einmal nach einem Rezeptvorschlag'
+                }
+
         else:
             if not chosen:
                 return {

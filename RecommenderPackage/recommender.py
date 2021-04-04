@@ -101,7 +101,11 @@ class Recommender:
         """
         return self.db.recipe_card(self.user.last)
 
-    def dynamic(self, likes= None):
+    def dynamic(self, likes=None):
+        self.user.counter +=1
+        if self.user.counter == 5:
+            self.create_userprofile(self.user)
+            return False
         if likes is not None:
             self.user.update_df(likes)
             if not likes:
@@ -118,5 +122,4 @@ class Recommender:
 
 
 
-# TODO count the dynamic calls and stop after 5 times , integrate to main.py
 
