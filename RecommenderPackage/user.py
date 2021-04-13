@@ -78,7 +78,3 @@ class User:
             df = df[df[temp[0]] == user] 
 
     """
-
-
-
-

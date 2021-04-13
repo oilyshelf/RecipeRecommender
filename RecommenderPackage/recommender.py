@@ -27,7 +27,15 @@ class Recommender:
         """
         if self.user.gen is None:
             self.user.set_gen(self.know_recommender(self.user))
-        res = next(self.user.gen)
+        
+        res = None
+        try:
+            res = next(self.user.gen)
+        except:
+            print("reseting the generator")
+            self.user.set_gen(self.know_recommender(self.user))
+            res = next(self.user.gen)
+
         self.user.last = res
         return self.db.recipe_response(res)
 
@@ -57,14 +65,22 @@ class Recommender:
         for i in sorted(list(enumerate(cosine_similarity_matrix[index])), key=lambda x: x[1], reverse=True)[1:]:
             yield self.db.index_to_recipe_id(i[0])
 
-    def hybrid_recommender(self, recipe_id):
+    def hybrid_recommender(self, recipe_id, profile, preci):
+        g = self.contend_recommender(recipe_id)
+        ids = [next(g) for i in range(preci)]
+
+        hybrid_df = self.db.bool_df.loc[ids]
+        for i in self.db.bool_df.dot(profile).nlargest(1808).iteritems():
+            yield i
+
+
         # todo creating an df with the top picks from the contend_recommender and then filter them with
         #  a knowledge_based approach to get specific results
         return
 
     def create_userprofile(self, user):
-        """creates with in the User class saved preferences a pandas series (to use for the recommenders) and saves
-        it User
+        """creates with, in the User class saved preferences, a pandas series (to use for the recommenders) and saves
+        it in the user
 
         :param user:User
         :return: None
@@ -78,19 +94,19 @@ class Recommender:
             for x in user.disliked_ing:
                 for i in self.db.ing_df[self.db.ing_df['info'].str.contains(x.lower())].itertuples():
                     # print('ing :', x, ' id info', i.Index, ' ', i.info)
-                    user_profile[i.Index] = 0
+                    user_profile.at[i.Index] = 0
 
         if user.allergies is not None:
             for a in user.allergies:
                 for i in self.db.alg_df[self.db.alg_df['info'].str.contains(a.lower())].itertuples():
                     # print('allergie :', a, ' id info', i.Index, ' ', i.info)
-                    user_profile[i.Index] = -1.0
+                    user_profile.at[i.Index] = -1.0
 
         if user.preferred_tags is not None:
             for tag in user.preferred_tags:
                 for i in self.db.tags_df[self.db.tags_df['info'].str.contains(tag.lower())].itertuples():
                     # print('tag :', tag, ' id info', i.Index, ' ', i.info)
-                    user_profile[i.Index] = 5.0
+                    user_profile.at[i.Index] = 5.0
         user.set_userprofile(user_profile.iloc[0])
 
     def recipe_card(self):
@@ -102,6 +118,12 @@ class Recommender:
         return self.db.recipe_card(self.user.last)
 
     def dynamic(self, likes=None):
+        """
+        TODO write documentation
+        A function, which asks questions dynamically
+        The next question changes according to the previous answer, therefore the dataframe for relevant recipes gets smaller
+        after 5 questions, the most relevant recipe gets presented
+        """
         self.user.counter +=1
         if self.user.counter == 5:
             self.create_userprofile(self.user)
@@ -119,6 +141,22 @@ class Recommender:
         fam_id = percentage_list[idx]
         self.user.update_ing(fam_id[0])
         return self.db.id_to_fam_name(fam_id[0])
+
+    def modify_userprofile(self,extra, ingredient):
+        if ingredient is None:
+            return self.user.profile
+        
+        profile = self.user.profile
+        for x in ingredient:
+            for i in self.db.ing_df[self.db.ing_df['info'].str.contains(x.lower())].itertuples():
+                profile.at[i.Index] = 10.0 if extra else -10.0
+        
+        return profile
+
+    def get_hybrid(self, extra = True, ingredient = None, preci = 20):
+        self.user.gen = self.hybrid_recommender(self.user.last[0], self.modify_userprofile(extra,ingredient), preci)
+
+
 
 
 

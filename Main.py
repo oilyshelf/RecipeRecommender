@@ -110,8 +110,7 @@ class Webhook(Resource):
                 'followupEvent': 'tags_wahl'
             }
 
-        elif action == 'thermomix-yes':
-            #recom.create_userprofile(recom.user)
+        elif action == 'thermomix-yes': 
             response = self.thermo_intent(True, session)
         elif action == 'thermomix-no':
             response = self.thermo_intent(False, session)
@@ -132,9 +131,28 @@ class Webhook(Resource):
         elif action == 'Zutaten.Zutaten-yes':
             response = self.ing_intent(True, session, json)
 
+        elif action == 'rezept.aehnlich':
+            ing = json['queryResult']['parameters']['ingredients']
+            extra = json['queryResult']['parameters']['ohne_mit']
+            recom.get_hybrid(extra=extra, ingredient=ing)
+            response = {
+                'fulfillmentMessages': [{'text':
+                                             {'text': [next(recom)]}
+                                         }],
+                'outputContexts': [
+                    {'name': session + '/contexts/rezept_wahl', 'lifespanCount': 1}]
+            } 
+            
+
         return response
 
     def thermo_intent(self, has, session):
+        """
+        to prevent redundant code the action taken by answering this question only differ by the setting data to either true or false
+
+        :param:  has:bool  , session:string
+        :return: response:jsonstring
+        """
         recom.user.set_thermo(has)
         if DYNAMIC:
             ingredient = recom.dynamic()
@@ -158,6 +176,13 @@ class Webhook(Resource):
                 }
 
     def ing_intent(self, chosen, session, json):
+        """
+        to prevent redundant code the action taken by answering this question only differ by the setting data to either true or false
+
+        :param:  chosen:bool  , session:string, json:jsonstring
+        :return: response:jsonstring
+        """
+
         if DYNAMIC:
             if ingredient := recom.dynamic(likes=chosen):
                 return {
