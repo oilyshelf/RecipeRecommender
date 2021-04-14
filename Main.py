@@ -132,8 +132,9 @@ class Webhook(Resource):
             response = self.ing_intent(True, session, json)
 
         elif action == 'rezept.aehnlich':
-            ing = json['queryResult']['parameters']['ingredients']
+            ing = json['queryResult']['parameters']['Ingredients']
             extra = json['queryResult']['parameters']['ohne_mit']
+            extra = False if extra == "0" else True
             recom.get_hybrid(extra=extra, ingredient=ing)
             response = {
                 'fulfillmentMessages': [{'text':

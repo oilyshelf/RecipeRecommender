@@ -47,7 +47,7 @@ class Recommender:
         :return: tuple(recipe_id:string, score:float)
         """
         # 1808 is the count of recipes
-        for i in self.db.bool_df.dot(user.profile).nlargest(1808).iteritems():
+        for i in self.db.bool_df.dot(self.user.profile).nlargest(1808).iteritems():
             yield i
 
     def contend_recommender(self, recipe_id):
@@ -94,19 +94,20 @@ class Recommender:
             for x in user.disliked_ing:
                 for i in self.db.ing_df[self.db.ing_df['info'].str.contains(x.lower())].itertuples():
                     # print('ing :', x, ' id info', i.Index, ' ', i.info)
-                    user_profile.at[i.Index] = 0
+                    user_profile.at[0,i.Index] = -1
+                    
 
         if user.allergies is not None:
             for a in user.allergies:
                 for i in self.db.alg_df[self.db.alg_df['info'].str.contains(a.lower())].itertuples():
                     # print('allergie :', a, ' id info', i.Index, ' ', i.info)
-                    user_profile.at[i.Index] = -1.0
+                    user_profile.at[0,i.Index] = -1.0
 
         if user.preferred_tags is not None:
             for tag in user.preferred_tags:
                 for i in self.db.tags_df[self.db.tags_df['info'].str.contains(tag.lower())].itertuples():
                     # print('tag :', tag, ' id info', i.Index, ' ', i.info)
-                    user_profile.at[i.Index] = 5.0
+                    user_profile.at[0,i.Index] = 5.0
         user.set_userprofile(user_profile.iloc[0])
 
     def recipe_card(self):
@@ -124,14 +125,15 @@ class Recommender:
         The next question changes according to the previous answer, therefore the dataframe for relevant recipes gets smaller
         after 5 questions, the most relevant recipe gets presented
         """
-        self.user.counter +=1
-        if self.user.counter == 5:
-            self.create_userprofile(self.user)
-            return False
         if likes is not None:
             self.user.update_df(likes)
             if not likes:
                 self.user.extend_disliked(self.db.family_to_ing(self.user.last_ing))
+
+        self.user.counter +=1
+        if self.user.counter == 5:
+            self.create_userprofile(self.user)
+            return False
 
         df = self.user.dataframe
         size = df.shape[0]
@@ -146,11 +148,10 @@ class Recommender:
         if ingredient is None:
             return self.user.profile
         
-        profile = self.user.profile
+        profile = self.user.get_session_p()
         for x in ingredient:
             for i in self.db.ing_df[self.db.ing_df['info'].str.contains(x.lower())].itertuples():
                 profile.at[i.Index] = 10.0 if extra else -10.0
-        
         return profile
 
     def get_hybrid(self, extra = True, ingredient = None, preci = 20):

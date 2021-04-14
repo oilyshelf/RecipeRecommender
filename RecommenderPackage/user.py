@@ -13,6 +13,7 @@ class User:
     allergies = None
     preferred_tags = None
     profile = None
+    session_profile = None
     gen = None
     last = None
     last_ing = None
@@ -44,6 +45,7 @@ class User:
             self.disliked_ing = more
         else:
             self.disliked_ing.extend(more)
+        print(self.disliked_ing)
 
     def update_df(self, in_it):
         self.dataframe = self.dataframe[self.dataframe[self.last_ing] == in_it]
@@ -58,6 +60,10 @@ class User:
         """
         return self.profile is not None
 
+    def get_session_p(self):
+        if self.session_profile is None:
+            self.session_profile = self.profile.copy()
+        return self.session_profile
 
     """def closest(lst, K):
         l = np.array([i[1] for i in lst])
