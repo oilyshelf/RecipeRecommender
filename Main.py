@@ -158,8 +158,6 @@ class Webhook(Resource):
         if DYNAMIC:
             ingredient = recom.dynamic()
 
-
-
             return {
                 'fulfillmentMessages': [{'text':
                                              {'text': ['Ok, magst du ' + ingredient+' ?']}

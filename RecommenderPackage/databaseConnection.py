@@ -218,7 +218,7 @@ class DataBase(object):
                 {
                     "text": {
                         "text": [
-                            ""
+                            "Folge bitte dem Link für die Rezeptzubereitung : '{}'  Guten Appetit mit {}".format(card, title)
                         ]
                     }
                 }
@@ -238,6 +238,10 @@ class DataBase(object):
         return self.feature_set_df.loc[index]['recID']
 
     def id_to_fam_name(self, fam_id):
+        """returns family name of the given id
+        :param: fam_id:string
+        :return: name string
+        """
         con = sqlite3.connect(self.path + '/RecipeDB.db')
         cur = con.cursor()
         res = cur.execute("Select familyName from IngFamily where familyID = ?", (fam_id,)).fetchone()[0]
@@ -248,6 +252,10 @@ class DataBase(object):
 
 
     def family_to_ing(self, fam_id):
+        """ return list of Ingredient names which are in the given family
+        :param fam_id: string
+        :return: List <string> 
+        """
         con = sqlite3.connect(self.path + '/RecipeDB.db')
         cur = con.cursor()
         res = cur.execute("Select ingName from IngFamily NATURAL JOIN Ingredients where familyID = ?", (fam_id,)).fetchall()
