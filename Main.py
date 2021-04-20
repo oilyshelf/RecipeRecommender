@@ -7,7 +7,6 @@
 @authors Rostislav Iskandirov(oilyshelf), Ali Gökkaya(ScarxFace06)
 """
 
-
 from flask import Flask, request
 from flask_restful import Resource, Api
 from RecommenderPackage import Recommender
@@ -17,7 +16,8 @@ from RecommenderPackage import Recommender
 app = Flask(__name__)
 api = Api(app)
 
-recom = Recommender()
+USERPROFILE = 4
+recom = Recommender(USERPROFILE)
 DYNAMIC = True
 
 
@@ -25,6 +25,7 @@ class HelloWorld(Resource):
     """
      A simple testing Rest api call returning a hello world json obj
     """
+
     def get(self):
         return {'Hallo': 'Welt'}
 
@@ -33,6 +34,7 @@ class Webhook(Resource):
     """
     The Webhook class is used to for the google calls
     """
+
     def post(self):
         """post request methode
 
@@ -51,7 +53,6 @@ class Webhook(Resource):
         action = json['queryResult']['action']
         session = json['session']
 
-
         response = {'fulfillmentText': 'This is a response from webhook.'}
         if action == 'rezept.wunsch':
             if recom.user.is_user():
@@ -60,15 +61,16 @@ class Webhook(Resource):
                                                  {'text': [next(recom)]}
                                              }],
                     'outputContexts': [
-                        {'name': session+'/contexts/rezept_wahl', 'lifespanCount': 1}]
+                        {'name': session + '/contexts/rezept_wahl', 'lifespanCount': 1}]
                 }
             else:
                 response = {
                     'fulfillmentMessages': [{'text':
-                                                 {'text': ['Zur Einrichtung deines Profils, beantworte mir bitte ein paar fragen, hast du irgendwelche Allergien und wenn ja welche ?']}
+                                                 {'text': [
+                                                     'Zur Einrichtung deines Profils, beantworte mir bitte ein paar fragen, hast du irgendwelche Allergien und wenn ja welche ?']}
                                              }],
                     'outputContexts': [
-                        {'name': session+'/contexts/rezept_wunsch', 'lifespanCount': 1}]
+                        {'name': session + '/contexts/rezept_wunsch', 'lifespanCount': 1}]
                 }
 
         elif action == 'allergien.wahl':
@@ -110,7 +112,7 @@ class Webhook(Resource):
                 'followupEvent': 'tags_wahl'
             }
 
-        elif action == 'thermomix-yes': 
+        elif action == 'thermomix-yes':
             response = self.thermo_intent(True, session)
         elif action == 'thermomix-no':
             response = self.thermo_intent(False, session)
@@ -142,8 +144,7 @@ class Webhook(Resource):
                                          }],
                 'outputContexts': [
                     {'name': session + '/contexts/rezept_wahl', 'lifespanCount': 1}]
-            } 
-            
+            }
 
         return response
 
@@ -160,19 +161,19 @@ class Webhook(Resource):
 
             return {
                 'fulfillmentMessages': [{'text':
-                                             {'text': ['Ok, magst du ' + ingredient+' ?']}
+                                             {'text': ['Ok, magst du ' + ingredient + ' ?']}
                                          }],
                 'outputContexts': [
                     {'name': session + '/contexts/zutaten-followup', 'lifespanCount': 1}]
             }
         else:
             return {
-                    'fulfillmentMessages': [{'text':
-                                                 {'text': ['Ok, nenn mir bitte ein paar Zutaten die dir nicht gefallen']}
-                                             }],
-                    'outputContexts': [
-                        {'name': session+'/contexts/thermomix_gewaehlt', 'lifespanCount': 1}]
-                }
+                'fulfillmentMessages': [{'text':
+                                             {'text': ['Ok, nenn mir bitte ein paar Zutaten die dir nicht gefallen']}
+                                         }],
+                'outputContexts': [
+                    {'name': session + '/contexts/thermomix_gewaehlt', 'lifespanCount': 1}]
+            }
 
     def ing_intent(self, chosen, session, json):
         """
@@ -213,9 +214,8 @@ class Webhook(Resource):
                 }
 
 
-
-
 # add classes to the rest api
+
 api.add_resource(HelloWorld, '/')
 api.add_resource(Webhook, '/webhook')
 

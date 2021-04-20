@@ -13,9 +13,10 @@ import RecommenderPackage.user
 
 
 class Recommender:
-    def __init__(self):
+    def __init__(self, creation_id):
         self.db = RecommenderPackage.databaseConnection.DataBase()
-        self.user = RecommenderPackage.User(self.db.dy_df)
+        self.user = self.user_creator(creation_id)
+
 
     def __next__(self):
         """
@@ -38,6 +39,60 @@ class Recommender:
 
         self.user.last = res
         return self.db.recipe_response(res)
+
+    def user_creator(self, creation_id):
+        """
+        purely for testing creates a user specified by an given creation id and prints which type it created
+        :return: user:User
+        """
+        user = RecommenderPackage.User(self.db.dy_df)
+
+        def describe_user_profile():
+            print("User Profile", str(creation_id), "has",
+                  ", ".join(user.allergies) if len(user.allergies) != 0 else "no", "allergies, prefers",
+                  ", ".join(user.preferred_tags) if len(user.preferred_tags) != 0 else "no", "tags, dislikes",
+                  ", ".join(user.disliked_ing) if len(user.disliked_ing) != 0 else "no", "ingredients and has",
+                  "a" if user.theromix else "no", "thermomixer"
+                  )
+
+        if creation_id == 0:
+            print("UserProfile", str(creation_id), "Created Empty User")
+            return user
+        elif creation_id == 1:
+            user.allergies = []
+            user.preferred_tags = []
+            user.disliked_ing = ["Tomate", "Blattsalat"]
+            user.theromix = True
+            self.create_userprofile(user)
+            describe_user_profile()
+            return user
+        elif creation_id == 2:
+            user.allergies = ["Milch"]
+            user.preferred_tags = ["laktosefrei"]
+            user.disliked_ing = ["Käse", "Milch", "Joghurt"]
+            user.theromix = False
+            self.create_userprofile(user)
+            describe_user_profile()
+            return user
+        elif creation_id == 3:
+            user.allergies = ["Schalenfrüchte", "Erdnüsse"]
+            user.preferred_tags = ["Nussfrei", "Zeit sparen", "Quick"]
+            user.disliked_ing = ["Walnüsse", "Haselnüsse", "Erdnüsse", "geröstete Erdnüsse", "Wasabi-Erdnüsse"]
+            user.theromix = True
+            self.create_userprofile(user)
+            describe_user_profile()
+            return user
+        elif creation_id == 4:
+            user.allergies = []
+            user.preferred_tags = ["scharf", "healthy", "proteinreich"]
+            user.disliked_ing = ["Schwein"]
+            user.theromix = False
+            self.create_userprofile(user)
+            describe_user_profile()
+            return user
+        else:
+            print("UserProfile", str(creation_id), " not found created Empty User instead")
+            return user
 
     def know_recommender(self, user):
         """Generator for Knowledge based recommendations
@@ -70,7 +125,7 @@ class Recommender:
         ids = [next(g) for i in range(preci)]
 
         hybrid_df = self.db.bool_df.loc[ids]
-        for i in self.db.bool_df.dot(profile).nlargest(1808).iteritems():
+        for i in hybrid_df.dot(profile).nlargest(1808).iteritems():
             yield i
 
 
@@ -154,7 +209,7 @@ class Recommender:
                 profile.at[i.Index] = 10.0 if extra else -10.0
         return profile
 
-    def get_hybrid(self, extra = True, ingredient = None, preci = 20):
+    def get_hybrid(self, extra = True, ingredient = None, preci = 50):
         self.user.gen = self.hybrid_recommender(self.user.last[0], self.modify_userprofile(extra,ingredient), preci)
 
 
