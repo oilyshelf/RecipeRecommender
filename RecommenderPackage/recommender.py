@@ -101,8 +101,9 @@ class Recommender:
         :param user: User
         :return: tuple(recipe_id:string, score:float)
         """
-        # 1808 is the count of recipes
-        for i in self.db.bool_df.dot(self.user.profile).nlargest(1808).iteritems():
+        # get recipe count
+        recipe_count = self.db.bool_df.shape[0]
+        for i in self.db.bool_df.dot(self.user.profile).nlargest(recipe_count).iteritems():
             yield i
 
     def contend_recommender(self, recipe_id):

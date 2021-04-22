@@ -48,5 +48,6 @@ if __name__ == '__main__':
     #     print(text)
     # print(r.user.is_user())
 
-    for i in range(6):
-        r = Recommender(i)
+    r = Recommender(2);
+    for i in range(1809):
+        next(r)
