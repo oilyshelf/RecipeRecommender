@@ -213,6 +213,9 @@ class Recommender:
     def get_hybrid(self, extra = True, ingredient = None, preci = 50):
         self.user.gen = self.hybrid_recommender(self.user.last[0], self.modify_userprofile(extra,ingredient), preci)
 
+    def end_session(self):
+        self.user.reset_session()
+
 
 
 

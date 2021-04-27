@@ -117,6 +117,7 @@ class Webhook(Resource):
         elif action == 'thermomix-no':
             response = self.thermo_intent(False, session)
         elif action == "rezept-yes":
+            recom.end_session()
             response = recom.recipe_card()
         elif action == "rezept-no":
             response = {

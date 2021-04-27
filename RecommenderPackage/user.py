@@ -71,5 +71,8 @@ class User:
         if self.session_profile is None:
             self.session_profile = self.profile.copy()
         return self.session_profile
+        
+    def reset_session(self):
+        self.session_profile = None
 
    
