@@ -134,13 +134,14 @@ class Recommender:
         #  a knowledge_based approach to get specific results
         return
 
-    def create_userprofile(self, user):
+    def create_userprofile(self, user = None):
         """creates with, in the User class saved preferences, a pandas series (to use for the recommenders) and saves
         it in the user
-
-        :param user:User
+        :param: User user
         :return: None
         """
+        if user is None:
+            user = self.user
         # creating empty dataframe
         data = np.full([1, len(self.db.columns)], 0.25, dtype=np.float64)
         user_profile = pd.DataFrame(data=data, columns=self.db.columns)
@@ -201,10 +202,10 @@ class Recommender:
         return self.db.id_to_fam_name(fam_id[0])
 
     def modify_userprofile(self,extra, ingredient):
-        if ingredient is None:
-            return self.user.profile
-        
         profile = self.user.get_session_p()
+        if ingredient is None:
+            return profile
+        
         for x in ingredient:
             for i in self.db.ing_df[self.db.ing_df['info'].str.contains(x.lower())].itertuples():
                 profile.at[i.Index] = 10.0 if extra else -10.0
@@ -216,6 +217,30 @@ class Recommender:
     def end_session(self):
         self.user.reset_session()
 
+    def set_user_info(self, which, values):
+        """
+        set information in the user object
+        which:int, values: either list<string>/bool
+        0 = disliked ingredients: list<String>
+        1 = allergies:list<String>
+        2 = prefered_tags:list<String>
+        3= thermomix:bool
+        :return: void
+        """
+        if which == 0:
+            self.user.extend_disliked(values)
+        elif which ==1:
+            self.user.set_allergies(values)
+        elif which ==2:
+            self.user.set_tags(values)
+        elif which == 3:
+            self.user.set_thermo(values)
+        else:
+            print("No such user information")
+
+    def check_user(self):
+        """ A bit to much but main.py should not interact with the user object itself"""
+        return self.user.is_user()
 
 
 

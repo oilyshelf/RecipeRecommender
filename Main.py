@@ -55,7 +55,7 @@ class Webhook(Resource):
 
         response = {'fulfillmentText': 'This is a response from webhook.'}
         if action == 'rezept.wunsch':
-            if recom.user.is_user():
+            if recom.check_user():
                 response = {
                     'fulfillmentMessages': [{'text':
                                                  {'text': [next(recom)]}
@@ -81,8 +81,8 @@ class Webhook(Resource):
                 response['fulfillmentText'] = " ".join(temp) + (
                     ' sind also deine Allergien?' if len(temp) > 1 else ' ist also deine Allergie?')
         elif action == 'Allergien.Allergien-yes':
-            recom.user.set_allergies(json['queryResult']['parameters']['Allergies'])
-            print(recom.user.allergies)
+            recom.set_user_info(1, json['queryResult']['parameters']['Allergies'])
+            # print(recom.user.allergies)
             response = {
                 'fulfillmentText': 'Ok hast du irgendeine besondere Ernährungsweise ?',
                 'followupEvent': 'tags_wahl'
@@ -100,8 +100,8 @@ class Webhook(Resource):
             else:
                 response['fulfillmentText'] = " ".join(temp) + ' ist also deine besondere Ernährungsweise?'
         elif action == 'Tags.Tags-yes':
-            recom.user.set_tags(json['queryResult']['parameters']['Tags'])
-            print(recom.user.preferred_tags)
+            recom.set_user_info(2, json['queryResult']['parameters']['Tags'])
+            # print(recom.user.preferred_tags)
             response = {
                 'fulfillmentText': 'Ok hast du einen Thermomixer ?'
 
@@ -156,7 +156,7 @@ class Webhook(Resource):
         :param:  has:bool  , session:string
         :return: response:jsonstring
         """
-        recom.user.set_thermo(has)
+        recom.set_user_info(3, has)
         if DYNAMIC:
             ingredient = recom.dynamic()
 
@@ -208,8 +208,8 @@ class Webhook(Resource):
                         {'name': session + '/contexts/thermomix_gewaehlt', 'lifespanCount': 1}]
                 }
             else:
-                recom.user.set_disliked_ing(json['queryResult']['parameters']['ingredients'])
-                recom.create_userprofile(recom.user)
+                recom.set_user_info(0, json['queryResult']['parameters']['ingredients'])
+                recom.create_userprofile()
                 return {
                     'fulfillmentText': ' Ok dein Profil wurde erstellt, frage mich bitte noch einmal nach einem Rezeptvorschlag'
                 }

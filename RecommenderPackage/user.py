@@ -75,4 +75,12 @@ class User:
     def reset_session(self):
         self.session_profile = None
 
+    def __repr__(self):
+       rep = ("User has "
+       +(", ".join(self.allergies) if len(self.allergies) != 0 else "no")+ " allergies, prefers"
+       +(", ".join(self.preferred_tags) if len(self.preferred_tags) != 0 else "no")+ " tags, dislikes"
+       +(", ".join(self.disliked_ing) if len(self.disliked_ing) != 0 else "no")+ " ingredients and has "
+       +("a" if self.theromix else "no")+ " thermomixer")
+       return rep
+
    
