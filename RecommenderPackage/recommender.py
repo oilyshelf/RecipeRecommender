@@ -103,7 +103,7 @@ class Recommender:
         """
         # get recipe count
         recipe_count = self.db.bool_df.shape[0]
-        for i in self.db.bool_df.dot(self.user.profile).nlargest(recipe_count).iteritems():
+        for i in self.db.bool_df.dot(self.user.get_session_p()).nlargest(recipe_count).iteritems():
             yield i
 
     def contend_recommender(self, recipe_id):
